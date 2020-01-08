@@ -25,7 +25,7 @@ class Scrapper():
         if self.params is None:
             self.params = OrderedDict({'from_date' : '01/04/2020', 
                                        'to_date' : '01/07/2020',
-                                       'research':'Pioneer'})
+                                       'research': 'Pioneer'})
         
     def connectBrowser(self):
         self.driver = webdriver.Firefox(executable_path = self.__geckodriver)
@@ -33,41 +33,47 @@ class Scrapper():
     def connectURL(self, url):
         self.driver.get(url)
         try:
-            driver.find_element_by_class_name('button.agree').click()
+            sleep(2)
+            class_button_agree = self.driver.find_element_by_class_name('button.agree')
+            class_button_agree.click()
+            sleep(2)
         except:
             pass
         
     def filterLinks(self):
-        driver.find_element_by_id('datepickerFrom').send_keys(self.params['from_date'])
-        driver.find_element_by_id('datepickerTo').send_keys(self.params['to_date'])
-        driver.find_element_by_class_name('form-text').send_keys(self.params['research'])
-        class_custom_search_submit = driver.find_element_by_class_name('item-wrap.search-btn.see-more-article-listing-section-search')
+        id_datepickerFrom = self.driver.find_element_by_id('datepickerFrom')
+        id_datepickerFrom.send_keys(self.params['from_date'])
+        id_datepickerTo = self.driver.find_element_by_id('datepickerTo')
+        id_datepickerTo.send_keys(self.params['to_date'])
+        class_form_text = self.driver.find_element_by_class_name('form-text')
+        class_form_text.send_keys(self.params['research'])
+        class_custom_search_submit = self.driver.find_element_by_class_name('item-wrap.search-btn.see-more-article-listing-section-search')
         class_custom_search_submit = class_custom_search_submit.find_element_by_id('custom-search-submit')
-        driver.execute_script("arguments[0].click();", class_custom_search_submit)
-        sleep(3)
+        self.driver.execute_script("arguments[0].click();", class_custom_search_submit)
+        sleep(2)
         
     def scrollerLinks(self):
-        class_see_more_archives = driver.find_element_by_class_name('see-more.see-more-article-listing-section')
+        class_see_more_archives = self.driver.find_element_by_class_name('see-more.see-more-article-listing-section')
         __next = True
         while __next:
             try:
                 class_see_more_archives.click()
-                class_see_more_archives = driver.find_element_by_class_name('see-more.see-more-article-listing-section')
-                sleep(1)
+                class_see_more_archives = self.driver.find_element_by_class_name('see-more.see-more-article-listing-section')
+                sleep(2)
             except:
                 __next = False
         
     def gatherLinks(self):
-        self.__titles = [ element.text for element in driver.find_elements_by_class_name('title') ]
-        self.__dates = [ element.text for element in driver.find_elements_by_class_name('date') ]
-        elems = driver.find_elements_by_css_selector('div.article-item-extended >a')
-        self.__tournament_link = [ element.get_attribute("href") for element in elems ]
+        self.__titles = [ element.text for element in self.driver.find_elements_by_class_name('title') ]
+        self.__dates = [ element.text for element in self.driver.find_elements_by_class_name('date') ]
+        elems = self.driver.find_elements_by_css_selector('div.article-item-extended >a')
+        self.__tournament_links = [ element.get_attribute("href") for element in elems ]
     
     def gatherDeckLists(self):
         class_deck_meta = [ element.text.split('\n')[0] for element in self.driver.find_elements_by_class_name('deck-meta') ]
         self.__names = [ ' '.join(element_text.split(' ')[:-1]) for element_text in class_deck_meta ]
         self.__scores = [ ( element_text.split(' ')[-1] if len(element_text.split(' '))>1 else None ) for element_text in class_deck_meta]
-        self.__raw_decklists = [ element.text for element in driver.find_elements_by_class_name('deck-list-text') ]
+        self.__raw_decklists = [ element.text for element in self.driver.find_elements_by_class_name('deck-list-text') ]
         
     def readDeckList(self, __raw_decklists):
         return [ self.textDeckList(decklist) for decklist in __raw_decklists ]
@@ -86,28 +92,32 @@ class Scrapper():
         dict_decklist['SB']['Count'] = str_sb[0].split('(')[-1].split(')')[0]
         try:
             dict_decklist['SB']['Count'] = int(dict_decklist['SB']['Count'])
+            dict_decklist['SB']['SB'] = str_sb[1]
         except:
             dict_decklist['SB']['Count'] = None
-            
+        
+        __next = True
         for row in str_md:
-            if any([card_type in row for card_type in self.card_types]):
-                row_split = row.split(' ')
-                try:
-                    dict_decklist['Types'][row_split[0]] = int(row_split.split('(')[-1].split(')')[0])
-                except:
-                    dict_decklist['Types'][row_split[0]] = None
-            elif 'Cards' not in row:
-                row_split = row.split(' ')
-                try:
-                    dict_decklist['MD'][row_split[1]] = int(row_split[0])
-                except:
-                    dict_decklist['MD'][row_split[1]] = None
+            if __next:
+                row_split = (' '.join(row.split(' ')[1:]), row.split(' ')[0])
+                if any([card_type in row for card_type in self.__card_types]):
+                    try:
+                        dict_decklist['Types'][row_split[1]] = row_split[0].split('(')[-1].split(')')[0]
+                    except:
+                        dict_decklist['Types'][row_split[1]] = None
+                elif 'Cards' not in row:
+                    try:
+                        dict_decklist['MD'][row_split[0]] = int(row_split[1])
+                    except:
+                        dict_decklist['MD'][row_split[1]] = None
+                else:
+                    __next = False
             else:
                 pass        
         
         return dict_decklist
     
-    def textDecklist(self, str_decklist):
+    def textDeckList(self, str_decklist):
         return str_decklist.split('\n')
         
     def writeFileText(self, decklists):
@@ -127,8 +137,8 @@ class Scrapper():
             self.connectURL(tournament_link)
             self.gatherDeckLists()
             self.decklists = self.readDeckList(self.__raw_decklists)
-            
-        sleep(2)
+            print(self.decklists[:2])
+            sleep(2)
         self.stop()
     
     def stop(self):
@@ -190,7 +200,45 @@ if False:
         
     driver.quit()
     
-    
+    __card_types = ['Creature', 'Sorcery', 'Instant', 'Artifact', 'Enchantement',
+                             'Planeswalker', 'Tribal', 'Land']
+    def parserDeckList(str_decklist):
+        dict_decklist = OrderedDict()
+        dict_decklist['Types'] = OrderedDict(dict([(card_type, 0) for card_type in __card_types]))
+        dict_decklist['MD'] = OrderedDict()
+        dict_decklist['SB'] = OrderedDict()
+        
+        str_decklist = str_decklist.split('Sideboard')
+        str_md = str_decklist[0].split('\n')
+        str_sb = str_decklist[1].split('\n')
+        
+        dict_decklist['SB']['Count'] = str_sb[0].split('(')[-1].split(')')[0]
+        try:
+            dict_decklist['SB']['Count'] = int(dict_decklist['SB']['Count'])
+            dict_decklist['SB']['SB'] = str_sb[1]
+        except:
+            dict_decklist['SB']['Count'] = None
+        
+        __next = True
+        for row in str_md:
+            if __next:
+                row_split = (' '.join(row.split(' ')[1:]), row.split(' ')[0])
+                if any([card_type in row for card_type in __card_types]):
+                    try:
+                        dict_decklist['Types'][row_split[1]] = row_split[0].split('(')[-1].split(')')[0]
+                    except:
+                        dict_decklist['Types'][row_split[1]] = None
+                elif 'Cards' not in row:
+                    try:
+                        dict_decklist['MD'][row_split[0]] = int(row_split[1])
+                    except:
+                        dict_decklist['MD'][row_split[1]] = None
+                else:
+                    __next = False
+            else:
+                pass        
+        
+        return dict_decklist
     
     
     
