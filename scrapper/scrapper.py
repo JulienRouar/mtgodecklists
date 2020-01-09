@@ -123,7 +123,20 @@ class Scrapper():
         return dict_decklist
     
     def textDeckList(self, str_decklist):
-        return str_decklist.split('\n')
+        split_decklist = str_decklist.split('\n')
+        try:
+            index_sideboard = ['Sideboard' in row for row in split_decklist].index(True)+1
+            sideboard_row = split_decklist[index_sideboard].split(' ')
+            i = 0
+            while i < (len(sideboard_row)-1):
+                if any([str(num_card) in sideboard_row[i] for num_card in range(1, 16)]) and not any([str(num_card) in sideboard_row[i+1] for num_card in range(1, 16)]):
+                    sideboard_row[i] = sideboard_row[i] + ' ' + sideboard_row[i+1]
+                    del sideboard_row[i+1]
+                else:
+                    i += 1
+        except:
+            sideboard_row = [None]
+        return split_decklist[:index_sideboard] + sideboard_row
         
     def writeFileText(self, decklists, meta, filename = None):
         if '/' in self.params['from_date']:
@@ -141,12 +154,12 @@ class Scrapper():
             for i in range(5):
                 open_file.write('\n')
             for i, title in enumerate(self.__titles):
-                open_file.write('CATEGORY')
+                open_file.write('CATEGORY :\n')
                 open_file.write(title + '\n')
                 open_file.write(self.__dates[i] + '\n')
                 open_file.write('\n')
                 for j, decklist in enumerate(decklists[i]):
-                    open_file.write('DECKLIST')
+                    open_file.write('DECKLIST :\n')
                     open_file.write(meta[i][j][0] + ' ')
                     open_file.write(meta[i][j][1] + '\n')
                     for row in decklist:
