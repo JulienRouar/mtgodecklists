@@ -122,6 +122,9 @@ class Scrapper():
         
         return dict_decklist
     
+    def saveParserDeckList(self, dict_decklist):
+        import pickle
+    
     def textDeckList(self, str_decklist):
         split_decklist = str_decklist.split('\n')
         try:
@@ -168,7 +171,7 @@ class Scrapper():
                 for k in range(3):
                     open_file.write('\n')
     
-    def writeFileCsv(self, decklists):
+    def writeFileCsv(self, decklists, meta, filename = None):
         pass
     
     def run(self):

@@ -8,9 +8,11 @@ Automaticaly search, gather and classify decklists from any kind of online tourn
 
 https://magic.wizards.com/en/content/deck-lists-magic-online-products-game-info
 
-## Classify
+## Classifying by Expert Rules
 
-Expert rules.
+### Building of Expert Rules
+
+
 
 ## Classify by Machine Learning
 

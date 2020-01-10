@@ -1,0 +1,20 @@
+DECK Mono Black Aggro
+RULES :
+MD :
+Bloodsoaked Champion in
+Knight of Ebon Legion in
+Murderous Rider in
+Locthwain Castle in
+Thoughtseize in
+10 swamp <
+SB :
+None
+
+DECK BANT SPIRITS :
+RULES :
+MD :
+Collected Company in
+4 Supreme Phantom =
+4 Empyrean Eagle =
+SB :
+None
