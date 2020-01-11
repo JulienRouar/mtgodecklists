@@ -159,11 +159,11 @@ class Scrapper():
             for i, title in enumerate(self.__titles):
                 open_file.write('CATEGORY :\n')
                 open_file.write(title + '\n')
-                open_file.write(self.__dates[i] + '\n')
+                #open_file.write(self.__dates[i] + '\n')
                 open_file.write('\n')
                 for j, decklist in enumerate(decklists[i]):
                     open_file.write('DECKLIST :\n')
-                    open_file.write(meta[i][j][0] + ' ')
+                    open_file.write(meta[i][j][0] + '\n')
                     open_file.write(meta[i][j][1] + '\n')
                     for row in decklist:
                         open_file.write(row+'\n')
