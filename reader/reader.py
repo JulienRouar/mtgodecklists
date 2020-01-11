@@ -22,8 +22,6 @@ class Reader():
 
     def readTxtTournamentsFilename(self, filename_tournaments_txt):
         __tournaments = []
-        __tournament = OrderedDict({'format':None, 'type':None, 'date':None,
-                                    'metas':[], 'decklists':[], 'archetypes':[]})
         
         with open(self.__personal_path+'data/'+filename_tournaments_txt+'.txt', 'r') as open_file:
             lines = open_file.readlines()
@@ -32,6 +30,8 @@ class Reader():
         del lines[0]
         
         while len(lines) > 0:
+            __tournament = OrderedDict({'format':None, 'type':None, 'date':None,
+                                    'metas':[], 'MDs':[], 'SBs':[], 'archetypes':[]})
             lines_tournament = lines[0]
             lines_tournament = lines_tournament.split('DECKLIST')
             
@@ -44,7 +44,10 @@ class Reader():
             while len(lines_tournament) > 0:
                 tmp = lines_tournament[0].split('\n')
                 __tournament['metas'] += [(' '.join(tmp[0].split(' ')[:-1]), tmp[0].split(' ')[-1])]
-                __tournament['decklists'] += [tmp[1:-1]]
+                tmp = tmp[1:-1]
+                lim_sb = ['Sideboard' in _ for _ in tmp].index(True)
+                __tournament['MDs'] += [tmp[:lim_sb]]
+                __tournaments['SBs'] += [tmp[lim_sb:]]
                 del lines_tournament[0]
             
             __tournaments += __tournament
