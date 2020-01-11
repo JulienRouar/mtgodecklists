@@ -12,7 +12,22 @@ https://magic.wizards.com/en/content/deck-lists-magic-online-products-game-info
 
 ### Building of Expert Rules
 
-
+Expert rules are fixed rules to make classification, within the Magic : The Gathering context, following process will be built :
+- structure :
+DECK <deck_name>
+RULES :
+MD :
+<rules>
+SB :
+<rules>
+- search a card in the MD : <card_name> in
+- search n exemplars card in the MD : <n> <card_name> =
+- search at least n exemplars cards in the MD : <n> <card_name> <
+- search at maximum n exemplars cards in the MD : <n> <card_name> >
+Number of expert rules matched is counted then :
+-
+-
+-
 
 ## Classify by Machine Learning
 

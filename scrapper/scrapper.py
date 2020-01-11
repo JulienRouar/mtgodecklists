@@ -198,7 +198,25 @@ class Scrapper():
     
 if __name__ == '__main__':
     scrapper = Scrapper('C:/Users/julie/mtgodecklists/',
-            {'from_date' : '01/05/2020', 'to_date' : '01/06/2020', 'research': 'Pioneer'})
+            {'from_date' : '01/01/2020', 'to_date' : '01/05/2020', 'research': 'Modern'})
+    scrapper.run()
+    scrapper.stop()
+    scrapper.writeFileText(scrapper.decklists, scrapper.metas)
+    
+    scrapper = Scrapper('C:/Users/julie/mtgodecklists/',
+            {'from_date' : '01/01/2020', 'to_date' : '01/05/2020', 'research': 'Pioneer'})
+    scrapper.run()
+    scrapper.stop()
+    scrapper.writeFileText(scrapper.decklists, scrapper.metas)
+    
+    scrapper = Scrapper('C:/Users/julie/mtgodecklists/',
+            {'from_date' : '01/06/2020', 'to_date' : '01/11/2020', 'research': 'Modern'})
+    scrapper.run()
+    scrapper.stop()
+    scrapper.writeFileText(scrapper.decklists, scrapper.metas)
+    
+    scrapper = Scrapper('C:/Users/julie/mtgodecklists/',
+            {'from_date' : '01/06/2020', 'to_date' : '01/11/2020', 'research': 'Pioneer'})
     scrapper.run()
     scrapper.stop()
     scrapper.writeFileText(scrapper.decklists, scrapper.metas)
