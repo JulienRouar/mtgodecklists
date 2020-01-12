@@ -24,8 +24,8 @@ class Reader():
         __tournaments = []
         
         with open(self.__personal_path+'data/'+filename_tournaments_txt+'.txt', 'r') as open_file:
-            lines = open_file.readlines()
-            
+            lines = ''.join(open_file.readlines())
+        
         lines = lines.split('CATEGORY')
         del lines[0]
         
@@ -36,30 +36,33 @@ class Reader():
             lines_tournament = lines_tournament.split('DECKLIST')
             
             tmp = lines_tournament[0].split('\n')
-            __tournament['format'] = tmp[0].split(' ')[0]
-            __tournament['type'] = tmp[0].split(' ')[1]
-            __tournament['date'] = ' '.join(tmp[1:])
+            __tournament['format'] = tmp[1].split(' ')[0]
+            __tournament['type'] = tmp[1].split(' ')[1]
+            __tournament['date'] = ' '.join(tmp[2:])
             del lines_tournament[0]
             
             while len(lines_tournament) > 0:
                 tmp = lines_tournament[0].split('\n')
-                __tournament['metas'] += [(' '.join(tmp[0].split(' ')[:-1]), tmp[0].split(' ')[-1])]
+                __tournament['metas'] += [tmp[1] + ';' + tmp[2]]
                 tmp = tmp[1:-1]
                 lim_sb = ['Sideboard' in _ for _ in tmp].index(True)
-                __tournament['MDs'] += [tmp[:lim_sb]]
-                __tournaments['SBs'] += [tmp[lim_sb:]]
+                __tournament['MDs'] += [tmp[2:lim_sb]]
+                __tournament['SBs'] += [tmp[(lim_sb+1):]]
+                for ind_sb in range(len(__tournament['SBs'])):
+                    while '' in __tournament['SBs'][ind_sb]:
+                        del __tournament['SBs'][ind_sb][__tournament['SBs'][ind_sb].index('')]
                 del lines_tournament[0]
             
-            __tournaments += __tournament
+            __tournaments += [__tournament]
             del lines[0]
             
-            return __tournaments
+        return __tournaments
                         
-        def readTxtTournamentsFilenames(self, filenames_tournaments_txt):
-            __tournaments = []
-            for filename_decklists_txt in filenames_tournaments_txt:
-                __tournaments += self.readTxtTournamentsFilename(filename_tournaments_txt)
-            return __tournaments
+    def readTxtTournamentsFilenames(self, filenames_tournaments_txt):
+        __tournaments = []
+        for filename_tournaments_txt in filenames_tournaments_txt:
+            __tournaments += [self.readTxtTournamentsFilename(filename_tournaments_txt)]
+        return __tournaments
         
 if __name__ == '__main__':
     filenames_decklists_txt = ['decklists_Modern_01_01_2020_01_05_2020',

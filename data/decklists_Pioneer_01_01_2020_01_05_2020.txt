@@ -8,10 +8,10 @@ Pioneer Preliminary
 JANUARY
 5
 2020
-FROM
 
 DECKLIST :
-DAZAI (5-0)
+DAZAI
+(5-0)
 Planeswalker (9)
 2 Elspeth, Sun's Champion
 2 Gideon, Ally of Zendikar
@@ -48,7 +48,8 @@ Sideboard (15)
 2 Summary Dismissal
 
 DECKLIST :
-STRACA3 (5-0)
+STRACA3
+(5-0)
 Creature (23)
 4 Bomat Courier
 3 Emry, Lurker of the Loch
@@ -85,7 +86,8 @@ Sideboard (15)
 2 The Antiquities War
 
 DECKLIST :
-WHITE TSAR (4-1)
+WHITE TSAR
+(4-1)
 Planeswalker (9)
 1 Elspeth, Sun's Champion
 1 Jace, Architect of Thought
@@ -126,7 +128,8 @@ Sideboard (15)
 3 Rest in Peace
 
 DECKLIST :
-ANSSI A (4-1)
+ANSSI A
+(4-1)
 Creature (22)
 4 Bonecrusher Giant
 3 Eidolon of the Great Revel
@@ -157,7 +160,8 @@ Sideboard (15)
 3 Mutavault
 
 DECKLIST :
-AZATOYELLOW (4-1)
+AZATOYELLOW
+(4-1)
 Creature (24)
 4 Bloodsoaked Champion
 4 Dread Wanderer
@@ -188,7 +192,8 @@ Sideboard (15)
 3 Ultimate Price
 
 DECKLIST :
-ACG88 (4-1)
+ACG88
+(4-1)
 Planeswalker (5)
 1 Liliana, the Last Hope
 4 Sorin, Imperious Bloodlord
@@ -226,7 +231,8 @@ Sideboard (15)
 2 Ob Nixilis's Cruelty
 
 DECKLIST :
-URLICH00 (4-1)
+URLICH00
+(4-1)
 Creature (25)
 4 Bloodsoaked Champion
 2 Bone Picker
@@ -259,7 +265,8 @@ Sideboard (15)
 1 Lost Legacy
 
 DECKLIST :
-BAYESTA_93 (4-1)
+BAYESTA_93
+(4-1)
 Creature (21)
 3 Courser of Kruphix
 2 Murderous Rider
@@ -301,7 +308,8 @@ Sideboard (15)
 2 Rest in Peace
 
 DECKLIST :
-EKEROSS (4-1)
+EKEROSS
+(4-1)
 Planeswalker (4)
 4 Ugin, the Spirit Dragon
 Creature (24)
@@ -335,7 +343,8 @@ Sideboard (15)
 1 Walking Ballista
 
 DECKLIST :
-BEREBORN (4-1)
+BEREBORN
+(4-1)
 Creature (24)
 4 Bloodsoaked Champion
 2 Dread Wanderer
@@ -368,7 +377,8 @@ Sideboard (15)
 1 Liliana, the Last Hope
 
 DECKLIST :
-DUPARCQG (4-1)
+DUPARCQG
+(4-1)
 Planeswalker (7)
 2 Narset, Parter of Veils
 2 Teferi, Hero of Dominaria
@@ -410,7 +420,8 @@ Sideboard (15)
 1 Settle the Wreckage
 
 DECKLIST :
-UMEHONOR (4-1)
+UMEHONOR
+(4-1)
 Planeswalker (3)
 3 Chandra, Torch of Defiance
 Creature (23)
@@ -440,7 +451,8 @@ Sideboard (15)
 4 Tormod's Crypt
 
 DECKLIST :
-SAKEIZUMO (3-2)
+SAKEIZUMO
+(3-2)
 Planeswalker (1)
 1 The Royal Scions
 Creature (11)
@@ -477,7 +489,8 @@ Sideboard (15)
 2 Sweltering Suns
 
 DECKLIST :
-SLOWBRO1 (3-2)
+SLOWBRO1
+(3-2)
 Creature (26)
 4 Bloodsoaked Champion
 4 Dread Wanderer
@@ -508,7 +521,8 @@ Sideboard (15)
 3 Ultimate Price
 
 DECKLIST :
-TRASMUSSEN2710 (3-2)
+TRASMUSSEN2710
+(3-2)
 Creature (12)
 4 Arboreal Grazer
 4 Fae of Wishes
@@ -548,7 +562,8 @@ Sideboard (15)
 1 Ugin, the Spirit Dragon
 
 DECKLIST :
-_SHATUN_ (3-2)
+_SHATUN_
+(3-2)
 Planeswalker (3)
 3 Ugin, the Spirit Dragon
 Creature (26)
@@ -581,7 +596,8 @@ Sideboard (15)
 3 Tireless Tracker
 
 DECKLIST :
-AUDIO336 (3-2)
+AUDIO336
+(3-2)
 Planeswalker (2)
 2 The Royal Scions
 Creature (21)
@@ -623,7 +639,8 @@ Sideboard (15)
 2 Roast
 
 DECKLIST :
-GASOTAMU (3-2)
+GASOTAMU
+(3-2)
 Planeswalker (3)
 3 Liliana, Untouched by Death
 Creature (26)
@@ -659,7 +676,8 @@ Sideboard (15)
 1 Murderous Rider
 
 DECKLIST :
-JOHNSMITH3373 (3-2)
+JOHNSMITH3373
+(3-2)
 Creature (31)
 4 Burning-Tree Emissary
 4 Elvish Mystic
@@ -689,7 +707,8 @@ Sideboard (15)
 3 Shapers' Sanctuary
 
 DECKLIST :
-PENTAKALE (3-2)
+PENTAKALE
+(3-2)
 Creature (34)
 4 Cloudfin Raptor
 4 Gadwick, the Wizened
@@ -715,7 +734,8 @@ Sideboard (15)
 4 Wizard's Retort
 
 DECKLIST :
-BIGHUMAN (3-2)
+BIGHUMAN
+(3-2)
 Planeswalker (8)
 4 Nissa, Who Shakes the World
 4 Vivien, Arkbow Ranger
@@ -753,7 +773,8 @@ Sideboard (15)
 2 Vine Mare
 
 DECKLIST :
-YANMASTER (3-2)
+YANMASTER
+(3-2)
 Planeswalker (6)
 3 Nissa, Voice of Zendikar
 3 Vivien, Arkbow Ranger
@@ -785,7 +806,8 @@ Sideboard (15)
 4 Thoughtseize
 
 DECKLIST :
-MARL-BRO-RO (3-2)
+MARL-BRO-RO
+(3-2)
 Creature (29)
 1 Brazen Borrower
 4 Cloudfin Raptor
@@ -815,7 +837,8 @@ Sideboard (15)
 1 Sorcerous Spyglass
 
 DECKLIST :
-JV_7777 (3-2)
+JV_7777
+(3-2)
 Planeswalker (3)
 3 Chandra, Torch of Defiance
 Creature (22)
@@ -847,7 +870,8 @@ Sideboard (15)
 4 Scab-Clan Berserker
 
 DECKLIST :
-COLLETCLOW (3-2)
+COLLETCLOW
+(3-2)
 Planeswalker (2)
 2 The Royal Scions
 Creature (21)
@@ -889,7 +913,8 @@ Sideboard (15)
 2 The Antiquities War
 
 DECKLIST :
-PAVEL_REP (3-2)
+PAVEL_REP
+(3-2)
 Creature (20)
 4 Dreadhorde Arcanist
 4 Favored Hoplite
@@ -924,7 +949,8 @@ Sideboard (15)
 3 Wild Slash
 
 DECKLIST :
-ELAD3127 (3-2)
+ELAD3127
+(3-2)
 Planeswalker (3)
 3 Ugin, the Spirit Dragon
 Creature (26)
@@ -957,7 +983,8 @@ Sideboard (15)
 3 Tireless Tracker
 
 DECKLIST :
-TOO22 (3-2)
+TOO22
+(3-2)
 Creature (12)
 4 Arboreal Grazer
 4 Fae of Wishes
@@ -997,7 +1024,8 @@ Sideboard (15)
 1 Ugin, the Spirit Dragon
 
 DECKLIST :
-VINITIB (3-2)
+VINITIB
+(3-2)
 Planeswalker (3)
 3 Chandra, Torch of Defiance
 Creature (23)
@@ -1030,7 +1058,8 @@ Sideboard (15)
 2 Roast
 
 DECKLIST :
-FLASHFOE (3-2)
+FLASHFOE
+(3-2)
 Planeswalker (6)
 3 Nissa, Who Shakes the World
 3 Ugin, the Spirit Dragon
@@ -1070,10 +1099,10 @@ Pioneer Preliminary
 JANUARY
 4
 2020
-TO
 
 DECKLIST :
-HAMBURGERJUNG (5-0)
+HAMBURGERJUNG
+(5-0)
 Creature (30)
 2 Gifted Aetherborn
 4 Lotleth Troll
@@ -1107,7 +1136,8 @@ Sideboard (15)
 4 Thoughtseize
 
 DECKLIST :
-BRANDI96 (5-0)
+BRANDI96
+(5-0)
 Creature (25)
 4 Bloodsoaked Champion
 1 Dread Wanderer
@@ -1137,7 +1167,8 @@ Sideboard (15)
 4 Noxious Grasp
 
 DECKLIST :
-FJ_RODMAN (4-1)
+FJ_RODMAN
+(4-1)
 Creature (18)
 2 Eidolon of the Great Revel
 4 Ghitu Lavarunner
@@ -1167,7 +1198,8 @@ Sideboard (15)
 2 Wear // Tear
 
 DECKLIST :
-BOLAND (4-1)
+BOLAND
+(4-1)
 Creature (12)
 4 Arboreal Grazer
 4 Fae of Wishes
@@ -1209,7 +1241,8 @@ Sideboard (15)
 1 Ugin, the Spirit Dragon
 
 DECKLIST :
-30A (4-1)
+30A
+(4-1)
 Planeswalker (1)
 1 Domri, Anarch of Bolas
 Creature (32)
@@ -1244,7 +1277,8 @@ Sideboard (15)
 2 Scavenging Ooze
 
 DECKLIST :
-XERK (4-1)
+XERK
+(4-1)
 Creature (4)
 1 The Scarab God
 3 Torrential Gearhulk
@@ -1288,7 +1322,8 @@ Sideboard (15)
 1 Unmoored Ego
 
 DECKLIST :
-AARDOS (4-1)
+AARDOS
+(4-1)
 Creature (12)
 4 Arboreal Grazer
 4 Fae of Wishes
@@ -1324,7 +1359,8 @@ Sideboard (15)
 1 Ugin, the Spirit Dragon
 
 DECKLIST :
-JEREMYMANDEL (4-1)
+JEREMYMANDEL
+(4-1)
 Planeswalker (3)
 3 Chandra, Torch of Defiance
 Creature (22)
@@ -1355,7 +1391,8 @@ Sideboard (15)
 4 Tormod's Crypt
 
 DECKLIST :
-PHILL_HELLMUTH (4-1)
+PHILL_HELLMUTH
+(4-1)
 Planeswalker (5)
 1 Angrath, the Flame-Chained
 3 Chandra, Torch of Defiance
@@ -1396,7 +1433,8 @@ Sideboard (15)
 1 Transgress the Mind
 
 DECKLIST :
-ICTERIDAE (4-1)
+ICTERIDAE
+(4-1)
 Creature (26)
 2 Decimator of the Provinces
 3 Gurmag Angler
@@ -1431,7 +1469,8 @@ Sideboard (15)
 2 Thoughtseize
 
 DECKLIST :
-FLOATIUS (4-1)
+FLOATIUS
+(4-1)
 Creature (29)
 4 Courser of Kruphix
 4 Dwynen's Elite
@@ -1464,7 +1503,8 @@ Sideboard (15)
 1 Whisperwood Elemental
 
 DECKLIST :
-SIXTH (4-1)
+SIXTH
+(4-1)
 Planeswalker (3)
 3 Ugin, the Spirit Dragon
 Creature (26)
@@ -1497,7 +1537,8 @@ Sideboard (15)
 3 Tireless Tracker
 
 DECKLIST :
-MATTHEWFOULKES (4-1)
+MATTHEWFOULKES
+(4-1)
 Creature (25)
 4 Bloodsoaked Champion
 1 Dread Wanderer
@@ -1528,7 +1569,8 @@ Sideboard (15)
 3 Noxious Grasp
 
 DECKLIST :
-WOLFIE98 (4-1)
+WOLFIE98
+(4-1)
 Planeswalker (4)
 4 Sorin, Imperious Bloodlord
 Creature (23)
@@ -1558,7 +1600,8 @@ Sideboard (15)
 3 Noxious Grasp
 
 DECKLIST :
-WRZOBUSEKS (4-1)
+WRZOBUSEKS
+(4-1)
 Creature (24)
 4 Bomat Courier
 4 Bonecrusher Giant
@@ -1583,7 +1626,8 @@ Sideboard (15)
 3 Searing Blood
 
 DECKLIST :
-BATJONES22 (3-2)
+BATJONES22
+(3-2)
 Creature (19)
 2 Apostle of Purifying Light
 4 Favored Hoplite
@@ -1621,7 +1665,8 @@ Sideboard (15)
 2 Wild Slash
 
 DECKLIST :
-TOMBSIMON (3-2)
+TOMBSIMON
+(3-2)
 Creature (25)
 4 Bloodsoaked Champion
 4 Dread Wanderer
@@ -1654,7 +1699,8 @@ Sideboard (15)
 1 Ultimate Price
 
 DECKLIST :
-KARATEDOM (3-2)
+KARATEDOM
+(3-2)
 Creature (22)
 4 Bloodsoaked Champion
 2 Dread Wanderer
@@ -1685,7 +1731,8 @@ Sideboard (15)
 4 Leyline of the Void
 
 DECKLIST :
-ABELHAGO (3-2)
+ABELHAGO
+(3-2)
 Creature (35)
 4 Burning-Tree Emissary
 4 Elvish Mystic
@@ -1715,7 +1762,8 @@ Sideboard (15)
 3 Shapers' Sanctuary
 
 DECKLIST :
-JSTIHLE (3-2)
+JSTIHLE
+(3-2)
 Planeswalker (5)
 1 Angrath, the Flame-Chained
 3 Chandra, Torch of Defiance
@@ -1756,7 +1804,8 @@ Sideboard (15)
 1 Transgress the Mind
 
 DECKLIST :
-FAELLAN (3-2)
+FAELLAN
+(3-2)
 Creature (24)
 4 Bloodsoaked Champion
 4 Dread Wanderer
@@ -1786,7 +1835,8 @@ Sideboard (15)
 3 Ultimate Price
 
 DECKLIST :
-RIZER (3-2)
+RIZER
+(3-2)
 Creature (28)
 4 Chromanticore
 4 Lotleth Troll
@@ -1819,7 +1869,8 @@ Sideboard (15)
 4 Leyline of the Void
 
 DECKLIST :
-JABERWOCKI (3-2)
+JABERWOCKI
+(3-2)
 Planeswalker (3)
 3 Nissa, Who Shakes the World
 Creature (14)
@@ -1856,7 +1907,8 @@ Sideboard (15)
 1 Vraska, Golgari Queen
 
 DECKLIST :
-KLIMCZUR (3-2)
+KLIMCZUR
+(3-2)
 Planeswalker (10)
 2 Jace, Architect of Thought
 2 Narset, Parter of Veils
@@ -1894,7 +1946,8 @@ Sideboard (15)
 2 Summary Dismissal
 
 DECKLIST :
-FAKE-NEWS (3-2)
+FAKE-NEWS
+(3-2)
 Creature (24)
 4 Bloodsoaked Champion
 4 Dread Wanderer
@@ -1925,7 +1978,8 @@ Sideboard (15)
 3 Ultimate Price
 
 DECKLIST :
-NAYAOKA (3-2)
+NAYAOKA
+(3-2)
 Planeswalker (3)
 3 Chandra, Torch of Defiance
 Creature (23)
@@ -1953,7 +2007,8 @@ Sideboard (15)
 4 Warping Wail
 
 DECKLIST :
-FISTFULLOFMETAL (3-2)
+FISTFULLOFMETAL
+(3-2)
 Planeswalker (4)
 4 Ugin, the Spirit Dragon
 Creature (25)
@@ -1982,7 +2037,8 @@ Sideboard (15)
 4 Thought-Knot Seer
 
 DECKLIST :
-ZIENE (3-2)
+ZIENE
+(3-2)
 Planeswalker (5)
 2 Chandra, Awakened Inferno
 3 Nicol Bolas, Dragon-God
@@ -2025,7 +2081,8 @@ Sideboard (15)
 2 Unmoored Ego
 
 DECKLIST :
-TRIOSK (3-2)
+TRIOSK
+(3-2)
 Planeswalker (11)
 1 Elspeth, Sun's Champion
 1 Jace, Architect of Thought
@@ -2070,7 +2127,8 @@ Sideboard (15)
 2 Summary Dismissal
 
 DECKLIST :
-SANDYDOGMTG (3-2)
+SANDYDOGMTG
+(3-2)
 Creature (24)
 4 Bomat Courier
 4 Bonecrusher Giant
@@ -2095,7 +2153,8 @@ Sideboard (15)
 4 Tibalt, Rakish Instigator
 
 DECKLIST :
-NAEOSPSY (3-2)
+NAEOSPSY
+(3-2)
 Planeswalker (3)
 3 Chandra, Torch of Defiance
 Creature (23)
@@ -2123,7 +2182,8 @@ Sideboard (15)
 2 Mizzium Mortars
 
 DECKLIST :
-QBTURTLE15 (3-2)
+QBTURTLE15
+(3-2)
 Planeswalker (2)
 2 Chandra, Torch of Defiance
 Creature (22)
@@ -2156,7 +2216,8 @@ Sideboard (15)
 3 Leyline of the Void
 
 DECKLIST :
-INFELIX (3-2)
+INFELIX
+(3-2)
 Planeswalker (3)
 3 Chandra, Torch of Defiance
 Creature (23)
@@ -2184,7 +2245,8 @@ Sideboard (15)
 2 Fry
 
 DECKLIST :
-LUKAS261997 (3-2)
+LUKAS261997
+(3-2)
 Planeswalker (9)
 1 Jace, Architect of Thought
 2 Narset, Parter of Veils
@@ -2224,7 +2286,8 @@ Sideboard (15)
 3 Rest in Peace
 
 DECKLIST :
-JACECONFLENTI (3-2)
+JACECONFLENTI
+(3-2)
 Planeswalker (8)
 4 Gideon, Ally of Zendikar
 4 Teferi, Time Raveler
@@ -2258,7 +2321,8 @@ Sideboard (15)
 2 Surge of Righteousness
 
 DECKLIST :
-SAHAKVIC (3-2)
+SAHAKVIC
+(3-2)
 Planeswalker (2)
 2 Chandra, Torch of Defiance
 Creature (29)
@@ -2293,7 +2357,8 @@ Sideboard (15)
 2 Shifting Ceratops
 
 DECKLIST :
-WHITEFACES (3-2)
+WHITEFACES
+(3-2)
 Planeswalker (4)
 4 Sorin, Imperious Bloodlord
 Creature (24)
@@ -2324,7 +2389,8 @@ Sideboard (15)
 2 Witch's Vengeance
 
 DECKLIST :
-NAMKREW___LACSAP (3-2)
+NAMKREW___LACSAP
+(3-2)
 Creature (12)
 4 Arboreal Grazer
 4 Fae of Wishes
@@ -2372,12 +2438,10 @@ Pioneer Preliminary
 JANUARY
 3
 2020
-JANUARY
-5
-2020
 
 DECKLIST :
-ZAR0S (5-0)
+ZAR0S
+(5-0)
 Creature (24)
 4 Bloodsoaked Champion
 4 Dread Wanderer
@@ -2408,7 +2472,8 @@ Sideboard (15)
 3 Ultimate Price
 
 DECKLIST :
-MALIAM (5-0)
+MALIAM
+(5-0)
 Planeswalker (3)
 3 Ugin, the Spirit Dragon
 Creature (26)
@@ -2441,7 +2506,8 @@ Sideboard (15)
 3 Tireless Tracker
 
 DECKLIST :
-NAYAOKA (4-1)
+NAYAOKA
+(4-1)
 Planeswalker (3)
 3 Chandra, Torch of Defiance
 Creature (23)
@@ -2469,7 +2535,8 @@ Sideboard (15)
 4 Eldrazi Obligator
 
 DECKLIST :
-BULLZ0EYE (4-1)
+BULLZ0EYE
+(4-1)
 Creature (25)
 4 Bloodsoaked Champion
 2 Bone Picker
@@ -2502,7 +2569,8 @@ Sideboard (15)
 1 Witch's Vengeance
 
 DECKLIST :
-SIN (4-1)
+SIN
+(4-1)
 Creature (10)
 3 Brazen Borrower
 4 Frilled Mystic
@@ -2539,7 +2607,8 @@ Sideboard (15)
 3 Tireless Tracker
 
 DECKLIST :
-1-3DROP (4-1)
+1-3DROP
+(4-1)
 Planeswalker (3)
 3 Chandra, Torch of Defiance
 Creature (23)
@@ -2569,7 +2638,8 @@ Sideboard (15)
 2 Tormod's Crypt
 
 DECKLIST :
-LS149950 (4-1)
+LS149950
+(4-1)
 Creature (22)
 4 Bloodsoaked Champion
 2 Dread Wanderer
@@ -2600,7 +2670,8 @@ Sideboard (15)
 4 Leyline of the Void
 
 DECKLIST :
-GALLATIN (4-1)
+GALLATIN
+(4-1)
 Planeswalker (2)
 2 Chandra, Torch of Defiance
 Creature (23)
@@ -2630,7 +2701,8 @@ Sideboard (15)
 3 Tormod's Crypt
 
 DECKLIST :
-PACOELFLACO (4-1)
+PACOELFLACO
+(4-1)
 Creature (17)
 2 Dreadhorde Arcanist
 4 Favored Hoplite
@@ -2665,7 +2737,8 @@ Sideboard (15)
 3 Wild Slash
 
 DECKLIST :
-STRACA3 (4-1)
+STRACA3
+(4-1)
 Creature (28)
 2 Decimator of the Provinces
 4 Gurmag Angler
@@ -2700,7 +2773,8 @@ Sideboard (15)
 2 Thoughtseize
 
 DECKLIST :
-LALAUWBA (4-1)
+LALAUWBA
+(4-1)
 Creature (25)
 4 Bloodsoaked Champion
 2 Dread Wanderer
@@ -2734,7 +2808,8 @@ Sideboard (15)
 2 Ob Nixilis's Cruelty
 
 DECKLIST :
-3HALEX1 (4-1)
+3HALEX1
+(4-1)
 Creature (24)
 4 Bloodsoaked Champion
 4 Dread Wanderer
@@ -2764,7 +2839,8 @@ Sideboard (15)
 3 Ultimate Price
 
 DECKLIST :
-KANISTER (4-1)
+KANISTER
+(4-1)
 Creature (20)
 4 Bonecrusher Giant
 4 Eidolon of the Great Revel
@@ -2791,7 +2867,8 @@ Sideboard (15)
 4 Mutavault
 
 DECKLIST :
-TYOBE0440 (4-1)
+TYOBE0440
+(4-1)
 Planeswalker (4)
 4 Ugin, the Spirit Dragon
 Creature (23)
@@ -2823,7 +2900,8 @@ Sideboard (15)
 2 Tireless Tracker
 
 DECKLIST :
-ACG88 (4-1)
+ACG88
+(4-1)
 Creature (35)
 4 Burning-Tree Emissary
 4 Elvish Mystic
@@ -2852,7 +2930,8 @@ Sideboard (15)
 2 Shapers' Sanctuary
 
 DECKLIST :
-_ALICE1986_ (3-2)
+_ALICE1986_
+(3-2)
 Creature (33)
 4 Brazen Borrower
 2 Empyrean Eagle
@@ -2883,7 +2962,8 @@ Sideboard (15)
 4 Settle the Wreckage
 
 DECKLIST :
-SAMURAIDRIVE (3-2)
+SAMURAIDRIVE
+(3-2)
 Creature (35)
 4 Elvish Mystic
 4 Ghalta, Primal Hunger
@@ -2908,7 +2988,8 @@ Sideboard (15)
 4 Vine Mare
 
 DECKLIST :
-__MATSUGAN (3-2)
+__MATSUGAN
+(3-2)
 Creature (8)
 4 Bassara Tower Archer
 4 Gladecover Scout
@@ -2940,7 +3021,8 @@ Sideboard (15)
 4 Unsummon
 
 DECKLIST :
-SLOWBRO1 (3-2)
+SLOWBRO1
+(3-2)
 Creature (24)
 4 Bloodsoaked Champion
 4 Dread Wanderer
@@ -2970,7 +3052,8 @@ Sideboard (15)
 3 Ultimate Price
 
 DECKLIST :
-THEFURYONE987 (3-2)
+THEFURYONE987
+(3-2)
 Planeswalker (2)
 2 The Royal Scions
 Creature (10)
@@ -3004,7 +3087,8 @@ Sideboard (15)
 2 Saheeli, Sublime Artificer
 
 DECKLIST :
-PAVEL_REP (3-2)
+PAVEL_REP
+(3-2)
 Creature (20)
 4 Dreadhorde Arcanist
 4 Favored Hoplite
@@ -3037,7 +3121,8 @@ Sideboard (15)
 2 Wild Slash
 
 DECKLIST :
-ARCTICMOON (3-2)
+ARCTICMOON
+(3-2)
 Creature (31)
 4 Elvish Mystic
 4 Ghalta, Primal Hunger
@@ -3067,7 +3152,8 @@ Sideboard (15)
 3 Shifting Ceratops
 
 DECKLIST :
-THE_NAYR (3-2)
+THE_NAYR
+(3-2)
 Planeswalker (3)
 3 Chandra, Torch of Defiance
 Creature (22)
@@ -3103,7 +3189,8 @@ Sideboard (15)
 2 Tormod's Crypt
 
 DECKLIST :
-BRIANK (3-2)
+BRIANK
+(3-2)
 Creature (21)
 4 Bonecrusher Giant
 3 Eidolon of the Great Revel
@@ -3130,7 +3217,8 @@ Sideboard (15)
 3 Mutavault
 
 DECKLIST :
-TATSUYAUW (3-2)
+TATSUYAUW
+(3-2)
 Creature (11)
 4 Arclight Phoenix
 1 Brazen Borrower
@@ -3169,7 +3257,8 @@ Sideboard (15)
 2 Young Pyromancer
 
 DECKLIST :
-MCWINSAUCE (3-2)
+MCWINSAUCE
+(3-2)
 Creature (12)
 4 Arboreal Grazer
 4 Fae of Wishes
@@ -3209,7 +3298,8 @@ Sideboard (15)
 1 Ugin, the Spirit Dragon
 
 DECKLIST :
-TRIOSK (3-2)
+TRIOSK
+(3-2)
 Creature (28)
 2 Decimator of the Provinces
 4 Gurmag Angler
@@ -3244,7 +3334,8 @@ Sideboard (15)
 2 Thoughtseize
 
 DECKLIST :
-LILGUY1991 (3-2)
+LILGUY1991
+(3-2)
 Planeswalker (3)
 3 Chandra, Torch of Defiance
 Creature (22)
@@ -3274,7 +3365,8 @@ Sideboard (15)
 4 Tormod's Crypt
 
 DECKLIST :
-PROFESSORFRENCH (3-2)
+PROFESSORFRENCH
+(3-2)
 Planeswalker (3)
 3 Chandra, Torch of Defiance
 Creature (22)
@@ -3305,7 +3397,8 @@ Sideboard (15)
 4 Tormod's Crypt
 
 DECKLIST :
-BROKENWINGSS (3-2)
+BROKENWINGSS
+(3-2)
 Creature (28)
 1 Anafenza, Kin-Tree Spirit
 1 Bygone Bishop
@@ -3348,7 +3441,8 @@ Sideboard (15)
 2 Remorseful Cleric
 
 DECKLIST :
-TANASTRIA (3-2)
+TANASTRIA
+(3-2)
 Planeswalker (6)
 3 Nissa, Who Shakes the World
 3 Ugin, the Spirit Dragon
@@ -3379,7 +3473,8 @@ Sideboard (15)
 2 Tireless Tracker
 
 DECKLIST :
-BLUESFAN2 (3-2)
+BLUESFAN2
+(3-2)
 Creature (4)
 1 The Scarab God
 3 Torrential Gearhulk
@@ -3423,7 +3518,8 @@ Sideboard (15)
 1 Thought Distortion
 
 DECKLIST :
-GLIMPSEOFRANDOMNESS (3-2)
+GLIMPSEOFRANDOMNESS
+(3-2)
 Planeswalker (2)
 2 The Royal Scions
 Creature (10)
@@ -3459,7 +3555,8 @@ Sideboard (15)
 2 Saheeli, Sublime Artificer
 
 DECKLIST :
-RUIN000 (3-2)
+RUIN000
+(3-2)
 Creature (10)
 4 Arboreal Grazer
 4 Fae of Wishes
@@ -3498,7 +3595,8 @@ Sideboard (15)
 3 Thought Distortion
 
 DECKLIST :
-YUNOSUKE02 (3-2)
+YUNOSUKE02
+(3-2)
 Creature (16)
 4 Eidolon of the Great Revel
 4 Monastery Swiftspear
@@ -3529,7 +3627,8 @@ Sideboard (15)
 1 Wear // Tear
 
 DECKLIST :
-DUGGIE12 (3-2)
+DUGGIE12
+(3-2)
 Planeswalker (2)
 2 Chandra, Torch of Defiance
 Creature (23)
@@ -3562,7 +3661,8 @@ Sideboard (15)
 3 Tormod's Crypt
 
 DECKLIST :
-FUYA (3-2)
+FUYA
+(3-2)
 Planeswalker (3)
 3 Chandra, Torch of Defiance
 Creature (24)
@@ -3598,12 +3698,10 @@ Pioneer Preliminary
 JANUARY
 2
 2020
-JANUARY
-4
-2020
 
 DECKLIST :
-EINSTEIN9998 (5-0)
+EINSTEIN9998
+(5-0)
 Creature (12)
 4 Arboreal Grazer
 4 Fae of Wishes
@@ -3644,7 +3742,8 @@ Sideboard (15)
 1 Ugin, the Spirit Dragon
 
 DECKLIST :
-SPERLING (5-0)
+SPERLING
+(5-0)
 Planeswalker (5)
 1 Angrath, the Flame-Chained
 3 Chandra, Torch of Defiance
@@ -3685,7 +3784,8 @@ Sideboard (15)
 1 Transgress the Mind
 
 DECKLIST :
-LS149950 (5-0)
+LS149950
+(5-0)
 Creature (24)
 4 Bloodsoaked Champion
 2 Dread Wanderer
@@ -3716,7 +3816,8 @@ Sideboard (15)
 3 Leyline of the Void
 
 DECKLIST :
-HEIR_OF_ELENDIL15 (5-0)
+HEIR_OF_ELENDIL15
+(5-0)
 Creature (27)
 4 Bloodsoaked Champion
 4 Gutterbones
@@ -3748,7 +3849,8 @@ Sideboard (15)
 2 Noxious Grasp
 
 DECKLIST :
-JEREMYMANDEL (4-1)
+JEREMYMANDEL
+(4-1)
 Planeswalker (3)
 3 Chandra, Torch of Defiance
 Creature (22)
@@ -3779,7 +3881,8 @@ Sideboard (15)
 4 Tormod's Crypt
 
 DECKLIST :
-EDWARD40HANDS (4-1)
+EDWARD40HANDS
+(4-1)
 Planeswalker (3)
 2 Liliana, the Last Hope
 1 Vraska, Golgari Queen
@@ -3826,7 +3929,8 @@ Sideboard (15)
 2 Unmoored Ego
 
 DECKLIST :
-STARFAERY (4-1)
+STARFAERY
+(4-1)
 Planeswalker (1)
 1 Ral, Storm Conduit
 Creature (9)
@@ -3866,7 +3970,8 @@ Sideboard (15)
 1 Ugin, the Spirit Dragon
 
 DECKLIST :
-THRUNTHELASTTROLL (4-1)
+THRUNTHELASTTROLL
+(4-1)
 Creature (28)
 4 Bloodsoaked Champion
 3 Drana, Liberator of Malakir
@@ -3896,7 +4001,8 @@ Sideboard (15)
 1 Noxious Grasp
 
 DECKLIST :
-BARRICUDA (4-1)
+BARRICUDA
+(4-1)
 Planeswalker (5)
 3 Domri, Anarch of Bolas
 2 Vivien, Arkbow Ranger
@@ -3931,7 +4037,8 @@ Sideboard (14)
 3 Scavenging Ooze
 
 DECKLIST :
-JIMBEAM3 (4-1)
+JIMBEAM3
+(4-1)
 Planeswalker (10)
 1 Elspeth, Sun's Champion
 1 Jace, Architect of Thought
@@ -3973,7 +4080,8 @@ Sideboard (15)
 3 Spell Queller
 
 DECKLIST :
-XECHONANCE (4-1)
+XECHONANCE
+(4-1)
 Planeswalker (2)
 2 Liliana, the Last Hope
 Creature (8)
@@ -4022,7 +4130,8 @@ Sideboard (15)
 1 Summary Dismissal
 
 DECKLIST :
-LAA11 (4-1)
+LAA11
+(4-1)
 Creature (21)
 1 Brazen Borrower
 2 Cavalier of Gales
@@ -4055,7 +4164,8 @@ Sideboard (15)
 2 Pithing Needle
 
 DECKLIST :
-QUEENVARRONE (4-1)
+QUEENVARRONE
+(4-1)
 Creature (26)
 4 Benalish Marshal
 4 Dauntless Bodyguard
@@ -4090,7 +4200,8 @@ Sideboard (15)
 2 Tormod's Crypt
 
 DECKLIST :
-ALBERTOSD (4-1)
+ALBERTOSD
+(4-1)
 Creature (32)
 4 Burning-Tree Emissary
 4 Elvish Mystic
@@ -4123,7 +4234,8 @@ Sideboard (15)
 2 Shifting Ceratops
 
 DECKLIST :
-IDAVEW (4-1)
+IDAVEW
+(4-1)
 Planeswalker (11)
 4 Nissa, Voice of Zendikar
 4 Nissa, Who Shakes the World
@@ -4156,7 +4268,8 @@ Sideboard (15)
 1 Tireless Tracker
 
 DECKLIST :
-PACOELFLACO (4-1)
+PACOELFLACO
+(4-1)
 Creature (17)
 2 Dreadhorde Arcanist
 4 Favored Hoplite
@@ -4191,7 +4304,8 @@ Sideboard (15)
 3 Wild Slash
 
 DECKLIST :
-TINKERJOE (4-1)
+TINKERJOE
+(4-1)
 Planeswalker (2)
 2 The Royal Scions
 Creature (22)
@@ -4230,7 +4344,8 @@ Sideboard (15)
 2 Mystical Dispute
 
 DECKLIST :
-JABERWOCKI (4-1)
+JABERWOCKI
+(4-1)
 Planeswalker (3)
 3 Nissa, Who Shakes the World
 Creature (16)
@@ -4267,7 +4382,8 @@ Sideboard (15)
 1 Vraska, Golgari Queen
 
 DECKLIST :
-KARAKUSK (4-1)
+KARAKUSK
+(4-1)
 Creature (35)
 4 Burning-Tree Emissary
 4 Elvish Mystic
@@ -4295,7 +4411,8 @@ Sideboard (15)
 3 The Great Henge
 
 DECKLIST :
-LALAUWBA (4-1)
+LALAUWBA
+(4-1)
 Creature (25)
 4 Bloodsoaked Champion
 2 Dread Wanderer
@@ -4329,7 +4446,8 @@ Sideboard (15)
 1 Vraska's Contempt
 
 DECKLIST :
-_ALICE1986_ (4-1)
+_ALICE1986_
+(4-1)
 Creature (33)
 4 Brazen Borrower
 2 Empyrean Eagle
@@ -4360,7 +4478,8 @@ Sideboard (15)
 4 Settle the Wreckage
 
 DECKLIST :
-ROBB101883 (4-1)
+ROBB101883
+(4-1)
 Planeswalker (2)
 2 Chandra, Torch of Defiance
 Creature (25)
@@ -4395,7 +4514,8 @@ Sideboard (15)
 3 Scab-Clan Berserker
 
 DECKLIST :
-TOMBSIMON (4-1)
+TOMBSIMON
+(4-1)
 Creature (24)
 4 Bomat Courier
 4 Bonecrusher Giant
@@ -4421,7 +4541,8 @@ Sideboard (15)
 4 Tormod's Crypt
 
 DECKLIST :
-L1X0 (4-1)
+L1X0
+(4-1)
 Creature (28)
 4 Bloodsoaked Champion
 2 Gifted Aetherborn
@@ -4450,7 +4571,8 @@ Sideboard (15)
 2 Noxious Grasp
 
 DECKLIST :
-ALFREDOTORRES (3-2)
+ALFREDOTORRES
+(3-2)
 Planeswalker (8)
 4 Nissa, Who Shakes the World
 4 Vivien, Arkbow Ranger
@@ -4481,7 +4603,8 @@ Sideboard (15)
 1 Ulamog, the Ceaseless Hunger
 
 DECKLIST :
-XFER (3-2)
+XFER
+(3-2)
 Planeswalker (2)
 2 Domri, Anarch of Bolas
 Creature (32)
@@ -4516,7 +4639,8 @@ Sideboard (15)
 2 Scavenging Ooze
 
 DECKLIST :
-TWISTEDWOMBAT (3-2)
+TWISTEDWOMBAT
+(3-2)
 Planeswalker (4)
 4 Sorin, Imperious Bloodlord
 Creature (24)
@@ -4551,7 +4675,8 @@ Sideboard (15)
 2 Vraska's Contempt
 
 DECKLIST :
-AYTOR_92 (3-2)
+AYTOR_92
+(3-2)
 Creature (31)
 4 Burning-Tree Emissary
 4 Elvish Mystic
@@ -4584,7 +4709,8 @@ Sideboard (15)
 4 Stubborn Denial
 
 DECKLIST :
-FINALNUB (3-2)
+FINALNUB
+(3-2)
 Creature (30)
 4 Elvish Mystic
 3 Ghalta, Primal Hunger
@@ -4619,7 +4745,8 @@ Sideboard (15)
 2 Tormod's Crypt
 
 DECKLIST :
-EXPECTNOMERCY (3-2)
+EXPECTNOMERCY
+(3-2)
 Planeswalker (4)
 4 Sorin, Imperious Bloodlord
 Creature (22)
@@ -4657,7 +4784,8 @@ Sideboard (15)
 2 Ob Nixilis's Cruelty
 
 DECKLIST :
-LITTLEDARWIN (3-2)
+LITTLEDARWIN
+(3-2)
 Creature (36)
 4 Cloudfin Raptor
 3 Gadwick, the Wizened
@@ -4685,7 +4813,8 @@ Sideboard (15)
 3 Spell Pierce
 
 DECKLIST :
-MAIKAGE (3-2)
+MAIKAGE
+(3-2)
 Planeswalker (2)
 2 The Royal Scions
 Creature (21)
@@ -4727,7 +4856,8 @@ Sideboard (15)
 2 The Antiquities War
 
 DECKLIST :
-ZACHATTACK23 (3-2)
+ZACHATTACK23
+(3-2)
 Planeswalker (3)
 3 Ugin, the Spirit Dragon
 Creature (26)
@@ -4760,7 +4890,8 @@ Sideboard (15)
 3 Tireless Tracker
 
 DECKLIST :
-RITHENIUM (3-2)
+RITHENIUM
+(3-2)
 Creature (26)
 4 Bloodsoaked Champion
 4 Gutterbones
@@ -4789,7 +4920,8 @@ Sideboard (15)
 3 Noxious Grasp
 
 DECKLIST :
-KLIMCZUR (3-2)
+KLIMCZUR
+(3-2)
 Planeswalker (2)
 2 Gideon, Ally of Zendikar
 Creature (32)
@@ -4823,7 +4955,8 @@ Sideboard (15)
 3 Settle the Wreckage
 
 DECKLIST :
-XFILE (3-2)
+XFILE
+(3-2)
 Planeswalker (4)
 4 Ugin, the Spirit Dragon
 Creature (24)
@@ -4855,7 +4988,8 @@ Sideboard (15)
 3 Thought-Knot Seer
 
 DECKLIST :
-MCWINSAUCE (3-2)
+MCWINSAUCE
+(3-2)
 Creature (12)
 4 Arboreal Grazer
 4 Fae of Wishes
@@ -4896,7 +5030,8 @@ Sideboard (15)
 1 Ugin, the Spirit Dragon
 
 DECKLIST :
-PHILL_HELLMUTH (3-2)
+PHILL_HELLMUTH
+(3-2)
 Planeswalker (3)
 3 Ugin, the Spirit Dragon
 Creature (26)
@@ -4928,7 +5063,8 @@ Sideboard (15)
 2 Tireless Tracker
 
 DECKLIST :
-WYERN (3-2)
+WYERN
+(3-2)
 Creature (30)
 4 Elvish Mystic
 3 Ghalta, Primal Hunger
@@ -4966,7 +5102,8 @@ Sideboard (15)
 2 Unravel the Aether
 
 DECKLIST :
-PEPETEAM (3-2)
+PEPETEAM
+(3-2)
 Planeswalker (3)
 2 Liliana, the Last Hope
 1 Vraska, Golgari Queen
@@ -5012,7 +5149,8 @@ Sideboard (15)
 2 Rest in Peace
 
 DECKLIST :
-SUGARMOUNTAIN (3-2)
+SUGARMOUNTAIN
+(3-2)
 Creature (10)
 4 Favored Hoplite
 2 Hero of Iroas
@@ -5050,7 +5188,8 @@ Sideboard (15)
 3 Stubborn Denial
 
 DECKLIST :
-NAMMERSQUATS (3-2)
+NAMMERSQUATS
+(3-2)
 Planeswalker (3)
 3 Ugin, the Spirit Dragon
 Creature (26)
@@ -5083,7 +5222,8 @@ Sideboard (15)
 3 Tireless Tracker
 
 DECKLIST :
-FOGGMANATIC (3-2)
+FOGGMANATIC
+(3-2)
 Planeswalker (3)
 3 Liliana, Untouched by Death
 Creature (29)
@@ -5118,7 +5258,8 @@ Sideboard (15)
 4 Thoughtseize
 
 DECKLIST :
-JSTIHLE (3-2)
+JSTIHLE
+(3-2)
 Planeswalker (4)
 4 Ugin, the Spirit Dragon
 Creature (20)
@@ -5154,7 +5295,8 @@ Sideboard (15)
 4 Thought-Knot Seer
 
 DECKLIST :
-ALDAAIN (3-2)
+ALDAAIN
+(3-2)
 Planeswalker (8)
 4 Nissa, Who Shakes the World
 4 Vivien, Arkbow Ranger
@@ -5185,7 +5327,8 @@ Sideboard (15)
 1 Ulamog, the Ceaseless Hunger
 
 DECKLIST :
-THIJZ (3-2)
+THIJZ
+(3-2)
 Planeswalker (3)
 3 Ugin, the Spirit Dragon
 Creature (26)
@@ -5218,7 +5361,8 @@ Sideboard (15)
 3 Tireless Tracker
 
 DECKLIST :
-AMAXWELL123 (3-2)
+AMAXWELL123
+(3-2)
 Planeswalker (2)
 2 Liliana, the Last Hope
 Creature (22)
@@ -5261,7 +5405,8 @@ Sideboard (15)
 1 Vraska's Contempt
 
 DECKLIST :
-NIEDZWIEDZ (3-2)
+NIEDZWIEDZ
+(3-2)
 Creature (25)
 4 Bloodsoaked Champion
 1 Bone Picker
@@ -5294,7 +5439,8 @@ Sideboard (15)
 2 Lost Legacy
 
 DECKLIST :
-AMURICA (3-2)
+AMURICA
+(3-2)
 Planeswalker (2)
 2 The Royal Scions
 Creature (21)
@@ -5335,7 +5481,8 @@ Sideboard (15)
 2 Tormod's Crypt
 
 DECKLIST :
-GABRIELADOBERMAN (3-2)
+GABRIELADOBERMAN
+(3-2)
 Creature (31)
 4 Bonecrusher Giant
 4 Burning-Tree Emissary
@@ -5369,7 +5516,8 @@ Sideboard (15)
 2 Scavenging Ooze
 
 DECKLIST :
-THESERGE98 (3-2)
+THESERGE98
+(3-2)
 Planeswalker (3)
 3 Domri, Anarch of Bolas
 Creature (25)
@@ -5405,7 +5553,8 @@ Sideboard (15)
 1 Reclamation Sage
 
 DECKLIST :
-ZXION631 (3-2)
+ZXION631
+(3-2)
 Planeswalker (2)
 2 Liliana, the Last Hope
 Creature (23)
@@ -5449,7 +5598,8 @@ Sideboard (15)
 3 Rest in Peace
 
 DECKLIST :
-JBTWIST (3-2)
+JBTWIST
+(3-2)
 Planeswalker (2)
 2 Chandra, Torch of Defiance
 Creature (22)
@@ -5480,7 +5630,8 @@ Sideboard (15)
 3 Smash to Smithereens
 
 DECKLIST :
-TREESTEM (3-2)
+TREESTEM
+(3-2)
 Creature (25)
 4 Bloodsoaked Champion
 4 Gutterbones
@@ -5507,7 +5658,8 @@ Sideboard (15)
 4 Noxious Grasp
 
 DECKLIST :
-ODERUS URUNGUS (3-2)
+ODERUS URUNGUS
+(3-2)
 Creature (30)
 4 Elvish Mystic
 3 Ghalta, Primal Hunger
@@ -5542,7 +5694,8 @@ Sideboard (15)
 1 Ripjaw Raptor
 
 DECKLIST :
-CHILLEDADED (3-2)
+CHILLEDADED
+(3-2)
 Planeswalker (3)
 3 Chandra, Torch of Defiance
 Creature (22)
@@ -5573,7 +5726,8 @@ Sideboard (15)
 4 Tormod's Crypt
 
 DECKLIST :
-ANTODELO (3-2)
+ANTODELO
+(3-2)
 Planeswalker (8)
 1 Jace, Architect of Thought
 2 Narset, Parter of Veils
@@ -5621,7 +5775,8 @@ Sideboard (15)
 1 Settle the Wreckage
 
 DECKLIST :
-ASTARISK (3-2)
+ASTARISK
+(3-2)
 Planeswalker (3)
 3 Chandra, Torch of Defiance
 Creature (23)
@@ -5649,7 +5804,8 @@ Sideboard (15)
 2 Fry
 
 DECKLIST :
-SLATORADE (3-2)
+SLATORADE
+(3-2)
 Planeswalker (5)
 1 Liliana of the Dark Realms
 1 Liliana Vess
@@ -5691,7 +5847,8 @@ Sideboard (15)
 4 Lifebane Zombie
 
 DECKLIST :
-WHITEFACES (3-2)
+WHITEFACES
+(3-2)
 Creature (29)
 4 Brazen Borrower
 4 Gadwick, the Wizened
@@ -5717,7 +5874,8 @@ Sideboard (15)
 3 Summary Dismissal
 
 DECKLIST :
-_FALCON_ (3-2)
+_FALCON_
+(3-2)
 Planeswalker (4)
 4 Domri, Anarch of Bolas
 Creature (26)
@@ -5749,7 +5907,8 @@ Sideboard (15)
 2 Rekindling Phoenix
 
 DECKLIST :
-WORRIER1000 (3-2)
+WORRIER1000
+(3-2)
 Planeswalker (3)
 3 Ugin, the Spirit Dragon
 Creature (26)
@@ -5784,7 +5943,8 @@ Sideboard (15)
 2 Void Winnower
 
 DECKLIST :
-THUGNIFICENT32 (3-2)
+THUGNIFICENT32
+(3-2)
 Creature (30)
 3 Brazen Borrower
 4 Cloudfin Raptor
@@ -5815,7 +5975,8 @@ Sideboard (14)
 3 Tidebinder Mage
 
 DECKLIST :
-LSOLLAKIRA (3-2)
+LSOLLAKIRA
+(3-2)
 Creature (27)
 2 Decimator of the Provinces
 3 Gurmag Angler
@@ -5855,12 +6016,10 @@ Pioneer League
 JANUARY
 2
 2020
-JANUARY
-3
-2020
 
 DECKLIST :
-MARTINEZDP (5-0)
+MARTINEZDP
+(5-0)
 Creature (31)
 1 Abzan Battle Priest
 1 Archangel of Thune
@@ -5907,7 +6066,8 @@ Sideboard (15)
 2 Vivien, Champion of the Wilds
 
 DECKLIST :
-THEPENSWORD (5-0)
+THEPENSWORD
+(5-0)
 Planeswalker (2)
 2 The Royal Scions
 Creature (21)
@@ -5949,7 +6109,8 @@ Sideboard (15)
 2 The Antiquities War
 
 DECKLIST :
-HANNOLEE (5-0)
+HANNOLEE
+(5-0)
 Planeswalker (3)
 2 Liliana, the Last Hope
 1 Vraska, Golgari Queen
@@ -5994,7 +6155,8 @@ Sideboard (15)
 1 Thrashing Brontodon
 
 DECKLIST :
-J65536D (5-0)
+J65536D
+(5-0)
 Planeswalker (8)
 4 Nissa, Who Shakes the World
 4 Vivien, Arkbow Ranger
@@ -6027,7 +6189,8 @@ Sideboard (15)
 2 Whisperwood Elemental
 
 DECKLIST :
-VOLTZWAGON (5-0)
+VOLTZWAGON
+(5-0)
 Planeswalker (3)
 3 Domri, Anarch of Bolas
 Creature (25)
@@ -6062,7 +6225,8 @@ Sideboard (15)
 2 Vivien Reid
 
 DECKLIST :
-LOLLOPOLLO2001 (5-0)
+LOLLOPOLLO2001
+(5-0)
 Creature (20)
 4 Dreadhorde Arcanist
 4 Favored Hoplite
@@ -6098,7 +6262,8 @@ Sideboard (15)
 2 Wear // Tear
 
 DECKLIST :
-FIRE10798 (5-0)
+FIRE10798
+(5-0)
 Planeswalker (6)
 3 Teferi, Hero of Dominaria
 3 Teferi, Time Raveler
@@ -6145,7 +6310,8 @@ Sideboard (15)
 1 The Scarab God
 
 DECKLIST :
-TAKUMIN932 (5-0)
+TAKUMIN932
+(5-0)
 Planeswalker (2)
 2 Chandra, Torch of Defiance
 Creature (19)
@@ -6183,7 +6349,8 @@ Sideboard (15)
 2 Walking Ballista
 
 DECKLIST :
-THEFURYONE987 (5-0)
+THEFURYONE987
+(5-0)
 Planeswalker (2)
 2 The Royal Scions
 Creature (10)
@@ -6218,7 +6385,8 @@ Sideboard (15)
 2 Saheeli, Sublime Artificer
 
 DECKLIST :
-ARAPAKO (5-0)
+ARAPAKO
+(5-0)
 Planeswalker (10)
 1 Elspeth, Sun's Champion
 1 Jace, Architect of Thought
@@ -6260,7 +6428,8 @@ Sideboard (14)
 2 Surge of Righteousness
 
 DECKLIST :
-BOLOV0 (5-0)
+BOLOV0
+(5-0)
 Planeswalker (4)
 2 Gideon Blackblade
 2 Gideon, Ally of Zendikar
@@ -6302,7 +6471,8 @@ Sideboard (15)
 4 Thoughtseize
 
 DECKLIST :
-VANILLAJAMES (5-0)
+VANILLAJAMES
+(5-0)
 Planeswalker (4)
 4 Teferi, Time Raveler
 Creature (29)
@@ -6341,7 +6511,8 @@ Sideboard (15)
 4 Voice of Resurgence
 
 DECKLIST :
-MASHMALOVSKY (5-0)
+MASHMALOVSKY
+(5-0)
 Creature (31)
 4 Benalish Marshal
 4 Dauntless Bodyguard
@@ -6372,7 +6543,8 @@ Sideboard (15)
 2 Lava Coil
 
 DECKLIST :
-RUSHI_00 (5-0)
+RUSHI_00
+(5-0)
 Planeswalker (4)
 1 Liliana, the Last Hope
 3 Nissa, Who Shakes the World
@@ -6411,7 +6583,8 @@ Sideboard (15)
 3 Tireless Tracker
 
 DECKLIST :
-KVZA (5-0)
+KVZA
+(5-0)
 Planeswalker (4)
 2 Chandra, Acolyte of Flame
 2 Chandra, Torch of Defiance
@@ -6450,7 +6623,8 @@ Sideboard (15)
 2 Slaughter Games
 
 DECKLIST :
-BEEP-BEEP (5-0)
+BEEP-BEEP
+(5-0)
 Planeswalker (3)
 1 Nissa, Vital Force
 2 Nissa, Who Shakes the World
@@ -6493,7 +6667,8 @@ Sideboard (15)
 4 Thoughtseize
 
 DECKLIST :
-ROMANMY (5-0)
+ROMANMY
+(5-0)
 Creature (27)
 3 Bomat Courier
 4 Bonecrusher Giant
@@ -6530,7 +6705,8 @@ Sideboard (15)
 4 Thoughtseize
 
 DECKLIST :
-SPERLING (5-0)
+SPERLING
+(5-0)
 Planeswalker (5)
 1 Chandra, Acolyte of Flame
 2 Chandra, Torch of Defiance
@@ -6573,7 +6749,8 @@ Sideboard (15)
 1 The Elderspell
 
 DECKLIST :
-CORDOTWIN (5-0)
+CORDOTWIN
+(5-0)
 Creature (22)
 4 Bonecrusher Giant
 4 Brazen Borrower
@@ -6610,7 +6787,8 @@ Sideboard (15)
 1 The Royal Scions
 
 DECKLIST :
-LESTANTE (5-0)
+LESTANTE
+(5-0)
 Planeswalker (6)
 1 Arlinn Kord
 1 Nahiri, the Harbinger
@@ -6667,7 +6845,8 @@ Sideboard (15)
 1 Vraska, Relic Seeker
 
 DECKLIST :
-LOCKENESS (5-0)
+LOCKENESS
+(5-0)
 Creature (28)
 2 Decimator of the Provinces
 4 Gurmag Angler
@@ -6702,7 +6881,8 @@ Sideboard (15)
 2 Thoughtseize
 
 DECKLIST :
-USAZ (5-0)
+USAZ
+(5-0)
 Planeswalker (16)
 1 Chandra, Awakened Inferno
 2 Chandra, Torch of Defiance
@@ -6753,7 +6933,8 @@ Sideboard (15)
 1 Thought Distortion
 
 DECKLIST :
-IMAFIREHYDRANT (5-0)
+IMAFIREHYDRANT
+(5-0)
 Creature (12)
 4 Arboreal Grazer
 1 Baral, Chief of Compliance
@@ -6796,7 +6977,8 @@ Sideboard (15)
 2 Unravel the Aether
 
 DECKLIST :
-FRADELROCK (5-0)
+FRADELROCK
+(5-0)
 Planeswalker (3)
 3 Ugin, the Spirit Dragon
 Creature (26)
@@ -6829,7 +7011,8 @@ Sideboard (15)
 3 Tireless Tracker
 
 DECKLIST :
-ARCTICMOON (5-0)
+ARCTICMOON
+(5-0)
 Creature (31)
 4 Elvish Mystic
 4 Ghalta, Primal Hunger
@@ -6859,7 +7042,8 @@ Sideboard (15)
 3 Shifting Ceratops
 
 DECKLIST :
-KODIAMONDS (5-0)
+KODIAMONDS
+(5-0)
 Planeswalker (3)
 2 Liliana, the Last Hope
 1 Vraska, Golgari Queen
@@ -6906,7 +7090,8 @@ Sideboard (15)
 1 Shifting Ceratops
 
 DECKLIST :
-ERALF_YAW (5-0)
+ERALF_YAW
+(5-0)
 Planeswalker (9)
 1 Jace, Wielder of Mysteries
 1 Kaya, Orzhov Usurper
@@ -6951,7 +7136,8 @@ Sideboard (15)
 1 Yawgmoth's Vile Offering
 
 DECKLIST :
-TRAMPOLINETALES (5-0)
+TRAMPOLINETALES
+(5-0)
 Creature (21)
 4 Bomat Courier
 4 Ghitu Lavarunner
@@ -6979,7 +7165,8 @@ Sideboard (15)
 4 Rampaging Ferocidon
 
 DECKLIST :
-THEADONIS (5-0)
+THEADONIS
+(5-0)
 Planeswalker (11)
 4 Chandra, Torch of Defiance
 2 Kiora, Behemoth Beckoner
@@ -7018,7 +7205,8 @@ Sideboard (15)
 2 Rakdos's Return
 
 DECKLIST :
-GASOTAMU (5-0)
+GASOTAMU
+(5-0)
 Planeswalker (3)
 3 Liliana, Untouched by Death
 Creature (26)
@@ -7054,7 +7242,8 @@ Sideboard (15)
 1 Scrapheap Scrounger
 
 DECKLIST :
-ZACKWITHAK (5-0)
+ZACKWITHAK
+(5-0)
 Planeswalker (2)
 2 Liliana, the Last Hope
 Creature (22)
@@ -7097,7 +7286,8 @@ Sideboard (15)
 1 Vraska's Contempt
 
 DECKLIST :
-TIMR0D (5-0)
+TIMR0D
+(5-0)
 Planeswalker (2)
 2 Domri, Anarch of Bolas
 Creature (32)
@@ -7132,7 +7322,8 @@ Sideboard (15)
 2 Scavenging Ooze
 
 DECKLIST :
-SEBASTIANPOZZO (5-0)
+SEBASTIANPOZZO
+(5-0)
 Planeswalker (3)
 3 Chandra, Torch of Defiance
 Creature (20)
@@ -7165,7 +7356,8 @@ Sideboard (15)
 2 Tormod's Crypt
 
 DECKLIST :
-MONTRE82 (5-0)
+MONTRE82
+(5-0)
 Planeswalker (6)
 2 Liliana of the Dark Realms
 2 Liliana, Death's Majesty
@@ -7200,7 +7392,8 @@ Sideboard (15)
 1 Thought Distortion
 
 DECKLIST :
-KREZT (5-0)
+KREZT
+(5-0)
 Creature (26)
 1 Gifted Aetherborn
 4 Lotleth Troll
@@ -7239,7 +7432,8 @@ Sideboard (15)
 1 Witch's Vengeance
 
 DECKLIST :
-KANISTER (5-0)
+KANISTER
+(5-0)
 Creature (18)
 4 Eidolon of the Great Revel
 2 Ghitu Lavarunner
@@ -7270,7 +7464,8 @@ Sideboard (15)
 3 Smash to Smithereens
 
 DECKLIST :
-SOME1RANDOM (5-0)
+SOME1RANDOM
+(5-0)
 Creature (29)
 4 Bonecrusher Giant
 4 Elvish Mystic
@@ -7304,7 +7499,8 @@ Sideboard (15)
 2 Scavenging Ooze
 
 DECKLIST :
-ANDYC1986 (5-0)
+ANDYC1986
+(5-0)
 Planeswalker (4)
 2 Chandra, Torch of Defiance
 2 Xenagos, the Reveler
@@ -7339,7 +7535,8 @@ Sideboard (15)
 3 Scavenging Ooze
 
 DECKLIST :
-AYZKUB_ (5-0)
+AYZKUB_
+(5-0)
 Planeswalker (4)
 4 Sorin, Imperious Bloodlord
 Creature (23)
@@ -7368,7 +7565,8 @@ Sideboard (15)
 3 Ritual of Soot
 
 DECKLIST :
-SIMPLEMATH (5-0)
+SIMPLEMATH
+(5-0)
 Creature (28)
 1 Anafenza, Kin-Tree Spirit
 1 Bygone Bishop
@@ -7411,7 +7609,8 @@ Sideboard (15)
 2 Remorseful Cleric
 
 DECKLIST :
-KURUSU (5-0)
+KURUSU
+(5-0)
 Creature (32)
 1 Biomancer's Familiar
 1 Corridor Monitor
@@ -7458,7 +7657,8 @@ Sideboard (15)
 1 Wicked Wolf
 
 DECKLIST :
-EHEH_DUDE (5-0)
+EHEH_DUDE
+(5-0)
 Creature (34)
 4 Foundry Street Denizen
 4 Goblin Instigator
@@ -7487,7 +7687,8 @@ Sideboard (15)
 3 Volley Veteran
 
 DECKLIST :
-XERK (5-0)
+XERK
+(5-0)
 Creature (7)
 3 Fae of Wishes
 1 The Scarab God
@@ -7534,7 +7735,8 @@ Sideboard (15)
 1 Unmoored Ego
 
 DECKLIST :
-WAYSIDE321 (5-0)
+WAYSIDE321
+(5-0)
 Creature (18)
 4 Adanto Vanguard
 2 Eidolon of Countless Battles
@@ -7564,7 +7766,8 @@ Sideboard (14)
 3 Silkwrap
 
 DECKLIST :
-PAN_SARIN (5-0)
+PAN_SARIN
+(5-0)
 Planeswalker (7)
 2 Gideon of the Trials
 3 Gideon, Ally of Zendikar
@@ -7609,7 +7812,8 @@ Sideboard (15)
 2 Rest in Peace
 
 DECKLIST :
-CRAZYBALOTH (5-0)
+CRAZYBALOTH
+(5-0)
 Planeswalker (4)
 2 Chandra, Torch of Defiance
 2 Liliana, the Last Hope
@@ -7645,7 +7849,8 @@ Sideboard (15)
 3 Sweltering Suns
 
 DECKLIST :
-MRZARUKAI (5-0)
+MRZARUKAI
+(5-0)
 Creature (29)
 4 Benalish Marshal
 1 Cavalry Pegasus
@@ -7682,7 +7887,8 @@ Sideboard (15)
 2 Sundering Growth
 
 DECKLIST :
-PASDEJAMBON (5-0)
+PASDEJAMBON
+(5-0)
 Creature (28)
 4 Elvish Mystic
 4 Llanowar Elves
@@ -7716,7 +7922,8 @@ Sideboard (15)
 2 Reclamation Sage
 
 DECKLIST :
-THRUNTHELASTTROLL (5-0)
+THRUNTHELASTTROLL
+(5-0)
 Creature (28)
 4 Bloodsoaked Champion
 3 Drana, Liberator of Malakir
@@ -7746,7 +7953,8 @@ Sideboard (15)
 1 Noxious Grasp
 
 DECKLIST :
-SIXTH (5-0)
+SIXTH
+(5-0)
 Planeswalker (3)
 3 Chandra, Torch of Defiance
 Creature (27)
@@ -7782,7 +7990,8 @@ Sideboard (15)
 2 Shapers' Sanctuary
 
 DECKLIST :
-NABENABETK (5-0)
+NABENABETK
+(5-0)
 Planeswalker (3)
 3 Chandra, Torch of Defiance
 Creature (23)
@@ -7810,7 +8019,8 @@ Sideboard (15)
 2 Fry
 
 DECKLIST :
-PASKARDI (5-0)
+PASKARDI
+(5-0)
 Creature (34)
 3 Brazen Borrower
 4 Empyrean Eagle
@@ -7841,7 +8051,8 @@ Sideboard (15)
 2 Settle the Wreckage
 
 DECKLIST :
-TOASTXP (5-0)
+TOASTXP
+(5-0)
 Creature (25)
 4 Burning-Tree Emissary
 4 Fanatical Firebrand
@@ -7867,7 +8078,8 @@ Sideboard (15)
 4 Volley Veteran
 
 DECKLIST :
-SOME1RANDOM (5-0)
+SOME1RANDOM
+(5-0)
 Planeswalker (2)
 2 Liliana, the Last Hope
 Creature (20)
@@ -7912,7 +8124,8 @@ Sideboard (15)
 1 Shifting Ceratops
 
 DECKLIST :
-KEIESU (5-0)
+KEIESU
+(5-0)
 Creature (33)
 4 Cloudfin Raptor
 4 Gadwick, the Wizened
@@ -7947,12 +8160,10 @@ Pioneer Preliminary
 JANUARY
 1
 2020
-JANUARY
-2
-2020
 
 DECKLIST :
-PATXI (5-0)
+PATXI
+(5-0)
 Creature (35)
 4 Burning-Tree Emissary
 4 Elvish Mystic
@@ -7981,7 +8192,8 @@ Sideboard (15)
 3 Shapers' Sanctuary
 
 DECKLIST :
-STARFAERY (5-0)
+STARFAERY
+(5-0)
 Planeswalker (1)
 1 Ral, Storm Conduit
 Creature (9)
@@ -8021,7 +8233,8 @@ Sideboard (15)
 1 Ugin, the Spirit Dragon
 
 DECKLIST :
-FELIDER (5-0)
+FELIDER
+(5-0)
 Creature (24)
 4 Bloodsoaked Champion
 4 Dread Wanderer
@@ -8051,7 +8264,8 @@ Sideboard (15)
 3 Ultimate Price
 
 DECKLIST :
-CHILLEDADED (4-1)
+CHILLEDADED
+(4-1)
 Planeswalker (3)
 3 Chandra, Torch of Defiance
 Creature (22)
@@ -8082,7 +8296,8 @@ Sideboard (15)
 4 Tormod's Crypt
 
 DECKLIST :
-HLUCA (4-1)
+HLUCA
+(4-1)
 Creature (25)
 4 Brazen Borrower
 4 Dimensional Infiltrator
@@ -8116,7 +8331,8 @@ Sideboard (15)
 1 Surge of Righteousness
 
 DECKLIST :
-GALLATIN (4-1)
+GALLATIN
+(4-1)
 Planeswalker (2)
 2 Chandra, Torch of Defiance
 Creature (23)
@@ -8145,7 +8361,8 @@ Sideboard (15)
 4 Smash to Smithereens
 
 DECKLIST :
-REBEL96 (4-1)
+REBEL96
+(4-1)
 Creature (25)
 4 Bloodsoaked Champion
 2 Bone Picker
@@ -8176,7 +8393,8 @@ Sideboard (15)
 1 Witch's Vengeance
 
 DECKLIST :
-MAGIC_GURU11 (4-1)
+MAGIC_GURU11
+(4-1)
 Creature (13)
 4 Arboreal Grazer
 1 Emrakul, the Promised End
@@ -8216,7 +8434,8 @@ Sideboard (15)
 1 Ugin, the Spirit Dragon
 
 DECKLIST :
-EBLASTER (4-1)
+EBLASTER
+(4-1)
 Creature (17)
 2 Dreadhorde Arcanist
 4 Favored Hoplite
@@ -8249,7 +8468,8 @@ Sideboard (15)
 3 Valorous Stance
 
 DECKLIST :
-7720 (4-1)
+7720
+(4-1)
 Planeswalker (3)
 3 Ugin, the Spirit Dragon
 Creature (26)
@@ -8282,7 +8502,8 @@ Sideboard (15)
 2 Tireless Tracker
 
 DECKLIST :
-MOYASHI0904 (4-1)
+MOYASHI0904
+(4-1)
 Planeswalker (3)
 3 Chandra, Torch of Defiance
 Creature (23)
@@ -8310,7 +8531,8 @@ Sideboard (15)
 4 Leyline of the Void
 
 DECKLIST :
-TRIOSK (4-1)
+TRIOSK
+(4-1)
 Creature (28)
 2 Decimator of the Provinces
 4 Gurmag Angler
@@ -8345,7 +8567,8 @@ Sideboard (15)
 2 Thoughtseize
 
 DECKLIST :
-ODERUS URUNGUS (4-1)
+ODERUS URUNGUS
+(4-1)
 Creature (30)
 4 Elvish Mystic
 3 Ghalta, Primal Hunger
@@ -8380,7 +8603,8 @@ Sideboard (15)
 1 Ripjaw Raptor
 
 DECKLIST :
-_INGLES_ (3-2)
+_INGLES_
+(3-2)
 Planeswalker (3)
 3 Chandra, Torch of Defiance
 Creature (24)
@@ -8412,7 +8636,8 @@ Sideboard (15)
 4 Scab-Clan Berserker
 
 DECKLIST :
-KAZUGA (3-2)
+KAZUGA
+(3-2)
 Planeswalker (3)
 3 Ugin, the Spirit Dragon
 Creature (26)
@@ -8444,7 +8669,8 @@ Sideboard (15)
 3 Tireless Tracker
 
 DECKLIST :
-KATUO079595 (3-2)
+KATUO079595
+(3-2)
 Planeswalker (3)
 3 Teferi, Time Raveler
 Creature (31)
@@ -8479,7 +8705,8 @@ Sideboard (15)
 2 Vivien, Arkbow Ranger
 
 DECKLIST :
-VILLABOAL (3-2)
+VILLABOAL
+(3-2)
 Creature (20)
 4 Bonecrusher Giant
 4 Eidolon of the Great Revel
@@ -8511,7 +8738,8 @@ Sideboard (15)
 3 Searing Blood
 
 DECKLIST :
-RYUJI (3-2)
+RYUJI
+(3-2)
 Creature (11)
 4 Arclight Phoenix
 2 Brazen Borrower
@@ -8551,7 +8779,8 @@ Sideboard (15)
 1 Saheeli, Sublime Artificer
 
 DECKLIST :
-_ALICE1986_ (3-2)
+_ALICE1986_
+(3-2)
 Creature (33)
 3 Brazen Borrower
 4 Empyrean Eagle
@@ -8583,7 +8812,8 @@ Sideboard (15)
 2 Settle the Wreckage
 
 DECKLIST :
-ROONEY56 (3-2)
+ROONEY56
+(3-2)
 Creature (33)
 4 Elvish Mystic
 4 Ghalta, Primal Hunger
@@ -8612,7 +8842,8 @@ Sideboard (15)
 2 Vraska, Golgari Queen
 
 DECKLIST :
-FATE_KURO (3-2)
+FATE_KURO
+(3-2)
 Planeswalker (3)
 3 Teferi, Time Raveler
 Creature (31)
@@ -8646,7 +8877,8 @@ Sideboard (15)
 2 Mystical Dispute
 
 DECKLIST :
-URZATHEPLANESWALKER (3-2)
+URZATHEPLANESWALKER
+(3-2)
 Creature (29)
 4 Brazen Borrower
 4 Gadwick, the Wizened
@@ -8673,7 +8905,8 @@ Sideboard (15)
 3 Summary Dismissal
 
 DECKLIST :
-_FALCON_ (3-2)
+_FALCON_
+(3-2)
 Planeswalker (4)
 4 Domri, Anarch of Bolas
 Creature (26)
@@ -8705,7 +8938,8 @@ Sideboard (15)
 2 Rekindling Phoenix
 
 DECKLIST :
-ILSECCO14 (3-2)
+ILSECCO14
+(3-2)
 Creature (28)
 4 Empyrean Eagle
 4 Mausoleum Wanderer
@@ -8737,7 +8971,8 @@ Sideboard (15)
 2 Spirit of the Labyrinth
 
 DECKLIST :
-XENOWAN (3-2)
+XENOWAN
+(3-2)
 Planeswalker (2)
 2 The Royal Scions
 Creature (21)
@@ -8776,7 +9011,8 @@ Sideboard (15)
 2 Magma Spray
 
 DECKLIST :
-BROKENWINGSS (3-2)
+BROKENWINGSS
+(3-2)
 Creature (28)
 1 Anafenza, Kin-Tree Spirit
 1 Bygone Bishop
@@ -8819,7 +9055,8 @@ Sideboard (15)
 2 Remorseful Cleric
 
 DECKLIST :
-GHERRITY (3-2)
+GHERRITY
+(3-2)
 Planeswalker (3)
 3 Chandra, Torch of Defiance
 Creature (22)
@@ -8850,7 +9087,8 @@ Sideboard (15)
 4 Tormod's Crypt
 
 DECKLIST :
-YOKAKENANA (3-2)
+YOKAKENANA
+(3-2)
 Planeswalker (3)
 3 Ugin, the Spirit Dragon
 Creature (26)
@@ -8883,7 +9121,8 @@ Sideboard (15)
 2 Tireless Tracker
 
 DECKLIST :
-SAKEIZUMO (3-2)
+SAKEIZUMO
+(3-2)
 Planeswalker (1)
 1 The Royal Scions
 Creature (11)
@@ -8921,7 +9160,8 @@ Sideboard (15)
 2 Sweltering Suns
 
 DECKLIST :
-RIZER (3-2)
+RIZER
+(3-2)
 Creature (26)
 4 Lotleth Troll
 4 Murderous Rider
@@ -8956,7 +9196,8 @@ Sideboard (15)
 4 Thoughtseize
 
 DECKLIST :
-SOULSTRONG (3-2)
+SOULSTRONG
+(3-2)
 Planeswalker (1)
 1 Vraska, Golgari Queen
 Creature (24)
@@ -8998,7 +9239,8 @@ Sideboard (15)
 4 Thoughtseize
 
 DECKLIST :
-MULLDRIFTER (3-2)
+MULLDRIFTER
+(3-2)
 Creature (22)
 4 Bomat Courier
 4 Bonecrusher Giant
@@ -9029,7 +9271,8 @@ Sideboard (15)
 4 Roast
 
 DECKLIST :
-FROZENIAN (3-2)
+FROZENIAN
+(3-2)
 Creature (30)
 4 Bonecrusher Giant
 4 Elvish Mystic
@@ -9061,7 +9304,8 @@ Sideboard (15)
 1 Xenagos, the Reveler
 
 DECKLIST :
-SHUNOSE00 (3-2)
+SHUNOSE00
+(3-2)
 Planeswalker (3)
 3 Chandra, Torch of Defiance
 Creature (23)
@@ -9093,7 +9337,8 @@ Sideboard (15)
 4 Rampaging Ferocidon
 
 DECKLIST :
-PAKA11 (3-2)
+PAKA11
+(3-2)
 Creature (28)
 1 Anafenza, Kin-Tree Spirit
 1 Bygone Bishop
@@ -9136,7 +9381,8 @@ Sideboard (15)
 2 Remorseful Cleric
 
 DECKLIST :
-GRIZZLYBARRETT (3-2)
+GRIZZLYBARRETT
+(3-2)
 Planeswalker (2)
 2 Domri Rade
 Creature (27)
@@ -9169,7 +9415,8 @@ Sideboard (15)
 2 Questing Beast
 
 DECKLIST :
-THEHUDAT (3-2)
+THEHUDAT
+(3-2)
 Planeswalker (2)
 2 Gideon, Ally of Zendikar
 Creature (30)
@@ -9204,7 +9451,8 @@ Sideboard (15)
 3 Rest in Peace
 
 DECKLIST :
-LIGHDAR (3-2)
+LIGHDAR
+(3-2)
 Planeswalker (3)
 3 Chandra, Torch of Defiance
 Creature (23)
