@@ -2,11 +2,11 @@ DECK Mono Black Aggro
 RULES :
 MD :
 Bloodsoaked Champion in
-Knight of Ebon Legion in
+Knight of the Ebon Legion in
 Murderous Rider in
-Locthwain Castle in
+Castle Locthwain in
 Thoughtseize in
-10 swamp <
+10 Swamp <
 SB :
 None
 
