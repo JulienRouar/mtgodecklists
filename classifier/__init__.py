@@ -1,3 +1,3 @@
 # -*- coding: utf-8 -*-
 
-from .classifier import ClassifierExpertRules
+from .classifier import ClassifierExpertRules, ExpertRule

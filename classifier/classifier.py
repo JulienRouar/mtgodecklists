@@ -1,4 +1,7 @@
 # -*- coding: utf-8 -*-
+import sys
+root_path = 'C:/Users/julie/mtgodecklists/'
+sys.path.append(root_path)
 
 from reader import Reader
 from collections import OrderedDict
@@ -36,7 +39,6 @@ class ClassifierExpertRules():
         res = pd.DataFrame([], index = range(len(decklists['MDs'])), columns = [])
         for deck_rules in self.expert_rules:
             res[deck_rules['archetype']] = [[] for i in res.index]
-            print('archetype :', deck_rules['archetype'], len(deck_rules['expert_rules']))
             for expert_rule in deck_rules['expert_rules']:
                 for i, response in enumerate(expert_rule.call(decklists)):
                     res[deck_rules['archetype']].loc[i] += [response]
@@ -45,11 +47,12 @@ class ClassifierExpertRules():
     def scoresExpertRules(self, __predictExpertRules):
         return __predictExpertRules.applymap(lambda x:sum(x)/len(x))
     
-    def archetypesExpertRules(self, __scoresExpertRules, tol = .9):
-        archetypes = __scoresExpertRules.applymap(lambda x:__scoresExpertRules.columns[np.where((x>tol)&(x==np.max(x)))])
-        archetypes = archetypes.applymap(lambda x:'tol' if len(x)==0 else x[0])
-        archetypes = archetypes.applymap(lambda x:'tie' if type(x)==list else x)
-        return archetypes
+    def archetypesExpertRules(self, __scoresExpertRules, tol = .5):
+        archetypes = __scoresExpertRules#.applymap(lambda x:__scoresExpertRules.columns[np.where((x>=tol)&(x==np.max(x)))])
+        archetypes = archetypes.applymap(lambda x:'tol' if x<tol else x)
+        #archetypes = archetypes.applymap(lambda x:'tie' if type(x)==list else x)
+        archetypes = archetypes.apply(lambda x: archetypes.columns[np.where(x!='tol')], axis=1)
+        return list(archetypes)
     
 class ExpertRule():
     
@@ -89,22 +92,38 @@ class ExpertRule():
     
 if __name__ == '__main__':
     filenames_decklists_txt = [#'decklists_Modern_01_01_2020_01_05_2020',
-                               'decklists_Pioneer_01_01_2020_01_05_2020',
+                               #'decklists_Pioneer_01_01_2020_01_05_2020',
                                #'decklists_Modern_01_06_2020_01_11_2020',
                                'decklists_Pioneer_01_06_2020_01_11_2020']
     filename_rules_txt = 'ExpertRulesPioneer'
     
-    reader = Reader('C:/Users/julie/mtgodecklists/')
+    reader = Reader(root_path)
     res = reader.readTxtTournamentsFilenames(filenames_decklists_txt)
+    csv_output = pd.DataFrame(None)
     
     classifierExpertRules = ClassifierExpertRules('C:/Users/julie/mtgodecklists/')
     classifierExpertRules.fitExpertRules(filename_rules_txt)
     
+    cols_output = []
     for i in range(len(res)):
         for j in range(len(res[i])):
             tmp = classifierExpertRules.predictExpertRules(res[i][j])
             tmp2 = classifierExpertRules.scoresExpertRules(tmp)
-            res[i][j]['archetypes'] = classifierExpertRules.archetypesExpertRules(tmp2)
+            res[i][j]['archetypes'] = [list(_)if len(list(_))!=0 else ['Other'] for _ in classifierExpertRules.archetypesExpertRules(tmp2,
+                                           tol = .7)]
+            cols_output += [res[i][j]['format'] + ' ' + res[i][j]['type'] + ' ' + res[i][j]['date']]
+            csv_output = pd.concat([csv_output, pd.DataFrame(res[i][j]['archetypes'])], axis = 1)
+    csv_output.columns = cols_output
+    
+    tmp = ''
+    for _ in filenames_decklists_txt:
+        tmp += _
+    
+    csv_output[csv_output == None] = 'Other'
+    csv_output.to_csv(root_path + 'data/archetypes_' + tmp + '.csv', index = None, header = True,
+                      sep = ';')
+    
+    
     
     
     

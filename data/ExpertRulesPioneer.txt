@@ -3,10 +3,25 @@ RULES :
 MD :
 Bloodsoaked Champion in
 Knight of the Ebon Legion in
+Scrapheap Scrounger in
+Rankle, Master of Pranks in
 Murderous Rider in
 Castle Locthwain in
 Thoughtseize in
+Mutavault in
+Fatal Push in
+Spawn of Mayhem in
 10 Swamp <
+SB :
+None
+
+DECK Vampires
+RULES :
+MD :
+Champion of Dusk in
+Knight of the Ebon Legion in
+Sorin, Imperious Bloodlord in
+Gifted Aetherborn in
 SB :
 None
 
@@ -14,7 +29,201 @@ DECK Bant Spirits
 RULES :
 MD :
 Collected Company in
-4 Supreme Phantom =
-4 Empyrean Eagle =
+Supreme Phantom in
+Empyrean Eagle in
+Botanical Sanctum in
+Temple Garden in
+Breeding Pool in
+SB :
+None
+
+DECK UW Spirits
+RULES :
+MD :
+Mutavault in
+Supreme Phantom in
+Empyrean Eagle in
+Brazen Borrower in
+Nebelgast Heraald in
+5 Island <
+2 Plains <
+SB :
+None
+
+DECK Arclight Phoenix
+RULES :
+MD :
+Arclight Phoenix in
+Opt in
+Chart a Course in
+Izzet Charm in
+SB :
+None
+
+DECK Simic Ramp
+RULES :
+MD :
+Arboreal Grazer in
+Uro, Titan of Nature's Wrath in
+Nissa, Who Shakes the World in
+Hydroid Krasis in
+SB :
+None
+
+DECK Mono Green Ramp
+RULES :
+MD :
+Arboreal Grazer in
+World Breaker in
+Nissa, Who Shakes the World in
+Cavalier of Thorns in
+SB :
+None
+
+DECK Elves
+RULES :
+MD :
+Llanowar Elves in
+Elvish Mystic in
+Elvish Visionary in
+Shaman of the Pack in
+SB :
+None
+
+DECK Heliod Ballista
+RULES :
+MD :
+Walking Ballista in
+Heliod, Sun-Crowned in
+10 Plains <
+SB :
+None
+
+DECK Scales
+RULES :
+MD : 
+Hardened Scales in
+Nissa, Voice of Zendikar in
+Walking Ballista in
+SB :
+None
+
+DECK Rally the Ancestors
+RULES :
+MD :
+Rally the Ancestors in
+Zulaport Cutthroat in
+SB :
+None
+
+DECK Underworld Lotus
+RULES :
+MD :
+Underworld Breach in
+Chronic Flooding in
+Lotus Field in
+SB :
+None
+
+DECK Combo Lotus
+RULES :
+MD :
+Fae of Wishes) in
+Dig Through Time in
+Lotus Field in
+SB :
+None
+
+DECK UB Control
+RULES :
+MD :
+Dig Through Time in
+Vraska's Contempt in
+Temple of Deceit in
+SB :
+None
+
+DECK UW Control
+RULES :
+MD :
+Azorius Charm in
+Teferi, Time Raveler in
+Supreme Verdict in
+Censor in
+3 Island <
+3 Plains <
+SB :
+None
+
+DECK Niv-Mizzet Reborn
+RULES :
+MD :
+Niv-Mizzet Reborn in
+Teferi, Time Raveler in
+Bring to Light in
+Sylvan Caryatid in
+Uro, Titan of Nature's Wrath in
+Mana Confluence in
+Opulent Palace in
+Siege Rhino in
+SB :
+None
+
+DECK Chonky Red
+RULES :
+MD :
+Soul-Scar Mage in
+Goblin Chainwhirler in
+Bonecrusher Giant in
+Glorybringer in
+Goblin Rabblemaster in
+Chandra, Torch of Defiance in
+10 Mountain <
+SB :
+None
+
+DECK GB Delirium
+RULES :
+MD :
+Grim Flayer in
+Tireless Tracker in
+Thoughtseize in
+Traverse the Ulvenwald in
+Abrupt Decay in
+Fatal Push in
+Blooming Marsh in
+SB :
+None
+
+DECK Boros Burn
+RULES :
+MD :
+Boros Charm in
+Monastery Swiftspear in
+Skewer the Critics in
+SB :
+None
+
+DECK Green Stompy
+RULES :
+MD :
+Lovestruck Beast in
+Ghalta, Primal Hunger in
+Surrak, the Hunt Caller in
+Llanowar Elves in
+Elvish Mystic in
+Steel Leaf Champion in
+SB :
+None
+
+DECK UR Ensoul
+RULES :
+MD :
+Stonecoil Serpent in
+Shrapnel Blast in
+Ensoul Artifact in
+Darksteel Citadel in
+Emry, Lurker of the Loch in
+Skilled Animator in
 SB :
 None
