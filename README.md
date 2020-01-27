@@ -24,9 +24,6 @@ SB :
 - search at least n exemplars cards in the MD : <n> <card_name> <  
 - search at maximum n exemplars cards in the MD : <n> <card_name> >  
 Number of expert rules matched is counted then :  
--
--
--
 
 ## Classify by Machine Learning
 
