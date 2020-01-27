@@ -12,8 +12,7 @@ https://magic.wizards.com/en/content/deck-lists-magic-online-products-game-info
 
 ### Building of Expert Rules
 
-Expert rules are fixed rules to make classification, within the Magic : The Gathering context, following process will be built :  
-- structure :  
+Expert rules are fixed rules to make classification, within the Magic : The Gathering context, following process will be built as :  
 DECK <deck_name>  
 RULES :  
 MD :  
