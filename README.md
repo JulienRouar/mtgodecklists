@@ -23,7 +23,10 @@ SB :
 - search n exemplars card in the MD : <n> <card_name> =  
 - search at least n exemplars cards in the MD : <n> <card_name> <  
 - search at maximum n exemplars cards in the MD : <n> <card_name> >  
-Number of expert rules matched is counted then :  
+  
+### Prediction of archetype
+  
+Number of expert rules matched is counted to choose the deck, if number of matched rules is too low, deck is "Other" instead of the archetype with the higghest score.
 
 ## Classify by Machine Learning
 
