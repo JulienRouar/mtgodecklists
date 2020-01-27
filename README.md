@@ -16,9 +16,9 @@ Expert rules are fixed rules to make classification, within the Magic : The Gath
 DECK <deck_name>  
 RULES :  
 MD :  
-<rules>  
+<rules_for_md>  
 SB :  
-<rules>  
+<rules_for_sb>  
 - search a card in the MD : <card_name> in  
 - search n exemplars card in the MD : <n> <card_name> =  
 - search at least n exemplars cards in the MD : <n> <card_name> <  
