@@ -91,11 +91,12 @@ class ExpertRule():
         return res
     
 if __name__ == '__main__':
-    filenames_decklists_txt = [#'decklists_Modern_01_01_2020_01_05_2020',
+    filenames_decklists_txt = ["decklists_Standar_04_18_2020_04_30_2020"]
+                                #'decklists_Modern_01_01_2020_01_05_2020',
                                #'decklists_Pioneer_01_01_2020_01_05_2020',
                                #'decklists_Modern_01_06_2020_01_11_2020',
-                               'decklists_Pioneer_01_06_2020_01_11_2020']
-    filename_rules_txt = 'ExpertRulesPioneer'
+                               #'decklists_Pioneer_01_06_2020_01_11_2020']
+    filename_rules_txt = 'ExpertRulesCompanion'
     
     reader = Reader(root_path)
     res = reader.readTxtTournamentsFilenames(filenames_decklists_txt)
@@ -109,7 +110,8 @@ if __name__ == '__main__':
         for j in range(len(res[i])):
             tmp = classifierExpertRules.predictExpertRules(res[i][j])
             tmp2 = classifierExpertRules.scoresExpertRules(tmp)
-            res[i][j]['archetypes'] = [list(_)if len(list(_))!=0 else ['Other'] for _ in classifierExpertRules.archetypesExpertRules(tmp2,
+            res[i][j]['archetypes'] = [list(_)if len(list(_))!=0 else ['Other']
+                                        for _ in classifierExpertRules.archetypesExpertRules(tmp2,
                                            tol = .7)]
             cols_output += [res[i][j]['format'] + ' ' + res[i][j]['type'] + ' ' + res[i][j]['date']]
             csv_output = pd.concat([csv_output, pd.DataFrame(res[i][j]['archetypes'])], axis = 1)

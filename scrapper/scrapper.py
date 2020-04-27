@@ -67,7 +67,11 @@ class Scrapper():
         
     def gatherLinks(self):
         self.__titles = [ element.text for element in self.driver.find_elements_by_class_name('title') ]
-        self.__dates = [ element.text for element in self.driver.find_elements_by_class_name('date') ]
+        months = [ element.text for element in self.driver.find_elements_by_class_name('month') ]
+        days = [ element.text for element in self.driver.find_elements_by_class_name('day') ]
+        years = [ element.text for element in self.driver.find_elements_by_class_name('year') ]
+        #self.__dates = [ element.text for element in self.driver.find_elements_by_class_name('date') ]
+        self.__dates = [ months[i] + '_' + days[i] + '_' + years[i] for i in range(len(self.__titles))] ; print(self.__dates)
         elems = self.driver.find_elements_by_css_selector('div.article-item-extended >a')
         self.__tournament_links = [ element.get_attribute("href") for element in elems ]
     
@@ -124,6 +128,7 @@ class Scrapper():
     
     def saveParserDeckList(self, dict_decklist):
         import pickle
+        pass
     
     def textDeckList(self, str_decklist):
         split_decklist = str_decklist.split('\n')
@@ -197,26 +202,34 @@ class Scrapper():
         pass
     
 if __name__ == '__main__':
-    scrapper = Scrapper('C:/Users/julie/mtgodecklists/',
-            {'from_date' : '01/01/2020', 'to_date' : '01/05/2020', 'research': 'Modern'})
-    scrapper.run()
-    scrapper.stop()
-    scrapper.writeFileText(scrapper.decklists, scrapper.metas)
+# =============================================================================
+#     scrapper = Scrapper('C:/Users/julie/mtgodecklists/',
+#             {'from_date' : '01/01/2020', 'to_date' : '01/05/2020', 'research': 'Modern'})
+#     scrapper.run()
+#     scrapper.stop()
+#     scrapper.writeFileText(scrapper.decklists, scrapper.metas)
+#     
+#     scrapper = Scrapper('C:/Users/julie/mtgodecklists/',
+#             {'from_date' : '01/01/2020', 'to_date' : '01/05/2020', 'research': 'Pioneer'})
+#     scrapper.run()
+#     scrapper.stop()
+#     scrapper.writeFileText(scrapper.decklists, scrapper.metas)
+#     
+#     scrapper = Scrapper('C:/Users/julie/mtgodecklists/',
+#             {'from_date' : '01/06/2020', 'to_date' : '01/11/2020', 'research': 'Modern'})
+#     scrapper.run()
+#     scrapper.stop()
+#     scrapper.writeFileText(scrapper.decklists, scrapper.metas)
+#     
+#     scrapper = Scrapper('C:/Users/julie/mtgodecklists/',
+#             {'from_date' : '01/06/2020', 'to_date' : '01/11/2020', 'research': 'Pioneer'})
+#     scrapper.run()
+#     scrapper.stop()
+#     scrapper.writeFileText(scrapper.decklists, scrapper.metas)
+# =============================================================================
     
     scrapper = Scrapper('C:/Users/julie/mtgodecklists/',
-            {'from_date' : '01/01/2020', 'to_date' : '01/05/2020', 'research': 'Pioneer'})
-    scrapper.run()
-    scrapper.stop()
-    scrapper.writeFileText(scrapper.decklists, scrapper.metas)
-    
-    scrapper = Scrapper('C:/Users/julie/mtgodecklists/',
-            {'from_date' : '01/06/2020', 'to_date' : '01/11/2020', 'research': 'Modern'})
-    scrapper.run()
-    scrapper.stop()
-    scrapper.writeFileText(scrapper.decklists, scrapper.metas)
-    
-    scrapper = Scrapper('C:/Users/julie/mtgodecklists/',
-            {'from_date' : '01/06/2020', 'to_date' : '01/11/2020', 'research': 'Pioneer'})
+             {'from_date' : '04/18/2020', 'to_date' : '04/30/2020', 'research': 'Standar'})
     scrapper.run()
     scrapper.stop()
     scrapper.writeFileText(scrapper.decklists, scrapper.metas)

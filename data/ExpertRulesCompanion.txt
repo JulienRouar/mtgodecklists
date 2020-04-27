@@ -1,0 +1,69 @@
+DECK Lutri, the Spellchaser
+RULES :
+MD :
+None
+SB :
+1 Lutri, the Spellchaser =
+
+DECK Umori, the Collector
+RULES :
+MD :
+None
+SB :
+1 Umori, the Collector =
+
+DECK Gyruda, Doom of Depths
+RULES :
+MD :
+None
+SB :
+1 Gyruda, Doom of Depths =
+
+DECK Obosh, the Preypiercer
+RULES :
+MD :
+None
+SB :
+1 Obosh, the Preypiercer =
+
+DECK Keruga, the Macrosage
+RULES :
+MD :
+None
+SB :
+1 Keruga, the Macrosage =
+
+DECK Jegantha, the Wellspring
+RULES :
+MD :
+None
+SB :
+1 Jegantha, the Wellspring =
+
+DECK Kaheera, the Orphanguard
+RULES :
+MD :
+None
+SB :
+1 Kaheera, the Orphanguard =
+
+DECK Zirda, the Dawnwaker
+RULES :
+MD :
+None
+SB :
+1 Zirda, the Dawnwaker =
+
+DECK Lurrus of the Dream-Den
+RULES :
+MD :
+None
+SB :
+1 Lurrus of the Dream Den =
+
+DECK Yorion, Sky Nomad
+RULES :
+MD :
+None
+SB :
+1 Yorion, Sky Nomad =

@@ -1,0 +1,103 @@
+DECK Amulet Titan
+RULES :
+MD :
+Amulet of Vigor in
+Primeval Titan in
+Dryad of the Ilysian Grove in
+Simic Growth Chamber in
+Tolaria West in
+Summoner's Pact in
+Azusa, Lost but Seeking in
+Sakura-Tribe Scout in
+Once Upon a Time in
+SB :
+None
+
+DECK Red Prowess
+RULES :
+MD :
+Monastery Swiftspear in
+Soul-Scar Mage in
+Lava Dart in
+Bedlam Reveler in
+Light Up the Stage in
+Manamorphose in
+Mountain > 10
+Lava Spike in
+Lightning Bolt in
+SB :
+None
+
+
+DECK Dredge
+RULES :
+MD :
+Creeping Chill in
+Bloodghast in
+Stinkweed Imp in
+Prized Amalgam in
+Narcoameba in
+Cathartic Reunion in
+SB :
+None
+
+
+DECK UB Urza
+RULES :
+MD :
+Whir of Invention in
+Thopter Foundry in
+Sword of the Meek in
+Urza, Lord Artificier in
+Mishra's Bauble in
+Arctum's Astrolabe in
+SB :
+None
+
+
+DECK Jund
+RULES :
+MD :
+
+SB :
+None
+
+
+DECK UG Titan
+RULES :
+MD :
+
+SB :
+None
+
+
+DECK Bant Control
+RULES :
+MD :
+
+SB :
+None
+
+
+DECK
+RULES :
+MD :
+
+SB :
+None
+
+
+DECK
+RULES :
+MD :
+
+SB :
+None
+
+
+DECK
+RULES :
+MD :
+
+SB :
+None
