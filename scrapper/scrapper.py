@@ -3,16 +3,18 @@
 from selenium import webdriver
 from collections import OrderedDict
 from time import sleep
+from tqdm import tqdm
+import sys
 
 class Scrapper():
     
-    __slots__ = ('__personal_path', '__geckodriver', '__main_url', 'decklists', 'metas', '__card_types', 'params', 
+    __slots__ = ('__personal_path', '__geckodriver', '__main_url', 'decklists', 'metas', '__card_types', 'params', '__drop_leagues',
                  'driver', 
                  '__titles', '__dates', '__tournament_links',
                  '__names', '__scores', '__raw_decklists',
                  )    
     
-    def __init__(self, personal_path, params = None):
+    def __init__(self, personal_path, params = None, drop_leagues = True):
         super(Scrapper, self).__init__()
         self.__personal_path = personal_path
         self.__geckodriver = self.__personal_path + 'geckodriver-v0.26.0-win64/geckodriver.exe'
@@ -22,12 +24,16 @@ class Scrapper():
         self.__card_types = ['Creature', 'Sorcery', 'Instant', 'Artifact', 'Enchantement',
                              'Planeswalker', 'Tribal', 'Land']
         self.params = params
-        if self.params is None:
-            self.params = OrderedDict({'from_date' : '01/04/2020', 
-                                       'to_date' : '01/07/2020',
-                                       'research': 'Pioneer'})
-        elif type(self.params) != type(OrderedDict()):
+        if self.params['format'] =='Standard':
+            self.params['research'] = 'Standar' + ('' if self.params['type']=='' else ' ') + self.params['type']
+        if self.params['format'] =='Legacy':
+            self.params['research'] = 'Legac' + ('' if self.params['type']=='' else ' ') + self.params['type']
+        else:
+            self.params['research'] = self.params['format'] + ('' if self.params['type']=='' else ' ') + self.params['type']
+   
+        if type(self.params) != type(OrderedDict()):
             self.params = OrderedDict(self.params)
+        self.__drop_leagues = drop_leagues
         
     def connectBrowser(self):
         self.driver = webdriver.Firefox(executable_path = self.__geckodriver)
@@ -35,10 +41,10 @@ class Scrapper():
     def connectURL(self, url):
         self.driver.get(url)
         try:
-            sleep(.5)
-            class_button_agree = self.driver.find_element_by_class_name('button.agree')
+            sleep(1)
+            class_button_agree = self.driver.find_element_by_class_name('agree-button.eu-cookie-compliance-secondary-button')
             class_button_agree.click()
-            sleep(.5)
+            sleep(1)
         except:
             pass
         
@@ -55,13 +61,12 @@ class Scrapper():
         sleep(.5)
         
     def scrollerLinks(self):
-        class_see_more_archives = self.driver.find_element_by_class_name('see-more.see-more-article-listing-section')
         __next = True
         while __next:
             try:
-                class_see_more_archives.click()
                 class_see_more_archives = self.driver.find_element_by_class_name('see-more.see-more-article-listing-section')
-                sleep(.5)
+                class_see_more_archives.click()
+                sleep(2.5)
             except:
                 __next = False
         
@@ -71,9 +76,18 @@ class Scrapper():
         days = [ element.text for element in self.driver.find_elements_by_class_name('day') ]
         years = [ element.text for element in self.driver.find_elements_by_class_name('year') ]
         #self.__dates = [ element.text for element in self.driver.find_elements_by_class_name('date') ]
-        self.__dates = [ months[i] + '_' + days[i] + '_' + years[i] for i in range(len(self.__titles))] ; print(self.__dates)
+        self.__dates = [ months[i] + '_' + days[i] + '_' + years[i] for i in range(len(self.__titles))]
         elems = self.driver.find_elements_by_css_selector('div.article-item-extended >a')
         self.__tournament_links = [ element.get_attribute("href") for element in elems ]
+        if self.__drop_leagues:
+            ind = [] ; i = 0
+            while i < len(self.__titles):
+                if 'League' not in self.__titles[i]:
+                    ind += [i]
+                i += 1
+            self.__titles = [self.__titles[_] for _ in ind]
+            self.__dates = [self.__dates[_] for _ in ind]
+            self.__tournament_links = [self.__tournament_links[_] for _ in ind]
     
     def gatherDeckLists(self):
         class_deck_meta = [ element.text.split('\n')[0] for element in self.driver.find_elements_by_class_name('deck-meta') ]
@@ -156,9 +170,11 @@ class Scrapper():
         else:
             to_date = self.params['to_date']
         if filename is None:
-            filename = 'decklists_' + self.params['research'] + '_' + from_date + '_' + to_date
+            filename = 'decklists_' + self.params['format']+self.params['type'] + '_' + from_date + '_' + to_date
         with open(self.__personal_path+'data/'+filename+'.txt', 'w') as open_file:
-            open_file.write(self.params['research'] + ' ' + self.params['from_date'] + ' ' + self.params['to_date'])
+            open_file.write(self.params['research'] + ' ' + self.params['from_date'] + ' ' + self.params['to_date'] + '\n')
+            for link in self.__tournament_links:
+                open_file.write(link+'\n')
             for i in range(5):
                 open_file.write('\n')
             for i, title in enumerate(self.__titles):
@@ -186,13 +202,12 @@ class Scrapper():
         self.scrollerLinks()
         self.gatherLinks()
         
-        for tournament_link in self.__tournament_links:
+        for tournament_link in tqdm(self.__tournament_links):
             self.connectURL(tournament_link)
             self.gatherDeckLists()
-            #get names & scores too
             self.decklists += [self.readDeckList(self.__raw_decklists)]
             self.metas += [self.metaDeckList(self.__names, self.__scores)]
-            sleep(.5)
+            sleep(1)
         self.stop()
     
     def stop(self):
@@ -227,9 +242,11 @@ if __name__ == '__main__':
 #     scrapper.stop()
 #     scrapper.writeFileText(scrapper.decklists, scrapper.metas)
 # =============================================================================
-    
-    scrapper = Scrapper('C:/Users/julie/mtgodecklists/',
-             {'from_date' : '04/18/2020', 'to_date' : '04/30/2020', 'research': 'Standar'})
+    root_path = '/'.join(sys.path[0].split('\\')[:-1])+'/'
+    if 'mtgodecklists' not in root_path:
+        root_path += 'mtgodecklists/'
+    scrapper = Scrapper(root_path,
+             {'from_date' : '04/18/2020', 'to_date' : '05/01/2020', 'format': 'Standard', 'type':''})
     scrapper.run()
     scrapper.stop()
     scrapper.writeFileText(scrapper.decklists, scrapper.metas)

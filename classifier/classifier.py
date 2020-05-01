@@ -1,23 +1,30 @@
 # -*- coding: utf-8 -*-
-import sys
-root_path = 'C:/Users/julie/mtgodecklists/'
-sys.path.append(root_path)
 
-from reader import Reader
+import sys
 from collections import OrderedDict
 import pandas as pd
 import numpy as np
 
+root_path = '/'.join(sys.path[0].split('\\')[:-1])+'/'
+if 'mtgodecklists' not in root_path:
+    root_path += 'mtgodecklists/'
+sys.path.append(root_path)
+from reader import Reader, formater
+
 class ClassifierExpertRules():
     
-    __slots__ = ('__personal_path',
+    __slots__ = ('__personal_path', '__formater',
                  'expert_rules',
                  )    
     
-    def __init__(self, personal_path):
+    def __init__(self, personal_path, _formater = True):
         super(ClassifierExpertRules, self).__init__()
         self.__personal_path = personal_path
         self.expert_rules = []
+        if _formater:
+            self.__formater = formater
+        else:
+            self.__formater = lambda x: x
         
     def fitExpertRules(self, filename_rules_txt):
         with open(self.__personal_path+'data/'+filename_rules_txt+'.txt', 'r') as open_file:
@@ -32,7 +39,7 @@ class ClassifierExpertRules():
                 elif tmp[i] == 'SB :':
                     __board = 'SB'
                 elif (tmp[i] != 'None') & (tmp[i] != ''):
-                    deck_rules['expert_rules'] += [ExpertRule(__board, tmp[i])]
+                    deck_rules['expert_rules'] += [ExpertRule(__board, tmp[i], self.__formater)]
             self.expert_rules += [deck_rules]
 
     def predictExpertRules(self, decklists):
@@ -54,20 +61,48 @@ class ClassifierExpertRules():
         archetypes = archetypes.apply(lambda x: archetypes.columns[np.where(x!='tol')], axis=1)
         return list(archetypes)
     
+    def run(self, reader_tournaments_filenames, filenames_decklists_txt, tol = .7, to_csv = True):
+        csv_output = pd.DataFrame(None) ; cols_output = []
+        for i in range(len(reader_tournaments_filenames)):
+            for j in range(len(reader_tournaments_filenames[i])):
+                tmp = self.predictExpertRules(reader_tournaments_filenames[i][j])
+                tmp2 = self.scoresExpertRules(tmp)
+                reader_tournaments_filenames[i][j]['archetypes'] = [list(_)if len(list(_))!=0 else ['Other']
+                                            for _ in self.archetypesExpertRules(tmp2,
+                                               tol = .7)]
+                cols_output += [reader_tournaments_filenames[i][j]['format'] + ' ' +
+                                reader_tournaments_filenames[i][j]['type'] + ' ' +
+                                reader_tournaments_filenames[i][j]['date']]
+                csv_output = pd.concat([csv_output, pd.DataFrame(reader_tournaments_filenames[i][j]['archetypes'])],
+                                        axis = 1)
+        csv_output.columns = cols_output
+        
+        tmp = ''
+        for _ in filenames_decklists_txt:
+            tmp += _
+        
+        csv_output[csv_output == None] = 'Other'
+        if to_csv:
+            csv_output.to_csv(root_path + 'data/archetypes_' + tmp + '.csv', index = None, header = True,
+                          sep = ';')
+        else:
+            return csv_output
+    
 class ExpertRule():
     
-    __slots__ = ('__board', '__number', '__card', '__condition',
+    __slots__ = ('__board', '__number', '__card', '__condition', '__formater',
                  )    
     
-    def __init__(self, __board, rule_txt):
+    def __init__(self, __board, rule_txt, _formater = lambda x:x):
         super(ExpertRule, self).__init__()
+        self.__formater = _formater
         self.__board = __board
         tmp = rule_txt.split(' ')
         try:
             self.__number = str(int(tmp[0])) + ' '
         except:
             self.__number = ''
-        self.__card = ' '.join(tmp[1:-1]) if self.__number != '' else ' '.join(tmp[0:-1])
+        self.__card = self.__formater(' '.join(tmp[1:-1]) if self.__number != '' else ' '.join(tmp[0:-1]))
         self.__condition = tmp[-1]
         
     def call(self, decklists):
@@ -98,32 +133,36 @@ if __name__ == '__main__':
                                #'decklists_Pioneer_01_06_2020_01_11_2020']
     filename_rules_txt = 'ExpertRulesCompanion'
     
-    reader = Reader(root_path)
-    res = reader.readTxtTournamentsFilenames(filenames_decklists_txt)
-    csv_output = pd.DataFrame(None)
+    reader = Reader(root_path, _formater = True)
+    reader_tournaments_filenames = reader.readTxtTournamentsFilenames(filenames_decklists_txt)
+    #csv_output = pd.DataFrame(None)
     
     classifierExpertRules = ClassifierExpertRules('C:/Users/julie/mtgodecklists/')
     classifierExpertRules.fitExpertRules(filename_rules_txt)
+    classifierExpertRules.run(reader_tournaments_filenames, filenames_decklists_txt,
+                              tol = .7, to_csv = True)
     
-    cols_output = []
-    for i in range(len(res)):
-        for j in range(len(res[i])):
-            tmp = classifierExpertRules.predictExpertRules(res[i][j])
-            tmp2 = classifierExpertRules.scoresExpertRules(tmp)
-            res[i][j]['archetypes'] = [list(_)if len(list(_))!=0 else ['Other']
-                                        for _ in classifierExpertRules.archetypesExpertRules(tmp2,
-                                           tol = .7)]
-            cols_output += [res[i][j]['format'] + ' ' + res[i][j]['type'] + ' ' + res[i][j]['date']]
-            csv_output = pd.concat([csv_output, pd.DataFrame(res[i][j]['archetypes'])], axis = 1)
-    csv_output.columns = cols_output
-    
-    tmp = ''
-    for _ in filenames_decklists_txt:
-        tmp += _
-    
-    csv_output[csv_output == None] = 'Other'
-    csv_output.to_csv(root_path + 'data/archetypes_' + tmp + '.csv', index = None, header = True,
-                      sep = ';')
+# =============================================================================
+#     cols_output = []
+#     for i in range(len(res)):
+#         for j in range(len(res[i])):
+#             tmp = classifierExpertRules.predictExpertRules(res[i][j])
+#             tmp2 = classifierExpertRules.scoresExpertRules(tmp)
+#             res[i][j]['archetypes'] = [list(_)if len(list(_))!=0 else ['Other']
+#                                         for _ in classifierExpertRules.archetypesExpertRules(tmp2,
+#                                            tol = .7)]
+#             cols_output += [res[i][j]['format'] + ' ' + res[i][j]['type'] + ' ' + res[i][j]['date']]
+#             csv_output = pd.concat([csv_output, pd.DataFrame(res[i][j]['archetypes'])], axis = 1)
+#     csv_output.columns = cols_output
+#     
+#     tmp = ''
+#     for _ in filenames_decklists_txt:
+#         tmp += _
+#     
+#     csv_output[csv_output == None] = 'Other'
+#     csv_output.to_csv(root_path + 'data/archetypes_' + tmp + '.csv', index = None, header = True,
+#                       sep = ';')
+# =============================================================================
     
     
     

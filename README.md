@@ -4,6 +4,41 @@
 
 Automaticaly search, gather and classify decklists from any kind of online tournaments of Magic : The Gathering (MTGO).
 
+## Utilisation with Local Python
+
+### Installation
+
+Python 3.7.4 is used.
+`setupy.py` to install few needed librairies.
+
+### Utilisation
+
+Feed parameters in config.txt.
+`python main.py`
+
+### Available Paramaters
+
+#Sealed, Standard, Pioneer, Modern, Pauper, Modern, Legacy, Vintage
+FORMAT=Standard
+#Challenge, Super Qualifier, League, Preliminary, anything else or <empty>
+TYPE=
+#mm/dd/yyyy
+DATE_FROM=04/18/2020
+#mm/dd/yyyy
+DATE_TO=05/01/2020
+#False or True
+DROP_LEAGUES=True
+#False or True
+DROP_OTHER=True
+#[0,1]
+DROP_LOW_FREQ=0.7
+#Metagame or Companion
+RULES=Companion
+#False, Metagame or Companion
+EXPECTED_TARGETS=Companion
+#True or False
+STRING_CLEANER=True
+
 ## Scrapping
 
 https://magic.wizards.com/en/content/deck-lists-magic-online-products-game-info
@@ -19,10 +54,10 @@ MD :
 <rules_for_md>  
 SB :  
 <rules_for_sb>  
-- search a card in the MD : <card_name> in  
-- search n exemplars card in the MD : <n> <card_name> =  
-- search at least n exemplars cards in the MD : <n> <card_name> <  
-- search at maximum n exemplars cards in the MD : <n> <card_name> >  
+- search a card : <card_name> in  
+- search n exemplars card : <n> <card_name> =  
+- search at least n exemplars cards : <n> <card_name> <  
+- search at maximum n exemplars cards : <n> <card_name> >  
   
 ### Prediction of archetype
   

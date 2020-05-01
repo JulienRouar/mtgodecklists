@@ -1,0 +1,10851 @@
+Vintage 04/18/2020 05/01/2020
+https://magic.wizards.com/en/articles/archive/mtgo-standings/vintage-preliminary-2020-04-29
+https://magic.wizards.com/en/articles/archive/mtgo-standings/vintage-challenge-2020-04-27
+https://magic.wizards.com/en/articles/archive/mtgo-standings/vintage-preliminary-2020-04-27
+https://magic.wizards.com/en/articles/archive/mtgo-standings/vintage-challenge-2020-04-26
+https://magic.wizards.com/en/articles/archive/mtgo-standings/vintage-preliminary-2020-04-25
+https://magic.wizards.com/en/articles/archive/mtgo-standings/vintage-preliminary-2020-04-23
+https://magic.wizards.com/en/articles/archive/mtgo-standings/vintage-challenge-2020-04-20
+https://magic.wizards.com/en/articles/archive/mtgo-standings/vintage-preliminary-2020-04-20
+https://magic.wizards.com/en/articles/archive/mtgo-standings/vintage-challenge-2020-04-19
+https://magic.wizards.com/en/articles/archive/mtgo-standings/vintage-preliminary-2020-04-18
+
+
+
+
+
+CATEGORY :
+Vintage Preliminary
+APRIL
+29
+2020
+
+DECKLIST :
+SAMSHERMAN
+(5-0)
+Creature (3)
+2 Lavinia, Azorius Renegade
+1 Snapcaster Mage
+Sorcery (6)
+1 Demonic Tutor
+1 Gitaxian Probe
+1 Merchant Scroll
+1 Tendrils of Agony
+1 Time Walk
+1 Yawgmoth's Will
+Instant (15)
+1 Ancestral Recall
+1 Brainstorm
+1 Dig Through Time
+1 Flusterstorm
+4 Force of Will
+1 Hurkyl's Recall
+1 Mental Misstep
+4 Paradoxical Outcome
+1 Repeal
+Artifact (20)
+1 Black Lotus
+1 Lotus Petal
+1 Mana Crypt
+1 Mana Vault
+1 Manifold Key
+1 Mishra's Bauble
+1 Mox Emerald
+1 Mox Jet
+3 Mox Opal
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+1 Sensei's Divining Top
+1 Sol Ring
+1 Time Vault
+3 Urza's Bauble
+Enchantment (3)
+3 Mystic Remora
+Land (13)
+1 Karakas
+3 Misty Rainforest
+3 Scalding Tarn
+1 Snow-Covered Island
+1 Tolarian Academy
+2 Tundra
+2 Underground Sea
+60 Cards
+Sideboard (15)
+1 Flusterstorm
+3 Hurkyl's Recall
+1 Balance
+1 Engineered Explosives
+1 Lurrus of the Dream Den
+1 Mindbreak Trap
+1 Nihil Spellbomb
+1 Seal of Cleansing
+1 Seal of Removal
+1 Swords to Plowshares
+3 Tormod's Crypt
+
+DECKLIST :
+MAC121711
+(4-1)
+Creature (31)
+1 Ashen Rider
+1 Elesh Norn, Grand Cenobite
+1 Golgari Grave-Troll
+4 Golgari Thug
+4 Hollow One
+4 Ichorid
+4 Narcomoeba
+4 Prized Amalgam
+4 Shambling Shell
+4 Stinkweed Imp
+Sorcery (10)
+4 Cabal Therapy
+2 Dread Return
+4 Unmask
+Instant (6)
+2 Force of Negation
+4 Force of Will
+Artifact (5)
+1 Chalice of the Void
+4 Serum Powder
+Enchantment (4)
+4 Bridge from Below
+Land (4)
+4 Bazaar of Baghdad
+60 Cards
+Sideboard (15)
+4 Force of Vigor
+3 Leyline of Sanctity
+3 Leyline of the Void
+2 Sickening Shoal
+1 Strip Mine
+2 Wasteland
+
+DECKLIST :
+HEYNONGMAN
+(4-1)
+Creature (1)
+1 Snapcaster Mage
+Sorcery (11)
+1 Demonic Tutor
+1 Gitaxian Probe
+1 Merchant Scroll
+1 Ponder
+4 Preordain
+1 Thoughtseize
+1 Time Walk
+1 Treasure Cruise
+Instant (23)
+1 Ancestral Recall
+2 Brain Freeze
+1 Brainstorm
+1 Chain of Vapor
+1 Daze
+1 Dig Through Time
+1 Flusterstorm
+4 Force of Will
+1 Gush
+1 Hurkyl's Recall
+1 Lightning Bolt
+1 Mental Misstep
+1 Mindbreak Trap
+1 Mystical Tutor
+3 Pyroblast
+1 Spell Pierce
+1 Vampiric Tutor
+Artifact (6)
+1 Black Lotus
+1 Lion's Eye Diamond
+1 Lotus Petal
+1 Mox Jet
+1 Mox Ruby
+1 Mox Sapphire
+Enchantment (3)
+3 Underworld Breach
+Land (16)
+2 Misty Rainforest
+2 Polluted Delta
+4 Scalding Tarn
+2 Snow-Covered Island
+3 Underground Sea
+3 Volcanic Island
+60 Cards
+Sideboard (14)
+1 Flusterstorm
+3 Hurkyl's Recall
+1 Lightning Bolt
+1 Lurrus of the Dream Den
+4 Sprite Dragon
+2 The Tabernacle at Pendrell Vale
+2 Tormod's Crypt
+
+DECKLIST :
+GGOGGLES
+(3-2)
+Planeswalker (3)
+1 Dack Fayden
+1 Narset, Parter of Veils
+1 Teferi, Time Raveler
+Creature (4)
+1 Jace, Vryn's Prodigy
+1 Lavinia, Azorius Renegade
+1 Monastery Mentor
+1 Snapcaster Mage
+Sorcery (9)
+1 By Force
+1 Demonic Tutor
+1 Gitaxian Probe
+1 Merchant Scroll
+1 Ponder
+1 Preordain
+1 Time Walk
+1 Tinker
+1 Yawgmoth's Will
+Instant (18)
+1 Ancestral Recall
+1 Brain Freeze
+1 Brainstorm
+1 Daze
+1 Dig Through Time
+1 Flusterstorm
+1 Force of Negation
+1 Force of Will
+1 Gush
+1 Lightning Bolt
+1 Mental Misstep
+1 Misdirection
+1 Mystical Tutor
+1 Pyroblast
+1 Red Elemental Blast
+1 Spell Pierce
+1 Swords to Plowshares
+1 Vampiric Tutor
+Artifact (9)
+1 Black Lotus
+1 Bolas's Citadel
+1 Lion's Eye Diamond
+1 Lotus Petal
+1 Mox Emerald
+1 Mox Jet
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+Enchantment (1)
+1 Underworld Breach
+Land (16)
+2 Flooded Strand
+2 Island
+1 Karakas
+2 Misty Rainforest
+1 Mystic Sanctuary
+2 Polluted Delta
+2 Scalding Tarn
+1 Tundra
+1 Underground Sea
+2 Volcanic Island
+60 Cards
+Sideboard (15)
+3 Force of Will
+1 Balance
+1 Blightsteel Colossus
+1 Hurkyl's Recall
+1 Infernal Reckoning
+1 Lutri, the Spellchaser
+1 Mindbreak Trap
+1 Pyroclasm
+1 Ravenous Trap
+1 Shattering Spree
+1 Strip Mine
+1 Surgical Extraction
+1 The Tabernacle at Pendrell Vale
+
+DECKLIST :
+KILLERSUV
+(3-2)
+Creature (8)
+4 Dark Confidant
+2 Lavinia, Azorius Renegade
+2 Snapcaster Mage
+Sorcery (11)
+1 Demonic Tutor
+1 Gitaxian Probe
+1 Merchant Scroll
+1 Ponder
+4 Preordain
+1 Reanimate
+1 Time Walk
+1 Treasure Cruise
+Instant (14)
+1 Ancestral Recall
+1 Brainstorm
+1 Daze
+1 Dig Through Time
+1 Flusterstorm
+2 Force of Negation
+4 Force of Will
+1 Gush
+1 Mental Misstep
+1 Swords to Plowshares
+Artifact (8)
+1 Black Lotus
+1 Lotus Petal
+1 Mishra's Bauble
+1 Mox Jet
+1 Mox Pearl
+1 Mox Sapphire
+1 Nihil Spellbomb
+1 Null Rod
+Enchantment (2)
+2 Dead Weight
+Land (17)
+1 Flooded Strand
+1 Karakas
+2 Misty Rainforest
+1 Mystic Sanctuary
+2 Polluted Delta
+2 Scalding Tarn
+1 Snow-Covered Island
+1 Strip Mine
+2 Tundra
+2 Underground Sea
+2 Wasteland
+60 Cards
+Sideboard (15)
+1 Wasteland
+2 Flusterstorm
+2 Null Rod
+1 Reanimate
+2 Swords to Plowshares
+1 Balance
+2 Containment Priest
+1 Kataki, War's Wage
+1 Lurrus of the Dream Den
+1 Mindbreak Trap
+1 Seal of Cleansing
+
+DECKLIST :
+XFILE
+(3-2)
+Planeswalker (6)
+1 Dack Fayden
+1 Jace, the Mind Sculptor
+1 Narset, Parter of Veils
+1 Oko, Thief of Crowns
+1 Teferi, Time Raveler
+1 Wrenn and Six
+Creature (7)
+1 Deathrite Shaman
+1 Dreadhorde Arcanist
+1 Jace, Vryn's Prodigy
+1 Lavinia, Azorius Renegade
+1 Monastery Mentor
+1 Snapcaster Mage
+1 Tarmogoyf
+Sorcery (9)
+1 Gitaxian Probe
+1 Merchant Scroll
+1 Ponder
+1 Portent
+1 Preordain
+1 Serum Visions
+1 Shattering Spree
+1 Time Walk
+1 Treasure Cruise
+Instant (15)
+1 Ancestral Recall
+1 Ancient Grudge
+1 Brainstorm
+1 Daze
+1 Dig Through Time
+1 Force of Negation
+1 Force of Will
+1 Gush
+1 Lightning Bolt
+1 Mental Misstep
+1 Mindbreak Trap
+1 Pyroblast
+1 Red Elemental Blast
+1 Spell Pierce
+1 Swords to Plowshares
+Artifact (5)
+1 Black Lotus
+1 Mox Emerald
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+Land (18)
+3 Flooded Strand
+1 Misty Rainforest
+3 Polluted Delta
+3 Scalding Tarn
+2 Tropical Island
+1 Tundra
+3 Volcanic Island
+2 Wasteland
+60 Cards
+Sideboard (15)
+3 Force of Will
+1 By Force
+1 Ceremonious Rejection
+1 Energy Flux
+1 Flusterstorm
+4 Leyline of the Void
+1 Lutri, the Spellchaser
+1 Mystical Dispute
+2 The Tabernacle at Pendrell Vale
+
+DECKLIST :
+ABR_
+(3-2)
+Creature (15)
+2 Collector Ouphe
+4 Dark Confidant
+4 Deathrite Shaman
+2 Snapcaster Mage
+3 Tarmogoyf
+Sorcery (5)
+1 Demonic Tutor
+1 Ponder
+1 Time Walk
+1 Treasure Cruise
+1 Unearth
+Instant (16)
+1 Ancestral Recall
+3 Assassin's Trophy
+1 Brainstorm
+1 Daze
+1 Fatal Push
+1 Flusterstorm
+1 Force of Negation
+1 Force of Vigor
+4 Force of Will
+1 Mental Misstep
+1 Veil of Summer
+Artifact (6)
+1 Black Lotus
+1 Lotus Petal
+1 Mox Emerald
+1 Mox Jet
+1 Mox Sapphire
+1 Soul-Guide Lantern
+Enchantment (1)
+1 Dead Weight
+Land (17)
+1 Bayou
+3 Misty Rainforest
+2 Polluted Delta
+1 Strip Mine
+2 Tropical Island
+3 Underground Sea
+2 Verdant Catacombs
+3 Wasteland
+60 Cards
+Sideboard (15)
+1 Flusterstorm
+2 Force of Vigor
+3 Soul-Guide Lantern
+1 Bitter Ordeal
+2 Infernal Reckoning
+1 Lurrus of the Dream Den
+2 Mindbreak Trap
+1 Pithing Needle
+1 Seal of Primordium
+1 The Tabernacle at Pendrell Vale
+
+
+
+
+CATEGORY :
+Vintage Challenge
+APRIL
+27
+2020
+
+DECKLIST :
+AIGIS (1ST
+PLACE)
+Creature (1)
+1 Snapcaster Mage
+Sorcery (11)
+1 Demonic Tutor
+1 Gitaxian Probe
+1 Merchant Scroll
+1 Ponder
+4 Preordain
+1 Thoughtseize
+1 Time Walk
+1 Treasure Cruise
+Instant (23)
+1 Ancestral Recall
+2 Brain Freeze
+1 Brainstorm
+1 Chain of Vapor
+1 Daze
+1 Dig Through Time
+1 Flusterstorm
+4 Force of Will
+1 Gush
+1 Hurkyl's Recall
+1 Lightning Bolt
+1 Mental Misstep
+1 Mindbreak Trap
+1 Mystical Tutor
+3 Pyroblast
+1 Spell Pierce
+1 Vampiric Tutor
+Artifact (6)
+1 Black Lotus
+1 Lion's Eye Diamond
+1 Lotus Petal
+1 Mox Jet
+1 Mox Ruby
+1 Mox Sapphire
+Enchantment (3)
+3 Underworld Breach
+Land (16)
+2 Misty Rainforest
+2 Polluted Delta
+4 Scalding Tarn
+2 Snow-Covered Island
+3 Underground Sea
+3 Volcanic Island
+60 Cards
+Sideboard (14)
+1 Flusterstorm
+3 Hurkyl's Recall
+1 Lightning Bolt
+1 Lurrus of the Dream Den
+4 Sprite Dragon
+2 The Tabernacle at Pendrell Vale
+2 Tormod's Crypt
+
+DECKLIST :
+CHERRYXMAN (2ND
+PLACE)
+Creature (11)
+4 Dark Confidant
+3 Deathrite Shaman
+2 Jace, Vryn's Prodigy
+2 Snapcaster Mage
+Sorcery (12)
+1 Demonic Tutor
+1 Gitaxian Probe
+1 Merchant Scroll
+1 Ponder
+4 Preordain
+2 Thoughtseize
+1 Time Walk
+1 Treasure Cruise
+Instant (14)
+1 Abrupt Decay
+1 Ancestral Recall
+1 Brainstorm
+3 Daze
+2 Fatal Push
+4 Force of Will
+1 Mental Misstep
+1 Vampiric Tutor
+Artifact (7)
+1 Black Lotus
+1 Engineered Explosives
+1 Lotus Petal
+1 Mox Emerald
+1 Mox Jet
+1 Mox Sapphire
+1 Nihil Spellbomb
+Land (16)
+2 Flooded Strand
+2 Misty Rainforest
+2 Polluted Delta
+1 Scalding Tarn
+1 Strip Mine
+2 Tropical Island
+3 Underground Sea
+3 Wasteland
+60 Cards
+Sideboard (15)
+1 Engineered Explosives
+1 Fatal Push
+2 Nihil Spellbomb
+1 Thoughtseize
+1 Force of Negation
+1 Lurrus of the Dream Den
+3 Nature's Claim
+2 Ravenous Trap
+2 Spell Pierce
+1 Tormod's Crypt
+
+DECKLIST :
+SHIR KAHN (3RD
+PLACE)
+Creature (19)
+4 Arcbound Ravager
+4 Phyrexian Revoker
+4 Stonecoil Serpent
+3 Thalia, Guardian of Thraben
+4 Walking Ballista
+Sorcery (1)
+1 Time Walk
+Instant (2)
+1 Ancestral Recall
+1 Swords to Plowshares
+Artifact (19)
+1 Black Lotus
+1 Chalice of the Void
+3 Chromatic Star
+1 Mana Crypt
+1 Mox Emerald
+1 Mox Jet
+1 Mox Opal
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+1 Sol Ring
+1 Sorcerous Spyglass
+4 Sphere of Resistance
+1 Thorn of Amethyst
+Land (19)
+3 Ancient Tomb
+4 Glimmervoid
+2 Karakas
+4 Mishra's Workshop
+1 Strip Mine
+1 Tolarian Academy
+4 Wasteland
+60 Cards
+Sideboard (15)
+2 Swords to Plowshares
+4 By Force
+3 Deafening Silence
+1 Lurrus of the Dream Den
+4 Tormod's Crypt
+1 Veil of Summer
+
+DECKLIST :
+TKC55 (4TH
+PLACE)
+Creature (3)
+1 Snapcaster Mage
+2 Sprite Dragon
+Sorcery (5)
+1 Gitaxian Probe
+1 Merchant Scroll
+1 Ponder
+1 Preordain
+1 Time Walk
+Instant (19)
+1 Ancestral Recall
+1 Brainstorm
+1 Force of Negation
+4 Force of Will
+1 Hurkyl's Recall
+1 Mental Misstep
+4 Paradoxical Outcome
+4 Pyroblast
+2 Repeal
+Artifact (14)
+1 Black Lotus
+1 Lotus Petal
+1 Mana Crypt
+1 Mana Vault
+1 Mox Emerald
+1 Mox Jet
+1 Mox Opal
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+1 Pyrite Spellbomb
+1 Sol Ring
+2 Soul-Guide Lantern
+Enchantment (5)
+4 Mystic Remora
+1 Seal of Fire
+Land (14)
+1 Flooded Strand
+1 Island
+1 Karakas
+1 Misty Rainforest
+1 Polluted Delta
+2 Scalding Tarn
+1 Tolarian Academy
+3 Tundra
+3 Volcanic Island
+60 Cards
+Sideboard (15)
+3 Hurkyl's Recall
+1 Flusterstorm
+1 Lurrus of the Dream Den
+2 Mindbreak Trap
+2 Seal of Cleansing
+1 Swords to Plowshares
+3 The Tabernacle at Pendrell Vale
+2 Tormod's Crypt
+
+DECKLIST :
+TRENO (5TH
+PLACE)
+Creature (3)
+2 Lavinia, Azorius Renegade
+1 Snapcaster Mage
+Sorcery (9)
+1 Demonic Tutor
+1 Gitaxian Probe
+1 Merchant Scroll
+1 Mind's Desire
+1 Preordain
+1 Tendrils of Agony
+1 Time Walk
+1 Timetwister
+1 Yawgmoth's Will
+Instant (14)
+1 Ancestral Recall
+1 Brainstorm
+1 Dig Through Time
+4 Force of Will
+1 Hurkyl's Recall
+1 Mental Misstep
+4 Paradoxical Outcome
+1 Repeal
+Artifact (18)
+1 Black Lotus
+1 Lotus Petal
+1 Mana Crypt
+1 Mana Vault
+4 Mishra's Bauble
+1 Mox Emerald
+1 Mox Jet
+3 Mox Opal
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+1 Sensei's Divining Top
+1 Sol Ring
+Enchantment (3)
+3 Mystic Remora
+Land (13)
+1 Flooded Strand
+1 Island
+1 Karakas
+2 Misty Rainforest
+1 Polluted Delta
+2 Scalding Tarn
+1 Tolarian Academy
+2 Tundra
+2 Underground Sea
+60 Cards
+Sideboard (15)
+3 Hurkyl's Recall
+1 Balance
+1 Engineered Explosives
+1 Flusterstorm
+1 Lurrus of the Dream Den
+1 Mindbreak Trap
+1 Seal of Cleansing
+3 Swords to Plowshares
+3 Tormod's Crypt
+
+DECKLIST :
+GGOGGLES (6TH
+PLACE)
+Planeswalker (3)
+1 Dack Fayden
+1 Narset, Parter of Veils
+1 Teferi, Time Raveler
+Creature (5)
+1 Dreadhorde Arcanist
+1 Jace, Vryn's Prodigy
+1 Lavinia, Azorius Renegade
+1 Monastery Mentor
+1 Snapcaster Mage
+Sorcery (9)
+1 Demonic Tutor
+1 Gitaxian Probe
+1 Merchant Scroll
+1 Ponder
+1 Preordain
+1 Pyroclasm
+1 Shattering Spree
+1 Time Walk
+1 Tinker
+Instant (17)
+1 Ancestral Recall
+1 Brain Freeze
+1 Brainstorm
+1 Dig Through Time
+1 Flusterstorm
+1 Force of Negation
+1 Force of Will
+1 Gush
+1 Lightning Bolt
+1 Mental Misstep
+1 Mindbreak Trap
+1 Misdirection
+1 Mystical Tutor
+1 Pyroblast
+1 Spell Pierce
+1 Swords to Plowshares
+1 Vampiric Tutor
+Artifact (9)
+1 Black Lotus
+1 Bolas's Citadel
+1 Lion's Eye Diamond
+1 Lotus Petal
+1 Mox Emerald
+1 Mox Jet
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+Enchantment (1)
+1 Underworld Breach
+Land (16)
+2 Flooded Strand
+2 Island
+1 Karakas
+2 Misty Rainforest
+1 Mystic Sanctuary
+2 Polluted Delta
+2 Scalding Tarn
+1 Tundra
+1 Underground Sea
+2 Volcanic Island
+60 Cards
+Sideboard (15)
+3 Force of Will
+1 Bitter Ordeal
+1 Blightsteel Colossus
+1 By Force
+1 Hurkyl's Recall
+1 Infernal Reckoning
+1 Lutri, the Spellchaser
+1 Ravenous Trap
+1 Red Elemental Blast
+1 Steel Sabotage
+1 Strip Mine
+1 Surgical Extraction
+1 The Tabernacle at Pendrell Vale
+
+DECKLIST :
+CNEWMAN (7TH
+PLACE)
+Planeswalker (1)
+1 Narset, Parter of Veils
+Creature (4)
+2 Lavinia, Azorius Renegade
+1 Monastery Mentor
+1 Snapcaster Mage
+Sorcery (10)
+1 Demonic Tutor
+1 Gitaxian Probe
+1 Merchant Scroll
+1 Ponder
+3 Preordain
+1 Time Walk
+1 Tinker
+1 Yawgmoth's Will
+Instant (16)
+1 Ancestral Recall
+1 Brainstorm
+1 Dig Through Time
+4 Force of Will
+1 Hurkyl's Recall
+1 Mental Misstep
+4 Paradoxical Outcome
+2 Pyroblast
+1 Vampiric Tutor
+Artifact (15)
+1 Black Lotus
+1 Bolas's Citadel
+1 Mana Crypt
+1 Mana Vault
+1 Mox Emerald
+1 Mox Jet
+3 Mox Opal
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+2 Sensei's Divining Top
+1 Sol Ring
+Land (14)
+3 Flooded Strand
+1 Polluted Delta
+2 Scalding Tarn
+1 Snow-Covered Island
+1 Tolarian Academy
+2 Tundra
+2 Underground Sea
+2 Volcanic Island
+60 Cards
+Sideboard (15)
+1 Snow-Covered Island
+3 Hurkyl's Recall
+1 Pyroblast
+1 Flusterstorm
+2 Pithing Needle
+2 Ravenous Trap
+1 Red Elemental Blast
+1 The Tabernacle at Pendrell Vale
+3 Tormod's Crypt
+
+DECKLIST :
+ABR_ (8TH
+PLACE)
+Creature (15)
+2 Collector Ouphe
+4 Dark Confidant
+4 Deathrite Shaman
+2 Snapcaster Mage
+3 Tarmogoyf
+Sorcery (5)
+1 Demonic Tutor
+1 Ponder
+1 Time Walk
+1 Treasure Cruise
+1 Unearth
+Instant (16)
+1 Ancestral Recall
+3 Assassin's Trophy
+1 Brainstorm
+1 Daze
+1 Fatal Push
+1 Flusterstorm
+1 Force of Negation
+1 Force of Vigor
+4 Force of Will
+1 Mental Misstep
+1 Veil of Summer
+Artifact (6)
+1 Black Lotus
+1 Lotus Petal
+1 Mox Emerald
+1 Mox Jet
+1 Mox Sapphire
+1 Soul-Guide Lantern
+Enchantment (1)
+1 Dead Weight
+Land (17)
+1 Bayou
+3 Misty Rainforest
+2 Polluted Delta
+1 Strip Mine
+2 Tropical Island
+3 Underground Sea
+2 Verdant Catacombs
+3 Wasteland
+60 Cards
+Sideboard (15)
+1 Flusterstorm
+2 Force of Vigor
+3 Soul-Guide Lantern
+1 Bitter Ordeal
+2 Infernal Reckoning
+1 Lurrus of the Dream Den
+2 Mindbreak Trap
+1 Pithing Needle
+1 Seal of Primordium
+1 The Tabernacle at Pendrell Vale
+
+DECKLIST :
+JASE_ALPHA (9TH
+PLACE)
+Planeswalker (2)
+1 Dack Fayden
+1 Narset, Parter of Veils
+Creature (8)
+3 Dreadhorde Arcanist
+2 Snapcaster Mage
+3 Sprite Dragon
+Sorcery (10)
+1 Gitaxian Probe
+1 Merchant Scroll
+1 Ponder
+4 Preordain
+1 Shattering Spree
+1 Time Walk
+1 Treasure Cruise
+Instant (20)
+1 Ancestral Recall
+1 Brainstorm
+1 Daze
+1 Dig Through Time
+2 Force of Negation
+4 Force of Will
+1 Gush
+4 Lightning Bolt
+1 Mental Misstep
+4 Pyroblast
+Artifact (4)
+1 Black Lotus
+1 Mox Ruby
+1 Mox Sapphire
+1 Null Rod
+Land (16)
+1 Flooded Strand
+2 Island
+1 Misty Rainforest
+1 Mountain
+1 Mystic Sanctuary
+1 Polluted Delta
+4 Scalding Tarn
+1 Strip Mine
+4 Volcanic Island
+60 Cards
+Sideboard (15)
+2 Null Rod
+3 Shattering Spree
+1 Abrade
+1 Flusterstorm
+1 Pithing Needle
+1 Pulverize
+1 Ravenous Trap
+2 Surgical Extraction
+2 The Tabernacle at Pendrell Vale
+1 Tormod's Crypt
+
+DECKLIST :
+SVACA (10TH
+PLACE)
+Creature (12)
+4 Dark Confidant
+4 Deathrite Shaman
+2 Dreadhorde Arcanist
+2 Snapcaster Mage
+Sorcery (9)
+1 Demonic Tutor
+1 Gitaxian Probe
+1 Merchant Scroll
+1 Ponder
+3 Preordain
+1 Time Walk
+1 Treasure Cruise
+Instant (15)
+1 Ancestral Recall
+1 Brainstorm
+4 Daze
+4 Force of Will
+3 Lightning Bolt
+1 Mental Misstep
+1 Vampiric Tutor
+Artifact (8)
+1 Black Lotus
+4 Mishra's Bauble
+1 Mox Jet
+1 Mox Ruby
+1 Mox Sapphire
+Land (16)
+2 Flooded Strand
+2 Misty Rainforest
+2 Polluted Delta
+1 Scalding Tarn
+1 Strip Mine
+1 Tropical Island
+2 Underground Sea
+2 Volcanic Island
+3 Wasteland
+60 Cards
+Sideboard (15)
+2 Ancient Grudge
+2 Assassin's Trophy
+1 Fatal Push
+1 Lurrus of the Dream Den
+1 Nature's Claim
+3 Nihil Spellbomb
+2 Pyroblast
+1 Red Elemental Blast
+1 Spell Pierce
+1 Tormod's Crypt
+
+DECKLIST :
+JAKEHELMS (11TH
+PLACE)
+Creature (3)
+2 Lavinia, Azorius Renegade
+1 Snapcaster Mage
+Sorcery (8)
+1 Demonic Tutor
+1 Gitaxian Probe
+1 Merchant Scroll
+1 Mind's Desire
+1 Tendrils of Agony
+1 Time Walk
+1 Timetwister
+1 Yawgmoth's Will
+Instant (14)
+1 Ancestral Recall
+1 Brainstorm
+1 Flusterstorm
+4 Force of Will
+1 Hurkyl's Recall
+1 Mental Misstep
+4 Paradoxical Outcome
+1 Repeal
+Artifact (18)
+1 Black Lotus
+1 Lotus Petal
+1 Mana Crypt
+1 Mana Vault
+4 Mishra's Bauble
+1 Mox Emerald
+1 Mox Jet
+3 Mox Opal
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+1 Sensei's Divining Top
+1 Sol Ring
+Enchantment (4)
+4 Mystic Remora
+Land (13)
+1 Karakas
+3 Misty Rainforest
+3 Scalding Tarn
+1 Snow-Covered Island
+1 Tolarian Academy
+2 Tundra
+2 Underground Sea
+60 Cards
+Sideboard (15)
+1 Flusterstorm
+3 Hurkyl's Recall
+1 Balance
+1 Lurrus of the Dream Den
+2 Mindbreak Trap
+1 Seal of Cleansing
+1 Seal of Removal
+2 Swords to Plowshares
+3 Tormod's Crypt
+
+DECKLIST :
+WESAL (12TH
+PLACE)
+Planeswalker (3)
+3 Wrenn and Six
+Creature (15)
+2 Collector Ouphe
+4 Dark Confidant
+4 Deathrite Shaman
+1 Scavenging Ooze
+4 Tarmogoyf
+Sorcery (4)
+1 Demonic Tutor
+3 Thoughtseize
+Instant (11)
+2 Abrupt Decay
+1 Assassin's Trophy
+1 Fatal Push
+1 Kolaghan's Command
+2 Lightning Bolt
+2 Pyroblast
+1 Vampiric Tutor
+1 Veil of Summer
+Artifact (5)
+1 Black Lotus
+1 Mox Emerald
+1 Mox Jet
+1 Mox Ruby
+1 Nihil Spellbomb
+Enchantment (4)
+2 Cindervines
+1 Dead Weight
+1 Sylvan Library
+Land (18)
+2 Badlands
+2 Bayou
+2 Bloodstained Mire
+1 Forest
+1 Nurturing Peatland
+1 Strip Mine
+1 Swamp
+1 Taiga
+4 Verdant Catacombs
+3 Wasteland
+60 Cards
+Sideboard (15)
+1 Collector Ouphe
+1 Cindervines
+2 Nihil Spellbomb
+2 Veil of Summer
+2 Ancient Grudge
+1 Chains of Mephistopheles
+1 Duress
+1 Lurrus of the Dream Den
+1 Pithing Needle
+1 Red Elemental Blast
+1 The Tabernacle at Pendrell Vale
+1 Yixlid Jailer
+
+DECKLIST :
+ECOBARONEN (13TH
+PLACE)
+Creature (12)
+3 Dark Confidant
+3 Deathrite Shaman
+2 Dreadhorde Arcanist
+2 Snapcaster Mage
+2 Young Pyromancer
+Sorcery (9)
+1 Demonic Tutor
+1 Gitaxian Probe
+1 Ponder
+4 Preordain
+1 Time Walk
+1 Treasure Cruise
+Instant (17)
+1 Ancestral Recall
+1 Brainstorm
+3 Daze
+1 Force of Negation
+4 Force of Will
+4 Lightning Bolt
+1 Mental Misstep
+1 Pyroblast
+1 Spell Pierce
+Artifact (6)
+1 Black Lotus
+1 Lotus Petal
+1 Mishra's Bauble
+1 Mox Jet
+1 Mox Ruby
+1 Mox Sapphire
+Land (16)
+2 Flooded Strand
+2 Misty Rainforest
+2 Polluted Delta
+1 Scalding Tarn
+1 Strip Mine
+1 Tropical Island
+3 Underground Sea
+3 Volcanic Island
+1 Wasteland
+60 Cards
+Sideboard (15)
+1 Pyroblast
+2 Dead Weight
+1 Lurrus of the Dream Den
+1 Nihil Spellbomb
+2 Null Rod
+4 Shattering Spree
+4 Tormod's Crypt
+
+DECKLIST :
+MASAH (14TH
+PLACE)
+Planeswalker (2)
+1 Karn, Scion of Urza
+1 Karn, the Great Creator
+Creature (13)
+3 Golos, Tireless Pilgrim
+1 Lodestone Golem
+3 Phyrexian Revoker
+2 Stonecoil Serpent
+2 Thought-Knot Seer
+2 Walking Ballista
+Artifact (23)
+1 Black Lotus
+1 Chalice of the Void
+2 Crucible of Worlds
+1 God-Pharaoh's Statue
+1 Mana Crypt
+1 Mox Emerald
+1 Mox Jet
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+1 Mystic Forge
+1 Null Rod
+1 Sol Ring
+2 Sorcerous Spyglass
+4 Sphere of Resistance
+1 The Immortal Sun
+1 Thorn of Amethyst
+1 Trinisphere
+Land (22)
+4 Ancient Tomb
+1 Buried Ruin
+2 Inventors' Fair
+1 Karakas
+2 Mishra's Factory
+4 Mishra's Workshop
+1 Strip Mine
+1 The Tabernacle at Pendrell Vale
+1 Tolarian Academy
+1 Urborg, Tomb of Yawgmoth
+4 Wasteland
+60 Cards
+Sideboard (15)
+2 Null Rod
+2 Defense Grid
+2 Ensnaring Bridge
+2 Grafdigger's Cage
+4 Leyline of the Void
+1 Mycosynth Lattice
+2 Witchbane Orb
+
+DECKLIST :
+THEDECK84 (15TH
+PLACE)
+Planeswalker (4)
+2 Dack Fayden
+1 Jace, the Mind Sculptor
+1 Narset, Parter of Veils
+Creature (2)
+1 Blightsteel Colossus
+1 Snapcaster Mage
+Sorcery (9)
+1 Demonic Tutor
+1 Gitaxian Probe
+1 Merchant Scroll
+1 Ponder
+1 Preordain
+1 Time Walk
+1 Tinker
+1 Treasure Cruise
+1 Yawgmoth's Will
+Instant (19)
+1 Ancestral Recall
+1 Brainstorm
+1 Dig Through Time
+2 Flusterstorm
+2 Force of Negation
+4 Force of Will
+1 Gifts Ungiven
+1 Lightning Bolt
+1 Mana Drain
+1 Mental Misstep
+1 Mystical Tutor
+1 Pyroblast
+1 Red Elemental Blast
+1 Vampiric Tutor
+Artifact (10)
+1 Black Lotus
+1 Mana Crypt
+1 Manifold Key
+1 Mox Emerald
+1 Mox Jet
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+1 Sol Ring
+1 Time Vault
+Land (16)
+2 Flooded Strand
+2 Island
+1 Misty Rainforest
+1 Mystic Sanctuary
+2 Polluted Delta
+2 Scalding Tarn
+1 Tolarian Academy
+2 Underground Sea
+3 Volcanic Island
+60 Cards
+Sideboard (15)
+1 Lightning Bolt
+2 Pyroblast
+1 Abrade
+2 By Force
+2 Grafdigger's Cage
+2 Hurkyl's Recall
+1 Nihil Spellbomb
+1 Notion Thief
+1 Pithing Needle
+2 Ravenous Trap
+
+DECKLIST :
+NECRODICE (16TH
+PLACE)
+Creature (13)
+1 Collector Ouphe
+4 Dark Confidant
+4 Deathrite Shaman
+2 Jace, Vryn's Prodigy
+2 Snapcaster Mage
+Sorcery (10)
+1 Demonic Tutor
+1 Gitaxian Probe
+1 Merchant Scroll
+1 Ponder
+4 Preordain
+1 Time Walk
+1 Treasure Cruise
+Instant (14)
+2 Abrupt Decay
+1 Ancestral Recall
+1 Brainstorm
+3 Daze
+1 Fatal Push
+4 Force of Will
+1 Mental Misstep
+1 Vampiric Tutor
+Artifact (6)
+1 Black Lotus
+1 Lotus Petal
+1 Mox Emerald
+1 Mox Jet
+1 Mox Sapphire
+1 Nihil Spellbomb
+Enchantment (1)
+1 Dead Weight
+Land (16)
+2 Flooded Strand
+2 Misty Rainforest
+2 Polluted Delta
+1 Scalding Tarn
+1 Strip Mine
+2 Tropical Island
+3 Underground Sea
+3 Wasteland
+60 Cards
+Sideboard (15)
+2 Nihil Spellbomb
+1 Flusterstorm
+1 Hydroblast
+1 Infernal Reckoning
+1 Lurrus of the Dream Den
+1 Mindbreak Trap
+3 Nature's Claim
+1 Pithing Needle
+1 Ravenous Trap
+2 The Tabernacle at Pendrell Vale
+1 Tormod's Crypt
+
+DECKLIST :
+DISCOVERN (17TH
+PLACE)
+Creature (5)
+3 Street Wraith
+2 Thassa's Oracle
+Sorcery (15)
+1 Demonic Tutor
+4 Doomsday
+2 Duress
+1 Gitaxian Probe
+1 Merchant Scroll
+1 Ponder
+4 Preordain
+1 Time Walk
+Instant (22)
+1 Ancestral Recall
+1 Brainstorm
+1 Chain of Vapor
+4 Dark Ritual
+2 Daze
+1 Demonic Consultation
+1 Dig Through Time
+1 Flusterstorm
+2 Force of Negation
+4 Force of Will
+1 Gush
+1 Mental Misstep
+1 Mystical Tutor
+1 Vampiric Tutor
+Artifact (3)
+1 Black Lotus
+1 Mox Jet
+1 Mox Sapphire
+Enchantment (1)
+1 Necropotence
+Land (14)
+1 Bloodstained Mire
+2 Flooded Strand
+1 Misty Rainforest
+4 Polluted Delta
+1 Scalding Tarn
+1 Snow-Covered Island
+4 Underground Sea
+60 Cards
+Sideboard (15)
+1 Snow-Covered Island
+1 Flusterstorm
+1 Mindbreak Trap
+3 Ravenous Trap
+1 Snow-Covered Swamp
+1 Soul-Guide Lantern
+3 Steel Sabotage
+2 Tasigur, the Golden Fang
+2 The Tabernacle at Pendrell Vale
+
+DECKLIST :
+BRYANT_COOK (18TH
+PLACE)
+Sorcery (11)
+1 Demonic Tutor
+1 Gitaxian Probe
+1 Merchant Scroll
+1 Ponder
+3 Preordain
+2 Thoughtseize
+1 Time Walk
+1 Treasure Cruise
+Instant (20)
+1 Ancestral Recall
+2 Brain Freeze
+1 Brainstorm
+1 Chain of Vapor
+1 Dig Through Time
+1 Flusterstorm
+4 Force of Will
+1 Hurkyl's Recall
+1 Lightning Bolt
+1 Mental Misstep
+1 Mindbreak Trap
+1 Mystical Tutor
+3 Pyroblast
+1 Vampiric Tutor
+Artifact (11)
+1 Black Lotus
+1 Lion's Eye Diamond
+1 Lotus Petal
+1 Mox Jet
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+4 Urza's Bauble
+Enchantment (3)
+3 Underworld Breach
+Land (15)
+2 Flooded Strand
+2 Island
+1 Misty Rainforest
+3 Polluted Delta
+2 Scalding Tarn
+2 Underground Sea
+3 Volcanic Island
+60 Cards
+Sideboard (15)
+1 Island
+1 Flusterstorm
+3 Hurkyl's Recall
+1 Lightning Bolt
+1 Mindbreak Trap
+1 Lurrus of the Dream Den
+4 Sprite Dragon
+3 Tormod's Crypt
+
+DECKLIST :
+GNORILGRANDE (19TH
+PLACE)
+Creature (11)
+3 Dark Confidant
+4 Deathrite Shaman
+1 Snapcaster Mage
+3 Tarmogoyf
+Sorcery (8)
+1 Demonic Tutor
+1 Gitaxian Probe
+1 Ponder
+2 Preordain
+1 Time Walk
+1 Treasure Cruise
+1 Unearth
+Instant (15)
+1 Ancestral Recall
+2 Assassin's Trophy
+1 Brainstorm
+1 Daze
+2 Fatal Push
+2 Force of Negation
+4 Force of Will
+1 Mental Misstep
+1 Spell Pierce
+Artifact (8)
+1 Black Lotus
+1 Lotus Petal
+2 Mishra's Bauble
+1 Mox Emerald
+1 Mox Jet
+1 Mox Sapphire
+1 Nihil Spellbomb
+Enchantment (1)
+1 Dead Weight
+Land (17)
+1 Bayou
+3 Misty Rainforest
+2 Polluted Delta
+1 Strip Mine
+2 Tropical Island
+3 Underground Sea
+2 Verdant Catacombs
+3 Wasteland
+60 Cards
+Sideboard (15)
+2 Fatal Push
+1 Nihil Spellbomb
+2 Collector Ouphe
+2 Flusterstorm
+1 Lurrus of the Dream Den
+2 Nature's Claim
+3 Surgical Extraction
+2 The Tabernacle at Pendrell Vale
+
+DECKLIST :
+VESPER35 (20TH
+PLACE)
+Creature (3)
+2 Lavinia, Azorius Renegade
+1 Snapcaster Mage
+Sorcery (7)
+1 Demonic Tutor
+1 Gitaxian Probe
+1 Merchant Scroll
+1 Mind's Desire
+1 Tendrils of Agony
+1 Time Walk
+1 Yawgmoth's Will
+Instant (15)
+1 Ancestral Recall
+1 Brainstorm
+1 Dig Through Time
+1 Flusterstorm
+4 Force of Will
+1 Hurkyl's Recall
+1 Mental Misstep
+4 Paradoxical Outcome
+1 Repeal
+Artifact (20)
+1 Black Lotus
+1 Lotus Petal
+1 Mana Crypt
+1 Mana Vault
+1 Manifold Key
+4 Mishra's Bauble
+1 Mox Emerald
+1 Mox Jet
+3 Mox Opal
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+1 Sensei's Divining Top
+1 Sol Ring
+1 Time Vault
+Enchantment (2)
+2 Mystic Remora
+Land (13)
+1 Karakas
+3 Misty Rainforest
+3 Scalding Tarn
+1 Snow-Covered Island
+1 Tolarian Academy
+2 Tundra
+2 Underground Sea
+60 Cards
+Sideboard (15)
+1 Flusterstorm
+3 Hurkyl's Recall
+1 Mystic Remora
+1 Balance
+1 Dead Weight
+1 Lurrus of the Dream Den
+1 Mindbreak Trap
+1 Nihil Spellbomb
+1 Seal of Cleansing
+1 Swords to Plowshares
+3 Tormod's Crypt
+
+DECKLIST :
+CONDESCEND (21ST
+PLACE)
+Creature (3)
+2 Lavinia, Azorius Renegade
+1 Snapcaster Mage
+Sorcery (9)
+1 Balance
+1 Demonic Tutor
+1 Gitaxian Probe
+1 Merchant Scroll
+1 Mind's Desire
+1 Ponder
+1 Tendrils of Agony
+1 Time Walk
+1 Yawgmoth's Will
+Instant (16)
+1 Ancestral Recall
+1 Brainstorm
+1 Flusterstorm
+4 Force of Will
+1 Hurkyl's Recall
+1 Mental Misstep
+4 Paradoxical Outcome
+2 Repeal
+1 Vampiric Tutor
+Artifact (17)
+1 Black Lotus
+1 Lotus Petal
+1 Mana Crypt
+1 Mana Vault
+4 Mishra's Bauble
+1 Mox Jet
+3 Mox Opal
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+1 Nihil Spellbomb
+1 Sol Ring
+Enchantment (2)
+1 Dead Weight
+1 Mystic Remora
+Land (13)
+1 Flooded Strand
+1 Karakas
+1 Misty Rainforest
+2 Polluted Delta
+2 Scalding Tarn
+1 Snow-Covered Island
+1 Tolarian Academy
+2 Tundra
+2 Underground Sea
+60 Cards
+Sideboard (15)
+1 Karakas
+1 Lavinia, Azorius Renegade
+1 Dead Weight
+1 Flusterstorm
+3 Hurkyl's Recall
+1 Mystic Remora
+1 Nihil Spellbomb
+1 Dark Confidant
+1 Lurrus of the Dream Den
+1 Strip Mine
+1 Swords to Plowshares
+2 Tormod's Crypt
+
+DECKLIST :
+POHLMAN (22ND
+PLACE)
+Planeswalker (8)
+1 Chandra, Awakened Inferno
+1 Chandra, Torch of Defiance
+3 Dack Fayden
+1 Narset, Parter of Veils
+1 Serra the Benevolent
+1 Teferi, Time Raveler
+Creature (1)
+1 Lavinia, Azorius Renegade
+Sorcery (8)
+1 Gitaxian Probe
+1 Ponder
+4 Preordain
+1 Time Walk
+1 Treasure Cruise
+Instant (17)
+1 Ancestral Recall
+1 Brainstorm
+1 Dig Through Time
+1 Flusterstorm
+1 Force of Negation
+4 Force of Will
+1 Gush
+1 Mental Misstep
+3 Pyroblast
+3 Swords to Plowshares
+Artifact (6)
+1 Black Lotus
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+1 Sol Ring
+1 Sorcerous Spyglass
+Enchantment (3)
+2 Moat
+1 Stony Silence
+Land (17)
+3 Flooded Strand
+1 Island
+1 Misty Rainforest
+1 Mystic Sanctuary
+3 Scalding Tarn
+1 The Tabernacle at Pendrell Vale
+3 Tundra
+4 Volcanic Island
+60 Cards
+Sideboard (15)
+1 The Tabernacle at Pendrell Vale
+1 Chandra, Awakened Inferno
+2 Stony Silence
+1 Swords to Plowshares
+2 Containment Priest
+2 Grafdigger's Cage
+1 Humility
+1 Mindbreak Trap
+1 Palace Jailer
+3 Shattering Spree
+
+DECKLIST :
+SAWATARIX (23RD
+PLACE)
+Creature (2)
+2 Goblin Cratermaker
+Sorcery (12)
+1 Demonic Tutor
+1 Gitaxian Probe
+1 Merchant Scroll
+1 Night's Whisper
+1 Ponder
+4 Preordain
+2 Thoughtseize
+1 Time Walk
+Instant (21)
+1 Ancestral Recall
+2 Brain Freeze
+1 Brainstorm
+2 Daze
+1 Dig Through Time
+2 Flusterstorm
+4 Force of Will
+1 Gush
+1 Mental Misstep
+1 Mystical Tutor
+4 Pyroblast
+1 Vampiric Tutor
+Artifact (6)
+1 Black Lotus
+1 Lion's Eye Diamond
+1 Lotus Petal
+1 Mox Jet
+1 Mox Ruby
+1 Mox Sapphire
+Enchantment (3)
+3 Underworld Breach
+Land (16)
+4 Misty Rainforest
+1 Mystic Sanctuary
+4 Polluted Delta
+1 Snow-Covered Island
+3 Underground Sea
+3 Volcanic Island
+60 Cards
+Sideboard (15)
+2 Snow-Covered Island
+1 Goblin Cratermaker
+2 Abrade
+2 Hurkyl's Recall
+1 Lurrus of the Dream Den
+1 Soul-Guide Lantern
+2 The Tabernacle at Pendrell Vale
+4 Tormod's Crypt
+
+DECKLIST :
+JESSY_SAMEK (24TH
+PLACE)
+Creature (22)
+4 Arcbound Ravager
+3 Hangarback Walker
+3 Phyrexian Revoker
+4 Steel Overseer
+4 Stonecoil Serpent
+4 Walking Ballista
+Instant (1)
+1 Dismember
+Artifact (18)
+1 Black Lotus
+1 Chalice of the Void
+1 Mana Crypt
+1 Mox Emerald
+1 Mox Jet
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+2 Nihil Spellbomb
+1 Sol Ring
+2 Sorcerous Spyglass
+4 Sphere of Resistance
+1 Thorn of Amethyst
+Land (19)
+4 Ancient Tomb
+1 Cavern of Souls
+1 Karakas
+4 Mishra's Workshop
+1 Phyrexian Tower
+1 Silent Clearing
+1 Strip Mine
+1 Tolarian Academy
+1 Urborg, Tomb of Yawgmoth
+4 Wasteland
+60 Cards
+Sideboard (15)
+1 Dismember
+4 Grafdigger's Cage
+1 Lurrus of the Dream Den
+3 Mindbreak Trap
+2 Null Rod
+2 The Tabernacle at Pendrell Vale
+2 Tormod's Crypt
+
+DECKLIST :
+MOATZU (25TH
+PLACE)
+Planeswalker (4)
+2 Dack Fayden
+1 Narset, Parter of Veils
+1 Teferi, Time Raveler
+Creature (5)
+2 Lavinia, Azorius Renegade
+1 Monastery Mentor
+2 Snapcaster Mage
+Sorcery (10)
+1 Gitaxian Probe
+1 Merchant Scroll
+1 Ponder
+4 Preordain
+1 Shattering Spree
+1 Time Walk
+1 Treasure Cruise
+Instant (20)
+1 Ancestral Recall
+1 Brainstorm
+1 Daze
+1 Dig Through Time
+1 Flusterstorm
+2 Force of Negation
+4 Force of Will
+1 Gush
+2 Lightning Bolt
+1 Mental Misstep
+3 Pyroblast
+2 Swords to Plowshares
+Artifact (4)
+1 Black Lotus
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+Enchantment (1)
+1 Underworld Breach
+Land (16)
+1 Flooded Strand
+1 Island
+1 Misty Rainforest
+1 Mystic Sanctuary
+1 Polluted Delta
+4 Scalding Tarn
+3 Tundra
+4 Volcanic Island
+60 Cards
+Sideboard (15)
+1 Pyroblast
+2 Shattering Spree
+1 Swords to Plowshares
+1 Containment Priest
+2 Meddling Mage
+1 Mountain
+1 Pithing Needle
+2 Ravenous Trap
+2 Surgical Extraction
+1 Tormod's Crypt
+1 Wear // Tear
+
+DECKLIST :
+TRAVIS8427 (26TH
+PLACE)
+Creature (6)
+1 Jace, Vryn's Prodigy
+2 Lavinia, Azorius Renegade
+3 Snapcaster Mage
+Sorcery (10)
+1 Demonic Tutor
+1 Gitaxian Probe
+1 Merchant Scroll
+1 Ponder
+4 Preordain
+1 Time Walk
+1 Treasure Cruise
+Instant (16)
+1 Ancestral Recall
+1 Brainstorm
+1 Daze
+1 Dig Through Time
+2 Flusterstorm
+4 Force of Will
+1 Gush
+1 Mental Misstep
+3 Swords to Plowshares
+1 Vampiric Tutor
+Artifact (8)
+1 Black Lotus
+1 Lotus Petal
+2 Mishra's Bauble
+1 Mox Jet
+1 Mox Pearl
+1 Mox Sapphire
+1 Urza's Bauble
+Enchantment (2)
+1 Animate Dead
+1 Mystic Remora
+Land (18)
+2 Flooded Strand
+1 Island
+2 Karakas
+2 Polluted Delta
+2 Scalding Tarn
+1 Strip Mine
+3 Tundra
+2 Underground Sea
+3 Wasteland
+60 Cards
+Sideboard (15)
+1 Swords to Plowshares
+3 Fragmentize
+3 Kataki, War's Wage
+1 Lurrus of the Dream Den
+1 Seal of Cleansing
+4 The Tabernacle at Pendrell Vale
+2 Tormod's Crypt
+
+DECKLIST :
+SINGPANMAN (27TH
+PLACE)
+Creature (5)
+3 Street Wraith
+2 Thassa's Oracle
+Sorcery (14)
+1 Demonic Tutor
+4 Doomsday
+1 Gitaxian Probe
+1 Merchant Scroll
+1 Ponder
+4 Preordain
+1 Time Walk
+1 Treasure Cruise
+Instant (23)
+1 Ancestral Recall
+1 Brainstorm
+1 Chain of Vapor
+4 Dark Ritual
+3 Daze
+1 Demonic Consultation
+1 Dig Through Time
+2 Flusterstorm
+1 Force of Negation
+4 Force of Will
+1 Gush
+1 Mental Misstep
+1 Mystical Tutor
+1 Vampiric Tutor
+Artifact (3)
+1 Black Lotus
+1 Mox Jet
+1 Mox Sapphire
+Enchantment (1)
+1 Necropotence
+Land (14)
+2 Flooded Strand
+2 Island
+2 Misty Rainforest
+2 Polluted Delta
+2 Scalding Tarn
+4 Underground Sea
+60 Cards
+Sideboard (15)
+1 Chain of Vapor
+2 Flusterstorm
+1 Cavern of Souls
+2 Hurkyl's Recall
+1 Lurrus of the Dream Den
+1 Massacre
+1 Rebuild
+4 Soul-Guide Lantern
+2 The Tabernacle at Pendrell Vale
+
+DECKLIST :
+ZYURYO (28TH
+PLACE)
+Planeswalker (3)
+1 Narset, Parter of Veils
+2 Teferi, Time Raveler
+Creature (3)
+1 Lavinia, Azorius Renegade
+1 Monastery Mentor
+1 Snapcaster Mage
+Sorcery (6)
+1 Gitaxian Probe
+1 Merchant Scroll
+1 Ponder
+1 Time Walk
+1 Timetwister
+1 Tinker
+Instant (18)
+1 Ancestral Recall
+1 Brain Freeze
+1 Brainstorm
+1 Dig Through Time
+1 Flusterstorm
+2 Force of Negation
+4 Force of Will
+1 Hurkyl's Recall
+1 Mental Misstep
+4 Paradoxical Outcome
+1 Repeal
+Artifact (17)
+2 Arcum's Astrolabe
+1 Black Lotus
+1 Bolas's Citadel
+1 Mana Crypt
+1 Mana Vault
+1 Mox Emerald
+1 Mox Jet
+3 Mox Opal
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+2 Sensei's Divining Top
+1 Sol Ring
+Land (13)
+2 Flooded Strand
+2 Misty Rainforest
+1 Polluted Delta
+1 Scalding Tarn
+4 Snow-Covered Island
+1 Tolarian Academy
+2 Tundra
+60 Cards
+Sideboard (15)
+1 Flusterstorm
+3 Hurkyl's Recall
+1 Balance
+1 Pithing Needle
+3 Ravenous Trap
+3 Swords to Plowshares
+3 Tormod's Crypt
+
+DECKLIST :
+P4UM (29TH
+PLACE)
+Planeswalker (4)
+3 Dack Fayden
+1 Narset, Parter of Veils
+Creature (4)
+1 Jace, Vryn's Prodigy
+1 Lavinia, Azorius Renegade
+1 Monastery Mentor
+1 Snapcaster Mage
+Sorcery (9)
+1 Gitaxian Probe
+1 Merchant Scroll
+1 Ponder
+4 Preordain
+1 Time Walk
+1 Treasure Cruise
+Instant (22)
+1 Ancestral Recall
+1 Brainstorm
+1 Daze
+1 Dig Through Time
+2 Force of Negation
+4 Force of Will
+1 Gush
+1 Lightning Bolt
+1 Mental Misstep
+1 Mystical Tutor
+4 Pyroblast
+1 Spell Pierce
+3 Swords to Plowshares
+Artifact (4)
+1 Black Lotus
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+Enchantment (1)
+1 Underworld Breach
+Land (16)
+2 Flooded Strand
+1 Island
+1 Misty Rainforest
+1 Mystic Sanctuary
+2 Polluted Delta
+4 Scalding Tarn
+2 Tundra
+3 Volcanic Island
+60 Cards
+Sideboard (15)
+3 Leyline of the Void
+1 Mindbreak Trap
+1 Mountain
+3 Ravenous Trap
+4 Shattering Spree
+2 Surgical Extraction
+1 Wear // Tear
+
+DECKLIST :
+NOPROPS (30TH
+PLACE)
+Creature (6)
+4 Street Wraith
+2 Thassa's Oracle
+Sorcery (13)
+1 Demonic Tutor
+4 Doomsday
+1 Duress
+1 Gitaxian Probe
+1 Ponder
+4 Preordain
+1 Time Walk
+Instant (23)
+1 Ancestral Recall
+1 Brainstorm
+1 Chain of Vapor
+4 Dark Ritual
+3 Daze
+1 Demonic Consultation
+1 Dig Through Time
+2 Flusterstorm
+4 Force of Will
+1 Gush
+1 Mental Misstep
+1 Misdirection
+1 Mystical Tutor
+1 Vampiric Tutor
+Artifact (3)
+1 Black Lotus
+1 Mox Jet
+1 Mox Sapphire
+Enchantment (1)
+1 Necropotence
+Land (14)
+1 Flooded Strand
+1 Misty Rainforest
+4 Polluted Delta
+2 Scalding Tarn
+1 Snow-Covered Island
+4 Underground Sea
+1 Verdant Catacombs
+60 Cards
+Sideboard (15)
+1 Snow-Covered Island
+1 Chain of Vapor
+1 Flusterstorm
+3 Hurkyl's Recall
+1 Mindbreak Trap
+1 Nihil Spellbomb
+2 Ravenous Trap
+2 Soul-Guide Lantern
+3 The Tabernacle at Pendrell Vale
+
+DECKLIST :
+MOUNTAIN-GOAT (31ST
+PLACE)
+Creature (7)
+2 Lavinia, Azorius Renegade
+1 Snapcaster Mage
+4 Sprite Dragon
+Sorcery (10)
+1 Gitaxian Probe
+1 Merchant Scroll
+1 Ponder
+4 Preordain
+1 Shattering Spree
+1 Time Walk
+1 Treasure Cruise
+Instant (19)
+1 Ancestral Recall
+1 Brain Freeze
+1 Brainstorm
+2 Daze
+1 Dig Through Time
+1 Force of Negation
+4 Force of Will
+1 Gush
+1 Intuition
+3 Lightning Bolt
+1 Mental Misstep
+2 Pyroblast
+Artifact (4)
+1 Black Lotus
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+Enchantment (4)
+1 Mystic Remora
+1 Seal of Fire
+2 Underworld Breach
+Land (16)
+1 Flooded Strand
+1 Karakas
+1 Misty Rainforest
+1 Mystic Sanctuary
+1 Polluted Delta
+4 Scalding Tarn
+2 Snow-Covered Island
+2 Tundra
+3 Volcanic Island
+60 Cards
+Sideboard (15)
+1 Pyroblast
+3 Shattering Spree
+1 Flusterstorm
+1 Lurrus of the Dream Den
+2 Null Rod
+1 Ravenous Trap
+1 Snow-Covered Mountain
+2 Soul-Guide Lantern
+1 Swords to Plowshares
+2 The Tabernacle at Pendrell Vale
+
+DECKLIST :
+NANAIPER (32ND
+PLACE)
+Planeswalker (3)
+1 Narset, Parter of Veils
+2 Teferi, Time Raveler
+Creature (2)
+1 Monastery Mentor
+1 Snapcaster Mage
+Sorcery (10)
+1 Demonic Tutor
+1 Gitaxian Probe
+1 Merchant Scroll
+1 Ponder
+2 Preordain
+1 Tendrils of Agony
+1 Time Walk
+1 Tinker
+1 Yawgmoth's Will
+Instant (15)
+1 Ancestral Recall
+1 Brainstorm
+4 Force of Will
+1 Hurkyl's Recall
+1 Mental Misstep
+4 Paradoxical Outcome
+2 Pyroblast
+1 Vampiric Tutor
+Artifact (16)
+1 Black Lotus
+1 Bolas's Citadel
+1 Lotus Petal
+1 Mana Crypt
+1 Mana Vault
+1 Mox Emerald
+1 Mox Jet
+3 Mox Opal
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+2 Sensei's Divining Top
+1 Sol Ring
+Land (14)
+1 Flooded Strand
+1 Misty Rainforest
+2 Polluted Delta
+2 Scalding Tarn
+2 Snow-Covered Island
+1 Tolarian Academy
+1 Tundra
+2 Underground Sea
+2 Volcanic Island
+60 Cards
+Sideboard (15)
+3 Hurkyl's Recall
+2 Pyroblast
+1 Balance
+1 Blightsteel Colossus
+2 Flusterstorm
+2 Lightning Bolt
+2 Ravenous Trap
+2 Soul-Guide Lantern
+
+
+
+
+CATEGORY :
+Vintage Preliminary
+APRIL
+27
+2020
+
+DECKLIST :
+SAMSHERMAN
+(5-0)
+Creature (3)
+2 Lavinia, Azorius Renegade
+1 Snapcaster Mage
+Sorcery (6)
+1 Demonic Tutor
+1 Gitaxian Probe
+1 Merchant Scroll
+1 Tendrils of Agony
+1 Time Walk
+1 Yawgmoth's Will
+Instant (15)
+1 Ancestral Recall
+1 Brainstorm
+1 Dig Through Time
+1 Flusterstorm
+4 Force of Will
+1 Hurkyl's Recall
+1 Mental Misstep
+4 Paradoxical Outcome
+1 Repeal
+Artifact (20)
+1 Black Lotus
+1 Lotus Petal
+1 Mana Crypt
+1 Mana Vault
+1 Manifold Key
+1 Mishra's Bauble
+1 Mox Emerald
+1 Mox Jet
+3 Mox Opal
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+1 Sensei's Divining Top
+1 Sol Ring
+1 Time Vault
+3 Urza's Bauble
+Enchantment (3)
+3 Mystic Remora
+Land (13)
+1 Karakas
+3 Misty Rainforest
+3 Scalding Tarn
+1 Snow-Covered Island
+1 Tolarian Academy
+2 Tundra
+2 Underground Sea
+60 Cards
+Sideboard (15)
+1 Flusterstorm
+3 Hurkyl's Recall
+1 Balance
+1 Engineered Explosives
+1 Lurrus of the Dream Den
+1 Mindbreak Trap
+1 Nihil Spellbomb
+1 Seal of Cleansing
+1 Seal of Removal
+1 Swords to Plowshares
+3 Tormod's Crypt
+
+DECKLIST :
+AIGIS
+(4-1)
+Creature (1)
+1 Snapcaster Mage
+Sorcery (11)
+1 Demonic Tutor
+1 Gitaxian Probe
+1 Merchant Scroll
+1 Ponder
+4 Preordain
+1 Thoughtseize
+1 Time Walk
+1 Treasure Cruise
+Instant (23)
+1 Ancestral Recall
+2 Brain Freeze
+1 Brainstorm
+1 Chain of Vapor
+1 Daze
+1 Dig Through Time
+1 Flusterstorm
+4 Force of Will
+1 Gush
+1 Hurkyl's Recall
+1 Lightning Bolt
+1 Mental Misstep
+1 Mindbreak Trap
+1 Mystical Tutor
+3 Pyroblast
+1 Spell Pierce
+1 Vampiric Tutor
+Artifact (6)
+1 Black Lotus
+1 Lion's Eye Diamond
+1 Lotus Petal
+1 Mox Jet
+1 Mox Ruby
+1 Mox Sapphire
+Enchantment (3)
+3 Underworld Breach
+Land (16)
+2 Misty Rainforest
+2 Polluted Delta
+4 Scalding Tarn
+2 Snow-Covered Island
+3 Underground Sea
+3 Volcanic Island
+60 Cards
+Sideboard (15)
+1 Flusterstorm
+3 Hurkyl's Recall
+2 Lightning Bolt
+1 Lurrus of the Dream Den
+4 Sprite Dragon
+2 The Tabernacle at Pendrell Vale
+2 Tormod's Crypt
+
+DECKLIST :
+ZOLLZOLLZOLL
+(4-1)
+Creature (23)
+4 Basking Rootwalla
+4 Hollow One
+4 Memnite
+3 Sphinx of Foresight
+4 Squee, Goblin Nabob
+4 Vengevine
+Sorcery (1)
+1 Gitaxian Probe
+Instant (22)
+4 Force of Negation
+4 Force of Vigor
+4 Force of Will
+1 Mental Misstep
+3 Mindbreak Trap
+2 Misdirection
+4 Once Upon a Time
+Artifact (5)
+1 Chalice of the Void
+4 Serum Powder
+Land (9)
+4 Bazaar of Baghdad
+1 Strip Mine
+4 Wasteland
+60 Cards
+Sideboard (15)
+1 Mindbreak Trap
+4 Leyline of the Void
+3 Petrified Field
+2 Snapback
+3 Surgical Extraction
+2 The Tabernacle at Pendrell Vale
+
+DECKLIST :
+BILLSIVE
+(4-1)
+Creature (9)
+4 Dark Confidant
+1 Jace, Vryn's Prodigy
+2 Lavinia, Azorius Renegade
+2 Snapcaster Mage
+Sorcery (11)
+1 Demonic Tutor
+1 Gitaxian Probe
+1 Merchant Scroll
+1 Ponder
+4 Preordain
+1 Reanimate
+1 Time Walk
+1 Treasure Cruise
+Instant (13)
+1 Ancestral Recall
+1 Brainstorm
+1 Dig Through Time
+1 Flusterstorm
+2 Force of Negation
+4 Force of Will
+1 Gush
+1 Mental Misstep
+1 Swords to Plowshares
+Artifact (8)
+1 Black Lotus
+1 Lotus Petal
+1 Mishra's Bauble
+1 Mox Jet
+1 Mox Pearl
+1 Mox Sapphire
+1 Nihil Spellbomb
+1 Null Rod
+Enchantment (2)
+2 Dead Weight
+Land (17)
+1 Flooded Strand
+1 Karakas
+2 Misty Rainforest
+1 Mystic Sanctuary
+2 Polluted Delta
+2 Scalding Tarn
+1 Snow-Covered Island
+1 Strip Mine
+2 Tundra
+2 Underground Sea
+2 Wasteland
+60 Cards
+Sideboard (15)
+1 Wasteland
+2 Flusterstorm
+2 Null Rod
+1 Reanimate
+2 Swords to Plowshares
+1 Balance
+1 Kataki, War's Wage
+1 Lurrus of the Dream Den
+1 Mindbreak Trap
+1 Seal of Cleansing
+2 Tormod's Crypt
+
+DECKLIST :
+KARATEDOM
+(3-2)
+Creature (3)
+2 Lavinia, Azorius Renegade
+1 Snapcaster Mage
+Sorcery (5)
+1 Demonic Tutor
+1 Gitaxian Probe
+1 Merchant Scroll
+1 Tendrils of Agony
+1 Time Walk
+Instant (16)
+1 Ancestral Recall
+1 Brainstorm
+1 Dig Through Time
+1 Flusterstorm
+4 Force of Will
+1 Hurkyl's Recall
+1 Mental Misstep
+4 Paradoxical Outcome
+1 Repeal
+1 Vampiric Tutor
+Artifact (21)
+1 Black Lotus
+1 Lion's Eye Diamond
+1 Mana Crypt
+1 Mana Vault
+1 Manifold Key
+1 Mox Emerald
+1 Mox Jet
+3 Mox Opal
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+1 Nihil Spellbomb
+1 Sensei's Divining Top
+1 Sol Ring
+1 Time Vault
+4 Urza's Bauble
+Enchantment (2)
+2 Mystic Remora
+Land (13)
+4 Flooded Strand
+1 Karakas
+2 Polluted Delta
+1 Snow-Covered Island
+1 Tolarian Academy
+2 Tundra
+2 Underground Sea
+60 Cards
+Sideboard (15)
+3 Hurkyl's Recall
+1 Balance
+1 Engineered Explosives
+1 Lurrus of the Dream Den
+1 Seal of Cleansing
+1 Seal of Removal
+2 Swords to Plowshares
+2 The Tabernacle at Pendrell Vale
+3 Tormod's Crypt
+
+DECKLIST :
+ORITART
+(3-2)
+Creature (6)
+4 Dreadhorde Arcanist
+2 Lavinia, Azorius Renegade
+Sorcery (9)
+1 Fragmentize
+1 Gitaxian Probe
+1 Ponder
+4 Preordain
+1 Time Walk
+1 Treasure Cruise
+Instant (20)
+1 Ancestral Recall
+1 Brainstorm
+1 Daze
+1 Dig Through Time
+1 Force of Negation
+4 Force of Will
+1 Gush
+2 Lightning Bolt
+1 Mental Misstep
+1 Mystical Tutor
+2 Pyroblast
+2 Spell Pierce
+2 Swords to Plowshares
+Artifact (9)
+1 Black Lotus
+1 Chalice of the Void
+4 Mishra's Bauble
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+Land (16)
+2 Flooded Strand
+1 Mystic Sanctuary
+4 Scalding Tarn
+1 Snow-Covered Island
+1 Strip Mine
+3 Tundra
+3 Volcanic Island
+1 Wasteland
+60 Cards
+Sideboard (15)
+1 Pyroblast
+2 Containment Priest
+2 Drannith Magistrate
+2 Grafdigger's Cage
+1 Lurrus of the Dream Den
+4 Shattering Spree
+1 Snow-Covered Mountain
+2 Soul-Guide Lantern
+
+DECKLIST :
+TOMMYCAKES
+(3-2)
+Planeswalker (1)
+1 Karn, the Great Creator
+Creature (6)
+4 Golos, Tireless Pilgrim
+1 Lodestone Golem
+1 Sundering Titan
+Artifact (31)
+1 Black Lotus
+1 Crucible of Worlds
+1 Ensnaring Bridge
+1 God-Pharaoh's Statue
+3 Grafdigger's Cage
+1 Mana Vault
+1 Mox Emerald
+1 Mox Jet
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+4 Null Rod
+1 Ratchet Bomb
+1 Smokestack
+1 Sol Ring
+4 Sorcerous Spyglass
+4 Sphere of Resistance
+1 Spine of Ish Sah
+1 Thorn of Amethyst
+1 Trinisphere
+Land (22)
+4 Ancient Tomb
+1 Bojuka Bog
+1 Buried Ruin
+2 Inventors' Fair
+1 Karakas
+1 Mishra's Factory
+4 Mishra's Workshop
+1 Strip Mine
+1 The Tabernacle at Pendrell Vale
+1 Tolarian Academy
+1 Urborg, Tomb of Yawgmoth
+4 Wasteland
+60 Cards
+Sideboard (15)
+1 Karakas
+1 Crucible of Worlds
+1 Grafdigger's Cage
+1 Cursed Totem
+1 Jegantha, the Wellspring
+4 Mindbreak Trap
+3 Stonecoil Serpent
+3 Surgical Extraction
+
+DECKLIST :
+WINEDOPE
+(3-2)
+Creature (32)
+4 Basking Rootwalla
+4 Collector Ouphe
+4 Deathrite Shaman
+4 Elvish Spirit Guide
+4 Hollow One
+4 Memnite
+4 Thalia, Guardian of Thraben
+4 Vengevine
+Instant (4)
+4 Once Upon a Time
+Artifact (11)
+1 Black Lotus
+1 Chalice of the Void
+1 Mox Emerald
+1 Mox Pearl
+2 Null Rod
+4 Serum Powder
+1 Thorn of Amethyst
+Land (13)
+4 Bazaar of Baghdad
+3 City of Brass
+4 Mana Confluence
+1 Strip Mine
+1 Wasteland
+60 Cards
+Sideboard (15)
+2 Aegis of the Gods
+2 Containment Priest
+2 Drannith Magistrate
+4 Force of Vigor
+2 Jötun Grunt
+3 Kataki, War's Wage
+
+DECKLIST :
+IAMACTUALLYLVL1
+(3-2)
+Planeswalker (3)
+1 Dack Fayden
+1 Narset, Parter of Veils
+1 Teferi, Time Raveler
+Creature (4)
+1 Jace, Vryn's Prodigy
+1 Lavinia, Azorius Renegade
+1 Monastery Mentor
+1 Snapcaster Mage
+Sorcery (9)
+1 By Force
+1 Demonic Tutor
+1 Gitaxian Probe
+1 Merchant Scroll
+1 Ponder
+1 Preordain
+1 Pyroclasm
+1 Time Walk
+1 Tinker
+Instant (18)
+1 Ancestral Recall
+1 Brain Freeze
+1 Brainstorm
+1 Daze
+1 Dig Through Time
+1 Flusterstorm
+1 Force of Negation
+1 Force of Will
+1 Gush
+1 Lightning Bolt
+1 Mental Misstep
+1 Misdirection
+1 Mystical Tutor
+1 Pyroblast
+1 Red Elemental Blast
+1 Spell Pierce
+1 Swords to Plowshares
+1 Vampiric Tutor
+Artifact (9)
+1 Black Lotus
+1 Bolas's Citadel
+1 Lion's Eye Diamond
+1 Lotus Petal
+1 Mox Emerald
+1 Mox Jet
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+Enchantment (1)
+1 Underworld Breach
+Land (16)
+2 Flooded Strand
+2 Island
+1 Karakas
+2 Misty Rainforest
+1 Mystic Sanctuary
+2 Polluted Delta
+2 Scalding Tarn
+1 Tundra
+1 Underground Sea
+2 Volcanic Island
+60 Cards
+Sideboard (15)
+3 Force of Will
+1 Balance
+1 Blightsteel Colossus
+1 Hurkyl's Recall
+1 Infernal Reckoning
+1 Lutri, the Spellchaser
+1 Mindbreak Trap
+1 Notion Thief
+1 Shattering Spree
+1 Steel Sabotage
+1 Strip Mine
+1 Surgical Extraction
+1 The Tabernacle at Pendrell Vale
+
+DECKLIST :
+SHORAK123
+(3-2)
+Creature (21)
+4 Arcbound Ravager
+2 Hangarback Walker
+3 Phyrexian Revoker
+4 Steel Overseer
+4 Stonecoil Serpent
+4 Walking Ballista
+Instant (1)
+1 Dismember
+Artifact (19)
+1 Black Lotus
+1 Chalice of the Void
+1 Lion's Eye Diamond
+1 Mana Crypt
+1 Mox Emerald
+1 Mox Jet
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+2 Nihil Spellbomb
+1 Sol Ring
+2 Sorcerous Spyglass
+4 Sphere of Resistance
+1 Thorn of Amethyst
+Land (19)
+4 Ancient Tomb
+1 Cavern of Souls
+1 Karakas
+4 Mishra's Workshop
+1 Phyrexian Tower
+1 Silent Clearing
+1 Strip Mine
+1 Tolarian Academy
+1 Urborg, Tomb of Yawgmoth
+4 Wasteland
+60 Cards
+Sideboard (15)
+1 Dismember
+4 Grafdigger's Cage
+1 Lurrus of the Dream Den
+3 Mindbreak Trap
+2 Null Rod
+2 The Tabernacle at Pendrell Vale
+2 Tormod's Crypt
+
+
+
+
+CATEGORY :
+Vintage Challenge
+APRIL
+26
+2020
+
+DECKLIST :
+CLONE9 (1ST
+PLACE)
+Creature (11)
+2 Collector Ouphe
+4 Deathrite Shaman
+2 Jace, Vryn's Prodigy
+3 Tarmogoyf
+Sorcery (9)
+1 Demonic Tutor
+1 Gitaxian Probe
+1 Ponder
+2 Preordain
+2 Thoughtseize
+1 Time Walk
+1 Treasure Cruise
+Instant (17)
+2 Abrupt Decay
+1 Ancestral Recall
+1 Assassin's Trophy
+1 Brainstorm
+2 Daze
+1 Dig Through Time
+1 Fatal Push
+2 Flusterstorm
+1 Force of Negation
+4 Force of Will
+1 Mental Misstep
+Artifact (7)
+1 Black Lotus
+1 Lotus Petal
+1 Mox Emerald
+1 Mox Jet
+1 Mox Sapphire
+2 Urza's Bauble
+Land (16)
+1 Bayou
+3 Misty Rainforest
+3 Polluted Delta
+1 Strip Mine
+3 Tropical Island
+3 Underground Sea
+2 Wasteland
+60 Cards
+Sideboard (15)
+1 Fatal Push
+3 Force of Vigor
+1 Lurrus of the Dream Den
+1 Mindbreak Trap
+2 Nature's Claim
+1 Nihil Spellbomb
+3 Soul-Guide Lantern
+1 The Tabernacle at Pendrell Vale
+2 Tormod's Crypt
+
+DECKLIST :
+ALPHA_OMEGA (2ND
+PLACE)
+Creature (1)
+1 Young Pyromancer
+Sorcery (10)
+1 Demonic Tutor
+1 Gitaxian Probe
+1 Merchant Scroll
+1 Ponder
+4 Preordain
+1 Time Walk
+1 Treasure Cruise
+Instant (23)
+1 Ancestral Recall
+2 Brain Freeze
+1 Brainstorm
+1 Dig Through Time
+1 Flusterstorm
+1 Force of Negation
+4 Force of Will
+1 Gush
+1 Lightning Bolt
+1 Mental Misstep
+1 Mindbreak Trap
+1 Mystical Tutor
+3 Pyroblast
+1 Repeal
+1 Spell Pierce
+1 Thought Scour
+1 Vampiric Tutor
+Artifact (7)
+1 Black Lotus
+1 Lion's Eye Diamond
+1 Lotus Petal
+1 Mox Jet
+1 Mox Ruby
+1 Mox Sapphire
+1 Nihil Spellbomb
+Enchantment (3)
+3 Underworld Breach
+Land (16)
+1 Flooded Strand
+1 Island
+1 Misty Rainforest
+1 Mystic Sanctuary
+2 Polluted Delta
+4 Scalding Tarn
+3 Underground Sea
+3 Volcanic Island
+60 Cards
+Sideboard (15)
+1 Young Pyromancer
+1 Lightning Bolt
+1 Pyroblast
+1 Hurkyl's Recall
+1 Lurrus of the Dream Den
+1 Mountain
+1 Pithing Needle
+3 Shattering Spree
+2 Soul-Guide Lantern
+1 The Tabernacle at Pendrell Vale
+2 Tormod's Crypt
+
+DECKLIST :
+PUN1SHER (3RD
+PLACE)
+Planeswalker (4)
+1 Dack Fayden
+1 Narset, Parter of Veils
+2 Wrenn and Six
+Creature (10)
+2 Collector Ouphe
+4 Deathrite Shaman
+2 Leovold, Emissary of Trest
+2 Snapcaster Mage
+Sorcery (6)
+1 Demonic Tutor
+1 Ponder
+3 Preordain
+1 Time Walk
+Instant (17)
+1 Ancestral Recall
+2 Assassin's Trophy
+1 Brainstorm
+1 Force of Negation
+4 Force of Will
+1 Gush
+2 Lightning Bolt
+1 Mental Misstep
+2 Pyroblast
+2 Spell Pierce
+Artifact (4)
+1 Black Lotus
+1 Mox Emerald
+1 Mox Jet
+1 Mox Sapphire
+Land (19)
+2 Flooded Strand
+2 Misty Rainforest
+1 Mystic Sanctuary
+2 Polluted Delta
+2 Scalding Tarn
+1 Strip Mine
+2 Tropical Island
+2 Underground Sea
+2 Volcanic Island
+3 Wasteland
+60 Cards
+Sideboard (15)
+1 Collector Ouphe
+2 Pyroblast
+2 Ancient Grudge
+2 Fatal Push
+4 Leyline of the Void
+1 Nature's Claim
+1 Oko, Thief of Crowns
+2 The Tabernacle at Pendrell Vale
+
+DECKLIST :
+ATLANTE (4TH
+PLACE)
+Creature (9)
+2 Dreadhorde Arcanist
+1 Goblin Cratermaker
+2 Lavinia, Azorius Renegade
+2 Snapcaster Mage
+2 Young Pyromancer
+Sorcery (10)
+1 Fragmentize
+1 Gitaxian Probe
+1 Merchant Scroll
+1 Ponder
+4 Preordain
+1 Time Walk
+1 Treasure Cruise
+Instant (20)
+1 Ancestral Recall
+1 Brainstorm
+2 Daze
+1 Dig Through Time
+1 Flusterstorm
+1 Force of Negation
+4 Force of Will
+1 Gush
+1 Lightning Bolt
+1 Mental Misstep
+3 Pyroblast
+3 Swords to Plowshares
+Artifact (5)
+1 Black Lotus
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+1 Null Rod
+Land (16)
+2 Flooded Strand
+1 Island
+1 Mystic Sanctuary
+1 Polluted Delta
+4 Scalding Tarn
+1 Strip Mine
+3 Tundra
+3 Volcanic Island
+60 Cards
+Sideboard (15)
+1 Lightning Bolt
+1 Pyroblast
+2 Containment Priest
+1 Lurrus of the Dream Den
+1 Mountain
+1 Seal of Cleansing
+3 Shattering Spree
+1 Soul-Guide Lantern
+1 Stony Silence
+1 Surgical Extraction
+2 Tormod's Crypt
+
+DECKLIST :
+THEPOWERNINE (5TH
+PLACE)
+Creature (3)
+2 Lavinia, Azorius Renegade
+1 Snapcaster Mage
+Sorcery (9)
+1 Balance
+1 Demonic Tutor
+1 Gitaxian Probe
+1 Merchant Scroll
+1 Mind's Desire
+1 Ponder
+1 Tendrils of Agony
+1 Time Walk
+1 Yawgmoth's Will
+Instant (16)
+1 Ancestral Recall
+1 Brainstorm
+1 Flusterstorm
+4 Force of Will
+1 Hurkyl's Recall
+1 Mental Misstep
+4 Paradoxical Outcome
+2 Repeal
+1 Vampiric Tutor
+Artifact (17)
+1 Black Lotus
+1 Lotus Petal
+1 Mana Crypt
+1 Mana Vault
+4 Mishra's Bauble
+1 Mox Emerald
+1 Mox Jet
+3 Mox Opal
+1 Mox Ruby
+1 Mox Sapphire
+1 Nihil Spellbomb
+1 Sol Ring
+Enchantment (2)
+1 Dead Weight
+1 Mystic Remora
+Land (13)
+2 Flooded Strand
+1 Island
+1 Karakas
+2 Misty Rainforest
+1 Polluted Delta
+1 Scalding Tarn
+1 Tolarian Academy
+2 Tundra
+2 Underground Sea
+60 Cards
+Sideboard (15)
+1 Karakas
+1 Lavinia, Azorius Renegade
+1 Dead Weight
+1 Flusterstorm
+3 Hurkyl's Recall
+1 Mystic Remora
+1 Nihil Spellbomb
+1 Dark Confidant
+1 Lurrus of the Dream Den
+1 Strip Mine
+1 Swords to Plowshares
+2 Tormod's Crypt
+
+DECKLIST :
+TEAM5C (6TH
+PLACE)
+Creature (22)
+4 Arcbound Ravager
+3 Hangarback Walker
+3 Phyrexian Revoker
+4 Steel Overseer
+4 Stonecoil Serpent
+4 Walking Ballista
+Instant (1)
+1 Dismember
+Artifact (18)
+1 Black Lotus
+1 Chalice of the Void
+1 Mana Crypt
+1 Mox Emerald
+1 Mox Jet
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+2 Nihil Spellbomb
+1 Sol Ring
+2 Sorcerous Spyglass
+4 Sphere of Resistance
+1 Thorn of Amethyst
+Land (19)
+4 Ancient Tomb
+1 Cavern of Souls
+1 Karakas
+4 Mishra's Workshop
+1 Phyrexian Tower
+1 Silent Clearing
+1 Strip Mine
+1 Tolarian Academy
+1 Urborg, Tomb of Yawgmoth
+4 Wasteland
+60 Cards
+Sideboard (15)
+1 Dismember
+4 Grafdigger's Cage
+1 Lurrus of the Dream Den
+3 Mindbreak Trap
+2 Null Rod
+2 The Tabernacle at Pendrell Vale
+2 Tormod's Crypt
+
+DECKLIST :
+THEDECK84 (7TH
+PLACE)
+Planeswalker (4)
+2 Dack Fayden
+1 Jace, the Mind Sculptor
+1 Narset, Parter of Veils
+Creature (2)
+1 Blightsteel Colossus
+1 Snapcaster Mage
+Sorcery (9)
+1 Demonic Tutor
+1 Gitaxian Probe
+1 Merchant Scroll
+1 Ponder
+1 Preordain
+1 Time Walk
+1 Tinker
+1 Treasure Cruise
+1 Yawgmoth's Will
+Instant (19)
+1 Ancestral Recall
+1 Brainstorm
+1 Dig Through Time
+2 Flusterstorm
+2 Force of Negation
+4 Force of Will
+1 Gifts Ungiven
+1 Lightning Bolt
+1 Mana Drain
+1 Mental Misstep
+1 Mystical Tutor
+1 Pyroblast
+1 Red Elemental Blast
+1 Vampiric Tutor
+Artifact (10)
+1 Black Lotus
+1 Mana Crypt
+1 Manifold Key
+1 Mox Emerald
+1 Mox Jet
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+1 Sol Ring
+1 Time Vault
+Land (16)
+2 Flooded Strand
+2 Island
+1 Misty Rainforest
+1 Mystic Sanctuary
+2 Polluted Delta
+2 Scalding Tarn
+1 Tolarian Academy
+2 Underground Sea
+3 Volcanic Island
+60 Cards
+Sideboard (15)
+1 Lightning Bolt
+2 Pyroblast
+1 Abrade
+2 By Force
+2 Grafdigger's Cage
+2 Hurkyl's Recall
+1 Nihil Spellbomb
+1 Notion Thief
+1 Pithing Needle
+2 Ravenous Trap
+
+DECKLIST :
+POHLMAN (8TH
+PLACE)
+Planeswalker (4)
+1 Narset, Parter of Veils
+3 Oko, Thief of Crowns
+Creature (2)
+1 Griselbrand
+1 Niv-Mizzet, Parun
+Sorcery (8)
+1 Gaea's Blessing
+1 Gitaxian Probe
+1 Ponder
+4 Preordain
+1 Time Walk
+Instant (21)
+1 Abrade
+1 Ancestral Recall
+1 Ancient Grudge
+1 Brainstorm
+1 Daze
+1 Dig Through Time
+1 Fire Prophecy
+2 Force of Negation
+4 Force of Will
+1 Mental Misstep
+4 Pyroblast
+1 Spell Pierce
+2 Veil of Summer
+Artifact (6)
+1 Black Lotus
+1 Mox Emerald
+1 Mox Jet
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+Enchantment (4)
+4 Oath of Druids
+Land (15)
+2 Flooded Strand
+4 Forbidden Orchard
+1 Island
+1 Misty Rainforest
+2 Scalding Tarn
+3 Tropical Island
+2 Volcanic Island
+60 Cards
+Sideboard (15)
+1 Abrade
+1 Oko, Thief of Crowns
+2 Mindbreak Trap
+4 Nature's Claim
+3 Ravenous Trap
+2 Sentinel Totem
+2 Soul-Guide Lantern
+
+DECKLIST :
+ZIOFRANCONE (9TH
+PLACE)
+Sorcery (11)
+1 Demonic Tutor
+1 Gitaxian Probe
+1 Merchant Scroll
+1 Ponder
+4 Preordain
+1 Thoughtseize
+1 Time Walk
+1 Treasure Cruise
+Instant (22)
+1 Ancestral Recall
+2 Brain Freeze
+1 Brainstorm
+1 Daze
+1 Dig Through Time
+1 Fatal Push
+1 Flusterstorm
+4 Force of Will
+1 Gush
+1 Intuition
+1 Lightning Bolt
+1 Mental Misstep
+1 Mindbreak Trap
+3 Pyroblast
+1 Spell Pierce
+1 Vampiric Tutor
+Artifact (7)
+1 Black Lotus
+1 Lion's Eye Diamond
+1 Lotus Petal
+1 Mox Jet
+1 Mox Ruby
+1 Mox Sapphire
+1 Nihil Spellbomb
+Enchantment (4)
+2 Mystic Remora
+2 Underworld Breach
+Land (16)
+2 Flooded Strand
+1 Island
+1 Misty Rainforest
+1 Mystic Sanctuary
+1 Polluted Delta
+4 Scalding Tarn
+3 Underground Sea
+3 Volcanic Island
+60 Cards
+Sideboard (15)
+1 Pyroblast
+1 Bitter Ordeal
+1 Chain of Vapor
+1 Hurkyl's Recall
+1 Lurrus of the Dream Den
+1 Mountain
+4 Shattering Spree
+2 Surgical Extraction
+2 The Tabernacle at Pendrell Vale
+1 Tormod's Crypt
+
+DECKLIST :
+GGOGGLES (10TH
+PLACE)
+Planeswalker (3)
+1 Dack Fayden
+1 Narset, Parter of Veils
+1 Teferi, Time Raveler
+Creature (5)
+1 Dreadhorde Arcanist
+1 Jace, Vryn's Prodigy
+1 Lavinia, Azorius Renegade
+1 Monastery Mentor
+1 Snapcaster Mage
+Sorcery (8)
+1 Demonic Tutor
+1 Gitaxian Probe
+1 Merchant Scroll
+1 Ponder
+1 Preordain
+1 Shattering Spree
+1 Time Walk
+1 Tinker
+Instant (18)
+1 Ancestral Recall
+1 Brain Freeze
+1 Brainstorm
+1 Dig Through Time
+1 Flusterstorm
+1 Force of Negation
+1 Force of Will
+1 Gush
+1 Lightning Bolt
+1 Mental Misstep
+1 Mindbreak Trap
+1 Misdirection
+1 Mystical Tutor
+1 Pyroblast
+1 Red Elemental Blast
+1 Spell Pierce
+1 Swords to Plowshares
+1 Vampiric Tutor
+Artifact (9)
+1 Black Lotus
+1 Bolas's Citadel
+1 Lion's Eye Diamond
+1 Lotus Petal
+1 Mox Emerald
+1 Mox Jet
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+Enchantment (1)
+1 Underworld Breach
+Land (16)
+2 Flooded Strand
+2 Island
+1 Karakas
+2 Misty Rainforest
+1 Mystic Sanctuary
+2 Polluted Delta
+2 Scalding Tarn
+1 Tundra
+1 Underground Sea
+2 Volcanic Island
+60 Cards
+Sideboard (15)
+3 Force of Will
+1 Bitter Ordeal
+1 Blightsteel Colossus
+1 By Force
+1 Hurkyl's Recall
+1 Infernal Reckoning
+1 Lutri, the Spellchaser
+1 Ravenous Trap
+1 Steel Sabotage
+1 Strip Mine
+1 Surgical Extraction
+1 The Tabernacle at Pendrell Vale
+1 Wasteland
+
+DECKLIST :
+DIEM4X (11TH
+PLACE)
+Creature (10)
+4 Dark Confidant
+1 Jace, Vryn's Prodigy
+3 Lavinia, Azorius Renegade
+2 Snapcaster Mage
+Sorcery (10)
+1 Demonic Tutor
+1 Gitaxian Probe
+1 Merchant Scroll
+1 Ponder
+4 Preordain
+1 Time Walk
+1 Treasure Cruise
+Instant (14)
+1 Ancestral Recall
+1 Brainstorm
+1 Dig Through Time
+1 Flusterstorm
+2 Force of Negation
+4 Force of Will
+1 Gush
+1 Mental Misstep
+2 Swords to Plowshares
+Artifact (8)
+1 Black Lotus
+1 Lotus Petal
+1 Mishra's Bauble
+1 Mox Jet
+1 Mox Pearl
+1 Mox Sapphire
+1 Nihil Spellbomb
+1 Null Rod
+Enchantment (1)
+1 Dead Weight
+Land (17)
+1 Flooded Strand
+1 Karakas
+2 Misty Rainforest
+1 Mystic Sanctuary
+2 Polluted Delta
+2 Scalding Tarn
+1 Snow-Covered Island
+1 Strip Mine
+2 Tundra
+2 Underground Sea
+2 Wasteland
+60 Cards
+Sideboard (15)
+1 Wasteland
+1 Dead Weight
+1 Flusterstorm
+2 Null Rod
+1 Swords to Plowshares
+1 Balance
+1 Lurrus of the Dream Den
+1 Mindbreak Trap
+1 Mystic Remora
+1 Seal of Cleansing
+2 The Tabernacle at Pendrell Vale
+2 Tormod's Crypt
+
+DECKLIST :
+ORITART (12TH
+PLACE)
+Creature (6)
+4 Dreadhorde Arcanist
+2 Lavinia, Azorius Renegade
+Sorcery (9)
+1 Fragmentize
+1 Gitaxian Probe
+1 Ponder
+4 Preordain
+1 Time Walk
+1 Treasure Cruise
+Instant (20)
+1 Ancestral Recall
+1 Brainstorm
+1 Daze
+1 Dig Through Time
+1 Force of Negation
+4 Force of Will
+1 Gush
+2 Lightning Bolt
+1 Mental Misstep
+1 Mystical Tutor
+2 Pyroblast
+2 Spell Pierce
+2 Swords to Plowshares
+Artifact (9)
+1 Black Lotus
+1 Chalice of the Void
+4 Mishra's Bauble
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+Land (16)
+2 Flooded Strand
+1 Mystic Sanctuary
+4 Scalding Tarn
+1 Snow-Covered Island
+1 Strip Mine
+3 Tundra
+3 Volcanic Island
+1 Wasteland
+60 Cards
+Sideboard (15)
+1 Pyroblast
+2 Containment Priest
+2 Drannith Magistrate
+2 Grafdigger's Cage
+1 Lurrus of the Dream Den
+4 Shattering Spree
+1 Snow-Covered Mountain
+2 Soul-Guide Lantern
+
+DECKLIST :
+BILLSIVE (13TH
+PLACE)
+Creature (10)
+4 Dark Confidant
+1 Jace, Vryn's Prodigy
+3 Lavinia, Azorius Renegade
+2 Snapcaster Mage
+Sorcery (10)
+1 Demonic Tutor
+1 Gitaxian Probe
+1 Merchant Scroll
+1 Ponder
+4 Preordain
+1 Time Walk
+1 Treasure Cruise
+Instant (14)
+1 Ancestral Recall
+1 Brainstorm
+1 Dig Through Time
+1 Flusterstorm
+2 Force of Negation
+4 Force of Will
+1 Gush
+1 Mental Misstep
+2 Swords to Plowshares
+Artifact (8)
+1 Black Lotus
+1 Lotus Petal
+1 Mishra's Bauble
+1 Mox Jet
+1 Mox Pearl
+1 Mox Sapphire
+1 Nihil Spellbomb
+1 Null Rod
+Enchantment (1)
+1 Dead Weight
+Land (17)
+1 Flooded Strand
+1 Karakas
+2 Misty Rainforest
+1 Mystic Sanctuary
+2 Polluted Delta
+2 Scalding Tarn
+1 Snow-Covered Island
+1 Strip Mine
+2 Tundra
+2 Underground Sea
+2 Wasteland
+60 Cards
+Sideboard (15)
+1 Wasteland
+1 Dead Weight
+1 Flusterstorm
+2 Null Rod
+1 Swords to Plowshares
+1 Balance
+1 Lurrus of the Dream Den
+1 Mindbreak Trap
+1 Mystic Remora
+1 Seal of Cleansing
+2 The Tabernacle at Pendrell Vale
+2 Tormod's Crypt
+
+DECKLIST :
+IAMACTUALLYLVL1 (14TH
+PLACE)
+Creature (7)
+4 Dark Confidant
+2 Lavinia, Azorius Renegade
+1 Snapcaster Mage
+Sorcery (12)
+4 Cabal Therapy
+1 Demonic Tutor
+1 Gitaxian Probe
+1 Ponder
+1 Reanimate
+1 Tendrils of Agony
+1 Thoughtseize
+1 Time Walk
+1 Yawgmoth's Will
+Instant (12)
+1 Ancestral Recall
+1 Brainstorm
+4 Dark Ritual
+3 Daze
+1 Mental Misstep
+1 Swords to Plowshares
+1 Vampiric Tutor
+Artifact (11)
+1 Black Lotus
+1 Lotus Petal
+1 Mox Jet
+1 Mox Pearl
+1 Mox Sapphire
+1 Null Rod
+1 Soul-Guide Lantern
+4 Urza's Bauble
+Enchantment (1)
+1 Dead Weight
+Land (17)
+1 Flooded Strand
+1 Karakas
+2 Misty Rainforest
+1 Polluted Delta
+2 Scalding Tarn
+1 Strip Mine
+2 Tundra
+4 Underground Sea
+3 Wasteland
+60 Cards
+Sideboard (15)
+1 Wasteland
+1 Dead Weight
+3 Null Rod
+1 Swords to Plowshares
+3 Hurkyl's Recall
+1 Lurrus of the Dream Den
+1 Mindbreak Trap
+1 Seal of Cleansing
+3 Tormod's Crypt
+
+DECKLIST :
+AIGIS (15TH
+PLACE)
+Sorcery (12)
+1 Demonic Tutor
+1 Gitaxian Probe
+1 Merchant Scroll
+1 Ponder
+4 Preordain
+2 Thoughtseize
+1 Time Walk
+1 Treasure Cruise
+Instant (22)
+1 Ancestral Recall
+2 Brain Freeze
+1 Brainstorm
+1 Chain of Vapor
+1 Daze
+1 Dig Through Time
+1 Flusterstorm
+4 Force of Will
+1 Gush
+1 Hurkyl's Recall
+1 Lightning Bolt
+1 Mental Misstep
+1 Mystical Tutor
+3 Pyroblast
+1 Spell Pierce
+1 Vampiric Tutor
+Artifact (7)
+1 Black Lotus
+1 Lion's Eye Diamond
+1 Lotus Petal
+1 Mox Jet
+1 Mox Ruby
+1 Mox Sapphire
+1 Nihil Spellbomb
+Enchantment (3)
+3 Underworld Breach
+Land (16)
+2 Misty Rainforest
+1 Mystic Sanctuary
+2 Polluted Delta
+4 Scalding Tarn
+1 Snow-Covered Island
+3 Underground Sea
+3 Volcanic Island
+60 Cards
+Sideboard (15)
+1 Flusterstorm
+1 Bitter Ordeal
+1 Lurrus of the Dream Den
+4 Shattering Spree
+1 Snow-Covered Mountain
+3 Sprite Dragon
+2 The Tabernacle at Pendrell Vale
+2 Tormod's Crypt
+
+DECKLIST :
+FALKONEYE (16TH
+PLACE)
+Planeswalker (6)
+1 Dack Fayden
+1 Jace, the Mind Sculptor
+1 Narset, Parter of Veils
+1 Oko, Thief of Crowns
+1 Teferi, Time Raveler
+1 Wrenn and Six
+Creature (7)
+1 Deathrite Shaman
+1 Dreadhorde Arcanist
+1 Jace, Vryn's Prodigy
+1 Lavinia, Azorius Renegade
+1 Monastery Mentor
+1 Snapcaster Mage
+1 Tarmogoyf
+Sorcery (9)
+1 Gitaxian Probe
+1 Merchant Scroll
+1 Ponder
+1 Portent
+1 Preordain
+1 Serum Visions
+1 Shattering Spree
+1 Time Walk
+1 Treasure Cruise
+Instant (15)
+1 Ancestral Recall
+1 Ancient Grudge
+1 Brainstorm
+1 Daze
+1 Dig Through Time
+1 Force of Negation
+1 Force of Will
+1 Gush
+1 Lightning Bolt
+1 Mental Misstep
+1 Mindbreak Trap
+1 Pyroblast
+1 Red Elemental Blast
+1 Spell Pierce
+1 Swords to Plowshares
+Artifact (5)
+1 Black Lotus
+1 Mox Emerald
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+Land (18)
+2 Flooded Strand
+2 Misty Rainforest
+2 Polluted Delta
+3 Scalding Tarn
+1 Strip Mine
+2 Tropical Island
+1 Tundra
+3 Volcanic Island
+2 Wasteland
+60 Cards
+Sideboard (15)
+3 Force of Will
+1 By Force
+1 Ceremonious Rejection
+1 Energy Flux
+1 Flusterstorm
+4 Leyline of the Void
+1 Lutri, the Spellchaser
+1 Mystical Dispute
+2 The Tabernacle at Pendrell Vale
+
+DECKLIST :
+JEREMY_HINES (17TH
+PLACE)
+Creature (2)
+2 Sprite Dragon
+Sorcery (11)
+1 Demonic Tutor
+1 Gitaxian Probe
+1 Merchant Scroll
+1 Ponder
+4 Preordain
+1 Thoughtseize
+1 Time Walk
+1 Treasure Cruise
+Instant (19)
+1 Ancestral Recall
+2 Brain Freeze
+1 Brainstorm
+1 Dig Through Time
+1 Flusterstorm
+4 Force of Will
+1 Gush
+2 Intuition
+1 Mental Misstep
+3 Pyroblast
+1 Vampiric Tutor
+1 Winds of Rebuke
+Artifact (7)
+1 Black Lotus
+1 Lion's Eye Diamond
+1 Lotus Petal
+1 Mox Jet
+1 Mox Ruby
+1 Mox Sapphire
+1 Nihil Spellbomb
+Enchantment (6)
+1 Animate Dead
+1 Dead Weight
+1 Seal of Fire
+3 Underworld Breach
+Land (15)
+1 Badlands
+1 Bloodstained Mire
+2 Flooded Strand
+3 Polluted Delta
+2 Scalding Tarn
+1 Snow-Covered Island
+2 Underground Sea
+3 Volcanic Island
+60 Cards
+Sideboard (15)
+1 Pyroblast
+1 Hurkyl's Recall
+1 Lurrus of the Dream Den
+1 Mindbreak Trap
+1 Pyroclasm
+1 Snow-Covered Mountain
+1 Snow-Covered Swamp
+2 Soul-Guide Lantern
+1 Strip Mine
+2 The Tabernacle at Pendrell Vale
+2 Wasteland
+1 Young Pyromancer
+
+DECKLIST :
+MONTRE82 (18TH
+PLACE)
+Planeswalker (2)
+1 Dack Fayden
+1 Narset, Parter of Veils
+Creature (8)
+3 Dreadhorde Arcanist
+2 Snapcaster Mage
+3 Sprite Dragon
+Sorcery (10)
+1 Gitaxian Probe
+1 Merchant Scroll
+1 Ponder
+4 Preordain
+1 Shattering Spree
+1 Time Walk
+1 Treasure Cruise
+Instant (20)
+1 Ancestral Recall
+1 Brainstorm
+1 Daze
+1 Dig Through Time
+2 Force of Negation
+4 Force of Will
+1 Gush
+4 Lightning Bolt
+1 Mental Misstep
+4 Pyroblast
+Artifact (4)
+1 Black Lotus
+1 Mox Ruby
+1 Mox Sapphire
+1 Null Rod
+Land (16)
+1 Flooded Strand
+2 Island
+1 Misty Rainforest
+1 Mountain
+1 Mystic Sanctuary
+1 Polluted Delta
+4 Scalding Tarn
+1 Strip Mine
+4 Volcanic Island
+60 Cards
+Sideboard (15)
+2 Null Rod
+3 Shattering Spree
+1 Abrade
+1 Flusterstorm
+1 Pithing Needle
+2 Pyroclasm
+2 Surgical Extraction
+2 The Tabernacle at Pendrell Vale
+1 Tormod's Crypt
+
+DECKLIST :
+MICHELINO (19TH
+PLACE)
+Creature (3)
+3 Sprite Dragon
+Sorcery (11)
+1 Demonic Tutor
+1 Gitaxian Probe
+1 Merchant Scroll
+1 Ponder
+4 Preordain
+1 Shattering Spree
+1 Time Walk
+1 Treasure Cruise
+Instant (23)
+1 Ancestral Recall
+1 Brain Freeze
+1 Brainstorm
+1 Dig Through Time
+2 Force of Negation
+4 Force of Will
+1 Gush
+1 Intuition
+3 Lightning Bolt
+1 Mental Misstep
+1 Mindbreak Trap
+1 Mystical Tutor
+4 Pyroblast
+1 Vampiric Tutor
+Artifact (6)
+1 Black Lotus
+1 Lotus Petal
+1 Mox Jet
+1 Mox Ruby
+1 Mox Sapphire
+1 Nihil Spellbomb
+Enchantment (2)
+1 Dead Weight
+1 Underworld Breach
+Land (15)
+1 Flooded Strand
+1 Island
+1 Mystic Sanctuary
+1 Polluted Delta
+4 Scalding Tarn
+3 Underground Sea
+4 Volcanic Island
+60 Cards
+Sideboard (15)
+1 Mindbreak Trap
+3 Shattering Spree
+1 Lurrus of the Dream Den
+1 Mountain
+3 Mystic Remora
+1 Pulverize
+1 Ravenous Trap
+1 Soul-Guide Lantern
+1 The Tabernacle at Pendrell Vale
+2 Tormod's Crypt
+
+DECKLIST :
+KINNY (20TH
+PLACE)
+Creature (5)
+1 Lavinia, Azorius Renegade
+1 Phantasmal Image
+2 Sprite Dragon
+1 Thassa's Oracle
+Sorcery (5)
+1 Demonic Tutor
+1 Gitaxian Probe
+1 Ponder
+1 Time Walk
+1 Yawgmoth's Will
+Instant (15)
+1 Ancestral Recall
+1 Brain Freeze
+1 Brainstorm
+1 Daze
+1 Demonic Consultation
+1 Dig Through Time
+4 Force of Will
+1 Hurkyl's Recall
+1 Mental Misstep
+2 Pyroblast
+1 Vampiric Tutor
+Artifact (15)
+1 Black Lotus
+1 Lion's Eye Diamond
+1 Lotus Petal
+1 Manifold Key
+1 Mox Jet
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+2 Sensei's Divining Top
+1 Soul-Guide Lantern
+1 Time Vault
+3 Urza's Bauble
+Enchantment (4)
+1 Seal of Cleansing
+1 Seal of Fire
+2 Underworld Breach
+Land (16)
+2 Flooded Strand
+1 Misty Rainforest
+3 Polluted Delta
+2 Scalding Tarn
+2 Tundra
+3 Underground Sea
+3 Volcanic Island
+60 Cards
+Sideboard (15)
+2 Hurkyl's Recall
+1 Pyroblast
+1 Seal of Fire
+2 Soul-Guide Lantern
+1 Balance
+1 Flusterstorm
+1 Kataki, War's Wage
+1 Lurrus of the Dream Den
+1 Ratchet Bomb
+1 Sacred Ground
+3 Tormod's Crypt
+
+DECKLIST :
+SVACA (21ST
+PLACE)
+Creature (12)
+4 Dark Confidant
+4 Deathrite Shaman
+2 Dreadhorde Arcanist
+2 Snapcaster Mage
+Sorcery (9)
+1 Demonic Tutor
+1 Gitaxian Probe
+1 Merchant Scroll
+1 Ponder
+3 Preordain
+1 Time Walk
+1 Treasure Cruise
+Instant (15)
+1 Ancestral Recall
+1 Brainstorm
+4 Daze
+4 Force of Will
+3 Lightning Bolt
+1 Mental Misstep
+1 Vampiric Tutor
+Artifact (8)
+1 Black Lotus
+4 Mishra's Bauble
+1 Mox Jet
+1 Mox Ruby
+1 Mox Sapphire
+Land (16)
+2 Flooded Strand
+2 Misty Rainforest
+2 Polluted Delta
+1 Scalding Tarn
+1 Strip Mine
+1 Tropical Island
+2 Underground Sea
+2 Volcanic Island
+3 Wasteland
+60 Cards
+Sideboard (15)
+1 Ancient Grudge
+2 Assassin's Trophy
+1 By Force
+1 Fatal Push
+1 Lurrus of the Dream Den
+1 Nature's Claim
+3 Nihil Spellbomb
+2 Pyroblast
+1 Red Elemental Blast
+1 Spell Pierce
+1 Tormod's Crypt
+
+DECKLIST :
+ANTHONY_S (22ND
+PLACE)
+Creature (3)
+2 Lavinia, Azorius Renegade
+1 Snapcaster Mage
+Sorcery (5)
+1 Demonic Tutor
+1 Gitaxian Probe
+1 Merchant Scroll
+1 Tendrils of Agony
+1 Time Walk
+Instant (16)
+1 Ancestral Recall
+1 Brainstorm
+1 Dig Through Time
+1 Flusterstorm
+4 Force of Will
+1 Hurkyl's Recall
+1 Mental Misstep
+4 Paradoxical Outcome
+1 Repeal
+1 Vampiric Tutor
+Artifact (21)
+1 Black Lotus
+1 Lion's Eye Diamond
+1 Mana Crypt
+1 Mana Vault
+1 Manifold Key
+1 Mox Emerald
+1 Mox Jet
+3 Mox Opal
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+1 Nihil Spellbomb
+1 Sensei's Divining Top
+1 Sol Ring
+1 Time Vault
+4 Urza's Bauble
+Enchantment (2)
+2 Mystic Remora
+Land (13)
+2 Flooded Strand
+1 Karakas
+1 Misty Rainforest
+2 Polluted Delta
+1 Scalding Tarn
+1 Snow-Covered Island
+1 Tolarian Academy
+2 Tundra
+2 Underground Sea
+60 Cards
+Sideboard (15)
+3 Hurkyl's Recall
+1 Balance
+1 Engineered Explosives
+1 Lurrus of the Dream Den
+1 Seal of Cleansing
+1 Seal of Removal
+2 Swords to Plowshares
+2 The Tabernacle at Pendrell Vale
+3 Tormod's Crypt
+
+DECKLIST :
+_PADY_ (23RD
+PLACE)
+Creature (4)
+2 Lavinia, Azorius Renegade
+2 Snapcaster Mage
+Sorcery (7)
+1 Gitaxian Probe
+1 Merchant Scroll
+1 Ponder
+2 Preordain
+1 Time Walk
+1 Treasure Cruise
+Instant (18)
+1 Ancestral Recall
+2 Brain Freeze
+1 Brainstorm
+1 Dig Through Time
+2 Flusterstorm
+2 Force of Negation
+4 Force of Will
+1 Mental Misstep
+4 Paradoxical Outcome
+Artifact (14)
+1 Black Lotus
+1 Mana Crypt
+1 Mana Vault
+3 Mishra's Bauble
+1 Mox Emerald
+1 Mox Jet
+2 Mox Opal
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+1 Sol Ring
+Enchantment (3)
+3 Mystic Remora
+Land (14)
+4 Flooded Strand
+3 Island
+1 Misty Rainforest
+1 Mystic Sanctuary
+1 Polluted Delta
+1 Scalding Tarn
+1 Tolarian Academy
+2 Tundra
+60 Cards
+Sideboard (15)
+3 Hurkyl's Recall
+1 Lurrus of the Dream Den
+1 Mindbreak Trap
+1 Plains
+1 Seal of Cleansing
+2 Soul-Guide Lantern
+1 Supreme Verdict
+3 Swords to Plowshares
+2 Tormod's Crypt
+
+DECKLIST :
+FLUSHPUPPYTRB (24TH
+PLACE)
+Planeswalker (2)
+1 Dack Fayden
+1 Narset, Parter of Veils
+Creature (8)
+3 Dreadhorde Arcanist
+2 Snapcaster Mage
+3 Sprite Dragon
+Sorcery (10)
+1 Gitaxian Probe
+1 Merchant Scroll
+1 Ponder
+4 Preordain
+1 Shattering Spree
+1 Time Walk
+1 Treasure Cruise
+Instant (19)
+1 Ancestral Recall
+1 Brainstorm
+1 Daze
+1 Dig Through Time
+2 Force of Negation
+4 Force of Will
+1 Gush
+3 Lightning Bolt
+1 Mental Misstep
+4 Pyroblast
+Artifact (5)
+1 Black Lotus
+1 Mox Ruby
+1 Mox Sapphire
+2 Null Rod
+Land (16)
+1 Flooded Strand
+2 Island
+1 Misty Rainforest
+1 Mountain
+1 Mystic Sanctuary
+1 Polluted Delta
+4 Scalding Tarn
+1 Strip Mine
+4 Volcanic Island
+60 Cards
+Sideboard (15)
+1 Lightning Bolt
+1 Null Rod
+3 Shattering Spree
+1 Abrade
+1 Flusterstorm
+1 Pithing Needle
+1 Pulverize
+1 Ravenous Trap
+2 Surgical Extraction
+2 The Tabernacle at Pendrell Vale
+1 Tormod's Crypt
+
+DECKLIST :
+IANMARSH (25TH
+PLACE)
+Creature (13)
+4 Dark Confidant
+2 Divining Witch
+2 Lavinia, Azorius Renegade
+1 Snapcaster Mage
+2 Thalia, Guardian of Thraben
+2 Thassa's Oracle
+Sorcery (8)
+1 Demonic Tutor
+1 Gitaxian Probe
+1 Merchant Scroll
+2 Night's Whisper
+1 Ponder
+1 Reanimate
+1 Time Walk
+Instant (15)
+1 Ancestral Recall
+1 Brainstorm
+1 Daze
+1 Demonic Consultation
+1 Flusterstorm
+1 Force of Negation
+4 Force of Will
+1 Mental Misstep
+1 Spell Pierce
+2 Swords to Plowshares
+1 Vampiric Tutor
+Artifact (6)
+1 Black Lotus
+1 Lotus Petal
+1 Mox Jet
+1 Mox Pearl
+1 Mox Sapphire
+1 Soul-Guide Lantern
+Enchantment (2)
+1 Dead Weight
+1 Deafening Silence
+Land (16)
+4 Cavern of Souls
+2 Flooded Strand
+1 Karakas
+2 Polluted Delta
+1 Snow-Covered Island
+1 Snow-Covered Swamp
+1 Strip Mine
+2 Tundra
+2 Underground Sea
+60 Cards
+Sideboard (15)
+1 Deafening Silence
+1 Soul-Guide Lantern
+1 Swords to Plowshares
+2 Energy Flux
+1 Lurrus of the Dream Den
+2 Mindbreak Trap
+2 Stony Silence
+2 The Tabernacle at Pendrell Vale
+3 Tormod's Crypt
+
+DECKLIST :
+SAMSHERMAN (26TH
+PLACE)
+Creature (22)
+4 Arcbound Ravager
+1 Hangarback Walker
+2 Hope of Ghirapur
+3 Phyrexian Revoker
+4 Steel Overseer
+4 Stonecoil Serpent
+4 Walking Ballista
+Instant (1)
+1 Dismember
+Artifact (18)
+1 Black Lotus
+1 Chalice of the Void
+1 Mana Crypt
+1 Mox Emerald
+1 Mox Jet
+1 Mox Opal
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+2 Nihil Spellbomb
+1 Sol Ring
+1 Sorcerous Spyglass
+4 Sphere of Resistance
+1 Thorn of Amethyst
+Land (19)
+4 Ancient Tomb
+2 Cavern of Souls
+1 Karakas
+4 Mishra's Workshop
+1 Phyrexian Tower
+1 Strip Mine
+1 Tolarian Academy
+1 Urborg, Tomb of Yawgmoth
+4 Wasteland
+60 Cards
+Sideboard (15)
+1 Hope of Ghirapur
+1 Dismember
+4 Grafdigger's Cage
+1 Lurrus of the Dream Den
+2 Mindbreak Trap
+2 Null Rod
+2 The Tabernacle at Pendrell Vale
+2 Tormod's Crypt
+
+DECKLIST :
+HELVETTI (27TH
+PLACE)
+Planeswalker (6)
+1 Dack Fayden
+1 Jace, the Mind Sculptor
+1 Narset, Parter of Veils
+1 Oko, Thief of Crowns
+1 Teferi, Time Raveler
+1 Wrenn and Six
+Creature (7)
+1 Deathrite Shaman
+1 Dreadhorde Arcanist
+1 Jace, Vryn's Prodigy
+1 Lavinia, Azorius Renegade
+1 Monastery Mentor
+1 Snapcaster Mage
+1 Young Pyromancer
+Sorcery (9)
+1 Gitaxian Probe
+1 Merchant Scroll
+1 Ponder
+1 Portent
+1 Preordain
+1 Serum Visions
+1 Shattering Spree
+1 Time Walk
+1 Treasure Cruise
+Instant (15)
+1 Ancestral Recall
+1 Ancient Grudge
+1 Brainstorm
+1 Daze
+1 Dig Through Time
+1 Force of Negation
+1 Force of Will
+1 Gush
+1 Lightning Bolt
+1 Mental Misstep
+1 Mindbreak Trap
+1 Pyroblast
+1 Red Elemental Blast
+1 Spell Pierce
+1 Swords to Plowshares
+Artifact (5)
+1 Black Lotus
+1 Mox Emerald
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+Land (18)
+1 Flooded Strand
+1 Misty Rainforest
+1 Mystic Sanctuary
+3 Polluted Delta
+3 Scalding Tarn
+1 Strip Mine
+2 Tropical Island
+1 Tundra
+1 Underground Sea
+2 Volcanic Island
+2 Wasteland
+60 Cards
+Sideboard (15)
+3 Force of Will
+1 By Force
+1 Ceremonious Rejection
+1 Energy Flux
+1 Flusterstorm
+4 Leyline of the Void
+1 Lutri, the Spellchaser
+1 Mystical Dispute
+2 The Tabernacle at Pendrell Vale
+
+DECKLIST :
+JPINTER (28TH
+PLACE)
+Creature (15)
+2 Collector Ouphe
+3 Dark Confidant
+4 Deathrite Shaman
+1 Jace, Vryn's Prodigy
+1 Scavenging Ooze
+2 Snapcaster Mage
+2 Tarmogoyf
+Sorcery (7)
+1 Demonic Tutor
+1 Gitaxian Probe
+1 Green Sun's Zenith
+1 Ponder
+1 Time Walk
+1 Treasure Cruise
+1 Unearth
+Instant (13)
+2 Abrupt Decay
+1 Ancestral Recall
+1 Brainstorm
+1 Fatal Push
+1 Flusterstorm
+1 Force of Negation
+4 Force of Will
+1 Mental Misstep
+1 Spell Pierce
+Artifact (6)
+1 Black Lotus
+1 Lotus Petal
+1 Mox Emerald
+1 Mox Jet
+1 Mox Sapphire
+1 Nihil Spellbomb
+Enchantment (2)
+1 Dead Weight
+1 Mystic Remora
+Land (17)
+1 Bayou
+3 Misty Rainforest
+2 Polluted Delta
+1 Strip Mine
+2 Tropical Island
+3 Underground Sea
+2 Verdant Catacombs
+3 Wasteland
+60 Cards
+Sideboard (15)
+1 Flusterstorm
+1 Nihil Spellbomb
+2 Assassin's Trophy
+2 Chains of Mephistopheles
+2 Force of Vigor
+1 Lurrus of the Dream Den
+2 Mindbreak Trap
+1 Seal of Primordium
+1 Soul-Guide Lantern
+2 Surgical Extraction
+
+DECKLIST :
+AGUANILE87 (29TH
+PLACE)
+Planeswalker (5)
+2 Dack Fayden
+1 Narset, Parter of Veils
+2 Teferi, Time Raveler
+Creature (6)
+2 Dreadhorde Arcanist
+1 Lavinia, Azorius Renegade
+1 Monastery Mentor
+2 Snapcaster Mage
+Sorcery (10)
+1 Gitaxian Probe
+1 Merchant Scroll
+1 Ponder
+4 Preordain
+1 Shattering Spree
+1 Time Walk
+1 Treasure Cruise
+Instant (18)
+1 Ancestral Recall
+1 Brainstorm
+1 Daze
+1 Dig Through Time
+2 Force of Negation
+4 Force of Will
+1 Gush
+2 Lightning Bolt
+1 Mental Misstep
+2 Pyroblast
+2 Swords to Plowshares
+Artifact (4)
+1 Black Lotus
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+Land (17)
+1 Flooded Strand
+1 Island
+1 Misty Rainforest
+1 Mystic Sanctuary
+1 Polluted Delta
+4 Scalding Tarn
+1 Strip Mine
+3 Tundra
+4 Volcanic Island
+60 Cards
+Sideboard (15)
+2 Pyroblast
+2 Shattering Spree
+1 Containment Priest
+1 Flusterstorm
+1 Fragmentize
+1 Karakas
+1 Pithing Needle
+1 Snow-Covered Mountain
+2 Surgical Extraction
+2 The Tabernacle at Pendrell Vale
+1 Tormod's Crypt
+
+DECKLIST :
+LAUGHINGROCK (30TH
+PLACE)
+Creature (3)
+2 Lavinia, Azorius Renegade
+1 Snapcaster Mage
+Sorcery (6)
+1 Demonic Tutor
+1 Gitaxian Probe
+1 Merchant Scroll
+1 Tendrils of Agony
+1 Time Walk
+1 Yawgmoth's Will
+Instant (15)
+1 Ancestral Recall
+1 Brainstorm
+1 Dig Through Time
+1 Flusterstorm
+4 Force of Will
+1 Hurkyl's Recall
+1 Mental Misstep
+4 Paradoxical Outcome
+1 Repeal
+Artifact (20)
+1 Black Lotus
+1 Lotus Petal
+1 Mana Crypt
+1 Mana Vault
+1 Manifold Key
+4 Mishra's Bauble
+1 Mox Emerald
+1 Mox Jet
+3 Mox Opal
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+1 Sensei's Divining Top
+1 Sol Ring
+1 Time Vault
+Enchantment (3)
+3 Mystic Remora
+Land (13)
+1 Flooded Strand
+1 Island
+1 Karakas
+2 Misty Rainforest
+1 Polluted Delta
+2 Scalding Tarn
+1 Tolarian Academy
+2 Tundra
+2 Underground Sea
+60 Cards
+Sideboard (15)
+2 Flusterstorm
+2 Hurkyl's Recall
+1 Mystic Remora
+1 Balance
+1 Lurrus of the Dream Den
+1 Mindbreak Trap
+1 Nihil Spellbomb
+1 Seal of Cleansing
+1 Seal of Removal
+1 Swords to Plowshares
+3 Tormod's Crypt
+
+DECKLIST :
+GERARDO94 (31ST
+PLACE)
+Creature (11)
+4 Dark Confidant
+3 Deathrite Shaman
+2 Jace, Vryn's Prodigy
+2 Snapcaster Mage
+Sorcery (12)
+1 Demonic Tutor
+1 Gitaxian Probe
+1 Merchant Scroll
+1 Ponder
+4 Preordain
+2 Thoughtseize
+1 Time Walk
+1 Treasure Cruise
+Instant (14)
+1 Abrupt Decay
+1 Ancestral Recall
+1 Brainstorm
+3 Daze
+2 Fatal Push
+4 Force of Will
+1 Mental Misstep
+1 Vampiric Tutor
+Artifact (7)
+1 Black Lotus
+1 Engineered Explosives
+1 Lotus Petal
+1 Mox Emerald
+1 Mox Jet
+1 Mox Sapphire
+1 Nihil Spellbomb
+Land (16)
+2 Flooded Strand
+2 Misty Rainforest
+2 Polluted Delta
+1 Scalding Tarn
+1 Strip Mine
+2 Tropical Island
+3 Underground Sea
+3 Wasteland
+60 Cards
+Sideboard (15)
+1 Engineered Explosives
+1 Fatal Push
+2 Nihil Spellbomb
+1 Thoughtseize
+1 Force of Negation
+1 Lurrus of the Dream Den
+3 Nature's Claim
+2 Ravenous Trap
+2 Spell Pierce
+1 Tormod's Crypt
+
+DECKLIST :
+CLOCKWORK DEAN (32ND
+PLACE)
+Creature (23)
+4 Chief of the Foundry
+4 Foundry Inspector
+1 Lodestone Golem
+4 Phyrexian Revoker
+4 Porcelain Legionnaire
+4 Stonecoil Serpent
+2 Traxos, Scourge of Kroog
+Artifact (20)
+1 Black Lotus
+1 Chalice of the Void
+1 Mana Crypt
+1 Mox Emerald
+1 Mox Jet
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+1 Mystic Forge
+4 Null Rod
+1 Sol Ring
+4 Sphere of Resistance
+1 Thorn of Amethyst
+1 Trinisphere
+Land (17)
+4 Ancient Tomb
+3 Mishra's Factory
+4 Mishra's Workshop
+1 Strip Mine
+1 Tolarian Academy
+4 Wasteland
+60 Cards
+Sideboard (15)
+1 Crucible of Worlds
+3 Dismember
+4 Grafdigger's Cage
+3 Precursor Golem
+3 Ravenous Trap
+1 Wurmcoil Engine
+
+
+
+
+CATEGORY :
+Vintage Preliminary
+APRIL
+25
+2020
+
+DECKLIST :
+YAMAKILLER
+(5-0)
+Creature (3)
+2 Lavinia, Azorius Renegade
+1 Snapcaster Mage
+Sorcery (6)
+1 Demonic Tutor
+1 Gitaxian Probe
+1 Merchant Scroll
+1 Tendrils of Agony
+1 Time Walk
+1 Yawgmoth's Will
+Instant (15)
+1 Ancestral Recall
+1 Brainstorm
+1 Dig Through Time
+1 Flusterstorm
+4 Force of Will
+1 Hurkyl's Recall
+1 Mental Misstep
+4 Paradoxical Outcome
+1 Repeal
+Artifact (20)
+1 Black Lotus
+1 Lotus Petal
+1 Mana Crypt
+1 Mana Vault
+1 Manifold Key
+4 Mishra's Bauble
+1 Mox Emerald
+1 Mox Jet
+3 Mox Opal
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+1 Sensei's Divining Top
+1 Sol Ring
+1 Time Vault
+Enchantment (3)
+3 Mystic Remora
+Land (13)
+1 Karakas
+3 Misty Rainforest
+3 Scalding Tarn
+1 Snow-Covered Island
+1 Tolarian Academy
+2 Tundra
+2 Underground Sea
+60 Cards
+Sideboard (15)
+1 Flusterstorm
+3 Hurkyl's Recall
+1 Balance
+1 Engineered Explosives
+1 Lurrus of the Dream Den
+1 Mindbreak Trap
+1 Nihil Spellbomb
+1 Seal of Cleansing
+1 Seal of Removal
+1 Swords to Plowshares
+3 Tormod's Crypt
+
+DECKLIST :
+BILLSIVE
+(4-1)
+Creature (10)
+4 Dark Confidant
+1 Jace, Vryn's Prodigy
+3 Lavinia, Azorius Renegade
+2 Snapcaster Mage
+Sorcery (10)
+1 Demonic Tutor
+1 Gitaxian Probe
+1 Merchant Scroll
+1 Ponder
+4 Preordain
+1 Time Walk
+1 Treasure Cruise
+Instant (14)
+1 Ancestral Recall
+1 Brainstorm
+1 Dig Through Time
+1 Flusterstorm
+2 Force of Negation
+4 Force of Will
+1 Gush
+1 Mental Misstep
+2 Swords to Plowshares
+Artifact (8)
+1 Black Lotus
+1 Lotus Petal
+1 Mishra's Bauble
+1 Mox Jet
+1 Mox Pearl
+1 Mox Sapphire
+1 Nihil Spellbomb
+1 Null Rod
+Enchantment (1)
+1 Dead Weight
+Land (17)
+1 Flooded Strand
+1 Karakas
+2 Misty Rainforest
+1 Mystic Sanctuary
+2 Polluted Delta
+2 Scalding Tarn
+1 Snow-Covered Island
+1 Strip Mine
+2 Tundra
+2 Underground Sea
+2 Wasteland
+60 Cards
+Sideboard (15)
+1 Dead Weight
+1 Flusterstorm
+3 Null Rod
+1 Swords to Plowshares
+1 Balance
+1 Lurrus of the Dream Den
+1 Mindbreak Trap
+1 Seal of Cleansing
+2 The Tabernacle at Pendrell Vale
+3 Tormod's Crypt
+
+DECKLIST :
+ECOBARONEN
+(4-1)
+Creature (23)
+4 Chief of the Foundry
+4 Foundry Inspector
+1 Lodestone Golem
+4 Phyrexian Revoker
+4 Porcelain Legionnaire
+4 Stonecoil Serpent
+2 Traxos, Scourge of Kroog
+Artifact (20)
+1 Black Lotus
+1 Chalice of the Void
+1 Mana Crypt
+1 Mox Emerald
+1 Mox Jet
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+1 Mystic Forge
+4 Null Rod
+1 Sol Ring
+4 Sphere of Resistance
+1 Thorn of Amethyst
+1 Trinisphere
+Land (17)
+4 Ancient Tomb
+3 Mishra's Factory
+4 Mishra's Workshop
+1 Strip Mine
+1 Tolarian Academy
+4 Wasteland
+60 Cards
+Sideboard (15)
+3 Dismember
+4 Grafdigger's Cage
+4 Precursor Golem
+4 Ravenous Trap
+
+DECKLIST :
+RHIANNE
+(4-1)
+Planeswalker (6)
+1 Dack Fayden
+1 Jace, the Mind Sculptor
+1 Narset, Parter of Veils
+1 Oko, Thief of Crowns
+1 Teferi, Time Raveler
+1 Wrenn and Six
+Creature (7)
+1 Deathrite Shaman
+1 Dreadhorde Arcanist
+1 Jace, Vryn's Prodigy
+1 Lavinia, Azorius Renegade
+1 Monastery Mentor
+1 Snapcaster Mage
+1 Tarmogoyf
+Sorcery (9)
+1 Gitaxian Probe
+1 Merchant Scroll
+1 Ponder
+1 Portent
+1 Preordain
+1 Serum Visions
+1 Shattering Spree
+1 Time Walk
+1 Treasure Cruise
+Instant (15)
+1 Ancestral Recall
+1 Ancient Grudge
+1 Brainstorm
+1 Daze
+1 Dig Through Time
+1 Force of Negation
+1 Force of Will
+1 Gush
+1 Lightning Bolt
+1 Mental Misstep
+1 Mindbreak Trap
+1 Pyroblast
+1 Red Elemental Blast
+1 Spell Pierce
+1 Swords to Plowshares
+Artifact (5)
+1 Black Lotus
+1 Mox Emerald
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+Land (18)
+2 Flooded Strand
+1 Misty Rainforest
+3 Polluted Delta
+3 Scalding Tarn
+1 Strip Mine
+2 Tropical Island
+1 Tundra
+3 Volcanic Island
+2 Wasteland
+60 Cards
+Sideboard (15)
+3 Force of Will
+1 By Force
+1 Ceremonious Rejection
+1 Energy Flux
+1 Flusterstorm
+4 Leyline of the Void
+1 Lutri, the Spellchaser
+1 Mystical Dispute
+2 The Tabernacle at Pendrell Vale
+
+DECKLIST :
+S063
+(3-2)
+Creature (22)
+4 Arcbound Ravager
+3 Hangarback Walker
+3 Phyrexian Revoker
+4 Steel Overseer
+4 Stonecoil Serpent
+4 Walking Ballista
+Instant (1)
+1 Dismember
+Artifact (18)
+1 Black Lotus
+1 Chalice of the Void
+1 Mana Crypt
+1 Mox Emerald
+1 Mox Jet
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+2 Nihil Spellbomb
+1 Sol Ring
+2 Sorcerous Spyglass
+4 Sphere of Resistance
+1 Thorn of Amethyst
+Land (19)
+4 Ancient Tomb
+1 Cavern of Souls
+1 Karakas
+4 Mishra's Workshop
+1 Phyrexian Tower
+1 Silent Clearing
+1 Strip Mine
+1 Tolarian Academy
+1 Urborg, Tomb of Yawgmoth
+4 Wasteland
+60 Cards
+Sideboard (15)
+1 Dismember
+4 Grafdigger's Cage
+1 Lurrus of the Dream Den
+3 Mindbreak Trap
+2 Null Rod
+2 The Tabernacle at Pendrell Vale
+2 Tormod's Crypt
+
+DECKLIST :
+KILLERSUV
+(3-2)
+Creature (10)
+4 Dark Confidant
+1 Jace, Vryn's Prodigy
+3 Lavinia, Azorius Renegade
+2 Snapcaster Mage
+Sorcery (10)
+1 Demonic Tutor
+1 Gitaxian Probe
+1 Merchant Scroll
+1 Ponder
+4 Preordain
+1 Time Walk
+1 Treasure Cruise
+Instant (14)
+1 Ancestral Recall
+1 Brainstorm
+1 Dig Through Time
+1 Flusterstorm
+2 Force of Negation
+4 Force of Will
+1 Gush
+1 Mental Misstep
+2 Swords to Plowshares
+Artifact (8)
+1 Black Lotus
+1 Lotus Petal
+1 Mishra's Bauble
+1 Mox Jet
+1 Mox Pearl
+1 Mox Sapphire
+1 Nihil Spellbomb
+1 Null Rod
+Enchantment (1)
+1 Dead Weight
+Land (17)
+1 Flooded Strand
+1 Karakas
+2 Misty Rainforest
+1 Mystic Sanctuary
+2 Polluted Delta
+2 Scalding Tarn
+1 Snow-Covered Island
+1 Strip Mine
+2 Tundra
+2 Underground Sea
+2 Wasteland
+60 Cards
+Sideboard (15)
+1 Dead Weight
+1 Flusterstorm
+3 Null Rod
+1 Swords to Plowshares
+1 Balance
+1 Lurrus of the Dream Den
+1 Mindbreak Trap
+1 Seal of Cleansing
+2 The Tabernacle at Pendrell Vale
+3 Tormod's Crypt
+
+DECKLIST :
+JAKEHELMS
+(3-2)
+Creature (3)
+2 Lavinia, Azorius Renegade
+1 Snapcaster Mage
+Sorcery (8)
+1 Demonic Tutor
+1 Gitaxian Probe
+1 Merchant Scroll
+1 Mind's Desire
+1 Tendrils of Agony
+1 Time Walk
+1 Timetwister
+1 Yawgmoth's Will
+Instant (14)
+1 Ancestral Recall
+1 Brainstorm
+1 Flusterstorm
+4 Force of Will
+1 Hurkyl's Recall
+1 Mental Misstep
+4 Paradoxical Outcome
+1 Repeal
+Artifact (18)
+1 Black Lotus
+1 Lotus Petal
+1 Mana Crypt
+1 Mana Vault
+4 Mishra's Bauble
+1 Mox Emerald
+1 Mox Jet
+3 Mox Opal
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+1 Sensei's Divining Top
+1 Sol Ring
+Enchantment (4)
+4 Mystic Remora
+Land (13)
+1 Karakas
+3 Misty Rainforest
+3 Scalding Tarn
+1 Snow-Covered Island
+1 Tolarian Academy
+2 Tundra
+2 Underground Sea
+60 Cards
+Sideboard (15)
+1 Flusterstorm
+3 Hurkyl's Recall
+1 Balance
+1 Lurrus of the Dream Den
+2 Mindbreak Trap
+1 Seal of Cleansing
+1 Seal of Removal
+2 Swords to Plowshares
+3 Tormod's Crypt
+
+DECKLIST :
+GGOGGLES
+(3-2)
+Creature (9)
+4 Dark Confidant
+3 Lavinia, Azorius Renegade
+2 Snapcaster Mage
+Sorcery (10)
+1 Demonic Tutor
+1 Gitaxian Probe
+1 Merchant Scroll
+1 Ponder
+4 Preordain
+1 Time Walk
+1 Treasure Cruise
+Instant (14)
+1 Ancestral Recall
+1 Brainstorm
+1 Daze
+1 Dig Through Time
+1 Flusterstorm
+1 Force of Negation
+4 Force of Will
+1 Gush
+1 Mental Misstep
+2 Swords to Plowshares
+Artifact (9)
+1 Black Lotus
+1 Lotus Petal
+1 Mox Jet
+1 Mox Pearl
+1 Mox Sapphire
+1 Nihil Spellbomb
+2 Null Rod
+1 Urza's Bauble
+Enchantment (1)
+1 Dead Weight
+Land (17)
+2 Flooded Strand
+1 Island
+1 Karakas
+1 Misty Rainforest
+1 Mystic Sanctuary
+2 Polluted Delta
+2 Scalding Tarn
+1 Strip Mine
+2 Tundra
+2 Underground Sea
+2 Wasteland
+60 Cards
+Sideboard (15)
+1 Wasteland
+1 Dead Weight
+1 Flusterstorm
+1 Nihil Spellbomb
+2 Null Rod
+1 Swords to Plowshares
+1 Balance
+1 Lurrus of the Dream Den
+2 Mindbreak Trap
+1 Seal of Cleansing
+3 Tormod's Crypt
+
+DECKLIST :
+THEDECK84
+(3-2)
+Planeswalker (3)
+2 Dack Fayden
+1 Narset, Parter of Veils
+Creature (3)
+1 Blightsteel Colossus
+1 Notion Thief
+1 Snapcaster Mage
+Sorcery (10)
+1 Demonic Tutor
+1 Gitaxian Probe
+1 Merchant Scroll
+1 Ponder
+2 Preordain
+1 Time Walk
+1 Tinker
+1 Treasure Cruise
+1 Yawgmoth's Will
+Instant (19)
+1 Ancestral Recall
+1 Dig Through Time
+2 Flusterstorm
+2 Force of Negation
+4 Force of Will
+1 Gifts Ungiven
+1 Lightning Bolt
+1 Mana Drain
+1 Mental Misstep
+1 Mystical Tutor
+1 Pyroblast
+1 Red Elemental Blast
+1 Repeal
+1 Vampiric Tutor
+Artifact (10)
+1 Black Lotus
+1 Mana Crypt
+1 Manifold Key
+1 Mox Emerald
+1 Mox Jet
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+1 Sol Ring
+1 Time Vault
+Land (15)
+2 Flooded Strand
+1 Island
+1 Misty Rainforest
+1 Mystic Sanctuary
+2 Polluted Delta
+2 Scalding Tarn
+1 Tolarian Academy
+2 Underground Sea
+3 Volcanic Island
+60 Cards
+Sideboard (15)
+1 Lightning Bolt
+1 Pyroblast
+2 By Force
+1 Goblin Cratermaker
+2 Grafdigger's Cage
+2 Hurkyl's Recall
+2 Null Rod
+1 Subterranean Tremors
+3 Surgical Extraction
+
+DECKLIST :
+FNOOP
+(3-2)
+Creature (2)
+1 Dark Confidant
+1 Snapcaster Mage
+Sorcery (8)
+1 Demonic Tutor
+1 Gitaxian Probe
+1 Merchant Scroll
+1 Ponder
+1 Tendrils of Agony
+1 Time Walk
+1 Timetwister
+1 Yawgmoth's Will
+Instant (19)
+1 Ancestral Recall
+1 Brainstorm
+1 Dig Through Time
+1 Drown in the Loch
+1 Flusterstorm
+2 Force of Negation
+4 Force of Will
+1 Hurkyl's Recall
+1 Mental Misstep
+4 Paradoxical Outcome
+1 Repeal
+1 Vampiric Tutor
+Artifact (14)
+1 Black Lotus
+1 Lotus Petal
+1 Mana Crypt
+1 Mana Vault
+1 Mox Emerald
+1 Mox Jet
+3 Mox Opal
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+1 Sensei's Divining Top
+1 Sol Ring
+Enchantment (4)
+4 Mystic Remora
+Land (13)
+2 Flooded Strand
+2 Misty Rainforest
+1 Polluted Delta
+1 Scalding Tarn
+3 Snow-Covered Island
+1 Tolarian Academy
+3 Underground Sea
+60 Cards
+Sideboard (15)
+1 Dark Confidant
+3 Hurkyl's Recall
+3 Fatal Push
+1 Lurrus of the Dream Den
+2 Pithing Needle
+1 Rebuild
+4 Tormod's Crypt
+
+
+
+
+CATEGORY :
+Vintage Preliminary
+APRIL
+23
+2020
+
+DECKLIST :
+AVOCADOTOAST
+(4-1)
+Creature (24)
+4 Arcbound Ravager
+4 Hangarback Walker
+4 Phyrexian Revoker
+4 Steel Overseer
+4 Stonecoil Serpent
+4 Walking Ballista
+Instant (1)
+1 Dismember
+Artifact (17)
+1 Black Lotus
+1 Chalice of the Void
+1 Lion's Eye Diamond
+1 Mana Crypt
+1 Mox Emerald
+1 Mox Jet
+1 Mox Opal
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+1 Sol Ring
+4 Sphere of Resistance
+1 The Ozolith
+1 Thorn of Amethyst
+Land (18)
+4 Ancient Tomb
+1 Cavern of Souls
+1 Karakas
+4 Mishra's Workshop
+1 Phyrexian Tower
+1 Strip Mine
+1 Tolarian Academy
+1 Urborg, Tomb of Yawgmoth
+4 Wasteland
+60 Cards
+Sideboard (15)
+1 Dismember
+4 Grafdigger's Cage
+1 Lurrus of the Dream Den
+3 Mindbreak Trap
+2 Null Rod
+1 Pithing Needle
+3 Tormod's Crypt
+
+DECKLIST :
+HANDSOMEVALLEY
+(4-1)
+Creature (3)
+2 Lavinia, Azorius Renegade
+1 Snapcaster Mage
+Sorcery (6)
+1 Demonic Tutor
+1 Gitaxian Probe
+1 Merchant Scroll
+1 Tendrils of Agony
+1 Time Walk
+1 Yawgmoth's Will
+Instant (15)
+1 Ancestral Recall
+1 Brainstorm
+1 Dig Through Time
+1 Flusterstorm
+4 Force of Will
+1 Hurkyl's Recall
+1 Mental Misstep
+4 Paradoxical Outcome
+1 Repeal
+Artifact (20)
+1 Black Lotus
+1 Lotus Petal
+1 Mana Crypt
+1 Mana Vault
+1 Manifold Key
+4 Mishra's Bauble
+1 Mox Emerald
+1 Mox Jet
+3 Mox Opal
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+1 Sensei's Divining Top
+1 Sol Ring
+1 Time Vault
+Enchantment (3)
+3 Mystic Remora
+Land (13)
+1 Karakas
+3 Misty Rainforest
+3 Scalding Tarn
+1 Snow-Covered Island
+1 Tolarian Academy
+2 Tundra
+2 Underground Sea
+60 Cards
+Sideboard (15)
+1 Flusterstorm
+3 Hurkyl's Recall
+1 Balance
+1 Engineered Explosives
+1 Lurrus of the Dream Den
+1 Mindbreak Trap
+1 Nihil Spellbomb
+1 Seal of Cleansing
+1 Seal of Removal
+1 Swords to Plowshares
+3 Tormod's Crypt
+
+DECKLIST :
+I_B_TRUE
+(4-1)
+Planeswalker (2)
+1 Dack Fayden
+1 Narset, Parter of Veils
+Creature (8)
+3 Dreadhorde Arcanist
+2 Snapcaster Mage
+3 Sprite Dragon
+Sorcery (10)
+1 Gitaxian Probe
+1 Merchant Scroll
+1 Ponder
+4 Preordain
+1 Shattering Spree
+1 Time Walk
+1 Treasure Cruise
+Instant (20)
+1 Ancestral Recall
+1 Brainstorm
+1 Daze
+1 Dig Through Time
+2 Force of Negation
+4 Force of Will
+1 Gush
+4 Lightning Bolt
+1 Mental Misstep
+4 Pyroblast
+Artifact (4)
+1 Black Lotus
+1 Mox Ruby
+1 Mox Sapphire
+1 Null Rod
+Land (16)
+1 Flooded Strand
+2 Island
+1 Misty Rainforest
+1 Mountain
+1 Mystic Sanctuary
+1 Polluted Delta
+4 Scalding Tarn
+1 Strip Mine
+4 Volcanic Island
+60 Cards
+Sideboard (15)
+2 Null Rod
+3 Shattering Spree
+1 Abrade
+1 Flusterstorm
+1 Pithing Needle
+1 Pulverize
+1 Ravenous Trap
+2 Surgical Extraction
+2 The Tabernacle at Pendrell Vale
+1 Tormod's Crypt
+
+DECKLIST :
+GERNARDI
+(4-1)
+Creature (11)
+4 Dark Confidant
+3 Deathrite Shaman
+2 Jace, Vryn's Prodigy
+2 Snapcaster Mage
+Sorcery (12)
+1 Demonic Tutor
+1 Gitaxian Probe
+1 Merchant Scroll
+1 Ponder
+4 Preordain
+2 Thoughtseize
+1 Time Walk
+1 Treasure Cruise
+Instant (14)
+1 Abrupt Decay
+1 Ancestral Recall
+1 Brainstorm
+3 Daze
+2 Fatal Push
+4 Force of Will
+1 Mental Misstep
+1 Vampiric Tutor
+Artifact (7)
+1 Black Lotus
+1 Engineered Explosives
+1 Lotus Petal
+1 Mox Emerald
+1 Mox Jet
+1 Mox Sapphire
+1 Nihil Spellbomb
+Land (16)
+2 Flooded Strand
+2 Misty Rainforest
+2 Polluted Delta
+1 Scalding Tarn
+1 Strip Mine
+2 Tropical Island
+3 Underground Sea
+3 Wasteland
+60 Cards
+Sideboard (15)
+1 Engineered Explosives
+1 Fatal Push
+2 Nihil Spellbomb
+1 Thoughtseize
+1 Force of Negation
+1 Lurrus of the Dream Den
+3 Nature's Claim
+2 Ravenous Trap
+2 Spell Pierce
+1 Tormod's Crypt
+
+DECKLIST :
+KEIESU
+(3-2)
+Planeswalker (5)
+2 Dack Fayden
+1 Narset, Parter of Veils
+2 Oko, Thief of Crowns
+Creature (2)
+1 Griselbrand
+1 Niv-Mizzet, Parun
+Sorcery (7)
+1 Gitaxian Probe
+1 Ponder
+4 Preordain
+1 Time Walk
+Instant (20)
+1 Abrade
+1 Ancestral Recall
+1 Ancient Grudge
+1 Brainstorm
+1 Daze
+1 Dig Through Time
+1 Force of Negation
+4 Force of Will
+1 Gush
+1 Lightning Bolt
+1 Memory's Journey
+1 Mental Misstep
+4 Pyroblast
+1 Veil of Summer
+Artifact (6)
+1 Black Lotus
+1 Mox Emerald
+1 Mox Jet
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+Enchantment (5)
+4 Oath of Druids
+1 Underworld Breach
+Land (15)
+1 Flooded Strand
+4 Forbidden Orchard
+2 Polluted Delta
+2 Scalding Tarn
+3 Tropical Island
+3 Volcanic Island
+60 Cards
+Sideboard (15)
+1 Abrade
+1 Veil of Summer
+1 Flusterstorm
+1 Force of Vigor
+1 Mindbreak Trap
+3 Nature's Claim
+3 Ravenous Trap
+2 Soul-Guide Lantern
+2 The Tabernacle at Pendrell Vale
+
+DECKLIST :
+BILLSIVE
+(3-2)
+Planeswalker (4)
+1 Dack Fayden
+1 Narset, Parter of Veils
+1 Oko, Thief of Crowns
+1 Wrenn and Six
+Creature (6)
+1 Collector Ouphe
+1 Deathrite Shaman
+1 Dreadhorde Arcanist
+1 Jace, Vryn's Prodigy
+1 Leovold, Emissary of Trest
+1 Snapcaster Mage
+Sorcery (10)
+1 Demonic Tutor
+1 Gitaxian Probe
+1 Merchant Scroll
+1 Painful Truths
+1 Ponder
+1 Preordain
+1 Serum Visions
+1 Shattering Spree
+1 Time Walk
+1 Treasure Cruise
+Instant (18)
+1 Abrupt Decay
+1 Ancestral Recall
+1 Ancient Grudge
+1 Brainstorm
+1 Daze
+1 Dig Through Time
+1 Fatal Push
+1 Flusterstorm
+1 Force of Negation
+1 Force of Will
+1 Gush
+1 Lightning Bolt
+1 Mental Misstep
+1 Mindbreak Trap
+1 Opt
+1 Pyroblast
+1 Spell Pierce
+1 Veil of Summer
+Artifact (5)
+1 Black Lotus
+1 Mox Emerald
+1 Mox Jet
+1 Mox Ruby
+1 Mox Sapphire
+Land (17)
+2 Flooded Strand
+2 Misty Rainforest
+1 Mystic Sanctuary
+2 Polluted Delta
+2 Scalding Tarn
+1 Snow-Covered Island
+1 Strip Mine
+2 Tropical Island
+1 Underground Sea
+3 Volcanic Island
+60 Cards
+Sideboard (15)
+1 Assassin's Trophy
+1 Leyline of the Void
+1 Lutri, the Spellchaser
+1 Misdirection
+1 Mystical Dispute
+1 Nihil Spellbomb
+1 Pithing Needle
+1 Red Elemental Blast
+1 Shenanigans
+1 Surgical Extraction
+2 The Tabernacle at Pendrell Vale
+1 Tormod's Crypt
+2 Wasteland
+
+DECKLIST :
+MANOFBONE
+(3-2)
+Creature (1)
+1 Lavinia, Azorius Renegade
+Sorcery (11)
+1 Demonic Tutor
+1 Gitaxian Probe
+1 Merchant Scroll
+1 Ponder
+3 Preordain
+2 Tendrils of Agony
+1 Time Walk
+1 Timetwister
+Instant (16)
+1 Ancestral Recall
+1 Brainstorm
+1 Daze
+1 Dig Through Time
+1 Flusterstorm
+4 Force of Will
+1 Gush
+1 Mental Misstep
+4 Paradoxical Outcome
+1 Repeal
+Artifact (16)
+1 Black Lotus
+1 Lotus Petal
+1 Mana Crypt
+1 Mana Vault
+1 Mox Emerald
+1 Mox Jet
+4 Mox Opal
+1 Mox Pearl
+1 Mox Sapphire
+1 Sensei's Divining Top
+1 Sol Ring
+2 Urza's Bauble
+Land (17)
+3 Flooded Strand
+1 Karakas
+3 Polluted Delta
+3 Snow-Covered Island
+1 Tolarian Academy
+2 Tundra
+4 Underground Sea
+61 Cards
+Sideboard (15)
+1 Flusterstorm
+1 Repeal
+1 Balance
+1 Bolas's Citadel
+1 Containment Priest
+1 Hurkyl's Recall
+1 Lurrus of the Dream Den
+1 Monastery Mentor
+1 Narset, Parter of Veils
+1 Strip Mine
+1 Tinker
+3 Tormod's Crypt
+1 Wasteland
+
+DECKLIST :
+MAC121711
+(3-2)
+Creature (1)
+1 Hope of Ghirapur
+Sorcery (12)
+1 Demonic Tutor
+1 Gitaxian Probe
+1 Merchant Scroll
+1 Ponder
+4 Preordain
+1 Shattering Spree
+1 Thoughtseize
+1 Time Walk
+1 Treasure Cruise
+Instant (23)
+1 Ancestral Recall
+2 Brain Freeze
+1 Brainstorm
+1 Chain of Vapor
+1 Dig Through Time
+1 Fatal Push
+1 Flusterstorm
+2 Force of Negation
+4 Force of Will
+1 Gush
+1 Intuition
+1 Lightning Bolt
+1 Mental Misstep
+3 Pyroblast
+1 Spell Pierce
+1 Vampiric Tutor
+Artifact (5)
+1 Black Lotus
+1 Lion's Eye Diamond
+1 Mox Jet
+1 Mox Ruby
+1 Mox Sapphire
+Enchantment (3)
+1 Mystic Remora
+2 Underworld Breach
+Land (16)
+2 Flooded Strand
+1 Island
+1 Misty Rainforest
+1 Mystic Sanctuary
+1 Polluted Delta
+4 Scalding Tarn
+3 Underground Sea
+3 Volcanic Island
+60 Cards
+Sideboard (15)
+1 Hope of Ghirapur
+1 Pyroblast
+3 Shattering Spree
+2 Hurkyl's Recall
+1 Karakas
+1 Lurrus of the Dream Den
+1 Mountain
+2 Soul-Guide Lantern
+2 The Tabernacle at Pendrell Vale
+1 Young Pyromancer
+
+DECKLIST :
+GGOGGLES
+(3-2)
+Creature (22)
+4 Arcbound Ravager
+3 Dark Confidant
+3 Phyrexian Revoker
+4 Stonecoil Serpent
+4 Thalia, Guardian of Thraben
+4 Walking Ballista
+Artifact (18)
+1 Black Lotus
+1 Chalice of the Void
+3 Chromatic Star
+1 Lion's Eye Diamond
+1 Mana Crypt
+1 Mox Emerald
+1 Mox Jet
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+1 Sol Ring
+4 Sphere of Resistance
+1 Thorn of Amethyst
+Land (20)
+2 Ancient Tomb
+4 Cavern of Souls
+2 Karakas
+4 Mishra's Workshop
+1 Strip Mine
+1 Tolarian Academy
+2 Urborg, Tomb of Yawgmoth
+4 Wasteland
+60 Cards
+Sideboard (15)
+2 Containment Priest
+3 Deafening Silence
+1 Lurrus of the Dream Den
+3 Nihil Spellbomb
+2 Seal of Cleansing
+2 Swords to Plowshares
+2 Tormod's Crypt
+
+
+
+
+CATEGORY :
+Vintage Challenge
+APRIL
+20
+2020
+
+DECKLIST :
+TRENO (1ST
+PLACE)
+Creature (3)
+2 Lavinia, Azorius Renegade
+1 Snapcaster Mage
+Sorcery (6)
+1 Demonic Tutor
+1 Gitaxian Probe
+1 Merchant Scroll
+1 Tendrils of Agony
+1 Time Walk
+1 Yawgmoth's Will
+Instant (15)
+1 Ancestral Recall
+1 Brainstorm
+1 Dig Through Time
+1 Flusterstorm
+4 Force of Will
+1 Hurkyl's Recall
+1 Mental Misstep
+4 Paradoxical Outcome
+1 Repeal
+Artifact (20)
+1 Black Lotus
+1 Lotus Petal
+1 Mana Crypt
+1 Mana Vault
+1 Manifold Key
+4 Mishra's Bauble
+1 Mox Emerald
+1 Mox Jet
+3 Mox Opal
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+1 Sensei's Divining Top
+1 Sol Ring
+1 Time Vault
+Enchantment (3)
+3 Mystic Remora
+Land (13)
+1 Flooded Strand
+1 Island
+1 Karakas
+2 Misty Rainforest
+1 Polluted Delta
+2 Scalding Tarn
+1 Tolarian Academy
+2 Tundra
+2 Underground Sea
+60 Cards
+Sideboard (15)
+1 Flusterstorm
+3 Hurkyl's Recall
+1 Balance
+1 Engineered Explosives
+1 Lurrus of the Dream Den
+1 Mindbreak Trap
+1 Nihil Spellbomb
+1 Seal of Cleansing
+1 Seal of Removal
+1 Swords to Plowshares
+3 Tormod's Crypt
+
+DECKLIST :
+KILLERSUV (2ND
+PLACE)
+Creature (3)
+2 Lavinia, Azorius Renegade
+1 Snapcaster Mage
+Sorcery (6)
+1 Demonic Tutor
+1 Gitaxian Probe
+1 Merchant Scroll
+1 Tendrils of Agony
+1 Time Walk
+1 Yawgmoth's Will
+Instant (15)
+1 Ancestral Recall
+1 Brainstorm
+1 Dig Through Time
+1 Flusterstorm
+4 Force of Will
+1 Hurkyl's Recall
+1 Mental Misstep
+4 Paradoxical Outcome
+1 Repeal
+Artifact (20)
+1 Black Lotus
+1 Lotus Petal
+1 Mana Crypt
+1 Mana Vault
+1 Manifold Key
+4 Mishra's Bauble
+1 Mox Emerald
+1 Mox Jet
+3 Mox Opal
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+1 Sensei's Divining Top
+1 Sol Ring
+1 Time Vault
+Enchantment (3)
+3 Mystic Remora
+Land (13)
+1 Karakas
+3 Misty Rainforest
+3 Scalding Tarn
+1 Snow-Covered Island
+1 Tolarian Academy
+2 Tundra
+2 Underground Sea
+60 Cards
+Sideboard (15)
+1 Flusterstorm
+3 Hurkyl's Recall
+1 Balance
+1 Engineered Explosives
+1 Lurrus of the Dream Den
+1 Mindbreak Trap
+1 Nihil Spellbomb
+1 Seal of Cleansing
+1 Seal of Removal
+1 Swords to Plowshares
+3 Tormod's Crypt
+
+DECKLIST :
+NOPROPS (3RD
+PLACE)
+Creature (6)
+4 Street Wraith
+2 Thassa's Oracle
+Sorcery (13)
+1 Demonic Tutor
+4 Doomsday
+1 Duress
+1 Gitaxian Probe
+1 Ponder
+4 Preordain
+1 Time Walk
+Instant (23)
+1 Ancestral Recall
+1 Brainstorm
+1 Chain of Vapor
+4 Dark Ritual
+3 Daze
+1 Demonic Consultation
+1 Dig Through Time
+1 Flusterstorm
+2 Force of Negation
+4 Force of Will
+1 Gush
+1 Mental Misstep
+1 Mystical Tutor
+1 Vampiric Tutor
+Artifact (3)
+1 Black Lotus
+1 Mox Jet
+1 Mox Sapphire
+Enchantment (1)
+1 Necropotence
+Land (14)
+1 Flooded Strand
+1 Misty Rainforest
+4 Polluted Delta
+2 Scalding Tarn
+1 Snow-Covered Island
+4 Underground Sea
+1 Verdant Catacombs
+60 Cards
+Sideboard (15)
+1 Snow-Covered Island
+1 Chain of Vapor
+2 Flusterstorm
+3 Hurkyl's Recall
+2 Ravenous Trap
+3 Soul-Guide Lantern
+3 The Tabernacle at Pendrell Vale
+
+DECKLIST :
+NEGUSEN (4TH
+PLACE)
+Planeswalker (1)
+1 Narset, Parter of Veils
+Creature (2)
+1 Monastery Mentor
+1 Snapcaster Mage
+Sorcery (11)
+1 Demonic Tutor
+1 Gitaxian Probe
+1 Merchant Scroll
+1 Ponder
+2 Preordain
+1 Tendrils of Agony
+1 Time Walk
+1 Timetwister
+1 Tinker
+1 Yawgmoth's Will
+Instant (18)
+1 Ancestral Recall
+1 Brainstorm
+1 Dig Through Time
+4 Force of Will
+2 Hurkyl's Recall
+1 Lightning Bolt
+1 Mental Misstep
+4 Paradoxical Outcome
+2 Pyroblast
+1 Vampiric Tutor
+Artifact (14)
+1 Black Lotus
+1 Bolas's Citadel
+1 Mana Crypt
+1 Mana Vault
+1 Mox Emerald
+1 Mox Jet
+3 Mox Opal
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+1 Sensei's Divining Top
+1 Sol Ring
+Land (14)
+2 Flooded Strand
+1 Island
+1 Misty Rainforest
+3 Polluted Delta
+1 Tolarian Academy
+2 Tundra
+2 Underground Sea
+2 Volcanic Island
+60 Cards
+Sideboard (15)
+1 Island
+2 Hurkyl's Recall
+2 Pyroblast
+1 Abrade
+1 Flusterstorm
+1 Lavinia, Azorius Renegade
+2 Pithing Needle
+2 Ravenous Trap
+3 Tormod's Crypt
+
+DECKLIST :
+CONDESCEND (5TH
+PLACE)
+Planeswalker (6)
+1 Dack Fayden
+1 Jace, the Mind Sculptor
+1 Narset, Parter of Veils
+1 Oko, Thief of Crowns
+1 Teferi, Time Raveler
+1 Wrenn and Six
+Creature (7)
+1 Deathrite Shaman
+1 Dreadhorde Arcanist
+1 Jace, Vryn's Prodigy
+1 Lavinia, Azorius Renegade
+1 Monastery Mentor
+1 Snapcaster Mage
+1 Tarmogoyf
+Sorcery (9)
+1 Gitaxian Probe
+1 Merchant Scroll
+1 Ponder
+1 Portent
+1 Preordain
+1 Serum Visions
+1 Shattering Spree
+1 Time Walk
+1 Treasure Cruise
+Instant (15)
+1 Ancestral Recall
+1 Ancient Grudge
+1 Brainstorm
+1 Daze
+1 Dig Through Time
+1 Force of Negation
+1 Force of Will
+1 Gush
+1 Lightning Bolt
+1 Mental Misstep
+1 Mindbreak Trap
+1 Pyroblast
+1 Red Elemental Blast
+1 Spell Pierce
+1 Swords to Plowshares
+Artifact (5)
+1 Black Lotus
+1 Mox Emerald
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+Land (18)
+2 Flooded Strand
+1 Misty Rainforest
+3 Polluted Delta
+3 Scalding Tarn
+1 Strip Mine
+2 Tropical Island
+1 Tundra
+3 Volcanic Island
+2 Wasteland
+60 Cards
+Sideboard (15)
+3 Force of Will
+1 By Force
+1 Ceremonious Rejection
+1 Energy Flux
+1 Flusterstorm
+4 Leyline of the Void
+1 Lutri, the Spellchaser
+1 Mystical Dispute
+2 The Tabernacle at Pendrell Vale
+
+DECKLIST :
+SKARABRAE1 (6TH
+PLACE)
+Creature (22)
+4 Arcbound Ravager
+3 Hangarback Walker
+3 Phyrexian Revoker
+4 Steel Overseer
+4 Stonecoil Serpent
+4 Walking Ballista
+Instant (1)
+1 Dismember
+Artifact (18)
+1 Black Lotus
+1 Chalice of the Void
+1 Mana Crypt
+1 Mox Emerald
+1 Mox Jet
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+2 Nihil Spellbomb
+1 Sol Ring
+2 Sorcerous Spyglass
+4 Sphere of Resistance
+1 Thorn of Amethyst
+Land (19)
+4 Ancient Tomb
+1 Cavern of Souls
+1 Karakas
+4 Mishra's Workshop
+1 Phyrexian Tower
+1 Silent Clearing
+1 Strip Mine
+1 Tolarian Academy
+1 Urborg, Tomb of Yawgmoth
+4 Wasteland
+60 Cards
+Sideboard (15)
+1 Dismember
+4 Grafdigger's Cage
+1 Lurrus of the Dream Den
+3 Mindbreak Trap
+2 Null Rod
+2 The Tabernacle at Pendrell Vale
+2 Tormod's Crypt
+
+DECKLIST :
+FURYURE (7TH
+PLACE)
+Creature (29)
+1 Golgari Grave-Troll
+3 Golgari Thug
+1 Hogaak, Arisen Necropolis
+4 Hollow One
+4 Ichorid
+4 Narcomoeba
+4 Prized Amalgam
+4 Shambling Shell
+4 Stinkweed Imp
+Sorcery (8)
+4 Cabal Therapy
+4 Creeping Chill
+Instant (11)
+2 Force of Negation
+4 Force of Vigor
+4 Force of Will
+1 Mental Misstep
+Artifact (4)
+4 Serum Powder
+Enchantment (4)
+4 Bridge from Below
+Land (4)
+4 Bazaar of Baghdad
+60 Cards
+Sideboard (15)
+2 Contagion
+4 Mindbreak Trap
+4 Ravenous Trap
+1 Strip Mine
+2 Surgical Extraction
+2 Wasteland
+
+DECKLIST :
+IAMACTUALLYLVL1 (8TH
+PLACE)
+Creature (2)
+1 Lavinia, Azorius Renegade
+1 Snapcaster Mage
+Sorcery (8)
+1 Demonic Tutor
+1 Gitaxian Probe
+1 Merchant Scroll
+1 Mind's Desire
+1 Tendrils of Agony
+1 Time Walk
+1 Timetwister
+1 Yawgmoth's Will
+Instant (16)
+1 Ancestral Recall
+1 Brainstorm
+1 Flusterstorm
+4 Force of Will
+1 Hurkyl's Recall
+1 Mental Misstep
+4 Paradoxical Outcome
+2 Repeal
+1 Vampiric Tutor
+Artifact (19)
+1 Black Lotus
+1 Lotus Petal
+1 Mana Crypt
+1 Mana Vault
+4 Mishra's Bauble
+1 Mox Emerald
+1 Mox Jet
+3 Mox Opal
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+1 Nihil Spellbomb
+1 Sensei's Divining Top
+1 Sol Ring
+Enchantment (2)
+2 Mystic Remora
+Land (13)
+1 Flooded Strand
+1 Island
+1 Karakas
+2 Misty Rainforest
+1 Polluted Delta
+2 Scalding Tarn
+1 Tolarian Academy
+2 Tundra
+2 Underground Sea
+60 Cards
+Sideboard (15)
+1 Flusterstorm
+3 Hurkyl's Recall
+1 Balance
+1 Engineered Explosives
+1 Lurrus of the Dream Den
+1 Mindbreak Trap
+1 Seal of Cleansing
+1 Seal of Removal
+2 Swords to Plowshares
+3 Tormod's Crypt
+
+DECKLIST :
+SVACA (9TH
+PLACE)
+Creature (13)
+4 Dark Confidant
+4 Deathrite Shaman
+3 Jace, Vryn's Prodigy
+2 Snapcaster Mage
+Sorcery (10)
+1 Demonic Tutor
+1 Gitaxian Probe
+1 Merchant Scroll
+1 Ponder
+4 Preordain
+1 Time Walk
+1 Treasure Cruise
+Instant (16)
+2 Abrupt Decay
+1 Ancestral Recall
+1 Brainstorm
+4 Daze
+2 Fatal Push
+4 Force of Will
+1 Mental Misstep
+1 Vampiric Tutor
+Artifact (5)
+1 Black Lotus
+1 Lotus Petal
+1 Mox Emerald
+1 Mox Jet
+1 Mox Sapphire
+Land (16)
+2 Flooded Strand
+2 Misty Rainforest
+2 Polluted Delta
+1 Scalding Tarn
+1 Strip Mine
+2 Tropical Island
+3 Underground Sea
+3 Wasteland
+60 Cards
+Sideboard (15)
+1 Fatal Push
+2 Assassin's Trophy
+2 Force of Negation
+1 Lurrus of the Dream Den
+3 Nature's Claim
+3 Nihil Spellbomb
+2 Spell Pierce
+1 Tormod's Crypt
+
+DECKLIST :
+ECOBARONEN (10TH
+PLACE)
+Creature (6)
+4 Street Wraith
+2 Thassa's Oracle
+Sorcery (13)
+1 Demonic Tutor
+4 Doomsday
+1 Gitaxian Probe
+1 Ponder
+4 Preordain
+1 Time Walk
+1 Treasure Cruise
+Instant (22)
+1 Ancestral Recall
+1 Brainstorm
+4 Dark Ritual
+3 Daze
+1 Demonic Consultation
+1 Dig Through Time
+2 Flusterstorm
+4 Force of Will
+1 Gush
+1 Mental Misstep
+1 Misdirection
+1 Mystical Tutor
+1 Vampiric Tutor
+Artifact (4)
+1 Black Lotus
+1 Lotus Petal
+1 Mox Jet
+1 Mox Sapphire
+Enchantment (1)
+1 Necropotence
+Land (14)
+2 Flooded Strand
+1 Island
+2 Misty Rainforest
+2 Polluted Delta
+2 Scalding Tarn
+4 Underground Sea
+1 Watery Grave
+60 Cards
+Sideboard (15)
+1 Island
+2 Flusterstorm
+1 Cavern of Souls
+4 Hurkyl's Recall
+4 Ravenous Trap
+3 The Tabernacle at Pendrell Vale
+
+DECKLIST :
+BASI (11TH
+PLACE)
+Creature (24)
+3 Containment Priest
+2 Eldrazi Displacer
+4 Phyrexian Revoker
+4 Reality Smasher
+4 Thalia, Guardian of Thraben
+3 Thalia, Heretic Cathar
+4 Thought-Knot Seer
+Artifact (13)
+1 Black Lotus
+1 Chalice of the Void
+1 Mana Crypt
+1 Mox Emerald
+1 Mox Jet
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+2 Null Rod
+1 Sol Ring
+1 Thorn of Amethyst
+1 Trinisphere
+Land (23)
+4 Ancient Tomb
+4 Cavern of Souls
+4 Eldrazi Temple
+2 Karakas
+4 Plains
+1 Strip Mine
+4 Wasteland
+60 Cards
+Sideboard (15)
+3 Deafening Silence
+3 Grafdigger's Cage
+2 Kataki, War's Wage
+2 Rest in Peace
+2 Swords to Plowshares
+1 The Tabernacle at Pendrell Vale
+2 Warping Wail
+
+DECKLIST :
+ZYURYO (12TH
+PLACE)
+Planeswalker (4)
+1 Karn, the Great Creator
+1 Narset, Parter of Veils
+2 Oko, Thief of Crowns
+Creature (4)
+3 Kinnan, Bonder Prodigy
+1 Sprite Dragon
+Sorcery (6)
+1 Merchant Scroll
+2 Preordain
+1 Time Walk
+1 Timetwister
+1 Tinker
+Instant (18)
+1 Ancestral Recall
+1 Brain Freeze
+1 Brainstorm
+1 Dig Through Time
+4 Force of Will
+1 Hurkyl's Recall
+1 Mental Misstep
+1 Mystical Tutor
+4 Paradoxical Outcome
+2 Pyroblast
+1 Veil of Summer
+Artifact (14)
+1 Black Lotus
+1 Bolas's Citadel
+1 Mana Crypt
+1 Mox Emerald
+1 Mox Jet
+3 Mox Opal
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+2 Sensei's Divining Top
+1 Sol Ring
+Enchantment (1)
+1 Underworld Breach
+Land (13)
+3 Misty Rainforest
+2 Scalding Tarn
+1 Snow-Covered Island
+1 Tolarian Academy
+3 Tropical Island
+3 Volcanic Island
+60 Cards
+Sideboard (15)
+1 Hurkyl's Recall
+1 Pyroblast
+1 Veil of Summer
+1 Ensnaring Bridge
+2 Lightning Bolt
+1 Manifold Key
+1 Mycosynth Lattice
+3 Nature's Claim
+2 Soul-Guide Lantern
+1 Time Vault
+1 Tormod's Crypt
+
+DECKLIST :
+NIGHTSHADOWJ (13TH
+PLACE)
+Planeswalker (5)
+1 Dack Fayden
+1 Narset, Parter of Veils
+1 Oko, Thief of Crowns
+1 Teferi, Time Raveler
+1 Wrenn and Six
+Creature (7)
+1 Collector Ouphe
+1 Deathrite Shaman
+1 Dreadhorde Arcanist
+1 Jace, Vryn's Prodigy
+1 Lavinia, Azorius Renegade
+1 Monastery Mentor
+1 Snapcaster Mage
+Sorcery (8)
+1 Gitaxian Probe
+1 Merchant Scroll
+1 Ponder
+1 Preordain
+1 Serum Visions
+1 Shattering Spree
+1 Time Walk
+1 Treasure Cruise
+Instant (16)
+1 Ancestral Recall
+1 Ancient Grudge
+1 Brainstorm
+1 Daze
+1 Dig Through Time
+1 Flusterstorm
+1 Force of Negation
+1 Force of Will
+1 Gush
+1 Lightning Bolt
+1 Mental Misstep
+1 Pyroblast
+1 Repeal
+1 Spell Pierce
+1 Swords to Plowshares
+1 Veil of Summer
+Artifact (6)
+1 Black Lotus
+1 Mox Emerald
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+1 Pithing Needle
+Enchantment (1)
+1 Underworld Breach
+Land (17)
+2 Flooded Strand
+1 Island
+2 Misty Rainforest
+3 Polluted Delta
+1 Scalding Tarn
+1 Strip Mine
+2 Tropical Island
+1 Tundra
+3 Volcanic Island
+1 Wasteland
+60 Cards
+Sideboard (15)
+1 Wasteland
+3 Force of Will
+3 Shattering Spree
+1 Lutri, the Spellchaser
+1 Red Elemental Blast
+2 Surgical Extraction
+2 The Tabernacle at Pendrell Vale
+2 Tormod's Crypt
+
+DECKLIST :
+HEIBING (14TH
+PLACE)
+Creature (26)
+4 Arcbound Ravager
+4 Foundry Inspector
+1 Lodestone Golem
+4 Phyrexian Revoker
+4 Steel Overseer
+4 Stonecoil Serpent
+1 Traxos, Scourge of Kroog
+4 Walking Ballista
+Artifact (16)
+1 Black Lotus
+1 Chalice of the Void
+1 Mana Crypt
+1 Mox Emerald
+1 Mox Jet
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+1 Mystic Forge
+1 Sol Ring
+4 Sphere of Resistance
+1 Thorn of Amethyst
+1 Trinisphere
+Land (18)
+4 Ancient Tomb
+3 Mishra's Factory
+4 Mishra's Workshop
+1 Strip Mine
+1 Swamp
+1 Tolarian Academy
+4 Wasteland
+60 Cards
+Sideboard (15)
+3 Grafdigger's Cage
+4 Null Rod
+4 Precursor Golem
+4 Ravenous Trap
+
+DECKLIST :
+SHIR KAHN (15TH
+PLACE)
+Planeswalker (4)
+1 Narset, Parter of Veils
+3 Oko, Thief of Crowns
+Creature (2)
+1 Griselbrand
+1 Niv-Mizzet, Parun
+Sorcery (8)
+1 Gaea's Blessing
+1 Gitaxian Probe
+1 Ponder
+4 Preordain
+1 Time Walk
+Instant (21)
+2 Abrade
+1 Ancestral Recall
+1 Ancient Grudge
+1 Brainstorm
+1 Daze
+1 Dig Through Time
+2 Force of Negation
+4 Force of Will
+1 Mental Misstep
+4 Pyroblast
+1 Spell Pierce
+2 Veil of Summer
+Artifact (6)
+1 Black Lotus
+1 Mox Emerald
+1 Mox Jet
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+Enchantment (4)
+4 Oath of Druids
+Land (15)
+2 Flooded Strand
+4 Forbidden Orchard
+1 Island
+1 Misty Rainforest
+1 Polluted Delta
+1 Scalding Tarn
+3 Tropical Island
+2 Volcanic Island
+60 Cards
+Sideboard (14)
+1 Abrade
+1 Oko, Thief of Crowns
+2 Blazing Archon
+1 Mindbreak Trap
+4 Nature's Claim
+4 Ravenous Trap
+1 Soul-Guide Lantern
+
+DECKLIST :
+TRAVIS8427 (16TH
+PLACE)
+Creature (8)
+2 Dreadhorde Arcanist
+2 Lavinia, Azorius Renegade
+2 Snapcaster Mage
+2 Young Pyromancer
+Sorcery (10)
+1 Balance
+1 Demonic Tutor
+1 Ponder
+4 Preordain
+1 Time Walk
+1 Treasure Cruise
+1 Unearth
+Instant (14)
+1 Ancestral Recall
+1 Flusterstorm
+1 Force of Negation
+4 Force of Will
+1 Gush
+2 Lightning Bolt
+1 Mental Misstep
+2 Pyroblast
+1 Swords to Plowshares
+Artifact (8)
+1 Black Lotus
+1 Lotus Petal
+2 Mishra's Bauble
+1 Mox Jet
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+Enchantment (2)
+1 Mystic Remora
+1 Underworld Breach
+Land (18)
+4 Flooded Strand
+1 Island
+4 Polluted Delta
+1 Strip Mine
+2 Tundra
+2 Underground Sea
+2 Volcanic Island
+2 Wasteland
+60 Cards
+Sideboard (15)
+1 Pyroblast
+1 Swords to Plowshares
+2 By Force
+1 Lurrus of the Dream Den
+2 Red Elemental Blast
+1 Seal of Cleansing
+1 Surgical Extraction
+3 The Tabernacle at Pendrell Vale
+3 Tormod's Crypt
+
+DECKLIST :
+VTCLA (17TH
+PLACE)
+Planeswalker (6)
+1 Dack Fayden
+1 Jace, the Mind Sculptor
+1 Narset, Parter of Veils
+1 Oko, Thief of Crowns
+1 Teferi, Time Raveler
+1 Wrenn and Six
+Creature (7)
+1 Deathrite Shaman
+1 Dreadhorde Arcanist
+1 Jace, Vryn's Prodigy
+1 Lavinia, Azorius Renegade
+1 Monastery Mentor
+1 Snapcaster Mage
+1 Tarmogoyf
+Sorcery (9)
+1 Gitaxian Probe
+1 Merchant Scroll
+1 Ponder
+1 Portent
+1 Preordain
+1 Serum Visions
+1 Shattering Spree
+1 Time Walk
+1 Treasure Cruise
+Instant (15)
+1 Ancestral Recall
+1 Ancient Grudge
+1 Brainstorm
+1 Daze
+1 Dig Through Time
+1 Force of Negation
+1 Force of Will
+1 Gush
+1 Lightning Bolt
+1 Mental Misstep
+1 Mindbreak Trap
+1 Pyroblast
+1 Red Elemental Blast
+1 Spell Pierce
+1 Swords to Plowshares
+Artifact (5)
+1 Black Lotus
+1 Mox Emerald
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+Land (18)
+3 Flooded Strand
+1 Misty Rainforest
+3 Polluted Delta
+3 Scalding Tarn
+2 Tropical Island
+1 Tundra
+3 Volcanic Island
+2 Wasteland
+60 Cards
+Sideboard (15)
+3 Force of Will
+1 By Force
+1 Ceremonious Rejection
+1 Energy Flux
+1 Flusterstorm
+4 Leyline of the Void
+1 Lutri, the Spellchaser
+1 Mystical Dispute
+2 The Tabernacle at Pendrell Vale
+
+DECKLIST :
+VCF (18TH
+PLACE)
+Planeswalker (4)
+2 Dack Fayden
+1 Jace, the Mind Sculptor
+1 Narset, Parter of Veils
+Creature (2)
+1 Blightsteel Colossus
+1 Snapcaster Mage
+Sorcery (9)
+1 Demonic Tutor
+1 Gitaxian Probe
+1 Merchant Scroll
+1 Ponder
+1 Preordain
+1 Time Walk
+1 Tinker
+1 Treasure Cruise
+1 Yawgmoth's Will
+Instant (19)
+1 Ancestral Recall
+1 Brainstorm
+1 Dig Through Time
+2 Flusterstorm
+1 Force of Negation
+4 Force of Will
+1 Gifts Ungiven
+1 Lightning Bolt
+1 Mana Drain
+1 Mental Misstep
+1 Misdirection
+1 Mystical Tutor
+1 Pyroblast
+1 Red Elemental Blast
+1 Vampiric Tutor
+Artifact (10)
+1 Black Lotus
+1 Mana Crypt
+1 Manifold Key
+1 Mox Emerald
+1 Mox Jet
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+1 Sol Ring
+1 Time Vault
+Land (16)
+2 Flooded Strand
+2 Island
+1 Misty Rainforest
+1 Mystic Sanctuary
+2 Polluted Delta
+2 Scalding Tarn
+1 Tolarian Academy
+2 Underground Sea
+3 Volcanic Island
+60 Cards
+Sideboard (15)
+1 Lightning Bolt
+2 Pyroblast
+1 Abrade
+2 By Force
+2 Grafdigger's Cage
+2 Hurkyl's Recall
+1 Notion Thief
+1 Pithing Needle
+2 Ravenous Trap
+1 Subterranean Tremors
+
+DECKLIST :
+KUROYUKIHIME (19TH
+PLACE)
+Planeswalker (1)
+1 Karn, the Great Creator
+Creature (6)
+4 Golos, Tireless Pilgrim
+1 Lodestone Golem
+1 Sundering Titan
+Artifact (31)
+1 Black Lotus
+1 Chalice of the Void
+1 Crucible of Worlds
+1 Ensnaring Bridge
+1 God-Pharaoh's Statue
+3 Grafdigger's Cage
+1 Mana Vault
+1 Mox Emerald
+1 Mox Jet
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+4 Null Rod
+1 Smokestack
+1 Sol Ring
+4 Sorcerous Spyglass
+4 Sphere of Resistance
+1 Spine of Ish Sah
+1 Thorn of Amethyst
+1 Trinisphere
+Land (22)
+4 Ancient Tomb
+1 Bojuka Bog
+1 Buried Ruin
+2 Inventors' Fair
+1 Karakas
+1 Mishra's Factory
+4 Mishra's Workshop
+1 Strip Mine
+1 The Tabernacle at Pendrell Vale
+1 Tolarian Academy
+1 Urborg, Tomb of Yawgmoth
+4 Wasteland
+60 Cards
+Sideboard (15)
+1 The Tabernacle at Pendrell Vale
+1 Crucible of Worlds
+1 Grafdigger's Cage
+4 Mindbreak Trap
+2 Ratchet Bomb
+3 Stonecoil Serpent
+3 Surgical Extraction
+
+DECKLIST :
+SINGPANMAN (20TH
+PLACE)
+Creature (5)
+3 Street Wraith
+2 Thassa's Oracle
+Sorcery (14)
+1 Demonic Tutor
+4 Doomsday
+1 Gitaxian Probe
+1 Merchant Scroll
+1 Ponder
+4 Preordain
+1 Time Walk
+1 Treasure Cruise
+Instant (23)
+1 Ancestral Recall
+1 Brainstorm
+1 Chain of Vapor
+4 Dark Ritual
+3 Daze
+1 Demonic Consultation
+1 Dig Through Time
+2 Flusterstorm
+1 Force of Negation
+4 Force of Will
+1 Gush
+1 Mental Misstep
+1 Mystical Tutor
+1 Vampiric Tutor
+Artifact (3)
+1 Black Lotus
+1 Mox Jet
+1 Mox Sapphire
+Enchantment (1)
+1 Necropotence
+Land (14)
+2 Flooded Strand
+2 Island
+2 Misty Rainforest
+2 Polluted Delta
+2 Scalding Tarn
+4 Underground Sea
+60 Cards
+Sideboard (15)
+1 Chain of Vapor
+2 Flusterstorm
+1 Cavern of Souls
+2 Hurkyl's Recall
+1 Lurrus of the Dream Den
+1 Massacre
+1 Rebuild
+4 Soul-Guide Lantern
+2 The Tabernacle at Pendrell Vale
+
+DECKLIST :
+TKC55 (21ST
+PLACE)
+Planeswalker (4)
+1 Dack Fayden
+1 Narset, Parter of Veils
+2 Oko, Thief of Crowns
+Creature (2)
+1 Dreadhorde Arcanist
+1 Snapcaster Mage
+Sorcery (11)
+1 Gitaxian Probe
+1 Merchant Scroll
+1 Ponder
+4 Preordain
+2 Shattering Spree
+1 Time Walk
+1 Treasure Cruise
+Instant (22)
+1 Ancestral Recall
+1 Brainstorm
+1 Daze
+1 Dig Through Time
+1 Flusterstorm
+1 Force of Negation
+4 Force of Will
+1 Gush
+3 Lightning Bolt
+1 Mental Misstep
+1 Misdirection
+4 Pyroblast
+2 Veil of Summer
+Artifact (5)
+1 Black Lotus
+1 Mox Emerald
+1 Mox Ruby
+1 Mox Sapphire
+1 Soul-Guide Lantern
+Land (16)
+2 Flooded Strand
+1 Mystic Sanctuary
+2 Polluted Delta
+4 Scalding Tarn
+1 Snow-Covered Island
+2 Tropical Island
+4 Volcanic Island
+60 Cards
+Sideboard (15)
+3 Soul-Guide Lantern
+1 Veil of Summer
+2 Energy Flux
+2 Mindbreak Trap
+2 Nature's Claim
+1 Relic of Progenitus
+1 Snow-Covered Mountain
+3 The Tabernacle at Pendrell Vale
+
+DECKLIST :
+MATTHEWFOULKES (22ND
+PLACE)
+Creature (22)
+4 Arcbound Ravager
+2 Hangarback Walker
+4 Phyrexian Revoker
+4 Steel Overseer
+4 Stonecoil Serpent
+4 Walking Ballista
+Artifact (19)
+1 Black Lotus
+1 Chalice of the Void
+1 Lion's Eye Diamond
+1 Lotus Petal
+1 Mana Crypt
+1 Mox Emerald
+1 Mox Jet
+1 Mox Opal
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+1 Sol Ring
+2 Sorcerous Spyglass
+4 Sphere of Resistance
+1 Thorn of Amethyst
+Land (19)
+4 Ancient Tomb
+2 Karakas
+4 Mishra's Workshop
+1 Phyrexian Tower
+1 Strip Mine
+1 Tolarian Academy
+2 Urborg, Tomb of Yawgmoth
+4 Wasteland
+60 Cards
+Sideboard (15)
+1 Sorcerous Spyglass
+2 Chains of Mephistopheles
+2 Dismember
+4 Grafdigger's Cage
+1 Lurrus of the Dream Den
+3 Mindbreak Trap
+2 The Tabernacle at Pendrell Vale
+
+DECKLIST :
+NEVILSHUTE (23RD
+PLACE)
+Creature (6)
+4 Street Wraith
+2 Thassa's Oracle
+Sorcery (13)
+1 Demonic Tutor
+4 Doomsday
+1 Gitaxian Probe
+1 Ponder
+4 Preordain
+1 Time Walk
+1 Treasure Cruise
+Instant (22)
+1 Ancestral Recall
+1 Brainstorm
+4 Dark Ritual
+3 Daze
+1 Demonic Consultation
+1 Dig Through Time
+2 Flusterstorm
+4 Force of Will
+1 Gush
+1 Mental Misstep
+1 Misdirection
+1 Mystical Tutor
+1 Vampiric Tutor
+Artifact (4)
+1 Black Lotus
+1 Lotus Petal
+1 Mox Jet
+1 Mox Sapphire
+Enchantment (1)
+1 Necropotence
+Land (14)
+2 Flooded Strand
+1 Island
+2 Misty Rainforest
+2 Polluted Delta
+2 Scalding Tarn
+4 Underground Sea
+1 Watery Grave
+60 Cards
+Sideboard (15)
+1 Island
+2 Flusterstorm
+1 Cavern of Souls
+4 Hurkyl's Recall
+4 Ravenous Trap
+3 The Tabernacle at Pendrell Vale
+
+DECKLIST :
+AYLETT (24TH
+PLACE)
+Creature (22)
+4 Arcbound Ravager
+2 Hangarback Walker
+4 Phyrexian Revoker
+4 Steel Overseer
+4 Stonecoil Serpent
+4 Walking Ballista
+Instant (1)
+1 Dismember
+Artifact (18)
+1 Black Lotus
+1 Chalice of the Void
+1 Lotus Petal
+1 Mana Crypt
+1 Mox Emerald
+1 Mox Jet
+1 Mox Opal
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+1 Sol Ring
+2 Sorcerous Spyglass
+4 Sphere of Resistance
+1 Thorn of Amethyst
+Land (19)
+4 Ancient Tomb
+1 Karakas
+4 Mishra's Workshop
+1 Phyrexian Tower
+1 Strip Mine
+1 Tolarian Academy
+3 Urborg, Tomb of Yawgmoth
+4 Wasteland
+60 Cards
+Sideboard (15)
+2 Dismember
+2 Chains of Mephistopheles
+4 Grafdigger's Cage
+1 Lurrus of the Dream Den
+2 Mindbreak Trap
+1 Nihil Spellbomb
+2 The Tabernacle at Pendrell Vale
+1 Tormod's Crypt
+
+DECKLIST :
+LORIWWA (25TH
+PLACE)
+Creature (22)
+4 Arcbound Ravager
+2 Hangarback Walker
+4 Phyrexian Revoker
+4 Steel Overseer
+4 Stonecoil Serpent
+4 Walking Ballista
+Artifact (19)
+1 Black Lotus
+1 Chalice of the Void
+2 Expedition Map
+1 Mana Crypt
+1 Mox Emerald
+1 Mox Jet
+1 Mox Opal
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+1 Sol Ring
+2 Sorcerous Spyglass
+4 Sphere of Resistance
+1 Thorn of Amethyst
+Land (19)
+4 Ancient Tomb
+1 Karakas
+4 Mishra's Workshop
+2 Silent Clearing
+1 Strip Mine
+1 Tolarian Academy
+2 Urborg, Tomb of Yawgmoth
+4 Wasteland
+60 Cards
+Sideboard (15)
+2 Chains of Mephistopheles
+2 Dismember
+4 Grafdigger's Cage
+1 Lurrus of the Dream Den
+3 Mindbreak Trap
+1 The Tabernacle at Pendrell Vale
+2 Tormod's Crypt
+
+DECKLIST :
+MOUNTAIN-GOAT (26TH
+PLACE)
+Creature (5)
+2 Hope of Ghirapur
+3 Thassa's Oracle
+Sorcery (14)
+1 Demonic Tutor
+4 Doomsday
+2 Duress
+1 Gitaxian Probe
+1 Ponder
+4 Preordain
+1 Treasure Cruise
+Instant (21)
+1 Ancestral Recall
+1 Brainstorm
+1 Chain of Vapor
+4 Dark Ritual
+3 Daze
+1 Demonic Consultation
+1 Dig Through Time
+1 Flusterstorm
+4 Force of Will
+1 Gush
+1 Mental Misstep
+1 Mystical Tutor
+1 Vampiric Tutor
+Artifact (6)
+1 Black Lotus
+1 Lotus Petal
+1 Mox Jet
+1 Mox Sapphire
+1 Sensei's Divining Top
+1 Soul-Guide Lantern
+Land (14)
+1 Bloodstained Mire
+2 Flooded Strand
+4 Polluted Delta
+1 Scalding Tarn
+1 Snow-Covered Island
+1 Snow-Covered Swamp
+4 Underground Sea
+60 Cards
+Sideboard (15)
+1 Snow-Covered Island
+2 Soul-Guide Lantern
+4 Hurkyl's Recall
+1 Lurrus of the Dream Den
+2 Mindbreak Trap
+1 Ravenous Trap
+2 Surgical Extraction
+2 The Tabernacle at Pendrell Vale
+
+DECKLIST :
+MOSH110 (27TH
+PLACE)
+Planeswalker (5)
+2 Dack Fayden
+1 Narset, Parter of Veils
+2 Oko, Thief of Crowns
+Creature (12)
+3 Collector Ouphe
+4 Deathrite Shaman
+1 Leovold, Emissary of Trest
+1 Snapcaster Mage
+3 Tarmogoyf
+Sorcery (8)
+1 Demonic Tutor
+1 Gitaxian Probe
+1 Night's Whisper
+1 Ponder
+3 Preordain
+1 Time Walk
+Instant (15)
+1 Ancestral Recall
+2 Assassin's Trophy
+1 Brainstorm
+2 Daze
+4 Force of Will
+2 Lightning Bolt
+1 Mental Misstep
+2 Pyroblast
+Artifact (3)
+1 Mox Emerald
+1 Mox Jet
+1 Mox Sapphire
+Land (17)
+2 Flooded Strand
+1 Misty Rainforest
+2 Polluted Delta
+2 Scalding Tarn
+1 Strip Mine
+3 Tropical Island
+2 Underground Sea
+2 Volcanic Island
+2 Wasteland
+60 Cards
+Sideboard (15)
+1 Pyroblast
+2 Energy Flux
+1 Flusterstorm
+3 Force of Vigor
+3 Grafdigger's Cage
+3 Soul-Guide Lantern
+1 The Tabernacle at Pendrell Vale
+1 Veil of Summer
+
+DECKLIST :
+CHERRYXMAN (28TH
+PLACE)
+Creature (2)
+1 Lavinia, Azorius Renegade
+1 Snapcaster Mage
+Sorcery (10)
+1 Collective Brutality
+1 Demonic Tutor
+1 Gitaxian Probe
+1 Merchant Scroll
+1 Mind's Desire
+1 Ponder
+1 Tendrils of Agony
+1 Time Walk
+1 Timetwister
+1 Yawgmoth's Will
+Instant (16)
+1 Ancestral Recall
+1 Brainstorm
+1 Flusterstorm
+4 Force of Will
+1 Hurkyl's Recall
+1 Mental Misstep
+4 Paradoxical Outcome
+2 Repeal
+1 Vampiric Tutor
+Artifact (19)
+1 Black Lotus
+1 Lion's Eye Diamond
+1 Lotus Petal
+1 Mana Crypt
+1 Mana Vault
+4 Mishra's Bauble
+1 Mox Emerald
+1 Mox Jet
+3 Mox Opal
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+1 Nihil Spellbomb
+1 Sol Ring
+Land (13)
+2 Flooded Strand
+1 Karakas
+2 Misty Rainforest
+1 Polluted Delta
+1 Scalding Tarn
+1 Snow-Covered Island
+1 Tolarian Academy
+2 Tundra
+2 Underground Sea
+60 Cards
+Sideboard (15)
+1 Flusterstorm
+3 Hurkyl's Recall
+1 Nihil Spellbomb
+1 Balance
+1 Defense Grid
+1 Lurrus of the Dream Den
+2 Mystic Remora
+2 Swords to Plowshares
+3 Tormod's Crypt
+
+DECKLIST :
+NECRODICE (29TH
+PLACE)
+Creature (22)
+4 Arcbound Ravager
+2 Hangarback Walker
+4 Phyrexian Revoker
+4 Steel Overseer
+4 Stonecoil Serpent
+4 Walking Ballista
+Instant (1)
+1 Dismember
+Artifact (19)
+1 Black Lotus
+1 Chalice of the Void
+1 Lion's Eye Diamond
+1 Lotus Petal
+1 Mana Crypt
+1 Mox Emerald
+1 Mox Jet
+1 Mox Opal
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+1 Sol Ring
+2 Sorcerous Spyglass
+4 Sphere of Resistance
+1 Thorn of Amethyst
+Land (18)
+3 Ancient Tomb
+1 Karakas
+4 Mishra's Workshop
+1 Phyrexian Tower
+1 Strip Mine
+1 Tolarian Academy
+3 Urborg, Tomb of Yawgmoth
+4 Wasteland
+60 Cards
+Sideboard (15)
+1 Dismember
+2 Chains of Mephistopheles
+4 Grafdigger's Cage
+1 Lurrus of the Dream Den
+3 Mindbreak Trap
+2 The Tabernacle at Pendrell Vale
+2 Tormod's Crypt
+
+DECKLIST :
+DAVIEGRAVIE (30TH
+PLACE)
+Planeswalker (6)
+1 Dack Fayden
+1 Jace, the Mind Sculptor
+1 Narset, Parter of Veils
+1 Oko, Thief of Crowns
+1 Teferi, Time Raveler
+1 Wrenn and Six
+Creature (7)
+1 Deathrite Shaman
+1 Dreadhorde Arcanist
+1 Jace, Vryn's Prodigy
+1 Lavinia, Azorius Renegade
+1 Monastery Mentor
+1 Snapcaster Mage
+1 Tarmogoyf
+Sorcery (9)
+1 Gitaxian Probe
+1 Merchant Scroll
+1 Ponder
+1 Portent
+1 Preordain
+1 Serum Visions
+1 Shattering Spree
+1 Time Walk
+1 Treasure Cruise
+Instant (15)
+1 Ancestral Recall
+1 Ancient Grudge
+1 Brainstorm
+1 Daze
+1 Dig Through Time
+1 Force of Negation
+1 Force of Will
+1 Gush
+1 Lightning Bolt
+1 Mental Misstep
+1 Mindbreak Trap
+1 Pyroblast
+1 Red Elemental Blast
+1 Spell Pierce
+1 Swords to Plowshares
+Artifact (5)
+1 Black Lotus
+1 Mox Emerald
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+Land (18)
+3 Flooded Strand
+3 Polluted Delta
+3 Scalding Tarn
+1 Strip Mine
+2 Tropical Island
+1 Tundra
+3 Volcanic Island
+2 Wasteland
+60 Cards
+Sideboard (15)
+3 Force of Will
+1 By Force
+1 Ceremonious Rejection
+1 Energy Flux
+1 Flusterstorm
+4 Leyline of the Void
+1 Lutri, the Spellchaser
+1 Mystical Dispute
+2 The Tabernacle at Pendrell Vale
+
+DECKLIST :
+YAMAKILLER (31ST
+PLACE)
+Planeswalker (1)
+1 Narset, Parter of Veils
+Creature (4)
+2 Lavinia, Azorius Renegade
+1 Monastery Mentor
+1 Snapcaster Mage
+Sorcery (10)
+1 Demonic Tutor
+1 Gitaxian Probe
+1 Merchant Scroll
+1 Ponder
+3 Preordain
+1 Time Walk
+1 Tinker
+1 Yawgmoth's Will
+Instant (16)
+1 Ancestral Recall
+1 Brainstorm
+1 Dig Through Time
+4 Force of Will
+1 Hurkyl's Recall
+1 Mental Misstep
+4 Paradoxical Outcome
+2 Pyroblast
+1 Vampiric Tutor
+Artifact (15)
+1 Black Lotus
+1 Bolas's Citadel
+1 Mana Crypt
+1 Mana Vault
+1 Mox Emerald
+1 Mox Jet
+3 Mox Opal
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+2 Sensei's Divining Top
+1 Sol Ring
+Land (14)
+3 Flooded Strand
+1 Polluted Delta
+2 Scalding Tarn
+1 Snow-Covered Island
+1 Tolarian Academy
+2 Tundra
+2 Underground Sea
+2 Volcanic Island
+60 Cards
+Sideboard (15)
+1 Snow-Covered Island
+3 Hurkyl's Recall
+2 Pyroblast
+1 Flusterstorm
+2 Pithing Needle
+2 Ravenous Trap
+1 The Tabernacle at Pendrell Vale
+3 Tormod's Crypt
+
+DECKLIST :
+IANMARSH (32ND
+PLACE)
+Creature (3)
+1 Divining Witch
+2 Thassa's Oracle
+Sorcery (15)
+1 Demonic Tutor
+4 Doomsday
+2 Duress
+1 Gitaxian Probe
+2 Night's Whisper
+1 Ponder
+4 Preordain
+Instant (20)
+1 Ancestral Recall
+1 Brainstorm
+1 Chain of Vapor
+4 Dark Ritual
+1 Daze
+1 Demonic Consultation
+1 Dig Through Time
+1 Flusterstorm
+4 Force of Will
+1 Gush
+1 Mental Misstep
+1 Mystical Tutor
+1 Spell Pierce
+1 Vampiric Tutor
+Artifact (6)
+1 Black Lotus
+1 Lotus Petal
+1 Mox Jet
+1 Mox Sapphire
+1 Nihil Spellbomb
+1 Sensei's Divining Top
+Enchantment (2)
+2 Mystic Remora
+Land (14)
+2 Flooded Strand
+4 Polluted Delta
+2 Scalding Tarn
+1 Snow-Covered Island
+1 Snow-Covered Swamp
+4 Underground Sea
+60 Cards
+Sideboard (15)
+1 Cavern of Souls
+1 Fatal Push
+3 Hurkyl's Recall
+1 Infernal Reckoning
+1 Lurrus of the Dream Den
+2 Mindbreak Trap
+2 Soul-Guide Lantern
+2 The Tabernacle at Pendrell Vale
+2 Tormod's Crypt
+
+
+
+
+CATEGORY :
+Vintage Preliminary
+APRIL
+20
+2020
+
+DECKLIST :
+IAMACTUALLYLVL1
+(5-0)
+Creature (2)
+1 Lavinia, Azorius Renegade
+1 Snapcaster Mage
+Sorcery (8)
+1 Demonic Tutor
+1 Gitaxian Probe
+1 Merchant Scroll
+1 Mind's Desire
+1 Tendrils of Agony
+1 Time Walk
+1 Timetwister
+1 Yawgmoth's Will
+Instant (16)
+1 Ancestral Recall
+1 Brainstorm
+1 Flusterstorm
+4 Force of Will
+1 Hurkyl's Recall
+1 Mental Misstep
+4 Paradoxical Outcome
+2 Repeal
+1 Vampiric Tutor
+Artifact (19)
+1 Black Lotus
+1 Lotus Petal
+1 Mana Crypt
+1 Mana Vault
+4 Mishra's Bauble
+1 Mox Emerald
+1 Mox Jet
+3 Mox Opal
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+1 Nihil Spellbomb
+1 Sensei's Divining Top
+1 Sol Ring
+Enchantment (2)
+2 Mystic Remora
+Land (13)
+1 Flooded Strand
+1 Island
+1 Karakas
+2 Misty Rainforest
+1 Polluted Delta
+2 Scalding Tarn
+1 Tolarian Academy
+2 Tundra
+2 Underground Sea
+60 Cards
+Sideboard (15)
+1 Flusterstorm
+3 Hurkyl's Recall
+1 Balance
+1 Engineered Explosives
+1 Lurrus of the Dream Den
+1 Mindbreak Trap
+1 Seal of Cleansing
+1 Seal of Removal
+2 Swords to Plowshares
+3 Tormod's Crypt
+
+DECKLIST :
+GGOGGLES
+(4-1)
+Creature (20)
+4 Arcbound Ravager
+4 Phyrexian Revoker
+4 Stonecoil Serpent
+4 Thalia, Guardian of Thraben
+4 Walking Ballista
+Artifact (21)
+1 Black Lotus
+1 Chalice of the Void
+4 Chromatic Star
+1 Lion's Eye Diamond
+1 Mana Crypt
+1 Mox Emerald
+1 Mox Jet
+2 Mox Opal
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+1 Sol Ring
+4 Sphere of Resistance
+1 Thorn of Amethyst
+Land (19)
+3 Ancient Tomb
+4 Cavern of Souls
+2 Karakas
+4 Mishra's Workshop
+1 Strip Mine
+1 Tolarian Academy
+4 Wasteland
+60 Cards
+Sideboard (15)
+1 Engineered Explosives
+2 Grafdigger's Cage
+1 Lurrus of the Dream Den
+2 Nihil Spellbomb
+4 Null Rod
+1 Seal of Cleansing
+2 Swords to Plowshares
+2 Tormod's Crypt
+
+DECKLIST :
+LORD_BEERUS
+(4-1)
+Creature (30)
+1 Ashen Rider
+1 Elesh Norn, Grand Cenobite
+1 Golgari Grave-Troll
+4 Golgari Thug
+4 Hollow One
+3 Ichorid
+4 Narcomoeba
+4 Prized Amalgam
+4 Shambling Shell
+4 Stinkweed Imp
+Sorcery (10)
+4 Cabal Therapy
+2 Dread Return
+1 Gitaxian Probe
+3 Unmask
+Instant (8)
+3 Force of Negation
+4 Force of Will
+1 Mental Misstep
+Artifact (4)
+4 Serum Powder
+Enchantment (4)
+4 Bridge from Below
+Land (4)
+4 Bazaar of Baghdad
+60 Cards
+Sideboard (15)
+1 Force of Negation
+1 Unmask
+4 Force of Vigor
+4 Leyline of the Void
+2 Sickening Shoal
+1 Strip Mine
+2 Wasteland
+
+DECKLIST :
+NIGHTSHADOWJ
+(3-2)
+Planeswalker (5)
+1 Dack Fayden
+1 Narset, Parter of Veils
+1 Oko, Thief of Crowns
+1 Teferi, Time Raveler
+1 Wrenn and Six
+Creature (7)
+1 Collector Ouphe
+1 Deathrite Shaman
+1 Dreadhorde Arcanist
+1 Jace, Vryn's Prodigy
+1 Lavinia, Azorius Renegade
+1 Monastery Mentor
+1 Snapcaster Mage
+Sorcery (8)
+1 Gitaxian Probe
+1 Merchant Scroll
+1 Ponder
+1 Preordain
+1 Serum Visions
+1 Shattering Spree
+1 Time Walk
+1 Treasure Cruise
+Instant (16)
+1 Ancestral Recall
+1 Ancient Grudge
+1 Brainstorm
+1 Daze
+1 Dig Through Time
+1 Flusterstorm
+1 Force of Negation
+1 Force of Will
+1 Gush
+1 Lightning Bolt
+1 Mental Misstep
+1 Pyroblast
+1 Repeal
+1 Spell Pierce
+1 Swords to Plowshares
+1 Veil of Summer
+Artifact (6)
+1 Black Lotus
+1 Mox Emerald
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+1 Pithing Needle
+Enchantment (1)
+1 Underworld Breach
+Land (17)
+2 Flooded Strand
+1 Island
+2 Misty Rainforest
+3 Polluted Delta
+1 Scalding Tarn
+1 Strip Mine
+2 Tropical Island
+1 Tundra
+3 Volcanic Island
+1 Wasteland
+60 Cards
+Sideboard (15)
+1 Wasteland
+3 Force of Will
+3 Shattering Spree
+1 Lutri, the Spellchaser
+1 Red Elemental Blast
+2 Surgical Extraction
+2 The Tabernacle at Pendrell Vale
+2 Tormod's Crypt
+
+DECKLIST :
+AIGIS
+(3-2)
+Sorcery (11)
+1 Demonic Tutor
+1 Gitaxian Probe
+1 Merchant Scroll
+1 Ponder
+4 Preordain
+1 Thoughtseize
+1 Time Walk
+1 Treasure Cruise
+Instant (22)
+1 Ancestral Recall
+2 Brain Freeze
+1 Brainstorm
+1 Chain of Vapor
+2 Daze
+1 Dig Through Time
+1 Flusterstorm
+4 Force of Will
+1 Gush
+1 Lightning Bolt
+1 Mental Misstep
+1 Mystical Tutor
+3 Pyroblast
+1 Spell Pierce
+1 Vampiric Tutor
+Artifact (7)
+1 Black Lotus
+1 Lion's Eye Diamond
+1 Lotus Petal
+1 Mox Jet
+1 Mox Ruby
+1 Mox Sapphire
+1 Nihil Spellbomb
+Enchantment (4)
+1 Mystic Remora
+3 Underworld Breach
+Land (16)
+2 Misty Rainforest
+1 Mystic Sanctuary
+2 Polluted Delta
+4 Scalding Tarn
+1 Snow-Covered Island
+3 Underground Sea
+3 Volcanic Island
+60 Cards
+Sideboard (15)
+1 Pyroblast
+1 Bitter Ordeal
+1 Hurkyl's Recall
+1 Lurrus of the Dream Den
+4 Shattering Spree
+1 Snow-Covered Mountain
+2 Surgical Extraction
+2 The Tabernacle at Pendrell Vale
+2 Tormod's Crypt
+
+DECKLIST :
+J000111
+(3-2)
+Creature (35)
+1 Ashen Rider
+4 Bloodghast
+1 Elesh Norn, Grand Cenobite
+1 Flame-Kin Zealot
+1 Golgari Grave-Troll
+4 Golgari Thug
+3 Hogaak, Arisen Necropolis
+4 Hollow One
+4 Ichorid
+4 Narcomoeba
+4 Shambling Shell
+4 Stinkweed Imp
+Sorcery (6)
+4 Cabal Therapy
+2 Dread Return
+Instant (4)
+1 Mental Misstep
+3 Once Upon a Time
+Artifact (4)
+4 Serum Powder
+Enchantment (4)
+4 Bridge from Below
+Land (7)
+4 Bazaar of Baghdad
+3 Dakmor Salvage
+60 Cards
+Sideboard (15)
+2 Contagion
+4 Force of Vigor
+3 Leyline of Sanctity
+3 Leyline of the Void
+3 Mindbreak Trap
+
+DECKLIST :
+I_B_TRUE
+(3-2)
+Planeswalker (2)
+1 Dack Fayden
+1 Narset, Parter of Veils
+Creature (8)
+3 Dreadhorde Arcanist
+2 Snapcaster Mage
+3 Sprite Dragon
+Sorcery (10)
+1 Gitaxian Probe
+1 Merchant Scroll
+1 Ponder
+4 Preordain
+1 Shattering Spree
+1 Time Walk
+1 Treasure Cruise
+Instant (20)
+1 Ancestral Recall
+1 Brainstorm
+1 Daze
+1 Dig Through Time
+1 Flusterstorm
+2 Force of Negation
+4 Force of Will
+1 Gush
+3 Lightning Bolt
+1 Mental Misstep
+4 Pyroblast
+Artifact (4)
+1 Black Lotus
+1 Mox Ruby
+1 Mox Sapphire
+1 Null Rod
+Land (16)
+1 Flooded Strand
+2 Island
+1 Misty Rainforest
+1 Mountain
+1 Mystic Sanctuary
+1 Polluted Delta
+4 Scalding Tarn
+1 Strip Mine
+4 Volcanic Island
+60 Cards
+Sideboard (15)
+2 Null Rod
+3 Shattering Spree
+1 Abrade
+1 Pithing Needle
+1 Pulverize
+1 Ravenous Trap
+1 Red Elemental Blast
+2 Surgical Extraction
+2 The Tabernacle at Pendrell Vale
+1 Tormod's Crypt
+
+DECKLIST :
+JEREMY_HINES
+(3-2)
+Creature (5)
+3 Street Wraith
+2 Thassa's Oracle
+Sorcery (14)
+1 Demonic Tutor
+4 Doomsday
+1 Duress
+1 Gitaxian Probe
+1 Night's Whisper
+1 Ponder
+4 Preordain
+1 Time Walk
+Instant (23)
+1 Ancestral Recall
+1 Brainstorm
+1 Chain of Vapor
+4 Dark Ritual
+3 Daze
+1 Demonic Consultation
+1 Dig Through Time
+1 Flusterstorm
+2 Force of Negation
+4 Force of Will
+1 Gush
+1 Mental Misstep
+1 Mystical Tutor
+1 Vampiric Tutor
+Artifact (3)
+1 Black Lotus
+1 Mox Jet
+1 Mox Sapphire
+Enchantment (1)
+1 Necropotence
+Land (14)
+1 Bloodstained Mire
+2 Flooded Strand
+4 Polluted Delta
+1 Scalding Tarn
+2 Snow-Covered Island
+4 Underground Sea
+60 Cards
+Sideboard (15)
+1 Chain of Vapor
+2 Flusterstorm
+1 Cavern of Souls
+2 Hurkyl's Recall
+1 Ravenous Trap
+1 Rebuild
+2 Soul-Guide Lantern
+2 Surgical Extraction
+3 The Tabernacle at Pendrell Vale
+
+DECKLIST :
+SAMSHERMAN
+(3-2)
+Creature (18)
+4 Crystalline Giant
+2 Golos, Tireless Pilgrim
+1 Lodestone Golem
+4 Phyrexian Revoker
+4 Stonecoil Serpent
+3 Traxos, Scourge of Kroog
+Artifact (22)
+1 Black Lotus
+1 Chalice of the Void
+2 Crucible of Worlds
+2 Grafdigger's Cage
+1 Mana Crypt
+1 Mox Emerald
+1 Mox Jet
+1 Mox Opal
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+2 Null Rod
+1 Sol Ring
+4 Sphere of Resistance
+1 Thorn of Amethyst
+1 Trinisphere
+Land (20)
+4 Ancient Tomb
+1 Cavern of Souls
+1 Inventors' Fair
+1 Karakas
+4 Mishra's Workshop
+1 Strip Mine
+1 The Tabernacle at Pendrell Vale
+1 Tolarian Academy
+2 Urborg, Tomb of Yawgmoth
+4 Wasteland
+60 Cards
+Sideboard (15)
+1 Crucible of Worlds
+2 Grafdigger's Cage
+2 Null Rod
+2 Sorcerous Spyglass
+4 Tormod's Crypt
+1 Umori, the Collector
+1 Witchbane Orb
+2 Wurmcoil Engine
+
+DECKLIST :
+PRISON_WARDEN
+(3-2)
+Creature (26)
+4 Arcbound Ravager
+4 Foundry Inspector
+2 Hangarback Walker
+1 Lodestone Golem
+1 Phyrexian Metamorph
+4 Phyrexian Revoker
+3 Stonecoil Serpent
+3 Traxos, Scourge of Kroog
+4 Walking Ballista
+Artifact (16)
+1 Black Lotus
+1 Chalice of the Void
+1 Mana Crypt
+1 Mox Emerald
+1 Mox Jet
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+1 Mystic Forge
+1 Sol Ring
+4 Sphere of Resistance
+1 Thorn of Amethyst
+1 Trinisphere
+Land (18)
+4 Ancient Tomb
+4 Mishra's Factory
+4 Mishra's Workshop
+1 Strip Mine
+1 Tolarian Academy
+4 Wasteland
+60 Cards
+Sideboard (15)
+1 Crucible of Worlds
+4 Grafdigger's Cage
+4 Mindbreak Trap
+2 Null Rod
+2 Precursor Golem
+1 Sorcerous Spyglass
+1 Tormod's Crypt
+
+
+
+
+CATEGORY :
+Vintage Challenge
+APRIL
+19
+2020
+
+DECKLIST :
+FNOOP (1ST
+PLACE)
+Planeswalker (3)
+1 Narset, Parter of Veils
+2 Teferi, Time Raveler
+Creature (3)
+1 Lavinia, Azorius Renegade
+1 Monastery Mentor
+1 Snapcaster Mage
+Sorcery (6)
+1 Gitaxian Probe
+1 Merchant Scroll
+1 Ponder
+1 Time Walk
+1 Timetwister
+1 Tinker
+Instant (18)
+1 Ancestral Recall
+1 Brain Freeze
+1 Brainstorm
+1 Dig Through Time
+1 Flusterstorm
+2 Force of Negation
+4 Force of Will
+1 Hurkyl's Recall
+1 Mental Misstep
+4 Paradoxical Outcome
+1 Repeal
+Artifact (17)
+2 Arcum's Astrolabe
+1 Black Lotus
+1 Bolas's Citadel
+1 Mana Crypt
+1 Mana Vault
+1 Mox Emerald
+1 Mox Jet
+3 Mox Opal
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+2 Sensei's Divining Top
+1 Sol Ring
+Land (13)
+2 Flooded Strand
+2 Misty Rainforest
+1 Polluted Delta
+1 Scalding Tarn
+4 Snow-Covered Island
+1 Tolarian Academy
+2 Tundra
+60 Cards
+Sideboard (15)
+3 Hurkyl's Recall
+2 Pithing Needle
+3 Ravenous Trap
+1 Rebuild
+3 Swords to Plowshares
+3 Tormod's Crypt
+
+DECKLIST :
+DAZAI (2ND
+PLACE)
+Planeswalker (6)
+1 Dack Fayden
+1 Jace, the Mind Sculptor
+1 Narset, Parter of Veils
+1 Oko, Thief of Crowns
+1 Teferi, Time Raveler
+1 Wrenn and Six
+Creature (7)
+1 Deathrite Shaman
+1 Dreadhorde Arcanist
+1 Jace, Vryn's Prodigy
+1 Lavinia, Azorius Renegade
+1 Monastery Mentor
+1 Snapcaster Mage
+1 Tarmogoyf
+Sorcery (9)
+1 Gitaxian Probe
+1 Merchant Scroll
+1 Ponder
+1 Portent
+1 Preordain
+1 Serum Visions
+1 Shattering Spree
+1 Time Walk
+1 Treasure Cruise
+Instant (15)
+1 Ancestral Recall
+1 Ancient Grudge
+1 Brainstorm
+1 Daze
+1 Dig Through Time
+1 Force of Negation
+1 Force of Will
+1 Gush
+1 Lightning Bolt
+1 Mental Misstep
+1 Mindbreak Trap
+1 Pyroblast
+1 Red Elemental Blast
+1 Spell Pierce
+1 Swords to Plowshares
+Artifact (5)
+1 Black Lotus
+1 Mox Emerald
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+Land (18)
+3 Flooded Strand
+3 Polluted Delta
+3 Scalding Tarn
+1 Strip Mine
+2 Tropical Island
+1 Tundra
+3 Volcanic Island
+2 Wasteland
+60 Cards
+Sideboard (15)
+3 Force of Will
+1 By Force
+1 Ceremonious Rejection
+1 Energy Flux
+1 Flusterstorm
+4 Leyline of the Void
+1 Lutri, the Spellchaser
+1 Mystical Dispute
+2 The Tabernacle at Pendrell Vale
+
+DECKLIST :
+CHUBBYRAIN (3RD
+PLACE)
+Sorcery (11)
+1 Demonic Tutor
+1 Gitaxian Probe
+1 Merchant Scroll
+1 Ponder
+4 Preordain
+1 Thoughtseize
+1 Time Walk
+1 Treasure Cruise
+Instant (23)
+1 Ancestral Recall
+2 Brain Freeze
+1 Brainstorm
+1 Daze
+1 Dig Through Time
+1 Fatal Push
+1 Flusterstorm
+1 Force of Negation
+4 Force of Will
+1 Gush
+1 Intuition
+1 Lightning Bolt
+1 Mental Misstep
+1 Mindbreak Trap
+3 Pyroblast
+1 Spell Pierce
+1 Vampiric Tutor
+Artifact (7)
+1 Black Lotus
+1 Lion's Eye Diamond
+1 Lotus Petal
+1 Mox Jet
+1 Mox Ruby
+1 Mox Sapphire
+1 Nihil Spellbomb
+Enchantment (3)
+1 Mystic Remora
+2 Underworld Breach
+Land (16)
+2 Flooded Strand
+1 Island
+1 Misty Rainforest
+1 Mystic Sanctuary
+1 Polluted Delta
+4 Scalding Tarn
+3 Underground Sea
+3 Volcanic Island
+60 Cards
+Sideboard (15)
+1 Pyroblast
+1 Bitter Ordeal
+1 Chain of Vapor
+1 Hurkyl's Recall
+1 Lurrus of the Dream Den
+1 Mountain
+4 Shattering Spree
+2 Surgical Extraction
+2 The Tabernacle at Pendrell Vale
+1 Tormod's Crypt
+
+DECKLIST :
+THEPOWERNINE (4TH
+PLACE)
+Creature (2)
+1 Lavinia, Azorius Renegade
+1 Snapcaster Mage
+Sorcery (10)
+1 Collective Brutality
+1 Demonic Tutor
+1 Gitaxian Probe
+1 Merchant Scroll
+1 Mind's Desire
+1 Ponder
+1 Tendrils of Agony
+1 Time Walk
+1 Timetwister
+1 Yawgmoth's Will
+Instant (16)
+1 Ancestral Recall
+1 Brainstorm
+1 Flusterstorm
+4 Force of Will
+1 Hurkyl's Recall
+1 Mental Misstep
+4 Paradoxical Outcome
+2 Repeal
+1 Vampiric Tutor
+Artifact (19)
+1 Black Lotus
+1 Lion's Eye Diamond
+1 Lotus Petal
+1 Mana Crypt
+1 Mana Vault
+4 Mishra's Bauble
+1 Mox Emerald
+1 Mox Jet
+3 Mox Opal
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+1 Nihil Spellbomb
+1 Sol Ring
+Land (13)
+2 Flooded Strand
+1 Island
+1 Karakas
+2 Misty Rainforest
+1 Polluted Delta
+1 Scalding Tarn
+1 Tolarian Academy
+2 Tundra
+2 Underground Sea
+60 Cards
+Sideboard (15)
+1 Flusterstorm
+3 Hurkyl's Recall
+1 Nihil Spellbomb
+1 Balance
+1 Defense Grid
+1 Lurrus of the Dream Den
+2 Mystic Remora
+2 Swords to Plowshares
+3 Tormod's Crypt
+
+DECKLIST :
+SVACA (5TH
+PLACE)
+Creature (13)
+4 Dark Confidant
+4 Deathrite Shaman
+3 Jace, Vryn's Prodigy
+2 Snapcaster Mage
+Sorcery (10)
+1 Demonic Tutor
+1 Gitaxian Probe
+1 Merchant Scroll
+1 Ponder
+4 Preordain
+1 Time Walk
+1 Treasure Cruise
+Instant (16)
+2 Abrupt Decay
+1 Ancestral Recall
+1 Brainstorm
+4 Daze
+2 Fatal Push
+4 Force of Will
+1 Mental Misstep
+1 Vampiric Tutor
+Artifact (5)
+1 Black Lotus
+1 Lotus Petal
+1 Mox Emerald
+1 Mox Jet
+1 Mox Sapphire
+Land (16)
+2 Flooded Strand
+2 Misty Rainforest
+2 Polluted Delta
+1 Scalding Tarn
+1 Strip Mine
+2 Tropical Island
+3 Underground Sea
+3 Wasteland
+60 Cards
+Sideboard (15)
+1 Abrupt Decay
+1 Fatal Push
+2 Assassin's Trophy
+2 Flusterstorm
+1 Force of Negation
+1 Lurrus of the Dream Den
+1 Nature's Claim
+3 Nihil Spellbomb
+1 Tormod's Crypt
+2 Veil of Summer
+
+DECKLIST :
+KANISTER (6TH
+PLACE)
+Creature (22)
+4 Arcbound Ravager
+3 Hangarback Walker
+3 Phyrexian Revoker
+4 Steel Overseer
+4 Stonecoil Serpent
+4 Walking Ballista
+Instant (1)
+1 Dismember
+Artifact (18)
+1 Black Lotus
+1 Chalice of the Void
+1 Mana Crypt
+1 Mox Emerald
+1 Mox Jet
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+2 Nihil Spellbomb
+1 Sol Ring
+2 Sorcerous Spyglass
+4 Sphere of Resistance
+1 Thorn of Amethyst
+Land (19)
+4 Ancient Tomb
+1 Cavern of Souls
+1 Karakas
+4 Mishra's Workshop
+1 Phyrexian Tower
+1 Silent Clearing
+1 Strip Mine
+1 Tolarian Academy
+1 Urborg, Tomb of Yawgmoth
+4 Wasteland
+60 Cards
+Sideboard (15)
+1 Dismember
+4 Grafdigger's Cage
+1 Lurrus of the Dream Den
+3 Mindbreak Trap
+2 Null Rod
+2 The Tabernacle at Pendrell Vale
+2 Tormod's Crypt
+
+DECKLIST :
+GNORILGRANDE (7TH
+PLACE)
+Planeswalker (5)
+2 Dack Fayden
+2 Jace, the Mind Sculptor
+1 Narset, Parter of Veils
+Creature (3)
+1 Blightsteel Colossus
+2 Snapcaster Mage
+Sorcery (9)
+1 Demonic Tutor
+1 Gitaxian Probe
+1 Merchant Scroll
+1 Ponder
+2 Preordain
+1 Time Walk
+1 Tinker
+1 Treasure Cruise
+Instant (21)
+1 Ancestral Recall
+1 Brainstorm
+1 Dig Through Time
+2 Flusterstorm
+2 Force of Negation
+4 Force of Will
+2 Lightning Bolt
+1 Mental Misstep
+1 Mystical Tutor
+3 Pyroblast
+2 Repeal
+1 Vampiric Tutor
+Artifact (6)
+1 Black Lotus
+1 Mox Emerald
+1 Mox Jet
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+Land (16)
+1 Flooded Strand
+2 Island
+1 Misty Rainforest
+1 Mystic Sanctuary
+1 Polluted Delta
+4 Scalding Tarn
+1 Strip Mine
+2 Underground Sea
+3 Volcanic Island
+60 Cards
+Sideboard (15)
+1 Flusterstorm
+1 Pyroblast
+1 Abrade
+2 By Force
+1 Hurkyl's Recall
+1 Mountain
+1 Shattering Spree
+1 Sulfur Elemental
+4 Surgical Extraction
+2 The Tabernacle at Pendrell Vale
+
+DECKLIST :
+GYBA (8TH
+PLACE)
+Creature (23)
+4 Arcbound Ravager
+3 Hangarback Walker
+4 Phyrexian Revoker
+4 Steel Overseer
+4 Stonecoil Serpent
+4 Walking Ballista
+Artifact (18)
+1 Black Lotus
+1 Chalice of the Void
+1 Engineered Explosives
+1 Mana Crypt
+1 Mox Emerald
+1 Mox Jet
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+2 Nihil Spellbomb
+1 Sol Ring
+1 Sorcerous Spyglass
+4 Sphere of Resistance
+1 Thorn of Amethyst
+Land (19)
+4 Ancient Tomb
+1 Karakas
+3 Mishra's Factory
+4 Mishra's Workshop
+1 Strip Mine
+1 Tolarian Academy
+1 Urborg, Tomb of Yawgmoth
+4 Wasteland
+60 Cards
+Sideboard (15)
+1 Sorcerous Spyglass
+4 Grafdigger's Cage
+1 Lurrus of the Dream Den
+3 Mindbreak Trap
+2 Null Rod
+2 Surgical Extraction
+2 The Tabernacle at Pendrell Vale
+
+DECKLIST :
+DARKIUNDSA (9TH
+PLACE)
+Creature (23)
+4 Basking Rootwalla
+4 Hollow One
+4 Memnite
+3 Sphinx of Foresight
+4 Squee, Goblin Nabob
+4 Vengevine
+Instant (22)
+4 Force of Negation
+4 Force of Vigor
+4 Force of Will
+1 Mental Misstep
+3 Mindbreak Trap
+2 Misdirection
+4 Once Upon a Time
+Artifact (5)
+1 Chalice of the Void
+4 Serum Powder
+Land (10)
+4 Bazaar of Baghdad
+1 Petrified Field
+1 Strip Mine
+4 Wasteland
+60 Cards
+Sideboard (15)
+3 Petrified Field
+1 Mindbreak Trap
+4 Leyline of the Void
+4 Surgical Extraction
+3 The Tabernacle at Pendrell Vale
+
+DECKLIST :
+I_B_TRUE (10TH
+PLACE)
+Planeswalker (2)
+1 Dack Fayden
+1 Narset, Parter of Veils
+Creature (8)
+3 Dreadhorde Arcanist
+2 Snapcaster Mage
+3 Sprite Dragon
+Sorcery (10)
+1 Gitaxian Probe
+1 Merchant Scroll
+1 Ponder
+4 Preordain
+1 Shattering Spree
+1 Time Walk
+1 Treasure Cruise
+Instant (21)
+1 Ancestral Recall
+1 Brainstorm
+1 Daze
+1 Dig Through Time
+1 Flusterstorm
+2 Force of Negation
+4 Force of Will
+1 Gush
+4 Lightning Bolt
+1 Mental Misstep
+4 Pyroblast
+Artifact (3)
+1 Black Lotus
+1 Mox Ruby
+1 Mox Sapphire
+Land (16)
+1 Flooded Strand
+2 Island
+1 Misty Rainforest
+1 Mountain
+1 Mystic Sanctuary
+1 Polluted Delta
+4 Scalding Tarn
+1 Strip Mine
+4 Volcanic Island
+60 Cards
+Sideboard (15)
+3 Shattering Spree
+1 Abrade
+1 Null Rod
+1 Pithing Needle
+1 Pulverize
+3 Ravenous Trap
+2 Surgical Extraction
+2 The Tabernacle at Pendrell Vale
+1 Tormod's Crypt
+
+DECKLIST :
+ALPHA_OMEGA (11TH
+PLACE)
+Planeswalker (3)
+1 Narset, Parter of Veils
+2 Oko, Thief of Crowns
+Creature (12)
+2 Collector Ouphe
+4 Deathrite Shaman
+3 Leovold, Emissary of Trest
+3 Tarmogoyf
+Sorcery (6)
+1 Demonic Tutor
+1 Gitaxian Probe
+1 Merchant Scroll
+1 Ponder
+1 Time Walk
+1 Treasure Cruise
+Instant (16)
+1 Ancestral Recall
+3 Assassin's Trophy
+1 Brainstorm
+1 Dig Through Time
+1 Flusterstorm
+1 Force of Negation
+1 Force of Vigor
+4 Force of Will
+1 Gush
+1 Mental Misstep
+1 Spell Pierce
+Artifact (4)
+1 Black Lotus
+1 Mox Emerald
+1 Mox Jet
+1 Mox Sapphire
+Enchantment (1)
+1 Sylvan Library
+Land (18)
+1 Flooded Strand
+2 Misty Rainforest
+2 Polluted Delta
+2 Scalding Tarn
+1 Strip Mine
+3 Tropical Island
+3 Underground Sea
+4 Wasteland
+60 Cards
+Sideboard (15)
+1 Flusterstorm
+1 Force of Vigor
+1 Energy Flux
+2 Grafdigger's Cage
+1 Mindbreak Trap
+1 Nature's Claim
+1 Null Rod
+1 Ravenous Trap
+1 The Tabernacle at Pendrell Vale
+1 Tormod's Crypt
+1 Toxic Deluge
+1 Veil of Summer
+2 Yixlid Jailer
+
+DECKLIST :
+SAMSHERMAN (12TH
+PLACE)
+Planeswalker (4)
+1 Narset, Parter of Veils
+3 Oko, Thief of Crowns
+Creature (12)
+1 Collector Ouphe
+4 Deathrite Shaman
+2 Leovold, Emissary of Trest
+1 Scavenging Ooze
+3 Tarmogoyf
+1 Uro, Titan of Nature's Wrath
+Sorcery (6)
+1 Demonic Tutor
+1 Gitaxian Probe
+1 Green Sun's Zenith
+1 Ponder
+1 Thoughtseize
+1 Time Walk
+Instant (16)
+3 Abrupt Decay
+1 Ancestral Recall
+1 Brainstorm
+3 Daze
+1 Dig Through Time
+1 Force of Vigor
+4 Force of Will
+1 Gush
+1 Mental Misstep
+Artifact (4)
+1 Black Lotus
+1 Mox Emerald
+1 Mox Jet
+1 Mox Sapphire
+Land (18)
+4 Polluted Delta
+1 Strip Mine
+3 Tropical Island
+3 Underground Sea
+4 Verdant Catacombs
+3 Wasteland
+60 Cards
+Sideboard (15)
+1 Collector Ouphe
+1 Force of Vigor
+1 Assassin's Trophy
+2 Energy Flux
+1 Fatal Push
+1 Flusterstorm
+1 Mindbreak Trap
+3 Ravenous Trap
+1 The Tabernacle at Pendrell Vale
+1 Veil of Summer
+2 Yixlid Jailer
+
+DECKLIST :
+MONTRE82 (13TH
+PLACE)
+Planeswalker (6)
+2 Dack Fayden
+1 Narset, Parter of Veils
+1 Saheeli, Sublime Artificer
+2 Teferi, Time Raveler
+Creature (5)
+2 Lavinia, Azorius Renegade
+3 Snapcaster Mage
+Sorcery (10)
+1 Gitaxian Probe
+1 Merchant Scroll
+1 Ponder
+4 Preordain
+1 Shattering Spree
+1 Time Walk
+1 Treasure Cruise
+Instant (18)
+1 Ancestral Recall
+1 Brainstorm
+1 Dig Through Time
+2 Force of Negation
+4 Force of Will
+1 Gush
+1 Lightning Bolt
+1 Mental Misstep
+3 Pyroblast
+3 Swords to Plowshares
+Artifact (4)
+1 Black Lotus
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+Enchantment (1)
+1 Underworld Breach
+Land (16)
+1 Flooded Strand
+1 Island
+1 Misty Rainforest
+1 Mystic Sanctuary
+2 Polluted Delta
+4 Scalding Tarn
+2 Tundra
+4 Volcanic Island
+60 Cards
+Sideboard (15)
+1 Pyroblast
+3 Shattering Spree
+3 Containment Priest
+1 Fragmentize
+1 Mountain
+1 Pithing Needle
+2 Surgical Extraction
+2 The Tabernacle at Pendrell Vale
+1 Wear // Tear
+
+DECKLIST :
+GERNARDI (14TH
+PLACE)
+Creature (11)
+4 Delver of Secrets
+3 Dreadhorde Arcanist
+1 Snapcaster Mage
+3 Sprite Dragon
+Sorcery (12)
+1 Demonic Tutor
+1 Gitaxian Probe
+1 Ponder
+2 Preordain
+2 Shattering Spree
+3 Thoughtseize
+1 Time Walk
+1 Treasure Cruise
+Instant (15)
+1 Ancestral Recall
+1 Brainstorm
+2 Daze
+1 Dig Through Time
+1 Flusterstorm
+4 Force of Will
+1 Kolaghan's Command
+3 Lightning Bolt
+1 Mental Misstep
+Artifact (7)
+1 Black Lotus
+3 Mishra's Bauble
+1 Mox Jet
+1 Mox Ruby
+1 Mox Sapphire
+Land (15)
+2 Flooded Strand
+1 Mystic Sanctuary
+1 Polluted Delta
+2 Scalding Tarn
+1 Strip Mine
+2 Underground Sea
+4 Volcanic Island
+2 Wasteland
+60 Cards
+Sideboard (15)
+1 Flusterstorm
+1 Shattering Spree
+2 Engineered Explosives
+1 Fatal Push
+1 Force of Negation
+1 Lurrus of the Dream Den
+1 Nihil Spellbomb
+3 Pyroblast
+2 Ravenous Trap
+1 Seal of Removal
+1 Tormod's Crypt
+
+DECKLIST :
+YAMAKILLER (15TH
+PLACE)
+Planeswalker (1)
+1 Narset, Parter of Veils
+Creature (3)
+1 Lavinia, Azorius Renegade
+1 Monastery Mentor
+1 Snapcaster Mage
+Sorcery (10)
+1 Demonic Tutor
+1 Gitaxian Probe
+1 Merchant Scroll
+1 Ponder
+3 Preordain
+1 Time Walk
+1 Tinker
+1 Yawgmoth's Will
+Instant (17)
+1 Ancestral Recall
+1 Brainstorm
+1 Dig Through Time
+4 Force of Will
+1 Hurkyl's Recall
+1 Lightning Bolt
+1 Mental Misstep
+4 Paradoxical Outcome
+2 Pyroblast
+1 Vampiric Tutor
+Artifact (15)
+1 Black Lotus
+1 Bolas's Citadel
+1 Mana Crypt
+1 Mana Vault
+1 Mox Emerald
+1 Mox Jet
+3 Mox Opal
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+2 Sensei's Divining Top
+1 Sol Ring
+Land (14)
+3 Flooded Strand
+1 Polluted Delta
+2 Scalding Tarn
+1 Snow-Covered Island
+1 Tolarian Academy
+2 Tundra
+2 Underground Sea
+2 Volcanic Island
+60 Cards
+Sideboard (15)
+1 Snow-Covered Island
+3 Hurkyl's Recall
+2 Pyroblast
+1 Flusterstorm
+2 Pithing Needle
+2 Ravenous Trap
+1 The Tabernacle at Pendrell Vale
+3 Tormod's Crypt
+
+DECKLIST :
+DISCOVERN (16TH
+PLACE)
+Planeswalker (4)
+3 Dack Fayden
+1 Narset, Parter of Veils
+Creature (1)
+1 Jace, Vryn's Prodigy
+Sorcery (9)
+1 Demonic Tutor
+1 Gitaxian Probe
+1 Merchant Scroll
+1 Ponder
+4 Preordain
+1 Time Walk
+Instant (23)
+1 Ancestral Recall
+2 Brain Freeze
+1 Brainstorm
+1 Daze
+1 Dig Through Time
+1 Flusterstorm
+2 Force of Negation
+4 Force of Will
+1 Gush
+2 Lightning Bolt
+1 Mental Misstep
+1 Mystical Tutor
+4 Pyroblast
+1 Vampiric Tutor
+Artifact (5)
+1 Black Lotus
+1 Lion's Eye Diamond
+1 Mox Jet
+1 Mox Ruby
+1 Mox Sapphire
+Enchantment (2)
+2 Underworld Breach
+Land (16)
+2 Flooded Strand
+2 Misty Rainforest
+1 Mystic Sanctuary
+2 Polluted Delta
+4 Scalding Tarn
+1 Snow-Covered Island
+1 Underground Sea
+3 Volcanic Island
+60 Cards
+Sideboard (15)
+1 Bitter Ordeal
+3 Leyline of the Void
+1 Mindbreak Trap
+2 Ravenous Trap
+4 Shattering Spree
+1 Snow-Covered Mountain
+1 Steel Sabotage
+2 Surgical Extraction
+
+DECKLIST :
+IAMACTUALLYLVL1 (17TH
+PLACE)
+Creature (3)
+2 Lavinia, Azorius Renegade
+1 Snapcaster Mage
+Sorcery (6)
+1 Demonic Tutor
+1 Gitaxian Probe
+1 Merchant Scroll
+1 Tendrils of Agony
+1 Time Walk
+1 Yawgmoth's Will
+Instant (15)
+1 Ancestral Recall
+1 Brainstorm
+1 Dig Through Time
+1 Flusterstorm
+4 Force of Will
+1 Hurkyl's Recall
+1 Mental Misstep
+4 Paradoxical Outcome
+1 Repeal
+Artifact (20)
+1 Black Lotus
+1 Lotus Petal
+1 Mana Crypt
+1 Mana Vault
+1 Manifold Key
+4 Mishra's Bauble
+1 Mox Emerald
+1 Mox Jet
+3 Mox Opal
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+1 Sensei's Divining Top
+1 Sol Ring
+1 Time Vault
+Enchantment (3)
+3 Mystic Remora
+Land (13)
+1 Flooded Strand
+1 Island
+1 Karakas
+2 Misty Rainforest
+1 Polluted Delta
+2 Scalding Tarn
+1 Tolarian Academy
+2 Tundra
+2 Underground Sea
+60 Cards
+Sideboard (15)
+1 Flusterstorm
+3 Hurkyl's Recall
+1 Balance
+1 Engineered Explosives
+1 Lurrus of the Dream Den
+1 Mindbreak Trap
+1 Nihil Spellbomb
+1 Seal of Cleansing
+1 Seal of Removal
+1 Swords to Plowshares
+3 Tormod's Crypt
+
+DECKLIST :
+JPINTER (18TH
+PLACE)
+Planeswalker (3)
+1 Karn, the Great Creator
+1 Narset, Parter of Veils
+1 Saheeli, Sublime Artificer
+Creature (6)
+2 Sai, Master Thopterist
+4 Urza, Lord High Artificer
+Sorcery (8)
+1 Demonic Tutor
+1 Gitaxian Probe
+1 Ponder
+1 Time Walk
+1 Timetwister
+1 Tinker
+1 Treasure Cruise
+1 Yawgmoth's Will
+Instant (13)
+1 Ancestral Recall
+1 Brainstorm
+1 Dig Through Time
+1 Fatal Push
+1 Flusterstorm
+4 Force of Will
+1 Hurkyl's Recall
+1 Mental Misstep
+1 Mystical Tutor
+1 Vampiric Tutor
+Artifact (16)
+1 Black Lotus
+1 Bolas's Citadel
+1 Grim Monolith
+1 Mana Crypt
+1 Mana Vault
+1 Manifold Key
+1 Mox Jet
+3 Mox Opal
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+1 Sensei's Divining Top
+1 Sol Ring
+1 Time Vault
+Land (14)
+2 Misty Rainforest
+2 Polluted Delta
+2 Scalding Tarn
+3 Snow-Covered Island
+1 Tolarian Academy
+2 Underground Sea
+2 Volcanic Island
+60 Cards
+Sideboard (15)
+2 Fatal Push
+1 Flusterstorm
+3 Hurkyl's Recall
+2 Grafdigger's Cage
+1 Mycosynth Lattice
+1 Pithing Needle
+3 Tormod's Crypt
+1 Walking Ballista
+1 Zirda, the Dawnwaker
+
+DECKLIST :
+ERUXUS (19TH
+PLACE)
+Creature (31)
+1 Ashen Rider
+1 Elesh Norn, Grand Cenobite
+1 Golgari Grave-Troll
+4 Golgari Thug
+4 Hollow One
+3 Ichorid
+4 Narcomoeba
+3 Prized Amalgam
+4 Shambling Shell
+4 Stinkweed Imp
+2 Street Wraith
+Sorcery (10)
+4 Cabal Therapy
+2 Dread Return
+1 Gitaxian Probe
+3 Unmask
+Instant (6)
+4 Force of Will
+1 Mental Misstep
+1 Once Upon a Time
+Artifact (4)
+4 Serum Powder
+Enchantment (4)
+4 Bridge from Below
+Land (5)
+4 Bazaar of Baghdad
+1 Strip Mine
+60 Cards
+Sideboard (15)
+4 Force of Vigor
+4 Leyline of Sanctity
+4 Leyline of the Void
+2 Ravenous Trap
+1 Sickening Shoal
+
+DECKLIST :
+RENERANDRUP (20TH
+PLACE)
+Creature (11)
+1 Collector Ouphe
+4 Deathrite Shaman
+4 Delver of Secrets
+2 Snapcaster Mage
+Sorcery (9)
+2 Cabal Therapy
+1 Demonic Tutor
+1 Gitaxian Probe
+1 Green Sun's Zenith
+1 Merchant Scroll
+1 Ponder
+1 Time Walk
+1 Treasure Cruise
+Instant (18)
+1 Abrupt Decay
+1 Ancestral Recall
+1 Assassin's Trophy
+1 Brainstorm
+2 Daze
+1 Dig Through Time
+1 Force of Negation
+4 Force of Will
+1 Gush
+1 Mental Misstep
+2 Peek
+2 Spell Pierce
+Artifact (6)
+1 Black Lotus
+2 Mishra's Bauble
+1 Mox Emerald
+1 Mox Jet
+1 Mox Sapphire
+Land (16)
+2 Misty Rainforest
+1 Mystic Sanctuary
+2 Polluted Delta
+2 Scalding Tarn
+1 Strip Mine
+3 Tropical Island
+3 Underground Sea
+2 Wasteland
+60 Cards
+Sideboard (15)
+1 Abrupt Decay
+1 Assassin's Trophy
+1 Fatal Push
+1 Hydroblast
+1 Lurrus of the Dream Den
+2 Nature's Claim
+1 Nihil Spellbomb
+1 Pithing Needle
+1 Ravenous Trap
+1 Surgical Extraction
+1 The Tabernacle at Pendrell Vale
+1 Tormod's Crypt
+1 Veil of Summer
+1 Yixlid Jailer
+
+DECKLIST :
+ZIOFRANCONE (21ST
+PLACE)
+Planeswalker (4)
+2 Dack Fayden
+1 Narset, Parter of Veils
+1 Teferi, Time Raveler
+Creature (6)
+2 Dreadhorde Arcanist
+2 Lavinia, Azorius Renegade
+1 Monastery Mentor
+1 Snapcaster Mage
+Sorcery (10)
+1 Gitaxian Probe
+1 Merchant Scroll
+1 Ponder
+4 Preordain
+1 Shattering Spree
+1 Time Walk
+1 Treasure Cruise
+Instant (19)
+1 Ancestral Recall
+1 Brainstorm
+1 Dig Through Time
+1 Flusterstorm
+2 Force of Negation
+4 Force of Will
+1 Gush
+2 Lightning Bolt
+1 Mental Misstep
+3 Pyroblast
+2 Swords to Plowshares
+Artifact (4)
+1 Black Lotus
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+Enchantment (1)
+1 Underworld Breach
+Land (16)
+1 Flooded Strand
+1 Island
+1 Misty Rainforest
+1 Mystic Sanctuary
+1 Polluted Delta
+4 Scalding Tarn
+1 Strip Mine
+3 Tundra
+3 Volcanic Island
+60 Cards
+Sideboard (14)
+1 Pyroblast
+2 Shattering Spree
+1 Containment Priest
+1 Fragmentize
+1 Mountain
+1 Pithing Needle
+1 Ravenous Trap
+1 Soul-Guide Lantern
+2 Surgical Extraction
+2 The Tabernacle at Pendrell Vale
+1 Wear // Tear
+
+DECKLIST :
+MIHARU_FUYUMIYA (22ND
+PLACE)
+Planeswalker (4)
+1 Narset, Parter of Veils
+3 Oko, Thief of Crowns
+Creature (2)
+1 Griselbrand
+1 Niv-Mizzet, Parun
+Sorcery (8)
+1 Gaea's Blessing
+1 Gitaxian Probe
+1 Ponder
+4 Preordain
+1 Time Walk
+Instant (21)
+1 Abrade
+1 Ancestral Recall
+1 Ancient Grudge
+1 Brainstorm
+1 Dig Through Time
+1 Fire Prophecy
+2 Force of Negation
+4 Force of Will
+1 Mental Misstep
+4 Pyroblast
+2 Spell Pierce
+2 Veil of Summer
+Artifact (6)
+1 Black Lotus
+1 Mox Emerald
+1 Mox Jet
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+Enchantment (4)
+4 Oath of Druids
+Land (15)
+2 Flooded Strand
+4 Forbidden Orchard
+1 Island
+1 Misty Rainforest
+1 Polluted Delta
+1 Scalding Tarn
+3 Tropical Island
+2 Volcanic Island
+60 Cards
+Sideboard (15)
+1 Abrade
+1 Oko, Thief of Crowns
+1 Mindbreak Trap
+4 Nature's Claim
+4 Ravenous Trap
+4 Soul-Guide Lantern
+
+DECKLIST :
+JSTEED (23RD
+PLACE)
+Creature (20)
+4 Arcbound Ravager
+1 Hangarback Walker
+3 Phyrexian Revoker
+4 Steel Overseer
+4 Stonecoil Serpent
+4 Walking Ballista
+Instant (1)
+1 Dismember
+Artifact (20)
+1 Black Lotus
+1 Chalice of the Void
+1 Mana Crypt
+1 Mox Emerald
+1 Mox Jet
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+2 Nihil Spellbomb
+1 Sol Ring
+2 Sorcerous Spyglass
+4 Sphere of Resistance
+2 The Ozolith
+1 Thorn of Amethyst
+Land (19)
+4 Ancient Tomb
+1 Cavern of Souls
+1 Karakas
+4 Mishra's Workshop
+1 Phyrexian Tower
+1 Silent Clearing
+1 Strip Mine
+1 Tolarian Academy
+1 Urborg, Tomb of Yawgmoth
+4 Wasteland
+60 Cards
+Sideboard (15)
+1 Dismember
+4 Grafdigger's Cage
+1 Lurrus of the Dream Den
+3 Mindbreak Trap
+2 Null Rod
+1 Surgical Extraction
+2 The Tabernacle at Pendrell Vale
+1 Tormod's Crypt
+
+DECKLIST :
+MANOFBONE (24TH
+PLACE)
+Creature (30)
+1 Ashen Rider
+1 Elesh Norn, Grand Cenobite
+1 Golgari Grave-Troll
+4 Golgari Thug
+4 Hollow One
+3 Ichorid
+4 Narcomoeba
+4 Prized Amalgam
+4 Shambling Shell
+4 Stinkweed Imp
+Sorcery (11)
+3 Cabal Therapy
+4 Creeping Chill
+2 Dread Return
+1 Gitaxian Probe
+1 Unmask
+Instant (10)
+4 Force of Will
+1 Mental Misstep
+2 Mindbreak Trap
+3 Once Upon a Time
+Enchantment (4)
+4 Bridge from Below
+Land (6)
+4 Bazaar of Baghdad
+1 Petrified Field
+1 Strip Mine
+61 Cards
+Sideboard (15)
+2 Petrified Field
+1 Unmask
+4 Force of Vigor
+2 Leyline of Sanctity
+3 Ravenous Trap
+3 Sickening Shoal
+
+DECKLIST :
+SHARKCASTER_MAGE (25TH
+PLACE)
+Planeswalker (1)
+1 Karn, the Great Creator
+Creature (6)
+4 Golos, Tireless Pilgrim
+1 Lodestone Golem
+1 Sundering Titan
+Artifact (31)
+1 Black Lotus
+1 Chalice of the Void
+1 Crucible of Worlds
+1 Ensnaring Bridge
+1 God-Pharaoh's Statue
+3 Grafdigger's Cage
+1 Mana Vault
+1 Mox Emerald
+1 Mox Jet
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+4 Null Rod
+1 Smokestack
+1 Sol Ring
+4 Sorcerous Spyglass
+4 Sphere of Resistance
+1 Spine of Ish Sah
+1 Thorn of Amethyst
+1 Trinisphere
+Land (22)
+4 Ancient Tomb
+1 Bojuka Bog
+1 Buried Ruin
+2 Inventors' Fair
+1 Karakas
+1 Mishra's Factory
+4 Mishra's Workshop
+1 Strip Mine
+1 The Tabernacle at Pendrell Vale
+1 Tolarian Academy
+1 Urborg, Tomb of Yawgmoth
+4 Wasteland
+60 Cards
+Sideboard (15)
+1 Crucible of Worlds
+1 Grafdigger's Cage
+1 Smokestack
+3 Dismember
+4 Mindbreak Trap
+2 Precursor Golem
+3 Surgical Extraction
+
+DECKLIST :
+NICKMEMBREZ (26TH
+PLACE)
+Planeswalker (4)
+1 Narset, Parter of Veils
+1 Oko, Thief of Crowns
+1 Sorin, Vengeful Bloodlord
+1 Vraska, Golgari Queen
+Creature (9)
+1 Collector Ouphe
+2 Deathrite Shaman
+1 Lavinia, Azorius Renegade
+1 Leovold, Emissary of Trest
+1 Managorger Hydra
+1 Monastery Mentor
+1 Scavenging Ooze
+1 Snapcaster Mage
+Sorcery (7)
+1 Demonic Tutor
+1 Gitaxian Probe
+1 Green Sun's Zenith
+1 Ponder
+2 Preordain
+1 Time Walk
+Instant (15)
+1 Ancestral Recall
+1 Assassin's Trophy
+1 Brainstorm
+2 Daze
+1 Dig Through Time
+1 Fatal Push
+2 Force of Vigor
+4 Force of Will
+2 Swords to Plowshares
+Artifact (7)
+1 Black Lotus
+1 Lotus Petal
+1 Mana Crypt
+1 Mox Emerald
+1 Mox Jet
+1 Mox Pearl
+1 Mox Sapphire
+Enchantment (1)
+1 Sylvan Library
+Land (17)
+3 Flooded Strand
+1 Island
+3 Polluted Delta
+2 Scalding Tarn
+3 Tropical Island
+2 Tundra
+3 Underground Sea
+60 Cards
+Sideboard (15)
+1 Fatal Push
+1 Swords to Plowshares
+1 Annul
+1 Containment Priest
+1 Drannith Magistrate
+1 Flusterstorm
+1 Grafdigger's Cage
+1 Infernal Reckoning
+1 Kambal, Consul of Allocation
+1 Nature's Claim
+1 Pithing Needle
+1 Ravenous Trap
+1 The Elderspell
+1 The Tabernacle at Pendrell Vale
+1 Tormod's Crypt
+
+DECKLIST :
+PALK52 (27TH
+PLACE)
+Planeswalker (1)
+1 Karn, the Great Creator
+Creature (9)
+4 Golos, Tireless Pilgrim
+1 Lodestone Golem
+4 Phyrexian Revoker
+Artifact (28)
+1 Black Lotus
+1 Chalice of the Void
+3 Crucible of Worlds
+1 Ensnaring Bridge
+1 God-Pharaoh's Statue
+2 Grafdigger's Cage
+1 Mana Crypt
+1 Mox Emerald
+1 Mox Jet
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+3 Null Rod
+1 Smokestack
+1 Sol Ring
+1 Sorcerous Spyglass
+4 Sphere of Resistance
+1 Spine of Ish Sah
+1 Thorn of Amethyst
+1 Trinisphere
+Land (22)
+4 Ancient Tomb
+1 Bojuka Bog
+1 Buried Ruin
+1 Inventors' Fair
+1 Karakas
+1 Mishra's Factory
+4 Mishra's Workshop
+1 Phyrexia's Core
+1 Strip Mine
+1 The Tabernacle at Pendrell Vale
+1 Tolarian Academy
+1 Urborg, Tomb of Yawgmoth
+4 Wasteland
+60 Cards
+Sideboard (15)
+1 Crucible of Worlds
+1 Ensnaring Bridge
+1 Grafdigger's Cage
+1 Sorcerous Spyglass
+4 Leyline of the Void
+1 Ratchet Bomb
+3 Stonecoil Serpent
+1 Sundering Titan
+1 Walking Ballista
+1 Wurmcoil Engine
+
+DECKLIST :
+THEDECK84 (28TH
+PLACE)
+Planeswalker (4)
+2 Dack Fayden
+1 Jace, the Mind Sculptor
+1 Narset, Parter of Veils
+Creature (2)
+1 Blightsteel Colossus
+1 Snapcaster Mage
+Sorcery (9)
+1 Demonic Tutor
+1 Gitaxian Probe
+1 Merchant Scroll
+1 Ponder
+1 Preordain
+1 Time Walk
+1 Tinker
+1 Treasure Cruise
+1 Yawgmoth's Will
+Instant (19)
+1 Ancestral Recall
+1 Brainstorm
+1 Dig Through Time
+2 Flusterstorm
+1 Force of Negation
+4 Force of Will
+1 Gifts Ungiven
+1 Lightning Bolt
+1 Mana Drain
+1 Mental Misstep
+1 Misdirection
+1 Mystical Tutor
+1 Pyroblast
+1 Red Elemental Blast
+1 Vampiric Tutor
+Artifact (10)
+1 Black Lotus
+1 Mana Crypt
+1 Manifold Key
+1 Mox Emerald
+1 Mox Jet
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+1 Sol Ring
+1 Time Vault
+Land (16)
+2 Flooded Strand
+2 Island
+1 Misty Rainforest
+1 Mystic Sanctuary
+2 Polluted Delta
+2 Scalding Tarn
+1 Tolarian Academy
+2 Underground Sea
+3 Volcanic Island
+60 Cards
+Sideboard (15)
+1 Flusterstorm
+1 Lightning Bolt
+2 Pyroblast
+2 By Force
+1 Goblin Cratermaker
+2 Grafdigger's Cage
+2 Hurkyl's Recall
+2 Nihil Spellbomb
+1 Pithing Needle
+1 Ravenous Trap
+
+DECKLIST :
+ANTHONY_S (29TH
+PLACE)
+Creature (1)
+1 Snapcaster Mage
+Sorcery (7)
+1 Demonic Tutor
+1 Gitaxian Probe
+1 Merchant Scroll
+1 Ponder
+1 Time Walk
+1 Tinker
+1 Yawgmoth's Will
+Instant (17)
+1 Ancestral Recall
+1 Brain Freeze
+1 Brainstorm
+1 Dig Through Time
+4 Force of Will
+1 Hurkyl's Recall
+1 Mental Misstep
+4 Paradoxical Outcome
+2 Pyroblast
+1 Vampiric Tutor
+Artifact (20)
+2 Arcum's Astrolabe
+1 Black Lotus
+1 Lion's Eye Diamond
+1 Mana Crypt
+1 Mana Vault
+2 Manifold Key
+1 Mox Emerald
+1 Mox Jet
+3 Mox Opal
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+2 Sensei's Divining Top
+1 Sol Ring
+1 Time Vault
+Enchantment (2)
+2 Underworld Breach
+Land (13)
+2 Flooded Strand
+1 Misty Rainforest
+2 Polluted Delta
+1 Scalding Tarn
+2 Snow-Covered Island
+1 Tolarian Academy
+2 Underground Sea
+2 Volcanic Island
+60 Cards
+Sideboard (15)
+3 Hurkyl's Recall
+2 Pyroblast
+1 Fatal Push
+1 Flusterstorm
+2 Lightning Bolt
+1 Lurrus of the Dream Den
+1 Mystic Sanctuary
+2 The Tabernacle at Pendrell Vale
+2 Tormod's Crypt
+
+DECKLIST :
+THE ATOG LORD (30TH
+PLACE)
+Creature (20)
+4 Arcbound Ravager
+4 Phyrexian Revoker
+4 Steel Overseer
+4 Stonecoil Serpent
+4 Walking Ballista
+Instant (1)
+1 Dismember
+Artifact (20)
+1 Black Lotus
+1 Chalice of the Void
+1 Expedition Map
+1 Lion's Eye Diamond
+1 Mana Crypt
+1 Mox Emerald
+1 Mox Jet
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+1 Nihil Spellbomb
+1 Sol Ring
+1 Sorcerous Spyglass
+1 Soul-Guide Lantern
+4 Sphere of Resistance
+1 The Ozolith
+1 Thorn of Amethyst
+Land (19)
+4 Ancient Tomb
+1 Cavern of Souls
+1 Karakas
+4 Mishra's Workshop
+1 Phyrexian Tower
+1 Silent Clearing
+1 Strip Mine
+1 Tolarian Academy
+1 Urborg, Tomb of Yawgmoth
+4 Wasteland
+60 Cards
+Sideboard (15)
+2 Dismember
+1 Sorcerous Spyglass
+1 Soul-Guide Lantern
+1 Bitter Ordeal
+1 Lurrus of the Dream Den
+3 Mindbreak Trap
+2 Null Rod
+2 The Tabernacle at Pendrell Vale
+2 Tormod's Crypt
+
+DECKLIST :
+POKERSWIZARD (31ST
+PLACE)
+Planeswalker (1)
+1 Karn, the Great Creator
+Creature (5)
+4 Golos, Tireless Pilgrim
+1 Lodestone Golem
+Artifact (32)
+1 Black Lotus
+1 Chalice of the Void
+1 Crucible of Worlds
+1 Ensnaring Bridge
+1 God-Pharaoh's Statue
+3 Grafdigger's Cage
+1 Mana Vault
+1 Mox Emerald
+1 Mox Jet
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+1 Mystic Forge
+4 Null Rod
+1 Smokestack
+1 Sol Ring
+4 Sorcerous Spyglass
+4 Sphere of Resistance
+1 Spine of Ish Sah
+1 Thorn of Amethyst
+1 Trinisphere
+Land (22)
+4 Ancient Tomb
+1 Bojuka Bog
+1 Buried Ruin
+2 Inventors' Fair
+1 Karakas
+1 Mishra's Factory
+4 Mishra's Workshop
+1 Strip Mine
+1 The Tabernacle at Pendrell Vale
+1 Tolarian Academy
+1 Urborg, Tomb of Yawgmoth
+4 Wasteland
+60 Cards
+Sideboard (15)
+1 Crucible of Worlds
+1 Grafdigger's Cage
+1 Smokestack
+1 Defense Grid
+3 Mindbreak Trap
+1 Mycosynth Lattice
+2 Precursor Golem
+1 Sundering Titan
+3 Surgical Extraction
+1 Witchbane Orb
+
+DECKLIST :
+DAVEKAPLAN (32ND
+PLACE)
+Planeswalker (4)
+2 Dack Fayden
+1 Narset, Parter of Veils
+1 Teferi, Time Raveler
+Creature (7)
+3 Dreadhorde Arcanist
+1 Lavinia, Azorius Renegade
+1 Monastery Mentor
+1 Snapcaster Mage
+1 Young Pyromancer
+Sorcery (11)
+1 Gitaxian Probe
+1 Merchant Scroll
+1 Ponder
+4 Preordain
+2 Shattering Spree
+1 Time Walk
+1 Treasure Cruise
+Instant (17)
+1 Ancestral Recall
+1 Brainstorm
+1 Dig Through Time
+1 Force of Negation
+4 Force of Will
+1 Gush
+1 Lightning Bolt
+1 Mental Misstep
+3 Pyroblast
+1 Spell Pierce
+2 Swords to Plowshares
+Artifact (5)
+1 Black Lotus
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+1 Pithing Needle
+Land (16)
+1 Flooded Strand
+1 Island
+2 Misty Rainforest
+1 Mystic Sanctuary
+1 Polluted Delta
+4 Scalding Tarn
+2 Tundra
+4 Volcanic Island
+60 Cards
+Sideboard (15)
+1 Force of Negation
+1 Pyroblast
+2 Shattering Spree
+2 Swords to Plowshares
+1 Containment Priest
+1 Flusterstorm
+1 Mountain
+1 Null Rod
+2 Surgical Extraction
+3 The Tabernacle at Pendrell Vale
+
+
+
+
+CATEGORY :
+Vintage Preliminary
+APRIL
+18
+2020
+
+DECKLIST :
+DISCOVERN
+(5-0)
+Planeswalker (4)
+3 Dack Fayden
+1 Narset, Parter of Veils
+Creature (1)
+1 Jace, Vryn's Prodigy
+Sorcery (9)
+1 Demonic Tutor
+1 Gitaxian Probe
+1 Merchant Scroll
+1 Ponder
+4 Preordain
+1 Time Walk
+Instant (23)
+1 Ancestral Recall
+2 Brain Freeze
+1 Brainstorm
+1 Daze
+1 Dig Through Time
+1 Flusterstorm
+2 Force of Negation
+4 Force of Will
+1 Gush
+2 Lightning Bolt
+1 Mental Misstep
+1 Mystical Tutor
+4 Pyroblast
+1 Vampiric Tutor
+Artifact (5)
+1 Black Lotus
+1 Lion's Eye Diamond
+1 Mox Jet
+1 Mox Ruby
+1 Mox Sapphire
+Enchantment (2)
+2 Underworld Breach
+Land (16)
+2 Flooded Strand
+2 Misty Rainforest
+1 Mystic Sanctuary
+2 Polluted Delta
+4 Scalding Tarn
+1 Snow-Covered Island
+1 Underground Sea
+3 Volcanic Island
+60 Cards
+Sideboard (15)
+1 Bitter Ordeal
+3 Leyline of the Void
+1 Mindbreak Trap
+2 Ravenous Trap
+4 Shattering Spree
+1 Snow-Covered Mountain
+1 Steel Sabotage
+2 Surgical Extraction
+
+DECKLIST :
+LORD_BEERUS
+(4-1)
+Creature (30)
+1 Ashen Rider
+1 Elesh Norn, Grand Cenobite
+1 Golgari Grave-Troll
+4 Golgari Thug
+4 Hollow One
+3 Ichorid
+4 Narcomoeba
+4 Prized Amalgam
+4 Shambling Shell
+4 Stinkweed Imp
+Sorcery (10)
+4 Cabal Therapy
+2 Dread Return
+1 Gitaxian Probe
+3 Unmask
+Instant (8)
+3 Force of Negation
+4 Force of Will
+1 Mental Misstep
+Artifact (4)
+4 Serum Powder
+Enchantment (4)
+4 Bridge from Below
+Land (4)
+4 Bazaar of Baghdad
+60 Cards
+Sideboard (15)
+1 Force of Negation
+1 Unmask
+4 Force of Vigor
+4 Leyline of the Void
+2 Sickening Shoal
+1 Strip Mine
+2 Wasteland
+
+DECKLIST :
+YAMAKILLER
+(4-1)
+Planeswalker (1)
+1 Narset, Parter of Veils
+Creature (3)
+1 Lavinia, Azorius Renegade
+1 Monastery Mentor
+1 Snapcaster Mage
+Sorcery (10)
+1 Demonic Tutor
+1 Gitaxian Probe
+1 Merchant Scroll
+1 Ponder
+3 Preordain
+1 Time Walk
+1 Tinker
+1 Yawgmoth's Will
+Instant (17)
+1 Ancestral Recall
+1 Brainstorm
+1 Dig Through Time
+4 Force of Will
+1 Hurkyl's Recall
+1 Lightning Bolt
+1 Mental Misstep
+4 Paradoxical Outcome
+2 Pyroblast
+1 Vampiric Tutor
+Artifact (15)
+1 Black Lotus
+1 Bolas's Citadel
+1 Mana Crypt
+1 Mana Vault
+1 Mox Emerald
+1 Mox Jet
+3 Mox Opal
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+2 Sensei's Divining Top
+1 Sol Ring
+Land (14)
+3 Flooded Strand
+1 Polluted Delta
+2 Scalding Tarn
+1 Snow-Covered Island
+1 Tolarian Academy
+2 Tundra
+2 Underground Sea
+2 Volcanic Island
+60 Cards
+Sideboard (15)
+1 Snow-Covered Island
+3 Hurkyl's Recall
+2 Pyroblast
+1 Flusterstorm
+2 Pithing Needle
+2 Ravenous Trap
+1 The Tabernacle at Pendrell Vale
+3 Tormod's Crypt
+
+DECKLIST :
+SVACA
+(4-1)
+Planeswalker (7)
+2 Dack Fayden
+1 Narset, Parter of Veils
+1 Oko, Thief of Crowns
+3 Wrenn and Six
+Creature (9)
+4 Deathrite Shaman
+3 Dreadhorde Arcanist
+2 Snapcaster Mage
+Sorcery (10)
+1 Demonic Tutor
+1 Gitaxian Probe
+1 Merchant Scroll
+1 Ponder
+4 Preordain
+1 Time Walk
+1 Treasure Cruise
+Instant (14)
+1 Ancestral Recall
+1 Brainstorm
+3 Daze
+1 Dig Through Time
+4 Force of Will
+3 Lightning Bolt
+1 Mental Misstep
+Artifact (3)
+1 Mox Emerald
+1 Mox Ruby
+1 Mox Sapphire
+Land (17)
+2 Flooded Strand
+2 Misty Rainforest
+3 Polluted Delta
+1 Scalding Tarn
+1 Strip Mine
+2 Tropical Island
+1 Underground Sea
+2 Volcanic Island
+3 Wasteland
+60 Cards
+Sideboard (15)
+2 Ancient Grudge
+2 Assassin's Trophy
+1 Fatal Push
+1 Nature's Claim
+3 Nihil Spellbomb
+2 Pyroblast
+1 Red Elemental Blast
+1 Tormod's Crypt
+2 Veil of Summer
+
+DECKLIST :
+GRINDERA
+(4-1)
+Creature (23)
+4 Basking Rootwalla
+4 Hollow One
+4 Memnite
+3 Sphinx of Foresight
+4 Squee, Goblin Nabob
+4 Vengevine
+Instant (22)
+4 Force of Negation
+4 Force of Vigor
+4 Force of Will
+1 Mental Misstep
+3 Mindbreak Trap
+2 Misdirection
+4 Once Upon a Time
+Artifact (5)
+1 Chalice of the Void
+4 Serum Powder
+Land (10)
+4 Bazaar of Baghdad
+1 Petrified Field
+1 Strip Mine
+4 Wasteland
+60 Cards
+Sideboard (15)
+3 Petrified Field
+1 Mindbreak Trap
+4 Leyline of the Void
+4 Surgical Extraction
+3 The Tabernacle at Pendrell Vale
+
+DECKLIST :
+MRJACEONE
+(4-1)
+Creature (31)
+4 Basking Rootwalla
+4 Collector Ouphe
+3 Deathrite Shaman
+1 Deputy of Detention
+2 Elvish Spirit Guide
+4 Hollow One
+1 Lavinia, Azorius Renegade
+3 Leovold, Emissary of Trest
+1 Noble Hierarch
+1 Phyrexian Revoker
+1 Squee, Goblin Nabob
+1 Thalia, Guardian of Thraben
+4 Vengevine
+1 Wonder
+Sorcery (1)
+1 Time Walk
+Instant (2)
+1 Ancestral Recall
+1 Mental Misstep
+Artifact (5)
+1 Black Lotus
+1 Mox Emerald
+1 Mox Jet
+1 Mox Pearl
+1 Mox Sapphire
+Enchantment (4)
+4 Survival of the Fittest
+Land (17)
+2 Bayou
+4 Bazaar of Baghdad
+1 Savannah
+1 Snow-Covered Forest
+2 Tropical Island
+4 Windswept Heath
+3 Wooded Foothills
+60 Cards
+Sideboard (15)
+1 Squee, Goblin Nabob
+3 Abrupt Decay
+1 Containment Priest
+2 Force of Vigor
+2 Mindbreak Trap
+4 Ravenous Trap
+1 Scavenging Ooze
+1 Yixlid Jailer
+
+DECKLIST :
+MONTOLIO
+(3-2)
+Planeswalker (3)
+1 Narset, Parter of Veils
+2 Oko, Thief of Crowns
+Creature (13)
+1 Brazen Borrower
+2 Collector Ouphe
+4 Deathrite Shaman
+2 Leovold, Emissary of Trest
+3 Tarmogoyf
+1 Vendilion Clique
+Sorcery (4)
+1 Demonic Tutor
+1 Ponder
+1 Time Walk
+1 Treasure Cruise
+Instant (17)
+1 Ancestral Recall
+3 Assassin's Trophy
+1 Brainstorm
+1 Dig Through Time
+1 Fatal Push
+1 Flusterstorm
+1 Force of Vigor
+4 Force of Will
+1 Gush
+1 Mental Misstep
+1 Misdirection
+1 Spell Pierce
+Artifact (4)
+1 Black Lotus
+1 Mox Emerald
+1 Mox Jet
+1 Mox Sapphire
+Enchantment (1)
+1 Sylvan Library
+Land (18)
+1 Forest
+3 Misty Rainforest
+1 Strip Mine
+2 Tropical Island
+4 Underground Sea
+3 Verdant Catacombs
+4 Wasteland
+60 Cards
+Sideboard (15)
+1 Assassin's Trophy
+1 Flusterstorm
+2 Force of Vigor
+2 Energy Flux
+2 Grafdigger's Cage
+1 Liliana, the Last Hope
+2 Ravenous Trap
+1 The Tabernacle at Pendrell Vale
+1 Toxic Deluge
+2 Yixlid Jailer
+
+DECKLIST :
+WINGEDHUSSAR
+(3-2)
+Creature (23)
+4 Basking Rootwalla
+4 Hollow One
+4 Memnite
+3 Sphinx of Foresight
+4 Squee, Goblin Nabob
+4 Vengevine
+Instant (22)
+4 Force of Negation
+4 Force of Vigor
+4 Force of Will
+1 Mental Misstep
+3 Mindbreak Trap
+2 Misdirection
+4 Once Upon a Time
+Artifact (5)
+1 Chalice of the Void
+4 Serum Powder
+Land (10)
+4 Bazaar of Baghdad
+1 Petrified Field
+1 Strip Mine
+4 Wasteland
+60 Cards
+Sideboard (15)
+3 Petrified Field
+1 Mindbreak Trap
+4 Leyline of the Void
+4 Surgical Extraction
+3 The Tabernacle at Pendrell Vale
+
+DECKLIST :
+FUNKIMUNKI
+(3-2)
+Planeswalker (1)
+1 Karn, the Great Creator
+Creature (6)
+4 Golos, Tireless Pilgrim
+1 Lodestone Golem
+1 Sundering Titan
+Artifact (31)
+1 Black Lotus
+1 Chalice of the Void
+1 Crucible of Worlds
+1 Ensnaring Bridge
+1 God-Pharaoh's Statue
+3 Grafdigger's Cage
+1 Mana Vault
+1 Mox Emerald
+1 Mox Jet
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+4 Null Rod
+1 Smokestack
+1 Sol Ring
+4 Sorcerous Spyglass
+4 Sphere of Resistance
+1 Spine of Ish Sah
+1 Thorn of Amethyst
+1 Trinisphere
+Land (22)
+4 Ancient Tomb
+1 Bojuka Bog
+1 Buried Ruin
+2 Inventors' Fair
+1 Karakas
+1 Mishra's Factory
+4 Mishra's Workshop
+1 Strip Mine
+1 The Tabernacle at Pendrell Vale
+1 Tolarian Academy
+1 Urborg, Tomb of Yawgmoth
+4 Wasteland
+60 Cards
+Sideboard (15)
+1 Crucible of Worlds
+1 Ensnaring Bridge
+1 Grafdigger's Cage
+3 Dismember
+1 Duplicant
+1 Relic of Progenitus
+2 Stonecoil Serpent
+3 Witchbane Orb
+2 Wurmcoil Engine
+
+DECKLIST :
+SAMWISE_GEEGEE
+(3-2)
+Creature (23)
+4 Basking Rootwalla
+4 Hollow One
+4 Memnite
+3 Sphinx of Foresight
+4 Squee, Goblin Nabob
+4 Vengevine
+Instant (22)
+4 Force of Negation
+4 Force of Vigor
+4 Force of Will
+1 Mental Misstep
+3 Mindbreak Trap
+2 Misdirection
+4 Once Upon a Time
+Artifact (5)
+1 Chalice of the Void
+4 Serum Powder
+Land (10)
+4 Bazaar of Baghdad
+1 Petrified Field
+1 Strip Mine
+4 Wasteland
+60 Cards
+Sideboard (15)
+3 Petrified Field
+1 Mindbreak Trap
+4 Leyline of the Void
+4 Surgical Extraction
+3 The Tabernacle at Pendrell Vale
+
+DECKLIST :
+FNOOP
+(3-2)
+Planeswalker (3)
+1 Narset, Parter of Veils
+2 Teferi, Time Raveler
+Creature (3)
+1 Lavinia, Azorius Renegade
+1 Monastery Mentor
+1 Snapcaster Mage
+Sorcery (6)
+1 Gitaxian Probe
+1 Merchant Scroll
+1 Ponder
+1 Time Walk
+1 Timetwister
+1 Tinker
+Instant (18)
+1 Ancestral Recall
+1 Brain Freeze
+1 Brainstorm
+1 Dig Through Time
+1 Flusterstorm
+2 Force of Negation
+4 Force of Will
+1 Hurkyl's Recall
+1 Mental Misstep
+4 Paradoxical Outcome
+1 Repeal
+Artifact (17)
+2 Arcum's Astrolabe
+1 Black Lotus
+1 Bolas's Citadel
+1 Mana Crypt
+1 Mana Vault
+1 Mox Emerald
+1 Mox Jet
+3 Mox Opal
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+2 Sensei's Divining Top
+1 Sol Ring
+Land (13)
+2 Flooded Strand
+2 Misty Rainforest
+1 Polluted Delta
+1 Scalding Tarn
+4 Snow-Covered Island
+1 Tolarian Academy
+2 Tundra
+60 Cards
+Sideboard (15)
+3 Hurkyl's Recall
+2 Pithing Needle
+3 Ravenous Trap
+1 Rebuild
+3 Swords to Plowshares
+3 Tormod's Crypt
+
+DECKLIST :
+SHEASTRAUSMAN
+(3-2)
+Planeswalker (2)
+1 Narset, Parter of Veils
+1 Teferi, Time Raveler
+Creature (2)
+1 Monastery Mentor
+1 Snapcaster Mage
+Sorcery (11)
+1 Demonic Tutor
+1 Gitaxian Probe
+1 Merchant Scroll
+1 Ponder
+3 Preordain
+1 Time Walk
+1 Timetwister
+1 Tinker
+1 Yawgmoth's Will
+Instant (17)
+1 Ancestral Recall
+1 Brainstorm
+1 Dig Through Time
+4 Force of Will
+1 Hurkyl's Recall
+1 Mental Misstep
+4 Paradoxical Outcome
+2 Pyroblast
+1 Repeal
+1 Vampiric Tutor
+Artifact (15)
+1 Black Lotus
+1 Bolas's Citadel
+1 Mana Crypt
+1 Mana Vault
+1 Mox Emerald
+1 Mox Jet
+3 Mox Opal
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+2 Sensei's Divining Top
+1 Sol Ring
+Land (13)
+2 Flooded Strand
+1 Polluted Delta
+2 Scalding Tarn
+1 Snow-Covered Island
+1 Tolarian Academy
+2 Tundra
+2 Underground Sea
+2 Volcanic Island
+60 Cards
+Sideboard (15)
+1 Snow-Covered Island
+3 Hurkyl's Recall
+2 Pyroblast
+1 Blightsteel Colossus
+1 Flusterstorm
+2 Lightning Bolt
+2 Pithing Needle
+2 Ravenous Trap
+1 Tormod's Crypt
+
+DECKLIST :
+ACHILLIES27
+(3-2)
+Sorcery (21)
+4 Dark Petition
+1 Demonic Tutor
+4 Duress
+1 Gitaxian Probe
+1 Mind's Desire
+1 Ponder
+4 Preordain
+1 Tendrils of Agony
+1 Time Walk
+1 Timetwister
+1 Tinker
+1 Yawgmoth's Will
+Instant (12)
+1 Ancestral Recall
+1 Brainstorm
+2 Cabal Ritual
+1 Chain of Vapor
+4 Dark Ritual
+1 Hurkyl's Recall
+1 Mystical Tutor
+1 Vampiric Tutor
+Artifact (14)
+1 Black Lotus
+1 Bolas's Citadel
+2 Defense Grid
+1 Lion's Eye Diamond
+1 Lotus Petal
+1 Mana Crypt
+1 Mana Vault
+1 Mox Emerald
+1 Mox Jet
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+1 Sol Ring
+Enchantment (1)
+1 Necropotence
+Land (12)
+2 Bloodstained Mire
+1 Island
+4 Polluted Delta
+1 Swamp
+1 Tolarian Academy
+3 Underground Sea
+60 Cards
+Sideboard (15)
+1 Defense Grid
+3 Hurkyl's Recall
+1 Badlands
+1 Blightsteel Colossus
+1 Echoing Truth
+1 Empty the Warrens
+1 Fatal Push
+1 Karakas
+3 Pyroblast
+1 Red Elemental Blast
+1 Volcanic Island
+
+
+
+

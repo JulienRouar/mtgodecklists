@@ -1,0 +1,20 @@
+#Sealed, Standard, Pioneer, Modern, Pauper, Modern, Legacy, Vintage
+FORMAT=Legacy
+#Challenge, Super Qualifier, League, Preliminary, anything else or <empty>
+TYPE=
+#mm/dd/yyyy
+DATE_FROM=04/18/2020
+#mm/dd/yyyy
+DATE_TO=05/01/2020
+#False or True
+DROP_LEAGUES=True
+#False or True
+DROP_OTHER=True
+#[0,1]
+DROP_LOW_FREQ=0.7
+#Metagame or Companion
+RULES=Companion
+#False, Metagame or Companion
+EXPECTED_TARGETS=Companion
+#True or False
+STRING_CLEANER=True

@@ -1,19 +1,30 @@
 # -*- coding: utf-8 -*-
 
 from collections import OrderedDict
+import sys
+
+def formater(card_name):
+    res = card_name.lower()
+    for sign in [',', '/', '//', '-', '  ']:
+        res = ' '.join(res.split(sign))
+    return res
 
 class Reader():
     
     __slots__ = ('__personal_path',
-                 'decklists', '__card_types', 
+                 'decklists', '__card_types',  '__formater',
                  )    
     
-    def __init__(self, personal_path):
+    def __init__(self, personal_path, _formater = True):
         super(Reader, self).__init__()
         self.__personal_path = personal_path
         self.decklists = []
         self.__card_types = ['Creature', 'Sorcery', 'Instant', 'Artifact', 'Enchantement',
                              'Planeswalker', 'Tribal', 'Land']
+        if _formater:
+            self.__formater = formater
+        else:
+            self.__formater = lambda x: x
 
     def readTxtTournamentsFilename(self, filename_tournaments_txt):
         __tournaments = []
@@ -41,8 +52,8 @@ class Reader():
                 __tournament['metas'] += [tmp[1] + ';' + tmp[2]]
                 tmp = tmp[1:-1]
                 lim_sb = ['Sideboard' in _ for _ in tmp].index(True)
-                __tournament['MDs'] += [tmp[2:lim_sb]]
-                __tournament['SBs'] += [tmp[(lim_sb+1):]]
+                __tournament['MDs'] += [[self.__formater(_) for _ in tmp[2:lim_sb]]]
+                __tournament['SBs'] += [[self.__formater(_) for _ in tmp[(lim_sb+1):]]]
                 for ind_sb in range(len(__tournament['SBs'])):
                     while '' in __tournament['SBs'][ind_sb]:
                         del __tournament['SBs'][ind_sb][__tournament['SBs'][ind_sb].index('')]
@@ -64,6 +75,8 @@ if __name__ == '__main__':
                                'decklists_Pioneer_01_01_2020_01_05_2020',
                                'decklists_Modern_01_06_2020_01_11_2020',
                                'decklists_Pioneer_01_06_2020_01_11_2020']
-    
-    reader = Reader('C:/Users/julie/mtgodecklists/')
+    root_path = '/'.join(sys.path[0].split('\\')[:-1])+'/'
+    if 'mtgodecklists' not in root_path:
+        root_path += 'mtgodecklists/'
+    reader = Reader(root_path, _formater = True)
     res = reader.readTxtTournamentsFilenames(filenames_decklists_txt)
