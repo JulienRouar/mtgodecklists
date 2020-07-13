@@ -52,8 +52,18 @@ class ClassifierExpertRules():
         return res
     
     def scoresExpertRules(self, __predictExpertRules):
-        return __predictExpertRules.applymap(lambda x:sum(x)/len(x))
-    
+        #return __predictExpertRules.applymap(lambda x:sum(x)/len(x))
+        def mean_list(x):
+            if type(x) == list:
+                return sum(x) / len(x)
+            else:
+                return float(x)
+        res = pd.DataFrame(0, index = __predictExpertRules.index, columns =  __predictExpertRules.columns)
+        for i in res.index:
+            for j in res.columns:
+                res.loc[i,j] = mean_list(res.loc[i,j])
+        return res
+        
     def archetypesExpertRules(self, __scoresExpertRules, tol = .5):
         archetypes = __scoresExpertRules#.applymap(lambda x:__scoresExpertRules.columns[np.where((x>=tol)&(x==np.max(x)))])
         archetypes = archetypes.applymap(lambda x:'tol' if x<tol else x)
@@ -61,10 +71,12 @@ class ClassifierExpertRules():
         archetypes = archetypes.apply(lambda x: archetypes.columns[np.where(x!='tol')], axis=1)
         return list(archetypes)
     
-    def run(self, reader_tournaments_filenames, filenames_decklists_txt, tol = .7, to_csv = True):
+    def run(self, reader_tournaments_filenames, filenames_decklists_txt, tol = .7, 
+            drop_low_freq = 0, to_csv = True):
         csv_output = pd.DataFrame(None) ; cols_output = []
         for i in range(len(reader_tournaments_filenames)):
             for j in range(len(reader_tournaments_filenames[i])):
+                
                 tmp = self.predictExpertRules(reader_tournaments_filenames[i][j])
                 tmp2 = self.scoresExpertRules(tmp)
                 reader_tournaments_filenames[i][j]['archetypes'] = [list(_)if len(list(_))!=0 else ['Other']
@@ -73,8 +85,18 @@ class ClassifierExpertRules():
                 cols_output += [reader_tournaments_filenames[i][j]['format'] + ' ' +
                                 reader_tournaments_filenames[i][j]['type'] + ' ' +
                                 reader_tournaments_filenames[i][j]['date']]
-                csv_output = pd.concat([csv_output, pd.DataFrame(reader_tournaments_filenames[i][j]['archetypes'])],
-                                        axis = 1)
+                zeta = pd.DataFrame(reader_tournaments_filenames[i][j]['archetypes'])
+                
+                #fix if 2 companions or 2 equal scores
+                if zeta.shape[1]==2:
+                    for _ in np.where(zeta.iloc[:,1].astype(str)!='None')[0]:
+                        zeta.iloc[_,0] += '_'+zeta.iloc[_,1]
+                    zeta = zeta.iloc[:,0]
+                    #zeta = pd.concat([zeta.iloc[:,0], ],axis=0)
+                    #zeta.index = range(zeta.shape[0])
+                elif zeta.shape[1]>2:
+                    print('PROBLEM WITH CLASSIFICATION, 3 EQUAL SCORES OR MORE !!!')
+                csv_output = pd.concat([csv_output, zeta], axis = 1)
         csv_output.columns = cols_output
         
         tmp = ''
@@ -104,6 +126,7 @@ class ExpertRule():
             self.__number = ''
         self.__card = self.__formater(' '.join(tmp[1:-1]) if self.__number != '' else ' '.join(tmp[0:-1]))
         self.__condition = tmp[-1]
+        print(self.__number, self.__card, self.__condition)
         
     def call(self, decklists):
         res = []
@@ -112,6 +135,9 @@ class ExpertRule():
                 res += [eval('"' + self.__number + self.__card + '" in decklists["'
                          + self.__board + 's"][' + str(i) + ']')]
             elif self.__condition == 'in':
+                print('any(["' + self.__card + '" in _ for _ in decklists["'
+                         + self.__board + 's"][' + str(i) + ']])')
+                print(eval('decklists["' + self.__board + 's"][' + str(i) + ']'))
                 res += [eval('any(["' + self.__card + '" in _ for _ in decklists["'
                          + self.__board + 's"][' + str(i) + ']])')]
             else:

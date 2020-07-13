@@ -1,20 +1,22 @@
 #Sealed, Standard, Pioneer, Modern, Pauper, Modern, Legacy, Vintage
-FORMAT=Legacy
+FORMAT=Modern
 #Challenge, Super Qualifier, League, Preliminary, anything else or <empty>
-TYPE=
+TYPE=League
 #mm/dd/yyyy
-DATE_FROM=04/18/2020
+DATE_FROM=07/09/2020
 #mm/dd/yyyy
-DATE_TO=05/01/2020
+DATE_TO=07/10/2020
 #False or True
-DROP_LEAGUES=True
+DROP_LEAGUES=False
 #False or True
-DROP_OTHER=True
+DROP_OTHER=False
 #[0,1]
-DROP_LOW_FREQ=0.7
-#Metagame or Companion
-RULES=Companion
+DROP_LOW_FREQ=0.0
+#FORMAT or Companion
+RULES=Modern
 #False, Metagame or Companion
-EXPECTED_TARGETS=Companion
+EXPECTED_TARGETS=False
 #True or False
 STRING_CLEANER=True
+#[0,1]
+RULES_TOLERANCE=0.7

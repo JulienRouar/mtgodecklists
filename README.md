@@ -79,3 +79,12 @@ Please feel free to critic and comment.
 
 Open-source code and tool for any Magic : The Gathering player or any Python friendly people !
 Please at least cite the github if you use it in public.
+
+## Available :
+
+### Companion Classification
+
+### Modern Classification
+
+Amulet Titan, Red Prowess, Dredge, UB Urza, URX Whirza, Jund, UR Storm, Devoted Combo, Grixis Shadow, Mardu Shadow, Burn, Rock, Ad Nauseam, Temur Uroza,
+Snow Control, SnowBlade, Humans, Ponza, G-Tron, E-Tron

@@ -26,7 +26,7 @@ class Scrapper():
         self.params = params
         if self.params['format'] =='Standard':
             self.params['research'] = 'Standar' + ('' if self.params['type']=='' else ' ') + self.params['type']
-        if self.params['format'] =='Legacy':
+        elif self.params['format'] =='Legacy':
             self.params['research'] = 'Legac' + ('' if self.params['type']=='' else ' ') + self.params['type']
         else:
             self.params['research'] = self.params['format'] + ('' if self.params['type']=='' else ' ') + self.params['type']

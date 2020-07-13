@@ -5,8 +5,9 @@ import sys
 
 def formater(card_name):
     res = card_name.lower()
-    for sign in [',', '/', '//', '-', '  ']:
-        res = ' '.join(res.split(sign))
+    for sign in ["'", ';', ',', '/', '/', '-', '  ']:
+        if sign in res:
+            res = ' '.join(res.split(sign))
     return res
 
 class Reader():

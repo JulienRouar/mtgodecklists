@@ -9,7 +9,6 @@ Tolaria West in
 Summoner's Pact in
 Azusa, Lost but Seeking in
 Sakura-Tribe Scout in
-Once Upon a Time in
 SB :
 None
 
@@ -19,10 +18,8 @@ MD :
 Monastery Swiftspear in
 Soul-Scar Mage in
 Lava Dart in
-Bedlam Reveler in
 Light Up the Stage in
 Manamorphose in
-Mountain > 10
 Lava Spike in
 Lightning Bolt in
 SB :
@@ -38,6 +35,7 @@ Stinkweed Imp in
 Prized Amalgam in
 Narcoameba in
 Cathartic Reunion in
+Life from the Loam in
 SB :
 None
 
@@ -51,6 +49,24 @@ Sword of the Meek in
 Urza, Lord Artificier in
 Mishra's Bauble in
 Arctum's Astrolabe in
+Thoughtseize in
+Inquisition of Kozilek in
+Cryptic Command in
+SB :
+None
+
+
+DECK URX Whirza
+RULES :
+MD :
+Whir of Invention in
+Thopter Foundry in
+Sword of the Meek in
+Urza, Lord Artificier in
+Mishra's Bauble in
+Arctum's Astrolabe in
+Goblin Engineer in
+Emry, Lurker of the Loch in
 SB :
 None
 
@@ -58,46 +74,218 @@ None
 DECK Jund
 RULES :
 MD :
-
+Tarmogoyf in
+Thoughtseize in
+Inquisition of Kozilek in
+Lightning Bolt in
+Blackcleave Cliffs in
+Wrenn and Six in
+Liliana of the Veil in
 SB :
 None
 
 
-DECK UG Titan
+DECK UR Storm
 RULES :
 MD :
-
+Pyretic Ritual in
+Desperate Ritual in
+Goblin Electromancer in
+Gifts Ungiven in
+Past in Flames in
+Baral, Chief of Compliance in
+Grapeshot in
+Manamorphose in
+Serum Visions in
+Sleight of Hand in
 SB :
 None
 
 
-DECK Bant Control
+DECK Devoted Combo
 RULES :
 MD :
-
+Devoted Druid in
+Vizier of Remedies in
+Giver of Runes in
+Walking Ballista in
+Duskwatch Recruter in
+Finale of Devastation in
 SB :
 None
 
 
-DECK
+DECK Grixis Shadow
 RULES :
 MD :
-
+Death's Shadow in
+Stubborn Denial in
+Thought Scour in
+Mishra's Bauble in
+Watery Grave in
+Thoughtseize in
 SB :
 None
 
 
-DECK
+DECK Mardu Shadow
 RULES :
 MD :
-
+Death's Shadow in
+Ranger-Captain of Eos in
+Tidehollow sculler in
+Mishra's Bauble in
+Godless Shrine in
+Thoughtseize in
 SB :
 None
 
 
-DECK
+DECK Burn
 RULES :
 MD :
+Goblin Guide in
+Monastery Swiftspear in
+Eidolon of the Great Revel in
+Boros Charm in
+Lava Spike in
+Skewer the Critics in
+SB :
+None
 
+
+DECK Rock
+RULES :
+MD :
+Thoughtseize in
+Inquisition of Kozilek in
+Tarmogoyf in
+Blooming Marsh in
+Scavenging Oooze in
+Fatal Push in
+Field of Ruin in
+SB :
+None
+
+
+DECK Ad Nauseam
+RULES :
+MD :
+Ad Nauseam in
+Angel's Grace in
+Phyrexian Unlife in
+Spoil of the Vault in
+Pendad Prism in
+Simian Spirit Guide in
+SB :
+None
+
+
+DECK Temur Uroza
+RULES :
+MD :
+Gilded Goose in
+Emry, Lurker of the Loch in
+Urza, Lord Artificier in
+Mishra's Bauble in
+Arctum's Astrolabe in
+Cryptic Command in
+Uro, Titan of Nature's Wrath in
+Metallic Rebuke in
+Engineered Explosives in
+SB :
+None
+
+
+DECK Snow Control
+RULES :
+MD :
+Arctum's Astrolabe in
+Cryptic Command in
+Uro, Titan of Nature's Wrath in
+Ice-Fang Coatl in
+Mystic Sanctuary in
+Force of Negation in
+Field of Ruin in
+Mana Leak in
+Archmage's Charm in
+SB :
+None
+
+
+DECK SnowBlade
+RULES :
+MD :
+Arctum's Astrolabe in
+Cryptic Command in
+Uro, Titan of Nature's Wrath in
+Ice-Fang Coatl in
+Mystic Sanctuary in
+Force of Negation in
+Stoneforge Mystic in
+Batterskull in
+Path to Exil in
+SB :
+None
+
+
+DECK Humans
+RULES :
+MD :
+Champion of Parish in
+Thalia's Lieutenant in
+Mantis Rider in
+Meddling Mage in
+Kitesail Freebooter in
+Reflector Mage in
+SB :
+None
+
+
+DECK Ponza
+RULES :
+MD :
+Utopia Sprawl in
+Arbor Elf in
+Seasonned Pyromancer in
+Blood Moon in
+Magus of the Moon in
+Glorybringer in
+Lightning Bolt in
+SB :
+None
+
+
+DECK G-Tron
+RULES :
+MD :
+Urza's Tower in
+Urza's Mine in
+Urza's Power Plant in
+Expedition Map in
+Karn Liberated in
+Oblivion Stone in
+Karn, the Great Creator in
+Chromatic Star in
+Chromatic Sphere in
+Sylvan Scrying in
+Ancient Stirrings in
+SB :
+None
+
+
+DECK E-Tron
+RULES :
+MD :
+Urza's Tower in
+Urza's Mine in
+Urza's Power Plant in
+Expedition Map in
+Thought-Knot Seer in
+Reality Smasher in
+Matter Reshaper in
+Walking Ballista in
+Chalice of the Void in
+Karn, the Great Creator in
 SB :
 None
