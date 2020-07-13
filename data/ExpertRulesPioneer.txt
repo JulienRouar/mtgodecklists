@@ -40,11 +40,9 @@ None
 DECK UW Spirits
 RULES :
 MD :
-Mutavault in
 Supreme Phantom in
 Empyrean Eagle in
-Brazen Borrower in
-Nebelgast Heraald in
+Spell Queller in
 5 Island <
 2 Plains <
 SB :
@@ -169,6 +167,17 @@ Siege Rhino in
 SB :
 None
 
+DECK Mono Red Aggro
+RULES :
+MD :
+Soul-Scar Mage in
+Monastery Swiftspear in
+Lightning Strike in
+Wild Slash in
+10 Mountain <
+SB :
+None
+
 DECK Chonky Red
 RULES :
 MD :
@@ -225,5 +234,64 @@ Ensoul Artifact in
 Darksteel Citadel in
 Emry, Lurker of the Loch in
 Skilled Animator in
+SB :
+None
+
+DECK Esper Control
+RULES :
+MD :
+Supreme Verdict in
+Teferi, Time Raveler in
+Thoughtseize in
+SB :
+None
+
+DECK Bant Control
+RULES :
+MD :
+Supreme Verdict in
+Teferi, Time Raveler in
+Uro, Titan of Nature's Wrath in
+SB :
+None
+
+DECK Temur Reclamation
+RULES :
+MD :
+Wilderness Reclamation in
+Stomping Ground in
+SB :
+None
+
+DECK Naya Winota
+RULES :
+MD :
+Winota, Joiner of Forces in
+Elvish Mystic in
+SB :
+None
+
+DECK Lotus Breach
+RULES :
+MD :
+Lotus Field in
+Underworld Breach in
+SB :
+None
+
+DECK Inverter
+RULES :
+MD :
+Inverter of Truth in
+Thassa's Oracle in
+Jace, Wielder of Mysteries in
+SB :
+None
+
+DECK Orzhov Sram Auras
+RULES :
+MD :
+Sram, Senior Edificer in
+Hateful Eidolon in
 SB :
 None

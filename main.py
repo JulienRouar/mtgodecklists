@@ -5,6 +5,9 @@ import pandas as pd
 import sys
 
 root_path = '/'.join(sys.path[0].split('\\')[:-1])+'/'
+#Pour Paul
+root_path = 'C:/Users/Audre/Desktop/Paul/Projets/'
+
 if 'mtgodecklists' not in root_path:
     root_path += 'mtgodecklists/'
 sys.path.append(root_path)
@@ -36,7 +39,7 @@ filenames_decklists_txt = ["decklists_"+config['FORMAT']+"_"+config['DATE_FROM']
                            "_"+config['DATE_TO'].split('/')[2]]
 
 if (config['RULES'] == 'Companion') or (config['RULES'] == 'Metagame'):
-    filename_rules_txt = 'ExpertRules' + config['RULES']
+    filename_rules_txt = 'ExpertRules' + config['FORMAT']
     if (config['EXPECTED_TARGETS'] == 'Companion') or (config['EXPECTED_TARGETS'] == 'Metagame'):
         with open(root_path+'data/'+filename_rules_txt+'.txt', 'r') as open_file:
             rules = open_file.readlines()
