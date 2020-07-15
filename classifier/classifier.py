@@ -6,6 +6,8 @@ import pandas as pd
 import numpy as np
 
 root_path = '/'.join(sys.path[0].split('\\')[:-1])+'/'
+#Pour Paul
+root_path = 'C:/Users/Audre/Desktop/Paul/Projets/'
 if 'mtgodecklists' not in root_path:
     root_path += 'mtgodecklists/'
 sys.path.append(root_path)
@@ -52,6 +54,7 @@ class ClassifierExpertRules():
         return res
     
     def scoresExpertRules(self, __predictExpertRules):
+        #return(__predictExpertRules.applymap(lambda x:1 if (x == True) else (0 if (x == False) else sum(x)/len(x))))
         return __predictExpertRules.applymap(lambda x:sum(x)/len(x))
     
     def archetypesExpertRules(self, __scoresExpertRules, tol = .5):
@@ -62,7 +65,8 @@ class ClassifierExpertRules():
         return list(archetypes)
     
     def run(self, reader_tournaments_filenames, filenames_decklists_txt, tol = .7, to_csv = True):
-        csv_output = pd.DataFrame(None) ; cols_output = []
+        csv_output = pd.DataFrame(None)
+        cols_output = []
         for i in range(len(reader_tournaments_filenames)):
             for j in range(len(reader_tournaments_filenames[i])):
                 tmp = self.predictExpertRules(reader_tournaments_filenames[i][j])
@@ -70,10 +74,17 @@ class ClassifierExpertRules():
                 reader_tournaments_filenames[i][j]['archetypes'] = [list(_)if len(list(_))!=0 else ['Other']
                                             for _ in self.archetypesExpertRules(tmp2,
                                                tol = .7)]
+                
                 cols_output += [reader_tournaments_filenames[i][j]['format'] + ' ' +
                                 reader_tournaments_filenames[i][j]['type'] + ' ' +
                                 reader_tournaments_filenames[i][j]['date']]
-                csv_output = pd.concat([csv_output, pd.DataFrame(reader_tournaments_filenames[i][j]['archetypes'])],
+                #Concatenation of the names of the lists
+                separator = ' / '
+                archetypeAggregations = []
+                for archetypesUnit in reader_tournaments_filenames[i][j]['archetypes']:
+                    archetypeAggregations.append(separator.join(archetypesUnit))
+                
+                csv_output = pd.concat([csv_output, pd.DataFrame(archetypeAggregations)],
                                         axis = 1)
         csv_output.columns = cols_output
         
@@ -123,21 +134,23 @@ class ExpertRule():
                         '][tmp.index(True)].split(" ")[0])')]
                 else:
                     res += [False]
+        #Gives the result of the conditions edicted for one archetype for one deck
         return res
     
 if __name__ == '__main__':
-    filenames_decklists_txt = ["decklists_Standar_04_18_2020_04_30_2020"]
+    filenames_decklists_txt = ["decklists_Pioneer_06_06_2020_07_12_2020"]
+                                #"decklists_Standar_04_18_2020_04_30_2020"
                                 #'decklists_Modern_01_01_2020_01_05_2020',
                                #'decklists_Pioneer_01_01_2020_01_05_2020',
                                #'decklists_Modern_01_06_2020_01_11_2020',
                                #'decklists_Pioneer_01_06_2020_01_11_2020']
-    filename_rules_txt = 'ExpertRulesCompanion'
+    filename_rules_txt = 'ExpertRulesPioneer'
     
     reader = Reader(root_path, _formater = True)
     reader_tournaments_filenames = reader.readTxtTournamentsFilenames(filenames_decklists_txt)
     #csv_output = pd.DataFrame(None)
     
-    classifierExpertRules = ClassifierExpertRules('C:/Users/julie/mtgodecklists/')
+    classifierExpertRules = ClassifierExpertRules("C:/Users/Audre/Desktop/Paul/Projets/mtgodecklists/")
     classifierExpertRules.fitExpertRules(filename_rules_txt)
     classifierExpertRules.run(reader_tournaments_filenames, filenames_decklists_txt,
                               tol = .7, to_csv = True)

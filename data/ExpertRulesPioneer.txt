@@ -3,15 +3,7 @@ RULES :
 MD :
 Bloodsoaked Champion in
 Knight of the Ebon Legion in
-Scrapheap Scrounger in
-Rankle, Master of Pranks in
-Murderous Rider in
-Castle Locthwain in
 Thoughtseize in
-Mutavault in
-Fatal Push in
-Spawn of Mayhem in
-10 Swamp <
 SB :
 None
 
@@ -75,16 +67,6 @@ Arboreal Grazer in
 World Breaker in
 Nissa, Who Shakes the World in
 Cavalier of Thorns in
-SB :
-None
-
-DECK Elves
-RULES :
-MD :
-Llanowar Elves in
-Elvish Mystic in
-Elvish Visionary in
-Shaman of the Pack in
 SB :
 None
 
@@ -174,19 +156,6 @@ Soul-Scar Mage in
 Monastery Swiftspear in
 Lightning Strike in
 Wild Slash in
-10 Mountain <
-SB :
-None
-
-DECK Chonky Red
-RULES :
-MD :
-Soul-Scar Mage in
-Goblin Chainwhirler in
-Bonecrusher Giant in
-Glorybringer in
-Goblin Rabblemaster in
-Chandra, Torch of Defiance in
 10 Mountain <
 SB :
 None
@@ -293,5 +262,13 @@ RULES :
 MD :
 Sram, Senior Edificer in
 Hateful Eidolon in
+SB :
+None
+
+DECK Feather Heroic
+RULES :
+MD :
+Favored Hoplite in
+Feather, the Redeemed in
 SB :
 None
