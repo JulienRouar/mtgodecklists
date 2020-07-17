@@ -50,12 +50,21 @@ class ClassifierExpertRules():
             res[deck_rules['archetype']] = [[] for i in res.index]
             for expert_rule in deck_rules['expert_rules']:
                 for i, response in enumerate(expert_rule.call(decklists)):
+                    if i == 0 :
+                        print('Print 1')
+                        print(res[deck_rules['archetype']].loc[i])
                     res[deck_rules['archetype']].loc[i] += [response]
+                    if i == 0 and res[deck_rules['archetype']].loc[i] == True:
+                            print('The bug just happened')
+                    if i == 0 :
+                        print('Print 2')
+                        print(res[deck_rules['archetype']].loc[i])
+                        
         return res
     
     def scoresExpertRules(self, __predictExpertRules):
         #return(__predictExpertRules.applymap(lambda x:1 if (x == True) else (0 if (x == False) else sum(x)/len(x))))
-        return __predictExpertRules.applymap(lambda x:sum(x)/len(x))
+        return __predictExpertRules.applymap(lambda x: sum(x)/len(x) if len(x)>0 else 0)
     
     def archetypesExpertRules(self, __scoresExpertRules, tol = .5):
         archetypes = __scoresExpertRules#.applymap(lambda x:__scoresExpertRules.columns[np.where((x>=tol)&(x==np.max(x)))])
@@ -86,6 +95,12 @@ class ClassifierExpertRules():
                 
                 csv_output = pd.concat([csv_output, pd.DataFrame(archetypeAggregations)],
                                         axis = 1)
+        #print('Print 1')
+        #print(csv_output.columns)
+        #print('Print 2')
+        #print(csv_output)
+        #print('Print 3')
+        #print(cols_output)
         csv_output.columns = cols_output
         
         tmp = ''
@@ -138,13 +153,15 @@ class ExpertRule():
         return res
     
 if __name__ == '__main__':
-    filenames_decklists_txt = ["decklists_Pioneer_06_06_2020_07_12_2020"]
+    filenames_decklists_txt = ["decklists_Modern_07_11_2020_07_12_2020"]
+                                #"decklists_Modern_06_06_2020_07_12_2020"
+                                #"decklists_Pioneer_06_06_2020_07_12_2020"
                                 #"decklists_Standar_04_18_2020_04_30_2020"
                                 #'decklists_Modern_01_01_2020_01_05_2020',
                                #'decklists_Pioneer_01_01_2020_01_05_2020',
                                #'decklists_Modern_01_06_2020_01_11_2020',
                                #'decklists_Pioneer_01_06_2020_01_11_2020']
-    filename_rules_txt = 'ExpertRulesPioneer'
+    filename_rules_txt = 'ExpertRulesModern'
     
     reader = Reader(root_path, _formater = True)
     reader_tournaments_filenames = reader.readTxtTournamentsFilenames(filenames_decklists_txt)

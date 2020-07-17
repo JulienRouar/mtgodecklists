@@ -8,26 +8,8 @@ Simic Growth Chamber in
 Tolaria West in
 Summoner's Pact in
 Azusa, Lost but Seeking in
-Sakura-Tribe Scout in
-Once Upon a Time in
 SB :
 None
-
-DECK Red Prowess
-RULES :
-MD :
-Monastery Swiftspear in
-Soul-Scar Mage in
-Lava Dart in
-Bedlam Reveler in
-Light Up the Stage in
-Manamorphose in
-Mountain > 10
-Lava Spike in
-Lightning Bolt in
-SB :
-None
-
 
 DECK Dredge
 RULES :
@@ -54,50 +36,19 @@ Arctum's Astrolabe in
 SB :
 None
 
-
-DECK Jund
+DECK Red Prowess
 RULES :
 MD :
-
+Monastery Swiftspear in
+Soul-Scar Mage in
+Bedlam Reveler in
+Light Up the Stage in
+Lava Spike in
+Lightning Bolt in
+Crash Through in
+Kiln Fiend in
+Lava Dart in
+Manamorphose in
 SB :
 None
 
-
-DECK UG Titan
-RULES :
-MD :
-
-SB :
-None
-
-
-DECK Bant Control
-RULES :
-MD :
-
-SB :
-None
-
-
-DECK
-RULES :
-MD :
-
-SB :
-None
-
-
-DECK
-RULES :
-MD :
-
-SB :
-None
-
-
-DECK
-RULES :
-MD :
-
-SB :
-None
