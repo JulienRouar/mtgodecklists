@@ -3,7 +3,7 @@ FORMAT=Modern
 #Challenge, Super Qualifier, League, Preliminary, anything else or <empty>
 TYPE=
 #mm/dd/yyyy
-DATE_FROM=07/11/2020
+DATE_FROM=07/10/2020
 #mm/dd/yyyy
 DATE_TO=07/12/2020
 #False or True

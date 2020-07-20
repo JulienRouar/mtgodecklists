@@ -60,9 +60,9 @@ if (config['RULES'] == 'Companion') or (config['RULES'] == 'Metagame'):
 # scrapper.run()
 # scrapper.stop()
 # scrapper.writeFileText(scrapper.decklists, scrapper.metas)
+# 
+# 
 # =============================================================================
-
-
 
 #CLASSIFIYING
 reader = Reader(root_path, _formater = config['STRING_CLEANER'])
@@ -79,8 +79,8 @@ classifierExpertRules.run(reader_tournaments_filenames, filenames_decklists_txt,
 decklists_name = 'decklists_' + '_'.join(filenames_decklists_txt[0].split('_')[1:])
 archetypes_name = 'archetypes_decklists_' + '_'.join(filenames_decklists_txt[0].split('_')[1:])
 
-Stater(root_path).distributionSummary(decklists_name, archetypes_name,
-      archetypes_expected=archetypes_expected, drop_other = config['DROP_OTHER'],
-      drop_leagues = config['DROP_LEAGUES'])
+#Stater(root_path).distributionSummary(decklists_name, archetypes_name,
+#      archetypes_expected=archetypes_expected, drop_other = config['DROP_OTHER'],
+#      drop_leagues = config['DROP_LEAGUES'])
 
 
