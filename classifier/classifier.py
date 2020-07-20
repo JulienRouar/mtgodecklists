@@ -47,18 +47,25 @@ class ClassifierExpertRules():
     def predictExpertRules(self, decklists):
         res = pd.DataFrame([], index = range(len(decklists['MDs'])), columns = [])
         for deck_rules in self.expert_rules:
-            res[deck_rules['archetype']] = [[] for i in res.index]
+            res[deck_rules['archetype']] = [[] for _ in res.index]
             for expert_rule in deck_rules['expert_rules']:
                 for i, response in enumerate(expert_rule.call(decklists)):
-                    if i == 0 :
-                        print('Print 1')
-                        print(res[deck_rules['archetype']].loc[i])
+                    #if i == 0 :
+                    print('Print 1', response, i, res[deck_rules['archetype']].shape)
+                    print(res[deck_rules['archetype']].loc[i])
                     res[deck_rules['archetype']].loc[i] += [response]
-                    if i == 0 and res[deck_rules['archetype']].loc[i] == True:
-                            print('The bug just happened')
-                    if i == 0 :
-                        print('Print 2')
-                        print(res[deck_rules['archetype']].loc[i])
+                    print('Print 2')
+                    print(res[deck_rules['archetype']].loc[i])
+                    #res[deck_rules['archetype']].loc[i] = [_ for _ in res[deck_rules['archetype']].loc[i]] + [response]
+                    #if i == 0 and res[deck_rules['archetype']].iloc[i] == True:
+                    if type(res[deck_rules['archetype']].loc[i]) != list:
+                        print('The bug just happened')
+                        #print(res[deck_rules['archetype']].head())
+# =============================================================================
+#                     if i == 0 :
+#                         print('Print 2')
+#                         print(res[deck_rules['archetype']].iloc[i])
+# =============================================================================
                         
         return res
     

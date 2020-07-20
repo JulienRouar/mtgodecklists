@@ -6,7 +6,7 @@ import sys
 
 root_path = '/'.join(sys.path[0].split('\\')[:-1])+'/'
 #Pour Paul
-root_path = 'C:/Users/Audre/Desktop/Paul/Projets/'
+#root_path = 'C:/Users/Audre/Desktop/Paul/Projets/'
 
 if 'mtgodecklists' not in root_path:
     root_path += 'mtgodecklists/'
@@ -52,13 +52,15 @@ if (config['RULES'] == 'Companion') or (config['RULES'] == 'Metagame'):
     
     
    
-#SCRAPPING
-scrapper = Scrapper(root_path,
-             {'from_date' : config['DATE_FROM'], 'to_date' : config['DATE_TO'],
-              'format': config['FORMAT'], 'type': config['TYPE']}, drop_leagues = config['DROP_LEAGUES'])
-scrapper.run()
-scrapper.stop()
-scrapper.writeFileText(scrapper.decklists, scrapper.metas)
+# =============================================================================
+# #SCRAPPING
+# scrapper = Scrapper(root_path,
+#              {'from_date' : config['DATE_FROM'], 'to_date' : config['DATE_TO'],
+#               'format': config['FORMAT'], 'type': config['TYPE']}, drop_leagues = config['DROP_LEAGUES'])
+# scrapper.run()
+# scrapper.stop()
+# scrapper.writeFileText(scrapper.decklists, scrapper.metas)
+# =============================================================================
 
 
 
