@@ -44,27 +44,23 @@ class ClassifierExpertRules():
                     deck_rules['expert_rules'] += [ExpertRule(__board, tmp[i], self.__formater)]
             self.expert_rules += [deck_rules]
 
+    #This function now reads the constraints, tests them on the decklists AND put the scores
     def predictExpertRules(self, decklists):
         res = pd.DataFrame([], index = range(len(decklists['MDs'])), columns = [])
+        
         for deck_rules in self.expert_rules:
+            constraintsDecktype = pd.DataFrame([], index = range(len(decklists['MDs'])), columns = [])
             res[deck_rules['archetype']] = [[] for i in res.index]
+            k = 1
             for expert_rule in deck_rules['expert_rules']:
-                for i, response in enumerate(expert_rule.call(decklists)):
-                    if i == 0 :
-                        print('Print 1')
-                        print(res[deck_rules['archetype']].loc[i])
-                    res[deck_rules['archetype']].loc[i] += [response]
-                    if i == 0 and res[deck_rules['archetype']].loc[i] == True:
-                            print('The bug just happened')
-                    if i == 0 :
-                        print('Print 2')
-                        print(res[deck_rules['archetype']].loc[i])
-                        
+                constraintsDecktype['constraint_' + str(k)] = expert_rule.call(decklists)
+                k += 1
+            res[deck_rules['archetype']] = constraintsDecktype.apply(lambda x: sum(x)/len(x) if len(x)>0 else 0, axis = 1)
         return res
     
-    def scoresExpertRules(self, __predictExpertRules):
-        #return(__predictExpertRules.applymap(lambda x:1 if (x == True) else (0 if (x == False) else sum(x)/len(x))))
-        return __predictExpertRules.applymap(lambda x: sum(x)/len(x) if len(x)>0 else 0)
+    #Now useless
+    #def scoresExpertRules(self, __predictExpertRules):
+    #    return __predictExpertRules.applymap(lambda x: sum(x)/len(x) if len(x)>0 else 0)
     
     def archetypesExpertRules(self, __scoresExpertRules, tol = .5):
         archetypes = __scoresExpertRules#.applymap(lambda x:__scoresExpertRules.columns[np.where((x>=tol)&(x==np.max(x)))])
@@ -79,9 +75,8 @@ class ClassifierExpertRules():
         for i in range(len(reader_tournaments_filenames)):
             for j in range(len(reader_tournaments_filenames[i])):
                 tmp = self.predictExpertRules(reader_tournaments_filenames[i][j])
-                tmp2 = self.scoresExpertRules(tmp)
                 reader_tournaments_filenames[i][j]['archetypes'] = [list(_)if len(list(_))!=0 else ['Other']
-                                            for _ in self.archetypesExpertRules(tmp2,
+                                            for _ in self.archetypesExpertRules(,
                                                tol = .7)]
                 
                 cols_output += [reader_tournaments_filenames[i][j]['format'] + ' ' +
@@ -95,12 +90,7 @@ class ClassifierExpertRules():
                 
                 csv_output = pd.concat([csv_output, pd.DataFrame(archetypeAggregations)],
                                         axis = 1)
-        #print('Print 1')
-        #print(csv_output.columns)
-        #print('Print 2')
-        #print(csv_output)
-        #print('Print 3')
-        #print(cols_output)
+
         csv_output.columns = cols_output
         
         tmp = ''
@@ -153,8 +143,7 @@ class ExpertRule():
         return res
     
 if __name__ == '__main__':
-    filenames_decklists_txt = ["decklists_Modern_07_11_2020_07_12_2020"]
-                                #"decklists_Modern_06_06_2020_07_12_2020"
+    filenames_decklists_txt = ["decklists_Modern_06_06_2020_07_12_2020"]
                                 #"decklists_Pioneer_06_06_2020_07_12_2020"
                                 #"decklists_Standar_04_18_2020_04_30_2020"
                                 #'decklists_Modern_01_01_2020_01_05_2020',
