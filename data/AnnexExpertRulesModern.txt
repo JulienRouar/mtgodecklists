@@ -1,0 +1,76 @@
+DECK Amulet Titan
+RULES :
+MD :
+Amulet of Vigor in
+Primeval Titan in
+Dryad of the Ilysian Grove in
+Simic Growth Chamber in
+Tolaria West in
+Summoner's Pact in
+Azusa, Lost but Seeking in
+Sakura-Tribe Scout in
+SB :
+None
+
+DECK Red Prowess
+RULES :
+MD :
+Monastery Swiftspear in
+Soul-Scar Mage in
+Bedlam Reveler in
+Light Up the Stage in
+Lava Spike in
+Lightning Bolt in
+Crash Through in
+Kiln Fiend in
+Lava Dart in
+Manamorphose in
+SB :
+None
+
+DECK Jund
+RULES :
+MD :
+
+SB :
+None
+
+
+DECK UG Titan
+RULES :
+MD :
+
+SB :
+None
+
+
+DECK Bant Control
+RULES :
+MD :
+
+SB :
+None
+
+
+DECK
+RULES :
+MD :
+
+SB :
+None
+
+
+DECK
+RULES :
+MD :
+
+SB :
+None
+
+
+DECK
+RULES :
+MD :
+
+SB :
+None

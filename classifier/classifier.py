@@ -4,6 +4,9 @@ import sys
 from collections import OrderedDict
 import pandas as pd
 import numpy as np
+import scrython
+import time
+from pprint import pprint
 
 root_path = '/'.join(sys.path[0].split('\\')[:-1])+'/'
 #Pour Paul
@@ -19,6 +22,9 @@ class ClassifierExpertRules():
                  'expert_rules',
                  )    
     
+    __cardnames__ = []
+    __mana_costs__ = []
+
     def __init__(self, personal_path, _formater = True):
         super(ClassifierExpertRules, self).__init__()
         self.__personal_path = personal_path
@@ -47,7 +53,6 @@ class ClassifierExpertRules():
     #This function now reads the constraints, tests them on the decklists AND put the scores
     def predictExpertRules(self, decklists):
         res = pd.DataFrame([], index = range(len(decklists['MDs'])), columns = [])
-        
         for deck_rules in self.expert_rules:
             constraintsDecktype = pd.DataFrame([], index = range(len(decklists['MDs'])), columns = [])
             res[deck_rules['archetype']] = [[] for i in res.index]
@@ -56,8 +61,65 @@ class ClassifierExpertRules():
                 constraintsDecktype['constraint_' + str(k)] = expert_rule.call(decklists)
                 k += 1
             res[deck_rules['archetype']] = constraintsDecktype.apply(lambda x: sum(x)/len(x) if len(x)>0 else 0, axis = 1)
+        print(res)
         return res
+
+    def deckColors(self, decklists):
+        res = pd.DataFrame([], index = range(len(decklists['MDs'])), columns = [])
+        res["White"] = [[] for i in res.index]
+        res["Blue"] = [[] for i in res.index]
+        res["Black"] = [[] for i in res.index]
+        res["Red"] = [[] for i in res.index]
+        res["Green"] = [[] for i in res.index]
+        print(range(len(decklists['MDs'])))
+        for i in range(len(decklists['MDs'])):
+            #test for reading deck
+            cards = []
+            numbers = []
+            manacosts = []
+            for a in decklists["MDs"][i]:
+                if (a[1] == " "):
+                    numbers.append(int(a[0]))
+                    cardname = a[2:]
+                    cards.append(cardname)
+                    manacosts.append(self.search(cardname))
+            white = 0
+            blue = 0
+            black = 0
+            red = 0
+            green = 0
+            for b in range(len(cards)):
+                white += manacosts[b].count("{W}") * numbers[b]
+                blue += manacosts[b].count("{U}") * numbers[b]
+                black += manacosts[b].count("{B}") * numbers[b]
+                red += manacosts[b].count("{R}") * numbers[b]
+                green += manacosts[b].count("{G}") * numbers[b]
+            res["White"][i] = white 
+            res["Blue"][i] = blue 
+            res["Black"][i] = black 
+            res["Red"][i] = red 
+            res["Green"][i] = green 
+            #end test
+        print(res)
+        return res  
     
+    def search(self, cardname):
+        if (cardname in self.__cardnames__):
+            c = self.__cardnames__.index(cardname)
+            res = self.__mana_costs__[c]
+        else:
+            time.sleep(0.1)
+            card = scrython.cards.Named(fuzzy=cardname)
+            try:
+                d = card.mana_cost()
+            except KeyError:
+                d = "{1}{G}"
+            #print(d)
+            self.__cardnames__.append(cardname)
+            self.__mana_costs__.append(d)
+            res = d
+        return res
+        
     #Now useless
     #def scoresExpertRules(self, __predictExpertRules):
     #    return __predictExpertRules.applymap(lambda x: sum(x)/len(x) if len(x)>0 else 0)
@@ -72,24 +134,32 @@ class ClassifierExpertRules():
     def run(self, reader_tournaments_filenames, filenames_decklists_txt, tol = .7, to_csv = True):
         csv_output = pd.DataFrame(None)
         cols_output = []
+        print("len(reader_tournaments_filenames) = " + str(len(reader_tournaments_filenames)))
         for i in range(len(reader_tournaments_filenames)):
+            print("len(reader_tournaments_filenames)[i] = " + str(len(reader_tournaments_filenames[i])))
             for j in range(len(reader_tournaments_filenames[i])):
                 tmp = self.predictExpertRules(reader_tournaments_filenames[i][j])
+                colors = self.deckColors(reader_tournaments_filenames[i][j])
                 reader_tournaments_filenames[i][j]['archetypes'] = [list(_)if len(list(_))!=0 else ['Other']
-                                            for _ in self.archetypesExpertRules(,
+                                            for _ in self.archetypesExpertRules(tmp,
                                                tol = .7)]
-                
                 cols_output += [reader_tournaments_filenames[i][j]['format'] + ' ' +
                                 reader_tournaments_filenames[i][j]['type'] + ' ' +
-                                reader_tournaments_filenames[i][j]['date']]
+                                reader_tournaments_filenames[i][j]['date'],
+                                "White" + str((i+1)*(j+1)), "Blue" + str((i+1)*(j+1)), "Black" + str((i+1)*(j+1)), "Red" + str((i+1)*(j+1)), "Green" + str((i+1)*(j+1))]
                 #Concatenation of the names of the lists
                 separator = ' / '
                 archetypeAggregations = []
                 for archetypesUnit in reader_tournaments_filenames[i][j]['archetypes']:
                     archetypeAggregations.append(separator.join(archetypesUnit))
                 
+                print(csv_output)
+                print(pd.DataFrame(archetypeAggregations))
+                print(colors)
                 csv_output = pd.concat([csv_output, pd.DataFrame(archetypeAggregations)],
                                         axis = 1)
+                csv_output = pd.concat([csv_output, colors], axis = 1)
+                print(csv_output)
 
         csv_output.columns = cols_output
         
@@ -108,7 +178,7 @@ class ExpertRule():
     
     __slots__ = ('__board', '__number', '__card', '__condition', '__formater',
                  )    
-    
+
     def __init__(self, __board, rule_txt, _formater = lambda x:x):
         super(ExpertRule, self).__init__()
         self.__formater = _formater
@@ -120,6 +190,7 @@ class ExpertRule():
             self.__number = ''
         self.__card = self.__formater(' '.join(tmp[1:-1]) if self.__number != '' else ' '.join(tmp[0:-1]))
         self.__condition = tmp[-1]
+
         
     def call(self, decklists):
         res = []
@@ -143,7 +214,7 @@ class ExpertRule():
         return res
     
 if __name__ == '__main__':
-    filenames_decklists_txt = ["decklists_Modern_06_06_2020_07_12_2020"]
+    filenames_decklists_txt = ["decklists_Modern_07_11_2020_07_12_2020"]
                                 #"decklists_Pioneer_06_06_2020_07_12_2020"
                                 #"decklists_Standar_04_18_2020_04_30_2020"
                                 #'decklists_Modern_01_01_2020_01_05_2020',

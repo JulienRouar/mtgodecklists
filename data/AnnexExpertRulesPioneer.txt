@@ -1,0 +1,44 @@
+
+DECK Chonky Red
+RULES :
+MD :
+Soul-Scar Mage in
+Goblin Chainwhirler in
+Bonecrusher Giant in
+Glorybringer in
+Goblin Rabblemaster in
+Chandra, Torch of Defiance in
+10 Mountain <
+SB :
+None
+
+
+Scrapheap Scrounger in
+Rankle, Master of Pranks in
+Murderous Rider in
+Castle Locthwain in
+Thoughtseize in
+Mutavault in
+Fatal Push in
+Spawn of Mayhem in
+10 Swamp <
+SB :
+None
+
+DECK Esper Control
+RULES :
+MD :
+Supreme Verdict in
+Teferi, Time Raveler in
+Thoughtseize in
+SB :
+None
+
+DECK Bant Control
+RULES :
+MD :
+Supreme Verdict in
+Teferi, Time Raveler in
+Uro, Titan of Nature's Wrath in
+SB :
+None

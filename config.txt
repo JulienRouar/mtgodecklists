@@ -1,11 +1,11 @@
 #Sealed, Standard, Pioneer, Modern, Pauper, Modern, Legacy, Vintage
-FORMAT=Pioneer
+FORMAT=Modern
 #Challenge, Super Qualifier, League, Preliminary, anything else or <empty>
 TYPE=
 #mm/dd/yyyy
-DATE_FROM=06/06/2020
+DATE_FROM=08/09/2020
 #mm/dd/yyyy
-DATE_TO=07/12/2020
+DATE_TO=08/09/2020
 #False or True
 DROP_LEAGUES=False
 #False or True
