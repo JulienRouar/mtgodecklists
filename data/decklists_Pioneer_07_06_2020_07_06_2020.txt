@@ -1,0 +1,746 @@
+Pioneer 07/06/2020 07/06/2020
+https://magic.wizards.com/en/articles/archive/mtgo-standings/pioneer-league-2020-07-06
+
+
+
+
+
+CATEGORY :
+Pioneer League
+JULY
+6
+2020
+
+DECKLIST :
+MASHMALOVSKY
+(5-0)
+Creature (24)
+4 Bloodsoaked Champion
+4 Dread Wanderer
+4 Knight of the Ebon Legion
+3 Murderous Rider
+2 Rankle, Master of Pranks
+4 Scrapheap Scrounger
+3 Spawn of Mayhem
+Sorcery (4)
+4 Thoughtseize
+Instant (6)
+1 Eliminate
+4 Fatal Push
+1 Heartless Act
+Enchantment (2)
+2 Demonic Embrace
+Land (24)
+4 Castle Locthwain
+4 Mutavault
+15 Swamp
+1 Urborg, Tomb of Yawgmoth
+60 Cards
+Sideboard (15)
+1 Murderous Rider
+1 Heartless Act
+2 Aethersphere Harvester
+2 Damping Sphere
+2 Disfigure
+2 Drill Bit
+1 Legion's End
+2 Lost Legacy
+2 Soul-Guide Lantern
+
+DECKLIST :
+EXTRAEASY88
+(5-0)
+Creature (20)
+3 Dreadhorde Arcanist
+4 Favored Hoplite
+3 Feather, the Redeemed
+4 Monastery Swiftspear
+2 Selfless Savior
+4 Tenth District Legionnaire
+Instant (20)
+4 Boros Charm
+4 Defiant Strike
+4 Fight as One
+4 Gods Willing
+4 Reckless Rage
+Land (19)
+4 Battlefield Forge
+2 Clifftop Retreat
+4 Inspiring Vantage
+1 Mountain
+4 Plains
+4 Sacred Foundry
+Other (1)
+1 Lurrus of the Dream-Den
+60 Cards
+Sideboard (15)
+1 Feather, the Redeemed
+2 Damping Sphere
+2 Erase
+3 Gideon of the Trials
+2 Isolate
+2 Ordeal of Heliod
+2 Rest in Peace
+1 Wear // Tear
+
+DECKLIST :
+KARBEN
+(5-0)
+Creature (18)
+4 Alseid of Life's Bounty
+2 Aphemia, the Cacophony
+4 Favored Hoplite
+4 Hateful Eidolon
+4 Sram, Senior Edificer
+Instant (4)
+4 Karametra's Blessing
+Enchantment (19)
+4 All That Glitters
+3 Cartouche of Solidarity
+4 Ethereal Armor
+4 Gryff's Boon
+1 Kaya's Ghostform
+3 Sentinel's Eyes
+Land (19)
+4 Caves of Koilos
+4 Concealed Courtyard
+4 Godless Shrine
+1 Mana Confluence
+6 Plains
+60 Cards
+Sideboard (15)
+3 Apostle of Purifying Light
+2 Erase
+4 Hushbringer
+1 Isolate
+1 Lurrus of the Dream-Den
+3 Thoughtseize
+1 Tomik, Distinguished Advokist
+
+DECKLIST :
+CHILLEDADED
+(5-0)
+Creature (24)
+4 Bonecrusher Giant
+4 Eidolon of the Great Revel
+4 Goblin Rabblemaster
+2 Kari Zev, Skyship Raider
+4 Monastery Swiftspear
+4 Soul-Scar Mage
+2 Torbran, Thane of Red Fell
+Sorcery (2)
+2 Collective Defiance
+Instant (8)
+4 Lightning Strike
+4 Wild Slash
+Artifact (2)
+2 Embercleave
+Land (24)
+2 Castle Embereth
+18 Mountain
+4 Ramunap Ruins
+60 Cards
+Sideboard (15)
+2 Collective Defiance
+3 Ash Zealot
+2 Chandra, Torch of Defiance
+3 Fry
+3 Lava Coil
+2 Tormod's Crypt
+
+DECKLIST :
+SMDSTER
+(5-0)
+Planeswalker (4)
+4 Sorin, Imperious Bloodlord
+Creature (21)
+4 Champion of Dusk
+4 Dusk Legion Zealot
+4 Gifted Aetherborn
+2 Kalitas, Traitor of Ghet
+4 Knight of the Ebon Legion
+3 Murderous Rider
+Sorcery (4)
+4 Thoughtseize
+Instant (6)
+4 Fatal Push
+2 Heartless Act
+Land (25)
+4 Castle Locthwain
+4 Mutavault
+1 Nykthos, Shrine to Nyx
+15 Swamp
+1 Urborg, Tomb of Yawgmoth
+60 Cards
+Sideboard (15)
+1 Kalitas, Traitor of Ghet
+1 Heartless Act
+3 Drill Bit
+2 Liliana, the Last Hope
+3 Lost Legacy
+3 Rankle, Master of Pranks
+2 Soul-Guide Lantern
+
+DECKLIST :
+MJOLANDER
+(5-0)
+Planeswalker (2)
+1 Ashiok, Nightmare Muse
+1 Nissa, Who Shakes the World
+Creature (17)
+1 Atris, Oracle of Half-Truths
+1 Ishkanah, Grafwidow
+3 Jace, Vryn's Prodigy
+1 Murderous Rider
+4 Satyr Wayfinder
+2 Tireless Tracker
+4 Uro, Titan of Nature's Wrath
+1 Walking Ballista
+Sorcery (7)
+4 Thoughtseize
+3 Traverse the Ulvenwald
+Instant (9)
+2 Abrupt Decay
+1 Eat to Extinction
+4 Fatal Push
+2 Grisly Salvage
+Enchantment (2)
+2 Shark Typhoon
+Land (23)
+4 Blooming Marsh
+4 Breeding Pool
+4 Fabled Passage
+2 Forest
+2 Island
+4 Overgrown Tomb
+1 Swamp
+1 Watery Grave
+1 Zagoth Triome
+60 Cards
+Sideboard (15)
+3 Damping Sphere
+2 Disdainful Stroke
+1 Emrakul, the Promised End
+2 Heartless Act
+1 Kalitas, Traitor of Ghet
+3 Mystical Dispute
+1 Sultai Charm
+1 Unravel the Aether
+1 Yahenni's Expertise
+
+DECKLIST :
+RAPONCHY
+(5-0)
+Creature (35)
+4 Angrath's Marauders
+4 Elvish Mystic
+4 Elvish Visionary
+2 Gilded Goose
+4 Goblin Rabblemaster
+2 Kenrith, the Returned King
+3 Legion Warboss
+4 Llanowar Elves
+4 Voice of Resurgence
+4 Winota, Joiner of Forces
+Sorcery (4)
+4 Eldritch Evolution
+Land (21)
+2 Forest
+1 Inspiring Vantage
+3 Mana Confluence
+1 Mountain
+1 Plains
+1 Rootbound Crag
+2 Sacred Foundry
+4 Stomping Ground
+2 Sunpetal Grove
+4 Temple Garden
+60 Cards
+Sideboard (15)
+3 Bonecrusher Giant
+3 Fairgrounds Warden
+4 Knight of Autumn
+2 Rest in Peace
+3 Selfless Spirit
+
+DECKLIST :
+HARRY13
+(5-0)
+Planeswalker (2)
+2 Teferi, Master of Time
+Creature (7)
+2 Brazen Borrower
+2 Torrential Gearhulk
+3 Uro, Titan of Nature's Wrath
+Instant (18)
+4 Censor
+2 Dig Through Time
+4 Growth Spiral
+2 Neutralize
+2 Opt
+2 Sinister Sabotage
+2 Sublime Epiphany
+Enchantment (7)
+3 Shark Typhoon
+4 Wilderness Reclamation
+Land (26)
+2 Blast Zone
+4 Breeding Pool
+2 Castle Vantress
+3 Fabled Passage
+2 Forest
+3 Hinterland Harbor
+5 Island
+2 Lumbering Falls
+3 Temple of Mystery
+60 Cards
+Sideboard (15)
+2 Aether Gust
+1 Jace's Defeat
+3 Jolrael, Mwonvuli Recluse
+3 Mystical Dispute
+2 Nightpack Ambusher
+2 Scavenging Ooze
+2 Wilt
+
+DECKLIST :
+RAMZAMELA7
+(5-0)
+Creature (15)
+1 Archfiend's Vessel
+4 Dreadhorde Arcanist
+2 Kroxa, Titan of Death's Hunger
+4 Stitcher's Supplier
+4 Young Pyromancer
+Sorcery (12)
+3 Call of the Death-Dweller
+3 Claim // Fame
+2 Dreadbore
+4 Thoughtseize
+Instant (11)
+4 Fatal Push
+4 Village Rites
+3 Wild Slash
+Land (22)
+4 Blood Crypt
+4 Dragonskull Summit
+2 Fabled Passage
+4 Foreboding Ruins
+3 Mountain
+5 Swamp
+60 Cards
+Sideboard (15)
+2 Dreadbore
+1 Cling to Dust
+3 Duress
+2 Kolaghan's Command
+1 Lurrus of the Dream-Den
+2 Noxious Grasp
+2 Pharika's Libation
+2 Soul-Guide Lantern
+
+DECKLIST :
+SHOWTIME_
+(5-0)
+Creature (39)
+4 Burning-Tree Emissary
+4 Conspicuous Snoop
+4 Fanatical Firebrand
+4 Foundry Street Denizen
+3 Frenzied Goblin
+4 Goblin Instigator
+4 Goblin Piledriver
+4 Goblin Rabblemaster
+4 Legion Loyalist
+4 Reckless Bushwhacker
+Artifact (2)
+2 Embercleave
+Land (19)
+4 Castle Embereth
+15 Mountain
+60 Cards
+Sideboard (15)
+2 Alpine Moon
+4 Goblin Chainwhirler
+1 Hazoret the Fervent
+2 Kari Zev's Expertise
+4 Rampaging Ferocidon
+2 Tormod's Crypt
+
+DECKLIST :
+JOAO_ANDRADE
+(5-0)
+Planeswalker (3)
+3 Jace, Wielder of Mysteries
+Creature (10)
+4 Inverter of Truth
+2 Jace, Vryn's Prodigy
+4 Thassa's Oracle
+Sorcery (6)
+1 Collective Brutality
+1 Thought Erasure
+4 Thoughtseize
+Instant (17)
+1 Cling to Dust
+4 Dig Through Time
+1 Eliminate
+4 Fatal Push
+3 Hero's Downfall
+4 Opt
+Land (24)
+2 Choked Estuary
+4 Drowned Catacomb
+4 Fabled Passage
+2 Fetid Pools
+1 Ipnu Rivulet
+5 Island
+2 Swamp
+4 Watery Grave
+60 Cards
+Sideboard (15)
+2 Eliminate
+1 Disfigure
+2 Languish
+2 Mystical Dispute
+2 Narset, Parter of Veils
+2 Negate
+3 Pack Rat
+1 The Elderspell
+
+DECKLIST :
+ALFREDOTORRES
+(5-0)
+Planeswalker (3)
+3 Gideon of the Trials
+Creature (24)
+2 Anafenza, Kin-Tree Spirit
+4 Arcanist's Owl
+2 Daxos, Blessed by the Sun
+4 Heliod, Sun-Crowned
+4 Knight of the White Orchid
+4 Thraben Inspector
+4 Walking Ballista
+Enchantment (8)
+2 Baffling End
+2 Elspeth Conquers Death
+2 Gideon's Intervention
+2 Stasis Snare
+Land (25)
+4 Idyllic Grange
+4 Nykthos, Shrine to Nyx
+17 Plains
+60 Cards
+Sideboard (15)
+2 Baffling End
+4 Damping Sphere
+1 Deicide
+2 Gideon, Ally of Zendikar
+2 Glare of Heresy
+1 Isolate
+2 Rest in Peace
+1 Soul-Guide Lantern
+
+DECKLIST :
+NILDO
+(5-0)
+Creature (22)
+4 Bomat Courier
+4 Bonecrusher Giant
+4 Gingerbrute
+2 Hope of Ghirapur
+4 Skilled Animator
+4 Stonecoil Serpent
+Instant (6)
+2 Metallic Rebuke
+4 Shrapnel Blast
+Artifact (6)
+4 Ghostfire Blade
+2 Soul-Guide Lantern
+Enchantment (4)
+4 Ensoul Artifact
+Land (22)
+4 Darksteel Citadel
+4 Mutavault
+4 Shivan Reef
+2 Spire of Industry
+4 Spirebluff Canal
+4 Steam Vents
+60 Cards
+Sideboard (15)
+2 Abrade
+4 Lava Coil
+4 Mystical Dispute
+1 Redcap Melee
+1 Tormod's Crypt
+3 Wild Slash
+
+DECKLIST :
+HASHIMO
+(5-0)
+Creature (17)
+3 Bomat Courier
+3 Gingerbrute
+4 Hangarback Walker
+1 Hope of Ghirapur
+3 Scrapheap Scrounger
+3 Stonecoil Serpent
+Sorcery (2)
+2 Skewer the Critics
+Instant (11)
+2 Drown in the Loch
+1 Eliminate
+4 Metallic Rebuke
+4 Shrapnel Blast
+Artifact (4)
+4 Ghostfire Blade
+Enchantment (4)
+4 Ensoul Artifact
+Land (22)
+2 Blood Crypt
+4 Darksteel Citadel
+2 Shivan Reef
+4 Spire of Industry
+4 Spirebluff Canal
+2 Swamp
+4 Watery Grave
+60 Cards
+Sideboard (15)
+3 Damping Sphere
+3 Fatal Push
+3 Heartless Act
+1 Jace's Defeat
+1 Lurrus of the Dream-Den
+2 Mystical Dispute
+2 Soul-Guide Lantern
+
+DECKLIST :
+BILLSIVE
+(5-0)
+Planeswalker (17)
+1 Ashiok, Nightmare Muse
+3 Kaya, Orzhov Usurper
+4 Narset, Parter of Veils
+2 Teferi, Hero of Dominaria
+3 Teferi, Master of Time
+4 Teferi, Time Raveler
+Sorcery (12)
+4 Supreme Verdict
+4 Thought Erasure
+4 Thoughtseize
+Instant (7)
+3 Eliminate
+2 Mystical Dispute
+2 Thassa's Intervention
+Enchantment (9)
+4 Oath of Kaya
+4 Omen of the Sea
+1 Shark Typhoon
+Land (35)
+4 Drowned Catacomb
+4 Fabled Passage
+1 Geier Reach Sanitarium
+4 Glacial Fortress
+4 Godless Shrine
+4 Hallowed Fountain
+2 Island
+3 Isolated Chapel
+1 Mobilized District
+2 Plains
+1 Shambling Vent
+1 Swamp
+4 Watery Grave
+80 Cards
+Sideboard (15)
+1 Command the Dreadhorde
+2 Damping Sphere
+4 Dovin's Veto
+1 Fatal Push
+2 Settle the Wreckage
+2 Trial of Ambition
+2 Unmoored Ego
+1 Yorion, Sky Nomad
+
+DECKLIST :
+MATTMANW2
+(5-0)
+Planeswalker (15)
+1 Elspeth, Sun's Champion
+3 Gideon of the Trials
+2 Jace, Architect of Thought
+1 Narset of the Ancient Way
+3 Narset, Parter of Veils
+1 Teferi, Hero of Dominaria
+4 Teferi, Time Raveler
+Creature (4)
+4 Fae of Wishes
+Sorcery (7)
+2 Day's Undoing
+2 Deafening Clarion
+3 Supreme Verdict
+Instant (3)
+3 Chance for Glory
+Enchantment (16)
+1 Detention Sphere
+2 Elspeth Conquers Death
+4 Fires of Invention
+2 Oath of Chandra
+1 Oath of Teferi
+4 Omen of the Sea
+2 Shark Typhoon
+Land (35)
+1 Castle Vantress
+2 Clifftop Retreat
+1 Geier Reach Sanitarium
+3 Glacial Fortress
+4 Hallowed Fountain
+4 Interplanar Beacon
+1 Island
+1 Mountain
+1 Plains
+4 Raugrin Triome
+4 Sacred Foundry
+4 Steam Vents
+2 Sulfur Falls
+1 Temple of Enlightenment
+1 Temple of Epiphany
+1 Temple of Triumph
+80 Cards
+Sideboard (15)
+1 Day's Undoing
+1 Narset, Parter of Veils
+1 Oath of Teferi
+1 Supreme Verdict
+1 Anger of the Gods
+1 Casualties of War
+1 Containment Priest
+1 Deicide
+2 Rest in Peace
+1 Ruinous Ultimatum
+1 Thought Distortion
+1 Tormod's Crypt
+1 Unmoored Ego
+1 Yorion, Sky Nomad
+
+DECKLIST :
+STREEXIT
+(5-0)
+Creature (34)
+1 Brazen Borrower
+3 Empyrean Eagle
+4 Mausoleum Wanderer
+4 Nebelgast Herald
+4 Rattlechains
+4 Selfless Spirit
+2 Shacklegeist
+4 Spectral Sailor
+4 Spell Queller
+4 Supreme Phantom
+Instant (3)
+3 Lofty Denial
+Enchantment (2)
+2 Curious Obsession
+Land (21)
+2 Glacial Fortress
+4 Hallowed Fountain
+7 Island
+2 Mutavault
+2 Plains
+4 Unclaimed Territory
+60 Cards
+Sideboard (15)
+2 Aether Gust
+2 Beckon Apparition
+2 Damping Sphere
+3 Mystical Dispute
+1 Remorseful Cleric
+3 Surge of Righteousness
+2 Teferi, Time Raveler
+
+DECKLIST :
+GIMMA
+(5-0)
+Creature (30)
+4 Bonecrusher Giant
+4 Burning-Tree Emissary
+1 Elvish Mystic
+1 Experiment One
+3 Gruul Spellbreaker
+2 Klothys, God of Destiny
+4 Llanowar Elves
+1 Pelt Collector
+4 Reckless Bushwhacker
+1 Rhonas the Indomitable
+3 Scavenging Ooze
+1 Wildborn Preserver
+1 Yorvo, Lord of Garenbrig
+Instant (8)
+4 Atarka's Command
+4 Collected Company
+Land (22)
+2 Cinder Glade
+5 Forest
+4 Game Trail
+3 Mountain
+4 Rootbound Crag
+4 Stomping Ground
+60 Cards
+Sideboard (15)
+2 Cindervines
+3 Destructive Revelry
+1 Eidolon of the Great Revel
+1 Electrickery
+2 Hornet Nest
+1 Questing Beast
+2 Rampaging Ferocidon
+2 Skylasher
+1 Stoke the Flames
+
+DECKLIST :
+TCGPLAYERBENOBI
+(5-0)
+Creature (13)
+4 Arboreal Grazer
+4 Fae of Wishes
+1 Thassa's Oracle
+4 Vizier of Tumbling Sands
+Sorcery (18)
+4 Hidden Strings
+4 Pore Over the Pages
+2 Shimmer of Possibility
+4 Strategic Planning
+4 Sylvan Scrying
+Instant (1)
+1 Blink of an Eye
+Enchantment (3)
+3 Underworld Breach
+Land (25)
+2 Blast Zone
+4 Botanical Sanctum
+1 Ipnu Rivulet
+4 Lotus Field
+1 Lumbering Falls
+1 Sheltered Thicket
+4 Temple of Mystery
+4 Thespian's Stage
+4 Yavimaya Coast
+60 Cards
+Sideboard (15)
+1 Blink of an Eye
+1 Underworld Breach
+1 Anger of the Gods
+1 Chandra, Awakened Inferno
+1 Fry
+1 Hour of Devastation
+1 Jace, Wielder of Mysteries
+1 Lost Legacy
+1 Niv-Mizzet, Parun
+1 Ratchet Bomb
+1 Return to Nature
+1 Thought Distortion
+1 Tome Scour
+1 Ugin, the Spirit Dragon
+1 Wilt
+
+
+
+

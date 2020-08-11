@@ -533,3 +533,1766 @@ JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_u
 
 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
 
+1594325685938	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Audre\\AppData\\Local\\Temp\\rust_mozprofile9fuXJ1"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594325692529	Marionette	INFO	Listening on port 51841
+1594325692594	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: chrome://marionette/content/proxy.js, line 222: TypeError: this.browser.driver.dialogObserver is null
+JavaScript error: chrome://marionette/content/proxy.js, line 222: TypeError: this.browser.driver.dialogObserver is null
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1594326369673	Marionette	INFO	Stopped listening on port 51841
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: chrome://marionette/content/proxy.js, line 222: TypeError: this.browser.driver.dialogObserver is null
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1594326369711	Marionette	INFO	Stopped listening on port 52412
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ror: Channel error: cannot send/recv
+
+1594326423485	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Audre\\AppData\\Local\\Temp\\rust_mozprofileuzEX74"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594326427014	Marionette	INFO	Listening on port 52670
+1594326427163	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1594326434937	Marionette	INFO	Stopped listening on port 52670
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594326479929	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Audre\\AppData\\Local\\Temp\\rust_mozprofileN1qc03"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594326483360	Marionette	INFO	Listening on port 52773
+1594326483543	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1594326680433	Marionette	INFO	Stopped listening on port 52773
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1D0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594363901294	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Audre\\AppData\\Local\\Temp\\rust_mozprofileJowozE"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594363905454	Marionette	INFO	Listening on port 59704
+1594363913344	Marionette	INFO	Stopped listening on port 59704
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594363925959	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Audre\\AppData\\Local\\Temp\\rust_mozprofileWAr4kc"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594363929126	Marionette	INFO	Listening on port 59765
+1594363929572	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1594364366221	Marionette	INFO	Stopped listening on port 59765
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594368555668	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Audre\\AppData\\Local\\Temp\\rust_mozprofile5B5QtP"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594368558741	Marionette	INFO	Listening on port 64103
+1594368558783	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1594368655278	Marionette	INFO	Stopped listening on port 64103
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594370498578	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Audre\\AppData\\Local\\Temp\\rust_mozprofilewANcO7"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594370501866	Marionette	INFO	Listening on port 49473
+1594370502192	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1594370592738	Marionette	INFO	Stopped listening on port 49473
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594372083749	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Audre\\AppData\\Local\\Temp\\rust_mozprofileB9n5oR"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594372087920	Marionette	INFO	Listening on port 51102
+1594372087962	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1594372183548	Marionette	INFO	Stopped listening on port 51102
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594372832569	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Audre\\AppData\\Local\\Temp\\rust_mozprofileh6mT3l"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594372835447	Marionette	INFO	Listening on port 52372
+1594372835685	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1594372936284	Marionette	INFO	Stopped listening on port 52372
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594373287337	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Audre\\AppData\\Local\\Temp\\rust_mozprofileDhDBHT"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594373290559	Marionette	INFO	Listening on port 53002
+1594373290949	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1594373382669	Marionette	INFO	Stopped listening on port 53002
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594374658583	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Audre\\AppData\\Local\\Temp\\rust_mozprofileUm1k1X"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594374661590	Marionette	INFO	Listening on port 54636
+1594374661700	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1594374755752	Marionette	INFO	Stopped listening on port 54636
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594374794140	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Audre\\AppData\\Local\\Temp\\rust_mozprofilefAjrhU"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594374796981	Marionette	INFO	Listening on port 55132
+1594374797256	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1594375157636	Marionette	INFO	Stopped listening on port 55132
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594375132874	Marionette	INFO	Listening on port 55794
+1594375133025	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1594375159928	Marionette	INFO	Stopped listening on port 55794
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594375169167	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Audre\\AppData\\Local\\Temp\\rust_mozprofile43jedN"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594375172052	Marionette	INFO	Listening on port 55984
+1594375172288	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1594375265010	Marionette	INFO	Stopped listening on port 55984
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594650379107	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Audre\\AppData\\Local\\Temp\\rust_mozprofile3UbjB2"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594650381940	Marionette	INFO	Listening on port 64243
+1594650382223	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1594650514923	Marionette	INFO	Stopped listening on port 64243
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594651009009	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Audre\\AppData\\Local\\Temp\\rust_mozprofileSSN9sT"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594651012082	Marionette	INFO	Listening on port 64987
+1594651012119	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1594651037587	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-fJavaScript error: chrome://marionette/content/proxy.js, line 222: TypeError: this.browser.driver.dialogObserver is null
+1594652753753	Marionette	INFO	Stopped listening on port 64987
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+gic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1594651172651	Marionette	INFO	Stopped listening on port 65098
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594652078344	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Audre\\AppData\\Local\\Temp\\rust_mozprofilequpxMi"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594652081056	Marionette	INFO	Listening on port 49553
+1594652081458	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1594652752973	Marionette	INFO	Stopped listening on port 49553
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594652236300	Marionette	INFO	Listening on port 49884
+1594652236732	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: chrome://marionette/content/proxy.js, line 222: TypeError: this.browser.driver.dialogObserver is null
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: chrome://marionette/content/proxy.js, line 222: TypeError: this.browser.driver.dialogObserver is null
+1594652751118	Marionette	INFO	Stopped listening on port 49884
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+e 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1594652314465	Marionette	INFO	Stopped listening on port 49995
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594652709524	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Audre\\AppData\\Local\\Temp\\rust_mozprofileakqraU"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594652712457	Marionette	INFO	Listening on port 50619
+1594652712640	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1594652725664	Marionette	INFO	Stopped listening on port 50619
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594652831121	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Audre\\AppData\\Local\\Temp\\rust_mozprofileX6kgQG"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594652834000	Marionette	INFO	Listening on port 50876
+1594652834248	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1594652893189	Marionette	INFO	Stopped listening on port 50876
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594653304164	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Audre\\AppData\\Local\\Temp\\rust_mozprofile8tItFr"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594653306833	Marionette	INFO	Listening on port 51413
+1594653307284	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1594653312951	Marionette	INFO	Stopped listening on port 51413
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594653464957	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Audre\\AppData\\Local\\Temp\\rust_mozprofilegwN7m9"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594653467749	Marionette	INFO	Listening on port 51717
+1594653468067	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1594653500013	Marionette	INFO	Stopped listening on port 51717
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594654605266	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Audre\\AppData\\Local\\Temp\\rust_mozprofileCb2AOE"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594654608747	Marionette	INFO	Listening on port 52699
+1594654608896	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1594654642480	Marionette	INFO	Stopped listening on port 52699
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594655180848	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Audre\\AppData\\Local\\Temp\\rust_mozprofileldciT6"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594655183584	Marionette	INFO	Listening on port 53239
+1594655183966	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1594655217311	Marionette	INFO	Stopped listening on port 53239
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594655847890	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Audre\\AppData\\Local\\Temp\\rust_mozprofileLjiXUC"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594655851078	Marionette	INFO	Listening on port 53909
+1594655851509	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1594655887331	Marionette	INFO	Stopped listening on port 53909
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594656030944	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Audre\\AppData\\Local\\Temp\\rust_mozprofilevFarcr"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594656033714	Marionette	INFO	Listening on port 54177
+1594656034056	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1594656066155	Marionette	INFO	Stopped listening on port 54177
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594656963721	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Audre\\AppData\\Local\\Temp\\rust_mozprofileT19nmP"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594656966666	Marionette	INFO	Listening on port 55124
+1594656966839	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1594656991833	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-fJavaScript error: resource:///actors/AboutReaderChild.jsm, line 95: NS_ERROR_UNEXPECTED: 
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390133,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390133,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+tps://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1594657029257	Marionette	INFO	Stopped listening on port 55293
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594657087120	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Audre\\AppData\\Local\\Temp\\rust_mozprofile9vCIb0"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594657090116	Marionette	INFO	Listening on port 55505
+1594657090237	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1594657122522	Marionette	INFO	Stopped listening on port 55505
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594657217390	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Audre\\AppData\\Local\\Temp\\rust_mozprofilep6d1u9"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594657220157	Marionette	INFO	Listening on port 55708
+1594657220514	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1594657251999	Marionette	INFO	Stopped listening on port 55708
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594658564826	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Audre\\AppData\\Local\\Temp\\rust_mozprofileUVofGj"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594658568497	Marionette	INFO	Listening on port 56360
+1594658568516	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1594658604797	Marionette	INFO	Stopped listening on port 56360
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594658671317	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Audre\\AppData\\Local\\Temp\\rust_mozprofileXk2Sz0"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594658674088	Marionette	INFO	Listening on port 56585
+1594658674458	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1594658720072	Marionette	INFO	Stopped listening on port 56585
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594658942036	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Audre\\AppData\\Local\\Temp\\rust_mozprofilecQz5IL"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594658945167	Marionette	INFO	Listening on port 56940
+1594658945665	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1594658979510	Marionette	INFO	Stopped listening on port 56940
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594659200750	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Audre\\AppData\\Local\\Temp\\rust_mozprofilex6NnTd"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594659203486	Marionette	INFO	Listening on port 57259
+1594659203903	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1594659238909	Marionette	INFO	Stopped listening on port 57259
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594659386124	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Audre\\AppData\\Local\\Temp\\rust_mozprofile9SgoXT"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594659389283	Marionette	INFO	Listening on port 57608
+1594659389763	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1594659427512	Marionette	INFO	Stopped listening on port 57608
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594659962774	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Audre\\AppData\\Local\\Temp\\rust_mozprofile82RsJ3"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594659965547	Marionette	INFO	Listening on port 58068
+1594659965914	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1594659999772	Marionette	INFO	Stopped listening on port 58068
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594660673391	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Audre\\AppData\\Local\\Temp\\rust_mozprofileV6qn25"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594660676029	Marionette	INFO	Listening on port 58450
+1594660676085	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1594660735084	Marionette	INFO	Stopped listening on port 58450
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594660779058	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Audre\\AppData\\Local\\Temp\\rust_mozprofileT2YQYc"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594660781781	Marionette	INFO	Listening on port 58689
+1594660782199	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1594660879952	Marionette	INFO	Stopped listening on port 58689
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594661214992	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Audre\\AppData\\Local\\Temp\\rust_mozprofile7wNH8N"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594661218282	Marionette	INFO	Listening on port 59123
+1594661218663	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1594661332948	Marionette	INFO	Stopped listening on port 59123
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594661567389	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Audre\\AppData\\Local\\Temp\\rust_mozprofileJ86jiZ"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594661570533	Marionette	INFO	Listening on port 59727
+1594661570568	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: chrome://marionette/content/proxy.js, line 222: TypeError: this.browser.driver.dialogObserver is null
+JavaScript error: resource:///actors/AboutReaderChild.jsm, line 95: NS_ERROR_UNEXPECTED: 
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390133,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390133,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+port 60036
+1594661786347	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1594662055737	Marionette	INFO	Stopped listening on port 60036
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594672165303	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Audre\\AppData\\Local\\Temp\\rust_mozprofileq4s3yE"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594672168095	Marionette	INFO	Listening on port 65143
+1594672168464	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1594672213846	Marionette	INFO	Stopped listening on port 65143
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594672276985	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Audre\\AppData\\Local\\Temp\\rust_mozprofileJHj65z"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594672279939	Marionette	INFO	Listening on port 65384
+1594672280163	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1594672326474	Marionette	INFO	Stopped listening on port 65384
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594672359609	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Audre\\AppData\\Local\\Temp\\rust_mozprofileKbvivU"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594672362344	Marionette	INFO	Listening on port 49182
+1594672362763	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1594672464978	Marionette	INFO	Stopped listening on port 49182
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594731351389	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Audre\\AppData\\Local\\Temp\\rust_mozprofilegsyRaF"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594731354748	Marionette	INFO	Listening on port 50502
+1594731355008	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1594731460305	Marionette	INFO	Stopped listening on port 50502
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594731836765	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Audre\\AppData\\Local\\Temp\\rust_mozprofile115B4v"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594731839698	Marionette	INFO	Listening on port 51286
+1594731839907	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1594731946658	Marionette	INFO	Stopped listening on port 51286
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594732000271	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Audre\\AppData\\Local\\Temp\\rust_mozprofile1gMHBF"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594732003089	Marionette	INFO	Listening on port 51616
+1594732003401	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1594732099162	Marionette	INFO	Stopped listening on port 51616
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594807626395	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Audre\\AppData\\Local\\Temp\\rust_mozprofileRBrra8"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594807628947	Marionette	INFO	Listening on port 50032
+1594807629012	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1594807685153	Marionette	INFO	Stopped listening on port 50032
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594807865361	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Audre\\AppData\\Local\\Temp\\rust_mozprofileYMIR2A"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594807868059	Marionette	INFO	Listening on port 50445
+1594807868500	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1594807925638	Marionette	INFO	Stopped listening on port 50445
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594808002155	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Audre\\AppData\\Local\\Temp\\rust_mozprofilepqTsHv"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594808004780	Marionette	INFO	Listening on port 50730
+1594808004811	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1594808100473	Marionette	INFO	Stopped listening on port 50730
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594808206761	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Audre\\AppData\\Local\\Temp\\rust_mozprofileU93Efh"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594808209825	Marionette	INFO	Listening on port 51162
+1594808209920	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1594808264668	Marionette	INFO	Stopped listening on port 51162
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594808426794	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Audre\\AppData\\Local\\Temp\\rust_mozprofile6agIFm"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594808429347	Marionette	INFO	Listening on port 51523
+1594808429427	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1594808521309	Marionette	INFO	Stopped listening on port 51523
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594809717353	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Audre\\AppData\\Local\\Temp\\rust_mozprofileW3FFY2"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594809720114	Marionette	INFO	Listening on port 52649
+1594809720493	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1594809809517	Marionette	INFO	Stopped listening on port 52649
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594810087630	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Audre\\AppData\\Local\\Temp\\rust_mozprofile5fwpdM"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594810090206	Marionette	INFO	Listening on port 53295
+1594810090292	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1594810181058	Marionette	INFO	Stopped listening on port 53295
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594810307372	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Audre\\AppData\\Local\\Temp\\rust_mozprofileSUh1E0"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594810309877	Marionette	INFO	Listening on port 53723
+1594810310014	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1594810400751	Marionette	INFO	Stopped listening on port 53723
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594810669385	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Audre\\AppData\\Local\\Temp\\rust_mozprofilez6pgxP"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594810672320	Marionette	INFO	Listening on port 54251
+1594810672503	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1594810764477	Marionette	INFO	Stopped listening on port 54251
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594810932318	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Audre\\AppData\\Local\\Temp\\rust_mozprofileP9giFQ"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594810935016	Marionette	INFO	Listening on port 54678
+1594810935488	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1594811027317	Marionette	INFO	Stopped listening on port 54678
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594811367868	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Audre\\AppData\\Local\\Temp\\rust_mozprofileHHv6f7"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594811370503	Marionette	INFO	Listening on port 55269
+1594811370533	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1594811466724	Marionette	INFO	Stopped listening on port 55269
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594811520975	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Audre\\AppData\\Local\\Temp\\rust_mozprofileEQiRF1"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594811523573	Marionette	INFO	Listening on port 55637
+1594811523606	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1594811619606	Marionette	INFO	Stopped listening on port 55637
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594812024645	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Audre\\AppData\\Local\\Temp\\rust_mozprofileBOYw27"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594812027250	Marionette	INFO	Listening on port 56288
+1594812027280	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1594812119000	Marionette	INFO	Stopped listening on port 56288
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594812341161	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Audre\\AppData\\Local\\Temp\\rust_mozprofileFNptjb"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594812343964	Marionette	INFO	Listening on port 56788
+1594812344332	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1594812437786	Marionette	INFO	Stopped listening on port 56788
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594812460049	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Audre\\AppData\\Local\\Temp\\rust_mozprofileFdniJF"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594812462616	Marionette	INFO	Listening on port 57247
+1594812462663	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: chrome://marionette/content/proxy.js, line 222: TypeError: this.browser.driver.dialogObserver is null
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: chrome://marionette/content/proxy.js, line 222: TypeError: this.browser.driver.dialogObserver is null
+1594814193080	Marionette	INFO	Stopped listening on port 57247
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+88
+1594812644112	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1594813249552	Marionette	INFO	Stopped listening on port 53888
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594814155843	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Audre\\AppData\\Local\\Temp\\rust_mozprofileM47xt2"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594814158548	Marionette	INFO	Listening on port 56884
+1594814158969	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1594814294767	Marionette	INFO	Stopped listening on port 56884
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594814502648	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Audre\\AppData\\Local\\Temp\\rust_mozprofile6ljeTA"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594814505430	Marionette	INFO	Listening on port 57496
+1594814505818	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1594814578685	Marionette	INFO	Stopped listening on port 57496
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594814836176	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Audre\\AppData\\Local\\Temp\\rust_mozprofilecRym0Q"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594814839023	Marionette	INFO	Listening on port 58022
+1594814839302	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1594814910489	Marionette	INFO	Stopped listening on port 58022
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594815004743	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Audre\\AppData\\Local\\Temp\\rust_mozprofileMielT0"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594815007430	Marionette	INFO	Listening on port 58345
+1594815007877	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1594815073430	Marionette	INFO	Stopped listening on port 58345
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594815169784	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Audre\\AppData\\Local\\Temp\\rust_mozprofiletVVtsT"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594815172711	Marionette	INFO	Listening on port 58650
+1594815172907	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1594815241196	Marionette	INFO	Stopped listening on port 58650
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594819843523	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Audre\\AppData\\Local\\Temp\\rust_mozprofileYTT9yT"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594819846465	Marionette	INFO	Listening on port 62502
+1594819846665	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1594819917800	Marionette	INFO	Stopped listening on port 62502
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594820000533	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Audre\\AppData\\Local\\Temp\\rust_mozprofilejG332H"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594820003106	Marionette	INFO	Listening on port 62800
+1594820003159	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1594820075747	Marionette	INFO	Stopped listening on port 62800
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594820183831	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Audre\\AppData\\Local\\Temp\\rust_mozprofileyyjaBh"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594820186728	Marionette	INFO	Listening on port 63338
+1594820186952	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: chrome://marionette/content/proxy.js, line 222: TypeError: this.browser.driver.dialogObserver is null
+JavaScript error: chrome://marionette/content/proxy.js, line 222: TypeError: this.browser.driver.dialogObserver is null
+1594820372329	Marionette	INFO	Stopped listening on port 63338
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+m, line 66: Error: Can't find profile directory.
+1594820371294	Marionette	INFO	Listening on port 63606
+1594820371447	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1594820980093	Marionette	INFO	Stopped listening on port 63606
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1594831879823	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Audre\\AppData\\Local\\Temp\\rust_mozprofiletUCFsk"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594831883626	Marionette	INFO	Listening on port 57126
+1594831883946	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1594833519218	Marionette	INFO	Stopped listening on port 57126
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595005730350	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Audre\\AppData\\Local\\Temp\\rust_mozprofile0og7PJ"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595005733475	Marionette	INFO	Listening on port 61165
+1595005733974	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1595005801983	Marionette	INFO	Stopped listening on port 61165
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595236655043	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Audre\\AppData\\Local\\Temp\\rust_mozprofile3vwbLg"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595236658114	Marionette	INFO	Listening on port 60316
+1595236658159	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1595237386341	Marionette	INFO	Stopped listening on port 60316
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595237907956	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Audre\\AppData\\Local\\Temp\\rust_mozprofileMKT2y4"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595237911725	Marionette	INFO	Listening on port 65252
+1595237912071	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1595238905519	Marionette	INFO	Stopped listening on port 65252
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595244237824	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Audre\\AppData\\Local\\Temp\\rust_mozprofileZPnkyl"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595244241631	Marionette	INFO	Listening on port 60531
+1595244241937	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.hearthpwn.com/js/hearthpwn.js?v=AbaMQWtISri5OzrOIdsQ2hgfiDePQt2USQIPxOBxYT41, line 457: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt_v3l/202007081540/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt_v3l/202007081540/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt_v3l/202007081540/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt_v3l/202007081540/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt_v3l/202007081540/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt_v3l/202007081540/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt_v3l/202007081540/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt_v3l/202007081540/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt_v3l/202007081540/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt_v3l/202007081540/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt_v3l/202007081540/wrap.js, line 8: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt_v3l/202007081540/wrap.js, line 8: unreachable code after return statement
+1595244928844	Marionette	INFO	Stopped listening on port 60531
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595514445603	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Audre\\AppData\\Local\\Temp\\rust_mozprofileSJCQWa"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595514448936	Marionette	INFO	Listening on port 58863
+1595514449227	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1595514762447	Marionette	INFO	Stopped listening on port 58863
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1596805320258	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Audre\\AppData\\Local\\Temp\\rust_mozprofile9iynAg"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596805322949	Marionette	INFO	Listening on port 49573
+1596805323397	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1596805644515	Marionette	INFO	Stopped listening on port 49573
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597159271046	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Audre\\AppData\\Local\\Temp\\rust_mozprofileaepadB"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597159274344	Marionette	INFO	Listening on port 62151
+1597159274667	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: chrome://marionette/content/proxy.js, line 222: TypeError: this.browser.driver.dialogObserver is null
+JavaScript error: chrome://marionette/content/proxy.js, line 222: TypeError: this.browser.driver.dialogObserver is null
+1597159420694	Marionette	INFO	Stopped listening on port 62151
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Store.jsm, line 66: Error: Can't find profile directory.
+1597159370661	Marionette	INFO	Listening on port 62388
+1597159370997	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: chrome://marionette/content/proxy.js, line 222: TypeError: this.browser.driver.dialogObserver is null
+JavaScript error: chrome://marionette/content/proxy.js, line 222: TypeError: this.browser.driver.dialogObserver is null
+1597160580168	Marionette	INFO	Stopped listening on port 62388
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+reading cache file:" (new Error("", "(unknown module)"))
+1597159552352	Marionette	INFO	Listening on port 62694
+1597159552629	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1597159584788	Marionette	INFO	Stopped listening on port 62694
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597159913653	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Audre\\AppData\\Local\\Temp\\rust_mozprofileyzQbzN"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597159917337	Marionette	INFO	Listening on port 63434
+1597159917788	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: chrome://marionette/content/proxy.js, line 222: TypeError: this.browser.driver.dialogObserver is null
+JavaScript error: chrome://marionette/content/proxy.js, line 222: TypeError: this.browser.driver.dialogObserver is null
+1597163580436	Marionette	INFO	Stopped listening on port 63434
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+35871	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1597159967900	Marionette	INFO	Stopped listening on port 63573
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597160518475	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Audre\\AppData\\Local\\Temp\\rust_mozprofileIe9krc"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597160521469	Marionette	INFO	Listening on port 64297
+1597160521598	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1597160566237	Marionette	INFO	Stopped listening on port 64297
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597160729032	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Audre\\AppData\\Local\\Temp\\rust_mozprofileetbmkE"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597160731933	Marionette	INFO	Listening on port 64800
+1597160732155	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1597160782198	Marionette	INFO	Stopped listening on port 64800
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597161287647	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Audre\\AppData\\Local\\Temp\\rust_mozprofile3s7Pa1"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597161290546	Marionette	INFO	Listening on port 49660
+1597161290782	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1597161323268	Marionette	INFO	Stopped listening on port 49660
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597161366715	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Audre\\AppData\\Local\\Temp\\rust_mozprofileQHYbXc"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597161369769	Marionette	INFO	Listening on port 49875
+1597161369830	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1597161400667	Marionette	INFO	Stopped listening on port 49875
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597161636573	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Audre\\AppData\\Local\\Temp\\rust_mozprofilequZd5x"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597161639827	Marionette	INFO	Listening on port 50171
+1597161640191	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1597161671810	Marionette	INFO	Stopped listening on port 50171
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597161981811	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Audre\\AppData\\Local\\Temp\\rust_mozprofiledb7eDS"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597161985134	Marionette	INFO	Listening on port 50545
+1597161985435	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1597162017693	Marionette	INFO	Stopped listening on port 50545
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597162148163	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Audre\\AppData\\Local\\Temp\\rust_mozprofileCHHT3p"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597162151276	Marionette	INFO	Listening on port 50996
+1597162151290	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1597162187106	Marionette	INFO	Stopped listening on port 50996
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597162288145	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Audre\\AppData\\Local\\Temp\\rust_mozprofileR5azlZ"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597162291176	Marionette	INFO	Listening on port 51221
+1597162291264	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1597162322946	Marionette	INFO	Stopped listening on port 51221
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597163078068	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Audre\\AppData\\Local\\Temp\\rust_mozprofileNQC3K5"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597163081185	Marionette	INFO	Listening on port 52002
+1597163081684	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1597163116831	Marionette	INFO	Stopped listening on port 52002
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597163461338	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Audre\\AppData\\Local\\Temp\\rust_mozprofilehguXJ2"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597163465668	Marionette	INFO	Listening on port 52583
+1597163466071	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: chrome://marionette/content/proxy.js, line 222: TypeError: this.browser.driver.dialogObserver is null
+JavaScript error: chrome://marionette/content/proxy.js, line 222: TypeError: this.browser.driver.dialogObserver is null
+1597163583807	Marionette	INFO	Stopped listening on port 52583
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597163596276	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Audre\\AppData\\Local\\Temp\\rust_mozprofiles6iurE"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597163599316	Marionette	INFO	Listening on port 52942
+1597163599391	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1597163621425	Marionette	INFO	Stopped listening on port 52942
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597163629503	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Audre\\AppData\\Local\\Temp\\rust_mozprofilewbdN10"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597163632536	Marionette	INFO	Listening on port 53105
+1597163632617	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1597163720678	Marionette	INFO	Stopped listening on port 53105
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597163830596	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Audre\\AppData\\Local\\Temp\\rust_mozprofilesH0dD1"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597163833904	Marionette	INFO	Listening on port 53386
+1597163834213	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6B0029,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1597163848904	Marionette	INFO	Stopped listening on port 53386
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597163856161	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Audre\\AppData\\Local\\Temp\\rust_mozprofileeIH4dk"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597163859051	Marionette	INFO	Listening on port 53535
+1597163859274	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1597163911039	Marionette	INFO	Stopped listening on port 53535
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597165131020	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Audre\\AppData\\Local\\Temp\\rust_mozprofile2kBpaG"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597165134196	Marionette	INFO	Listening on port 55972
+1597165134637	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1597165185122	Marionette	INFO	Stopped listening on port 55972
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597165476824	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Audre\\AppData\\Local\\Temp\\rust_mozprofile1Dr3yG"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597165480341	Marionette	INFO	Listening on port 56720
+1597165480443	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1597165532593	Marionette	INFO	Stopped listening on port 56720
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597165683722	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Audre\\AppData\\Local\\Temp\\rust_mozprofile0xNnRi"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597165686785	Marionette	INFO	Listening on port 57276
+1597165686885	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://magic.wizards.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.9/jquery.min.js?v=1.9.1, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1597165735859	Marionette	INFO	Stopped listening on port 57276
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+

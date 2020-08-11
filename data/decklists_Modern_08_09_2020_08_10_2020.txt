@@ -1,0 +1,2629 @@
+Modern 08/09/2020 08/10/2020
+https://magic.wizards.com/en/articles/archive/mtgo-standings/modern-challenge-2020-08-10
+https://magic.wizards.com/en/articles/archive/mtgo-standings/modern-showcase-challenge-2020-08-09
+
+
+
+
+
+CATEGORY :
+Modern Challenge
+AUGUST
+10
+2020
+
+DECKLIST :
+MISSTRIGGER (1ST
+PLACE)
+Creature (27)
+3 Benthic Biomancer
+4 Harbinger of the Tides
+4 Lord of Atlantis
+4 Master of the Pearl Trident
+4 Merfolk Trickster
+4 Silvergill Adept
+4 Unsettled Mariner
+Instant (6)
+3 Dismember
+3 Force of Negation
+Artifact (4)
+4 Aether Vial
+Enchantment (3)
+3 Spreading Seas
+Land (20)
+2 Cavern of Souls
+8 Island
+3 Mutavault
+3 Seachrome Coast
+4 Wanderwine Hub
+60 Cards
+Sideboard (15)
+1 Force of Negation
+1 Spreading Seas
+3 Chalice of the Void
+2 Echoing Truth
+1 Lurrus of the Dream-Den
+2 Mana Leak
+2 Relic of Progenitus
+3 Tidebinder Mage
+
+DECKLIST :
+KTHANAKIT26 (2ND
+PLACE)
+Creature (12)
+4 Eidolon of the Great Revel
+4 Goblin Guide
+4 Monastery Swiftspear
+Sorcery (12)
+4 Lava Spike
+4 Rift Bolt
+4 Skewer the Critics
+Instant (16)
+4 Boros Charm
+4 Lightning Bolt
+2 Lightning Helix
+2 Searing Blaze
+4 Skullcrack
+Land (20)
+2 Bloodstained Mire
+1 Fiery Islet
+4 Inspiring Vantage
+3 Mountain
+2 Sacred Foundry
+2 Scalding Tarn
+4 Sunbaked Canyon
+2 Wooded Foothills
+60 Cards
+Sideboard (15)
+4 Kor Firewalker
+3 Path to Exile
+3 Rest in Peace
+3 Smash to Smithereens
+2 Wear // Tear
+
+DECKLIST :
+STRAWBERRYPI (3RD
+PLACE)
+Creature (16)
+4 Chandra's Incinerator
+4 Eidolon of the Great Revel
+4 Goblin Guide
+4 Monastery Swiftspear
+Sorcery (10)
+4 Lava Spike
+4 Rift Bolt
+2 Skewer the Critics
+Instant (10)
+4 Boros Charm
+4 Lightning Bolt
+2 Skullcrack
+Enchantment (4)
+4 Seal of Fire
+Land (20)
+4 Bloodstained Mire
+4 Inspiring Vantage
+3 Mountain
+2 Sacred Foundry
+4 Sunbaked Canyon
+3 Wooded Foothills
+60 Cards
+Sideboard (15)
+2 Skullcrack
+1 Exquisite Firecraft
+3 Kor Firewalker
+2 Path to Exile
+2 Rest in Peace
+2 Searing Blood
+3 Smash to Smithereens
+
+DECKLIST :
+YUSEIMAX (4TH
+PLACE)
+Creature (27)
+3 Bomat Courier
+3 Drogskol Reaver
+1 Ghor-Clan Rampager
+1 Klothys, God of Destiny
+4 Lotleth Troll
+1 Questing Beast
+3 Samut, Voice of Dissent
+4 Soulflayer
+4 Sylvan Caryatid
+3 Zetalpa, Primal Dawn
+Sorcery (9)
+1 Collective Brutality
+4 Gather the Pack
+4 Traverse the Ulvenwald
+Instant (5)
+4 Grisly Salvage
+1 Lightning Axe
+Land (19)
+2 Blood Crypt
+4 Bloodstained Mire
+2 Blooming Marsh
+1 Cavern of Souls
+1 Forest
+1 Nurturing Peatland
+2 Overgrown Tomb
+2 Swamp
+4 Verdant Catacombs
+60 Cards
+Sideboard (15)
+1 Collective Brutality
+1 Lightning Axe
+3 Abrupt Decay
+1 Ancient Grudge
+1 Ashiok, Dream Render
+3 Damping Sphere
+4 Thoughtseize
+1 Veil of Summer
+
+DECKLIST :
+KURUSU (5TH
+PLACE)
+Creature (32)
+3 Birds of Paradise
+1 Eidolon of Rhetoric
+2 Eternal Witness
+2 Gilded Goose
+1 Kiki-Jiki, Mirror Breaker
+1 Knight of Autumn
+1 Magus of the Moon
+4 Restoration Angel
+1 Scavenging Ooze
+4 Seasoned Pyromancer
+4 Stoneforge Mystic
+4 Voice of Resurgence
+4 Wall of Blossoms
+Sorcery (3)
+2 Eldritch Evolution
+1 Flame Slash
+Instant (10)
+4 Chord of Calling
+2 Lightning Bolt
+4 Path to Exile
+Artifact (2)
+1 Batterskull
+1 Sword of Fire and Ice
+Enchantment (4)
+4 Utopia Sprawl
+Land (29)
+2 Arid Mesa
+1 Grove of the Burnwillows
+3 Misty Rainforest
+2 Prismatic Vista
+1 Sacred Foundry
+4 Snow-Covered Forest
+1 Snow-Covered Mountain
+2 Snow-Covered Plains
+2 Stomping Ground
+1 Sunbaked Canyon
+1 Sunpetal Grove
+1 Temple Garden
+4 Windswept Heath
+4 Wooded Foothills
+80 Cards
+Sideboard (15)
+1 Knight of Autumn
+1 Scavenging Ooze
+1 Flame Slash
+3 Blood Moon
+2 Boil
+3 Fiery Justice
+3 Relic of Progenitus
+1 Yorion, Sky Nomad
+
+DECKLIST :
+LAPLASJAN (6TH
+PLACE)
+Creature (23)
+4 Birds of Paradise
+4 Devoted Druid
+2 Duskwatch Recruiter
+4 Giver of Runes
+2 Noble Hierarch
+1 Spellskite
+4 Vizier of Remedies
+2 Walking Ballista
+Sorcery (9)
+1 Eldritch Evolution
+4 Finale of Devastation
+4 Postmortem Lunge
+Instant (4)
+4 Eladamri's Call
+Artifact (4)
+4 Mishra's Bauble
+Land (20)
+2 Forest
+3 Horizon Canopy
+1 Plains
+3 Razorverge Thicket
+3 Temple Garden
+1 Verdant Catacombs
+4 Windswept Heath
+3 Wooded Foothills
+60 Cards
+Sideboard (15)
+2 Blossoming Defense
+4 Burrenton Forge-Tender
+1 Caustic Caterpillar
+1 Lurrus of the Dream-Den
+3 Path to Exile
+4 Veil of Summer
+
+DECKLIST :
+_BATUTINHA_ (7TH
+PLACE)
+Creature (13)
+4 Death's Shadow
+1 Ghor-Clan Rampager
+4 Street Wraith
+4 Tarmogoyf
+Sorcery (11)
+4 Inquisition of Kozilek
+4 Thoughtseize
+3 Traverse the Ulvenwald
+Instant (11)
+1 Assassin's Trophy
+2 Cling to Dust
+2 Dismember
+4 Fatal Push
+2 Temur Battle Rage
+Artifact (4)
+4 Mishra's Bauble
+Enchantment (1)
+1 Seal of Fire
+Land (19)
+2 Blood Crypt
+4 Bloodstained Mire
+1 Forest
+3 Nurturing Peatland
+2 Overgrown Tomb
+1 Stomping Ground
+1 Swamp
+4 Verdant Catacombs
+1 Wooded Foothills
+Other (1)
+1 Lurrus of the Dream-Den
+60 Cards
+Sideboard (15)
+1 Assassin's Trophy
+2 Ashiok, Dream Render
+2 Collective Brutality
+2 Damping Sphere
+2 Kolaghan's Command
+2 Nihil Spellbomb
+1 Plague Engineer
+1 Veil of Summer
+1 Wrenn and Six
+1 Yixlid Jailer
+
+DECKLIST :
+SSKARM (8TH
+PLACE)
+Planeswalker (2)
+2 Wrenn and Six
+Creature (4)
+4 Uro, Titan of Nature's Wrath
+Sorcery (4)
+3 Scapeshift
+1 Sweltering Suns
+Instant (22)
+3 Censor
+3 Cryptic Command
+4 Growth Spiral
+4 Lightning Bolt
+4 Opt
+3 Remand
+1 Wilt
+Land (28)
+2 Breeding Pool
+1 Forest
+3 Island
+4 Ketria Triome
+4 Misty Rainforest
+1 Mountain
+2 Mystic Sanctuary
+3 Scalding Tarn
+4 Steam Vents
+2 Stomping Ground
+2 Valakut, the Molten Pinnacle
+60 Cards
+Sideboard (15)
+4 Aether Gust
+2 Anger of the Gods
+1 Flame Slash
+3 Mystical Dispute
+3 Veil of Summer
+2 Weather the Storm
+
+DECKLIST :
+ASMODEAN1990 (9TH
+PLACE)
+Planeswalker (6)
+3 Liliana of the Veil
+3 Wrenn and Six
+Creature (13)
+3 Bloodbraid Elf
+1 Kroxa, Titan of Death's Hunger
+2 Scavenging Ooze
+3 Seasoned Pyromancer
+4 Tarmogoyf
+Sorcery (7)
+4 Inquisition of Kozilek
+1 Maelstrom Pulse
+2 Thoughtseize
+Instant (10)
+2 Fatal Push
+2 Kolaghan's Command
+4 Lightning Bolt
+2 Terminate
+Land (24)
+4 Blackcleave Cliffs
+1 Blood Crypt
+3 Bloodstained Mire
+1 Forest
+1 Mountain
+1 Nurturing Peatland
+2 Overgrown Tomb
+2 Raging Ravine
+1 Stomping Ground
+2 Swamp
+4 Verdant Catacombs
+2 Wooded Foothills
+60 Cards
+Sideboard (15)
+2 Ashiok, Dream Render
+2 Boil
+3 Collective Brutality
+1 Fulminator Mage
+1 Huntmaster of the Fells
+1 Klothys, God of Destiny
+2 Nihil Spellbomb
+2 Pillage
+1 Plague Engineer
+
+DECKLIST :
+MOGGED (10TH
+PLACE)
+Creature (17)
+2 Bedlam Reveler
+4 Monastery Swiftspear
+4 Soul-Scar Mage
+3 Sprite Dragon
+4 Stormwing Entity
+Sorcery (4)
+4 Light Up the Stage
+Instant (21)
+2 Burst Lightning
+3 Gut Shot
+4 Lava Dart
+4 Lightning Bolt
+4 Manamorphose
+1 Mutagenic Growth
+3 Opt
+Land (18)
+3 Fiery Islet
+5 Mountain
+3 Scalding Tarn
+4 Spirebluff Canal
+3 Steam Vents
+60 Cards
+Sideboard (15)
+2 Abrade
+3 Aether Gust
+2 Dragon's Claw
+2 Flame Slash
+3 Spell Pierce
+3 Tormod's Crypt
+
+DECKLIST :
+AURON12 (11TH
+PLACE)
+Creature (17)
+2 Bedlam Reveler
+4 Monastery Swiftspear
+4 Soul-Scar Mage
+3 Sprite Dragon
+4 Stormwing Entity
+Sorcery (4)
+4 Light Up the Stage
+Instant (21)
+3 Gut Shot
+4 Lava Dart
+4 Lightning Bolt
+4 Manamorphose
+3 Mutagenic Growth
+3 Opt
+Land (18)
+3 Arid Mesa
+3 Fiery Islet
+3 Mountain
+4 Spirebluff Canal
+2 Steam Vents
+3 Wooded Foothills
+60 Cards
+Sideboard (15)
+3 Abrade
+3 Aether Gust
+3 Dragon's Claw
+3 Spell Pierce
+3 Surgical Extraction
+
+DECKLIST :
+DIDOGUIDOTTI1 (12TH
+PLACE)
+Planeswalker (1)
+1 Wrenn and Six
+Creature (4)
+1 Snapcaster Mage
+3 Uro, Titan of Nature's Wrath
+Instant (26)
+1 Archmage's Charm
+3 Cryptic Command
+4 Fact or Fiction
+3 Force of Negation
+4 Growth Spiral
+4 Lightning Bolt
+1 Nexus of Fate
+2 Opt
+4 Remand
+Enchantment (2)
+2 Wilderness Reclamation
+Land (27)
+1 Blast Zone
+2 Breeding Pool
+1 Castle Vantress
+1 Field of Ruin
+2 Field of the Dead
+1 Forest
+2 Island
+1 Ketria Triome
+4 Misty Rainforest
+1 Mountain
+2 Mystic Sanctuary
+4 Scalding Tarn
+1 Snow-Covered Forest
+1 Snow-Covered Island
+1 Steam Vents
+1 Stomping Ground
+1 Wooded Foothills
+60 Cards
+Sideboard (15)
+1 Abrade
+4 Aether Gust
+1 Ancient Grudge
+2 Anger of the Gods
+1 Ashiok, Dream Render
+1 Ceremonious Rejection
+1 Flame Slash
+1 Jace, the Mind Sculptor
+1 Mystical Dispute
+1 Shark Typhoon
+1 Veil of Summer
+
+DECKLIST :
+VASHEZZO (13TH
+PLACE)
+Planeswalker (2)
+2 Wrenn and Six
+Creature (4)
+1 Snapcaster Mage
+3 Uro, Titan of Nature's Wrath
+Instant (23)
+3 Cryptic Command
+4 Fact or Fiction
+3 Force of Negation
+4 Growth Spiral
+4 Lightning Bolt
+1 Nexus of Fate
+4 Remand
+Enchantment (3)
+1 Shark Typhoon
+2 Wilderness Reclamation
+Land (28)
+1 Blast Zone
+2 Breeding Pool
+1 Castle Vantress
+1 Field of Ruin
+2 Field of the Dead
+1 Forest
+2 Island
+1 Ketria Triome
+4 Misty Rainforest
+1 Mountain
+2 Mystic Sanctuary
+1 Oboro, Palace in the Clouds
+4 Polluted Delta
+1 Snow-Covered Forest
+1 Snow-Covered Island
+1 Steam Vents
+1 Stomping Ground
+1 Wooded Foothills
+60 Cards
+Sideboard (15)
+1 Shark Typhoon
+1 Abrade
+4 Aether Gust
+2 Anger of the Gods
+1 Ashiok, Dream Render
+1 Ceremonious Rejection
+2 Crumble to Dust
+1 Flame Slash
+2 Veil of Summer
+
+DECKLIST :
+MICANCONA (14TH
+PLACE)
+Planeswalker (2)
+2 Chandra, Torch of Defiance
+Creature (23)
+4 Arbor Elf
+4 Bloodbraid Elf
+2 Bonecrusher Giant
+3 Glorybringer
+3 Klothys, God of Destiny
+3 Scavenging Ooze
+4 Seasoned Pyromancer
+Sorcery (3)
+3 Pillage
+Instant (4)
+4 Lightning Bolt
+Enchantment (8)
+4 Blood Moon
+4 Utopia Sprawl
+Land (20)
+6 Forest
+1 Mountain
+4 Stomping Ground
+1 Verdant Catacombs
+4 Windswept Heath
+4 Wooded Foothills
+60 Cards
+Sideboard (15)
+2 Anger of the Gods
+2 Boil
+1 Elder Gargaroth
+2 Grafdigger's Cage
+2 Obstinate Baloth
+2 Relic of Progenitus
+2 Veil of Summer
+2 Weather the Storm
+
+DECKLIST :
+GRANHAM (15TH
+PLACE)
+Planeswalker (12)
+4 Karn Liberated
+4 Karn, the Great Creator
+2 Ugin, the Ineffable
+2 Ugin, the Spirit Dragon
+Creature (9)
+1 Emrakul, the Promised End
+1 Kozilek, Butcher of Truth
+1 Ulamog, the Ceaseless Hunger
+2 Walking Ballista
+4 Wurmcoil Engine
+Sorcery (9)
+1 All Is Dust
+4 Ancient Stirrings
+4 Sylvan Scrying
+Artifact (12)
+4 Chromatic Sphere
+4 Chromatic Star
+4 Expedition Map
+Land (18)
+1 Blast Zone
+4 Forest
+1 Sanctum of Ugin
+4 Urza's Mine
+4 Urza's Power Plant
+4 Urza's Tower
+60 Cards
+Sideboard (15)
+2 Dismember
+1 Elixir of Immortality
+1 Ensnaring Bridge
+2 Leyline of Sanctity
+1 Liquimetal Coating
+1 Relic of Progenitus
+1 Sorcerous Spyglass
+1 Sundering Titan
+1 Trinisphere
+2 Veil of Summer
+2 Wilt
+
+DECKLIST :
+SIOMOMI (16TH
+PLACE)
+Planeswalker (6)
+4 Karn, the Great Creator
+2 Ugin, the Ineffable
+Creature (15)
+4 Matter Reshaper
+4 Reality Smasher
+4 Thought-Knot Seer
+3 Walking Ballista
+Sorcery (1)
+1 All Is Dust
+Instant (3)
+2 Dismember
+1 Spatial Contortion
+Artifact (11)
+4 Chalice of the Void
+4 Expedition Map
+3 Mazemind Tome
+Land (24)
+1 Blast Zone
+2 Cavern of Souls
+4 Eldrazi Temple
+1 Scavenger Grounds
+1 Tectonic Edge
+4 Urza's Mine
+4 Urza's Power Plant
+4 Urza's Tower
+3 Wastes
+60 Cards
+Sideboard (15)
+1 Walking Ballista
+3 Spatial Contortion
+1 Ensnaring Bridge
+1 Grafdigger's Cage
+1 Liquimetal Coating
+1 Mystic Forge
+2 Relic of Progenitus
+1 Skysovereign, Consul Flagship
+1 Sorcerous Spyglass
+1 Tormod's Crypt
+1 Trinisphere
+1 Wurmcoil Engine
+
+DECKLIST :
+LORD_BEERUS (17TH
+PLACE)
+Planeswalker (2)
+2 Chandra, Torch of Defiance
+Creature (23)
+4 Arbor Elf
+4 Bloodbraid Elf
+2 Bonecrusher Giant
+2 Elder Gargaroth
+2 Glorybringer
+3 Klothys, God of Destiny
+2 Scavenging Ooze
+4 Seasoned Pyromancer
+Sorcery (3)
+3 Pillage
+Instant (4)
+4 Lightning Bolt
+Enchantment (8)
+4 Blood Moon
+4 Utopia Sprawl
+Land (20)
+2 Misty Rainforest
+6 Snow-Covered Forest
+1 Snow-Covered Mountain
+4 Stomping Ground
+2 Verdant Catacombs
+1 Windswept Heath
+4 Wooded Foothills
+60 Cards
+Sideboard (15)
+1 Abrade
+2 Anger of the Gods
+1 Arasta of the Endless Web
+2 Boil
+2 Cindervines
+2 Collector Ouphe
+2 Obstinate Baloth
+2 Relic of Progenitus
+1 Weather the Storm
+
+DECKLIST :
+GERSCHI (18TH
+PLACE)
+Creature (16)
+4 Abbot of Keral Keep
+4 Kiln Fiend
+4 Monastery Swiftspear
+4 Soul-Scar Mage
+Sorcery (4)
+4 Thoughtseize
+Instant (15)
+2 Cling to Dust
+4 Lava Dart
+4 Lightning Bolt
+2 Manamorphose
+3 Mutagenic Growth
+Artifact (4)
+4 Mishra's Bauble
+Enchantment (2)
+2 Seal of Fire
+Land (19)
+4 Blackcleave Cliffs
+2 Blood Crypt
+4 Bloodstained Mire
+3 Mountain
+1 Sacred Foundry
+1 Scalding Tarn
+3 Sunbaked Canyon
+1 Swamp
+60 Cards
+Sideboard (15)
+1 Boil
+2 Dragon's Claw
+2 Fatal Push
+2 Flame Slash
+1 Lurrus of the Dream-Den
+3 Molten Rain
+2 Nihil Spellbomb
+2 Wear // Tear
+
+DECKLIST :
+OSCAR_FRANCO (19TH
+PLACE)
+Planeswalker (7)
+4 Liliana of the Veil
+3 Wrenn and Six
+Creature (11)
+4 Bloodbraid Elf
+3 Scavenging Ooze
+4 Tarmogoyf
+Sorcery (8)
+4 Inquisition of Kozilek
+2 Maelstrom Pulse
+2 Thoughtseize
+Instant (10)
+2 Fatal Push
+2 Kolaghan's Command
+4 Lightning Bolt
+2 Terminate
+Land (24)
+4 Blackcleave Cliffs
+1 Blood Crypt
+2 Bloodstained Mire
+1 Forest
+1 Mountain
+2 Nurturing Peatland
+2 Overgrown Tomb
+2 Raging Ravine
+1 Stomping Ground
+2 Swamp
+4 Verdant Catacombs
+2 Wooded Foothills
+60 Cards
+Sideboard (15)
+1 Anger of the Gods
+1 Ashiok, Dream Render
+1 Boil
+1 Choke
+3 Collective Brutality
+4 Fulminator Mage
+1 Nihil Spellbomb
+1 Plague Engineer
+2 Surgical Extraction
+
+DECKLIST :
+HT991122 (20TH
+PLACE)
+Creature (17)
+1 Bedlam Reveler
+4 Monastery Swiftspear
+4 Soul-Scar Mage
+4 Sprite Dragon
+4 Stormwing Entity
+Sorcery (5)
+4 Light Up the Stage
+1 Rift Bolt
+Instant (19)
+1 Burst Lightning
+3 Gut Shot
+4 Lava Dart
+4 Lightning Bolt
+4 Manamorphose
+3 Mutagenic Growth
+Land (19)
+3 Arid Mesa
+4 Fiery Islet
+2 Mountain
+4 Spirebluff Canal
+3 Steam Vents
+3 Wooded Foothills
+60 Cards
+Sideboard (15)
+2 Abrade
+2 Aether Gust
+2 Blood Moon
+3 Ceremonious Rejection
+4 Leyline of the Void
+2 Spell Pierce
+
+DECKLIST :
+CRUSHERBOTBG (21ST
+PLACE)
+Creature (16)
+4 Memnite
+4 Ornithopter
+4 Puresteel Paladin
+4 Stoneforge Mystic
+Sorcery (4)
+4 Steelshaper's Gift
+Artifact (16)
+1 Batterskull
+3 Colossus Hammer
+2 Cranial Plating
+3 Mishra's Bauble
+2 Paradise Mantle
+1 Shadowspear
+1 Sword of Feast and Famine
+1 Sword of Fire and Ice
+2 Welding Jar
+Enchantment (5)
+1 On Thin Ice
+4 Sigarda's Aid
+Land (19)
+1 Castle Ardenvale
+4 Inkmoth Nexus
+4 Silent Clearing
+10 Snow-Covered Plains
+60 Cards
+Sideboard (15)
+2 On Thin Ice
+3 Burrenton Forge-Tender
+2 Damping Sphere
+2 Disenchant
+3 Pithing Needle
+2 Rest in Peace
+1 Sword of Sinew and Steel
+
+DECKLIST :
+SEBASTIANSTUECKL (22ND
+PLACE)
+Planeswalker (3)
+3 Chandra, Torch of Defiance
+Creature (27)
+4 Arbor Elf
+4 Bloodbraid Elf
+3 Bonecrusher Giant
+3 Glorybringer
+3 Klothys, God of Destiny
+4 Magus of the Moon
+2 Scavenging Ooze
+4 Seasoned Pyromancer
+Sorcery (2)
+2 Pillage
+Instant (4)
+4 Lightning Bolt
+Enchantment (4)
+4 Utopia Sprawl
+Land (20)
+4 Misty Rainforest
+6 Snow-Covered Forest
+1 Snow-Covered Mountain
+4 Stomping Ground
+1 Verdant Catacombs
+4 Wooded Foothills
+60 Cards
+Sideboard (15)
+1 Pillage
+2 Abrade
+2 Choke
+2 Collector Ouphe
+1 Grafdigger's Cage
+3 Obstinate Baloth
+2 Relic of Progenitus
+2 Veil of Summer
+
+DECKLIST :
+VENOM1 (23RD
+PLACE)
+Planeswalker (6)
+4 Karn, the Great Creator
+2 Ugin, the Ineffable
+Creature (15)
+4 Matter Reshaper
+4 Reality Smasher
+4 Thought-Knot Seer
+3 Walking Ballista
+Sorcery (1)
+1 All Is Dust
+Instant (2)
+2 Dismember
+Artifact (12)
+4 Chalice of the Void
+4 Expedition Map
+3 Mazemind Tome
+1 Mind Stone
+Land (24)
+2 Blast Zone
+2 Cavern of Souls
+4 Eldrazi Temple
+1 Scavenger Grounds
+1 Tectonic Edge
+4 Urza's Mine
+4 Urza's Power Plant
+4 Urza's Tower
+2 Wastes
+60 Cards
+Sideboard (15)
+1 Walking Ballista
+1 Ensnaring Bridge
+1 Grafdigger's Cage
+1 Liquimetal Coating
+1 Mystic Forge
+1 Ratchet Bomb
+2 Relic of Progenitus
+1 Skysovereign, Consul Flagship
+1 Sorcerous Spyglass
+2 Spatial Contortion
+1 Sundering Titan
+1 Tormod's Crypt
+1 Wurmcoil Engine
+
+DECKLIST :
+ALEXTHEGREAT38 (24TH
+PLACE)
+Creature (17)
+2 Bedlam Reveler
+4 Monastery Swiftspear
+4 Soul-Scar Mage
+3 Sprite Dragon
+4 Stormwing Entity
+Sorcery (3)
+3 Light Up the Stage
+Instant (22)
+2 Burst Lightning
+2 Gut Shot
+4 Lava Dart
+4 Lightning Bolt
+4 Manamorphose
+3 Mutagenic Growth
+3 Opt
+Land (18)
+4 Arid Mesa
+3 Fiery Islet
+3 Mountain
+4 Spirebluff Canal
+2 Steam Vents
+2 Wooded Foothills
+60 Cards
+Sideboard (15)
+2 Abrade
+1 Aether Gust
+2 Blood Moon
+1 Dismember
+2 Dragon's Claw
+1 Kozilek's Return
+3 Spell Pierce
+3 Tormod's Crypt
+
+DECKLIST :
+MCLESKEY (25TH
+PLACE)
+Creature (12)
+4 Eidolon of the Great Revel
+4 Goblin Guide
+4 Monastery Swiftspear
+Sorcery (12)
+4 Lava Spike
+4 Rift Bolt
+4 Skewer the Critics
+Instant (16)
+4 Boros Charm
+4 Lightning Bolt
+2 Lightning Helix
+4 Searing Blaze
+2 Skullcrack
+Land (20)
+2 Arid Mesa
+2 Bloodstained Mire
+1 Fiery Islet
+4 Inspiring Vantage
+3 Mountain
+2 Sacred Foundry
+4 Sunbaked Canyon
+2 Wooded Foothills
+60 Cards
+Sideboard (15)
+2 Skullcrack
+4 Kor Firewalker
+3 Path to Exile
+2 Rest in Peace
+4 Smash to Smithereens
+
+DECKLIST :
+BERNASTORRES (26TH
+PLACE)
+Creature (17)
+2 Bedlam Reveler
+4 Monastery Swiftspear
+4 Soul-Scar Mage
+3 Sprite Dragon
+4 Stormwing Entity
+Sorcery (3)
+3 Light Up the Stage
+Instant (22)
+2 Burst Lightning
+2 Gut Shot
+4 Lava Dart
+4 Lightning Bolt
+4 Manamorphose
+3 Mutagenic Growth
+3 Opt
+Land (18)
+3 Arid Mesa
+3 Fiery Islet
+3 Mountain
+4 Spirebluff Canal
+2 Steam Vents
+3 Wooded Foothills
+60 Cards
+Sideboard (15)
+3 Abrade
+3 Aether Gust
+3 Dragon's Claw
+2 Spell Pierce
+4 Tormod's Crypt
+
+DECKLIST :
+DRVENDIGO (27TH
+PLACE)
+Planeswalker (3)
+2 Chandra, Torch of Defiance
+1 Domri, Anarch of Bolas
+Creature (22)
+4 Arbor Elf
+1 Birds of Paradise
+4 Bloodbraid Elf
+2 Bonecrusher Giant
+2 Elder Gargaroth
+1 Glorybringer
+2 Klothys, God of Destiny
+2 Scavenging Ooze
+4 Seasoned Pyromancer
+Sorcery (3)
+3 Pillage
+Instant (4)
+4 Lightning Bolt
+Enchantment (8)
+4 Blood Moon
+4 Utopia Sprawl
+Land (20)
+6 Forest
+1 Mountain
+4 Stomping Ground
+1 Verdant Catacombs
+4 Windswept Heath
+4 Wooded Foothills
+60 Cards
+Sideboard (15)
+3 Anger of the Gods
+1 Boil
+2 Cindervines
+2 Grafdigger's Cage
+2 Obstinate Baloth
+2 Relic of Progenitus
+1 Thrun, the Last Troll
+2 Weather the Storm
+
+DECKLIST :
+MRRAEB (28TH
+PLACE)
+Planeswalker (3)
+3 Chandra, Torch of Defiance
+Creature (23)
+4 Arbor Elf
+4 Bloodbraid Elf
+3 Bonecrusher Giant
+3 Glorybringer
+3 Klothys, God of Destiny
+2 Scavenging Ooze
+4 Seasoned Pyromancer
+Sorcery (2)
+2 Pillage
+Instant (4)
+4 Lightning Bolt
+Enchantment (8)
+4 Blood Moon
+4 Utopia Sprawl
+Land (20)
+4 Misty Rainforest
+6 Snow-Covered Forest
+1 Snow-Covered Mountain
+4 Stomping Ground
+1 Verdant Catacombs
+4 Wooded Foothills
+60 Cards
+Sideboard (15)
+1 Pillage
+2 Abrade
+2 Choke
+2 Collector Ouphe
+1 Grafdigger's Cage
+3 Obstinate Baloth
+2 Relic of Progenitus
+2 Veil of Summer
+
+DECKLIST :
+BULLZ0EYE (29TH
+PLACE)
+Planeswalker (6)
+1 Jace, the Mind Sculptor
+2 Teferi, Hero of Dominaria
+3 Teferi, Time Raveler
+Creature (3)
+3 Uro, Titan of Nature's Wrath
+Sorcery (3)
+2 Hour of Promise
+1 Supreme Verdict
+Instant (19)
+3 Cryptic Command
+3 Force of Negation
+4 Growth Spiral
+4 Path to Exile
+4 Remand
+1 Spell Snare
+Enchantment (1)
+1 Shark Typhoon
+Land (28)
+2 Breeding Pool
+2 Field of Ruin
+2 Field of the Dead
+4 Flooded Strand
+1 Hallowed Fountain
+1 Irrigated Farmland
+2 Island
+4 Misty Rainforest
+2 Mystic Sanctuary
+1 Polluted Delta
+1 Prismatic Vista
+1 Scalding Tarn
+1 Snow-Covered Forest
+2 Snow-Covered Island
+1 Snow-Covered Plains
+1 Temple Garden
+60 Cards
+Sideboard (15)
+1 Supreme Verdict
+4 Aether Gust
+2 Ashiok, Dream Render
+2 Ceremonious Rejection
+1 Dovin's Veto
+1 Elder Gargaroth
+1 Soul-Guide Lantern
+1 Timely Reinforcements
+2 Veil of Summer
+
+DECKLIST :
+FILYONI (30TH
+PLACE)
+Creature (22)
+4 Birds of Paradise
+4 Devoted Druid
+3 Duskwatch Recruiter
+4 Giver of Runes
+2 Noble Hierarch
+4 Vizier of Remedies
+1 Walking Ballista
+Sorcery (8)
+4 Finale of Devastation
+4 Postmortem Lunge
+Instant (6)
+1 Blossoming Defense
+1 Chord of Calling
+4 Eladamri's Call
+Artifact (4)
+4 Mishra's Bauble
+Land (20)
+2 Forest
+3 Horizon Canopy
+2 Plains
+3 Razorverge Thicket
+2 Temple Garden
+4 Windswept Heath
+4 Wooded Foothills
+60 Cards
+Sideboard (15)
+4 Burrenton Forge-Tender
+1 Caustic Caterpillar
+1 Dismember
+1 Lurrus of the Dream-Den
+3 Path to Exile
+1 Spellskite
+4 Veil of Summer
+
+DECKLIST :
+EJCOS531 (31ST
+PLACE)
+Planeswalker (5)
+2 Jace, the Mind Sculptor
+1 Teferi, Hero of Dominaria
+2 Teferi, Time Raveler
+Creature (8)
+4 Snapcaster Mage
+4 Stoneforge Mystic
+Instant (18)
+1 Archmage's Charm
+2 Cryptic Command
+3 Force of Negation
+1 Logic Knot
+2 Mana Leak
+4 Opt
+4 Path to Exile
+1 Spell Snare
+Artifact (2)
+1 Batterskull
+1 Sword of Feast and Famine
+Enchantment (3)
+3 Shark Typhoon
+Land (24)
+1 Celestial Colonnade
+4 Field of Ruin
+4 Flooded Strand
+2 Hallowed Fountain
+3 Misty Rainforest
+2 Mystic Sanctuary
+1 Prairie Stream
+5 Snow-Covered Island
+2 Snow-Covered Plains
+60 Cards
+Sideboard (15)
+1 Batterskull
+3 Aether Gust
+2 Ashiok, Dream Render
+1 Celestial Purge
+2 Ceremonious Rejection
+1 Dovin's Veto
+1 Mystical Dispute
+1 Rest in Peace
+1 Supreme Verdict
+2 Timely Reinforcements
+
+DECKLIST :
+NUCLEARRABBIT (32ND
+PLACE)
+Planeswalker (12)
+4 Karn Liberated
+4 Karn, the Great Creator
+2 Ugin, the Ineffable
+2 Ugin, the Spirit Dragon
+Creature (9)
+1 Emrakul, the Promised End
+1 Kozilek, Butcher of Truth
+1 Ulamog, the Ceaseless Hunger
+2 Walking Ballista
+4 Wurmcoil Engine
+Sorcery (9)
+1 All Is Dust
+4 Ancient Stirrings
+4 Sylvan Scrying
+Artifact (12)
+4 Chromatic Sphere
+4 Chromatic Star
+4 Expedition Map
+Land (18)
+1 Blast Zone
+1 Sanctum of Ugin
+4 Snow-Covered Forest
+4 Urza's Mine
+4 Urza's Power Plant
+4 Urza's Tower
+60 Cards
+Sideboard (15)
+2 Dismember
+1 Elixir of Immortality
+1 Ensnaring Bridge
+2 Leyline of Sanctity
+1 Liquimetal Coating
+1 Relic of Progenitus
+1 Sorcerous Spyglass
+1 Sundering Titan
+1 Trinisphere
+2 Veil of Summer
+2 Wilt
+
+
+
+
+CATEGORY :
+Modern Showcase Challenge
+AUGUST
+9
+2020
+
+DECKLIST :
+LAVARIDGE (1ST
+PLACE)
+Planeswalker (2)
+2 Wrenn and Six
+Creature (4)
+1 Snapcaster Mage
+3 Uro, Titan of Nature's Wrath
+Instant (24)
+1 Archmage's Charm
+3 Cryptic Command
+4 Fact or Fiction
+3 Force of Negation
+4 Growth Spiral
+4 Lightning Bolt
+1 Nexus of Fate
+4 Remand
+Enchantment (3)
+1 Shark Typhoon
+2 Wilderness Reclamation
+Land (27)
+1 Blast Zone
+2 Breeding Pool
+1 Castle Vantress
+1 Field of Ruin
+2 Field of the Dead
+1 Forest
+2 Island
+1 Ketria Triome
+4 Misty Rainforest
+1 Mountain
+2 Mystic Sanctuary
+4 Scalding Tarn
+1 Snow-Covered Forest
+1 Snow-Covered Island
+1 Steam Vents
+1 Stomping Ground
+1 Wooded Foothills
+60 Cards
+Sideboard (15)
+1 Shark Typhoon
+1 Abrade
+4 Aether Gust
+1 Ancient Grudge
+2 Anger of the Gods
+1 Ashiok, Dream Render
+1 Ceremonious Rejection
+1 Flame Slash
+1 Jace, the Mind Sculptor
+1 Mystical Dispute
+1 Veil of Summer
+
+DECKLIST :
+ROMANMY (2ND
+PLACE)
+Creature (16)
+4 Abbot of Keral Keep
+4 Kiln Fiend
+4 Monastery Swiftspear
+4 Soul-Scar Mage
+Sorcery (4)
+4 Thoughtseize
+Instant (15)
+2 Cling to Dust
+4 Lava Dart
+4 Lightning Bolt
+2 Manamorphose
+3 Mutagenic Growth
+Artifact (4)
+4 Mishra's Bauble
+Enchantment (2)
+2 Seal of Fire
+Land (19)
+4 Blackcleave Cliffs
+2 Blood Crypt
+4 Bloodstained Mire
+3 Mountain
+1 Sacred Foundry
+1 Scalding Tarn
+3 Sunbaked Canyon
+1 Swamp
+60 Cards
+Sideboard (15)
+1 Boil
+2 Dragon's Claw
+2 Fatal Push
+2 Flame Slash
+1 Lurrus of the Dream-Den
+3 Molten Rain
+2 Nihil Spellbomb
+2 Wear // Tear
+
+DECKLIST :
+SELFEISEK (3RD
+PLACE)
+Creature (12)
+4 Eidolon of the Great Revel
+4 Goblin Guide
+4 Monastery Swiftspear
+Sorcery (8)
+4 Lava Spike
+2 Rift Bolt
+2 Skewer the Critics
+Instant (15)
+4 Boros Charm
+4 Lightning Bolt
+3 Lightning Helix
+4 Searing Blaze
+Artifact (4)
+4 Mishra's Bauble
+Enchantment (1)
+1 Seal of Fire
+Land (20)
+4 Arid Mesa
+4 Bloodstained Mire
+4 Inspiring Vantage
+2 Mountain
+2 Sacred Foundry
+4 Sunbaked Canyon
+60 Cards
+Sideboard (15)
+4 Kor Firewalker
+1 Lurrus of the Dream-Den
+2 Path to Exile
+3 Skullcrack
+2 Smash to Smithereens
+2 Tormod's Crypt
+1 Wear // Tear
+
+DECKLIST :
+SPARTANXX (4TH
+PLACE)
+Creature (7)
+4 Simian Spirit Guide
+3 Thassa's Oracle
+Sorcery (4)
+4 Serum Visions
+Instant (17)
+4 Ad Nauseam
+4 Angel's Grace
+1 Lightning Storm
+4 Pact of Negation
+4 Spoils of the Vault
+Artifact (8)
+4 Lotus Bloom
+4 Pentad Prism
+Enchantment (4)
+4 Phyrexian Unlife
+Land (20)
+4 City of Brass
+3 Darkslick Shores
+2 Gemstone Mine
+2 Plains
+4 Seachrome Coast
+4 Temple of Deceit
+1 Temple of Enlightenment
+60 Cards
+Sideboard (15)
+1 Chromatic Lantern
+1 Echoing Truth
+2 Grand Abolisher
+4 Leyline of Sanctity
+2 Path to Exile
+1 Slaughter Pact
+2 Thoughtseize
+2 Veil of Summer
+
+DECKLIST :
+SODEQ (5TH
+PLACE)
+Creature (24)
+1 Bloodghast
+2 Golgari Thug
+3 Merchant of the Vale
+3 Narcomoeba
+3 Ox of Agonas
+4 Prized Amalgam
+4 Silversmote Ghoul
+4 Stinkweed Imp
+Sorcery (13)
+4 Cathartic Reunion
+1 Conflagrate
+4 Creeping Chill
+4 Life from the Loam
+Artifact (4)
+4 Shriekhorn
+Land (19)
+1 Arid Mesa
+2 Blood Crypt
+2 Bloodstained Mire
+1 City of Brass
+1 Copperline Gorge
+2 Forgotten Cave
+1 Gemstone Mine
+2 Mountain
+3 Scalding Tarn
+2 Stomping Ground
+2 Wooded Foothills
+60 Cards
+Sideboard (15)
+2 Bloodghast
+1 Ancient Grudge
+1 Blast Zone
+2 Leyline of the Void
+3 Lightning Axe
+2 Nature's Claim
+1 Rotting Regisaur
+3 Thoughtseize
+
+DECKLIST :
+XXQUESTIONABLYAWESOMEXX (6TH
+PLACE)
+Creature (12)
+4 Gladecover Scout
+4 Kor Spiritdancer
+4 Slippery Bogle
+Instant (2)
+2 Path to Exile
+Enchantment (26)
+2 All That Glitters
+4 Daybreak Coronet
+4 Ethereal Armor
+2 Gryff's Boon
+2 Hyena Umbra
+4 Rancor
+4 Spider Umbra
+2 Spirit Link
+2 Spirit Mantle
+Land (20)
+1 Dryad Arbor
+1 Forest
+4 Horizon Canopy
+2 Plains
+4 Razorverge Thicket
+4 Temple Garden
+4 Windswept Heath
+60 Cards
+Sideboard (15)
+2 Damping Sphere
+3 Force of Vigor
+3 Gaddock Teeg
+3 Hushbringer
+4 Leyline of Sanctity
+
+DECKLIST :
+NOSFERATU (7TH
+PLACE)
+Planeswalker (6)
+1 Jace, the Mind Sculptor
+2 Teferi, Hero of Dominaria
+3 Teferi, Time Raveler
+Creature (3)
+3 Uro, Titan of Nature's Wrath
+Sorcery (3)
+2 Hour of Promise
+1 Supreme Verdict
+Instant (19)
+3 Cryptic Command
+3 Force of Negation
+4 Growth Spiral
+4 Path to Exile
+4 Remand
+1 Spell Snare
+Enchantment (1)
+1 Shark Typhoon
+Land (28)
+2 Breeding Pool
+2 Field of Ruin
+2 Field of the Dead
+4 Flooded Strand
+1 Hallowed Fountain
+1 Irrigated Farmland
+2 Island
+4 Misty Rainforest
+2 Mystic Sanctuary
+1 Polluted Delta
+1 Prismatic Vista
+1 Scalding Tarn
+1 Snow-Covered Forest
+2 Snow-Covered Island
+1 Snow-Covered Plains
+1 Temple Garden
+60 Cards
+Sideboard (15)
+1 Supreme Verdict
+4 Aether Gust
+2 Ashiok, Dream Render
+2 Ceremonious Rejection
+1 Dovin's Veto
+1 Elder Gargaroth
+1 Soul-Guide Lantern
+1 Timely Reinforcements
+2 Veil of Summer
+
+DECKLIST :
+SMDSTER (8TH
+PLACE)
+Creature (15)
+4 Abbot of Keral Keep
+3 Kiln Fiend
+4 Monastery Swiftspear
+4 Soul-Scar Mage
+Sorcery (5)
+4 Thoughtseize
+1 Unearth
+Instant (15)
+3 Cling to Dust
+3 Lava Dart
+4 Lightning Bolt
+4 Manamorphose
+1 Mutagenic Growth
+Artifact (4)
+4 Mishra's Bauble
+Enchantment (2)
+2 Seal of Fire
+Land (19)
+4 Blackcleave Cliffs
+2 Blood Crypt
+4 Bloodstained Mire
+3 Mountain
+3 Sunbaked Canyon
+1 Swamp
+2 Wooded Foothills
+60 Cards
+Sideboard (15)
+2 Angrath's Rampage
+1 Dragon's Claw
+2 Fatal Push
+2 Flame Slash
+2 Kolaghan's Command
+1 Lurrus of the Dream-Den
+3 Molten Rain
+2 Nihil Spellbomb
+
+DECKLIST :
+ODERUS URUNGUS (9TH
+PLACE)
+Planeswalker (2)
+1 Chandra, Torch of Defiance
+1 Wrenn and Six
+Creature (23)
+4 Arbor Elf
+4 Bloodbraid Elf
+2 Bonecrusher Giant
+4 Elder Gargaroth
+3 Klothys, God of Destiny
+2 Scavenging Ooze
+4 Seasoned Pyromancer
+Sorcery (3)
+3 Pillage
+Instant (4)
+4 Lightning Bolt
+Enchantment (8)
+4 Blood Moon
+4 Utopia Sprawl
+Land (20)
+6 Forest
+1 Mountain
+4 Stomping Ground
+1 Verdant Catacombs
+4 Windswept Heath
+4 Wooded Foothills
+60 Cards
+Sideboard (15)
+1 Abrade
+2 Anger of the Gods
+2 Boil
+2 Cindervines
+2 Collector Ouphe
+1 Grafdigger's Cage
+2 Obstinate Baloth
+2 Relic of Progenitus
+1 Weather the Storm
+
+DECKLIST :
+_BATUTINHA_ (10TH
+PLACE)
+Creature (13)
+4 Death's Shadow
+1 Ghor-Clan Rampager
+4 Street Wraith
+4 Tarmogoyf
+Sorcery (11)
+4 Inquisition of Kozilek
+4 Thoughtseize
+3 Traverse the Ulvenwald
+Instant (11)
+1 Assassin's Trophy
+2 Cling to Dust
+2 Dismember
+4 Fatal Push
+2 Temur Battle Rage
+Artifact (4)
+4 Mishra's Bauble
+Enchantment (1)
+1 Seal of Fire
+Land (19)
+2 Blood Crypt
+4 Bloodstained Mire
+1 Forest
+3 Nurturing Peatland
+2 Overgrown Tomb
+1 Stomping Ground
+1 Swamp
+4 Verdant Catacombs
+1 Wooded Foothills
+Other (1)
+1 Lurrus of the Dream-Den
+60 Cards
+Sideboard (15)
+1 Assassin's Trophy
+2 Ashiok, Dream Render
+1 Collective Brutality
+2 Damping Sphere
+2 Kolaghan's Command
+2 Nihil Spellbomb
+1 Plague Engineer
+2 Veil of Summer
+2 Wrenn and Six
+
+DECKLIST :
+RETURNTODUST (11TH
+PLACE)
+Creature (27)
+2 Courser of Kruphix
+4 Dryad of the Ilysian Grove
+4 Elvish Reclaimer
+1 Eternal Witness
+1 Fierce Empath
+2 Golos, Tireless Pilgrim
+1 Knight of the Reliquary
+2 Primeval Titan
+1 Ramunap Excavator
+2 Sakura-Tribe Elder
+3 Thalia, Guardian of Thraben
+3 Tireless Tracker
+1 Woodland Bellower
+Instant (2)
+2 Eladamri's Call
+Artifact (4)
+4 Aether Vial
+Land (27)
+1 Blast Zone
+1 Bojuka Bog
+2 Castle Garenbrig
+1 Cavern of Souls
+2 Field of the Dead
+3 Flagstones of Trokair
+2 Forest
+1 Ghost Quarter
+1 Plains
+1 Radiant Fountain
+1 Selesnya Sanctuary
+2 Snow-Covered Forest
+1 Snow-Covered Plains
+3 Temple Garden
+2 Valakut, the Molten Pinnacle
+1 Vesuva
+2 Windswept Heath
+60 Cards
+Sideboard (15)
+1 Aven Mindcensor
+1 Celestial Purge
+3 Damping Sphere
+1 Force of Vigor
+2 Knight of Autumn
+3 Path to Exile
+1 Thragtusk
+3 Veil of Summer
+
+DECKLIST :
+SOULERINO (12TH
+PLACE)
+Creature (12)
+4 Eidolon of the Great Revel
+4 Goblin Guide
+4 Monastery Swiftspear
+Sorcery (11)
+4 Lava Spike
+4 Rift Bolt
+3 Skewer the Critics
+Instant (17)
+4 Boros Charm
+4 Lightning Bolt
+3 Lightning Helix
+3 Searing Blaze
+3 Skullcrack
+Land (20)
+4 Arid Mesa
+1 Bloodstained Mire
+1 Fiery Islet
+4 Inspiring Vantage
+4 Mountain
+2 Sacred Foundry
+4 Sunbaked Canyon
+60 Cards
+Sideboard (15)
+1 Skullcrack
+1 Exquisite Firecraft
+3 Kor Firewalker
+3 Path to Exile
+2 Rest in Peace
+2 Smash to Smithereens
+3 Wear // Tear
+
+DECKLIST :
+CHENGYIW (13TH
+PLACE)
+Creature (17)
+2 Bedlam Reveler
+4 Monastery Swiftspear
+4 Soul-Scar Mage
+3 Sprite Dragon
+4 Stormwing Entity
+Sorcery (4)
+4 Light Up the Stage
+Instant (21)
+2 Burst Lightning
+2 Gut Shot
+4 Lava Dart
+4 Lightning Bolt
+4 Manamorphose
+2 Mutagenic Growth
+3 Opt
+Land (18)
+4 Bloodstained Mire
+3 Fiery Islet
+3 Mountain
+3 Spirebluff Canal
+3 Steam Vents
+2 Wooded Foothills
+60 Cards
+Sideboard (15)
+3 Abrade
+1 Assault Strobe
+2 Blood Moon
+3 Dragon's Claw
+1 Flame Slash
+1 Kozilek's Return
+2 Spell Pierce
+2 Surgical Extraction
+
+DECKLIST :
+NORRATHDECAY (14TH
+PLACE)
+Creature (12)
+4 Eidolon of the Great Revel
+4 Goblin Guide
+4 Monastery Swiftspear
+Sorcery (12)
+4 Lava Spike
+4 Rift Bolt
+4 Skewer the Critics
+Instant (16)
+4 Boros Charm
+4 Lightning Bolt
+3 Lightning Helix
+4 Searing Blaze
+1 Skullcrack
+Land (20)
+2 Arid Mesa
+2 Bloodstained Mire
+1 Fiery Islet
+4 Inspiring Vantage
+3 Mountain
+2 Sacred Foundry
+4 Sunbaked Canyon
+2 Wooded Foothills
+60 Cards
+Sideboard (15)
+3 Skullcrack
+1 Deflecting Palm
+3 Kor Firewalker
+3 Path to Exile
+2 Rest in Peace
+3 Smash to Smithereens
+
+DECKLIST :
+IWANTEATEBI (15TH
+PLACE)
+Creature (17)
+2 Blistercoil Weird
+1 Bonecrusher Giant
+4 Monastery Swiftspear
+4 Soul-Scar Mage
+2 Sprite Dragon
+4 Stormwing Entity
+Sorcery (8)
+4 Crash Through
+4 Light Up the Stage
+Instant (16)
+2 Gut Shot
+4 Lava Dart
+4 Lightning Bolt
+4 Manamorphose
+2 Mutagenic Growth
+Land (19)
+3 Fiery Islet
+4 Mountain
+4 Scalding Tarn
+4 Spirebluff Canal
+2 Steam Vents
+2 Wooded Foothills
+60 Cards
+Sideboard (15)
+2 Bonecrusher Giant
+3 Abrade
+4 Dragon's Claw
+2 Engineered Explosives
+4 Soul-Guide Lantern
+
+DECKLIST :
+DANI_CHAD (16TH
+PLACE)
+Planeswalker (7)
+4 Liliana of the Veil
+3 Wrenn and Six
+Creature (11)
+4 Bloodbraid Elf
+3 Scavenging Ooze
+4 Tarmogoyf
+Sorcery (8)
+4 Inquisition of Kozilek
+1 Maelstrom Pulse
+3 Thoughtseize
+Instant (10)
+2 Assassin's Trophy
+2 Fatal Push
+2 Kolaghan's Command
+4 Lightning Bolt
+Land (24)
+1 Barren Moor
+4 Blackcleave Cliffs
+1 Blood Crypt
+2 Bloodstained Mire
+1 Forest
+1 Mountain
+1 Nurturing Peatland
+2 Overgrown Tomb
+2 Raging Ravine
+1 Stomping Ground
+2 Swamp
+4 Verdant Catacombs
+2 Wooded Foothills
+60 Cards
+Sideboard (15)
+1 Anger of the Gods
+2 Ashiok, Dream Render
+1 Boil
+1 Choke
+2 Collective Brutality
+1 Klothys, God of Destiny
+3 Pillage
+2 Plague Engineer
+2 Surgical Extraction
+
+DECKLIST :
+JSCHLOSS (17TH
+PLACE)
+Planeswalker (10)
+4 Karn Liberated
+4 Karn, the Great Creator
+2 Ugin, the Spirit Dragon
+Creature (8)
+1 Kozilek, Butcher of Truth
+2 Thragtusk
+2 Ulamog, the Ceaseless Hunger
+3 Wurmcoil Engine
+Sorcery (8)
+4 Ancient Stirrings
+4 Sylvan Scrying
+Instant (2)
+2 Dismember
+Artifact (14)
+3 Chromatic Sphere
+4 Chromatic Star
+4 Expedition Map
+3 Oblivion Stone
+Land (18)
+1 Blast Zone
+4 Forest
+1 Sanctum of Ugin
+4 Urza's Mine
+4 Urza's Power Plant
+4 Urza's Tower
+60 Cards
+Sideboard (15)
+1 Thragtusk
+1 Wurmcoil Engine
+1 Amulet of Safekeeping
+1 Cavern of Souls
+1 Crucible of Worlds
+1 Emrakul, the Promised End
+1 Ensnaring Bridge
+1 Grafdigger's Cage
+1 Liquimetal Coating
+2 Nature's Claim
+1 Relic of Progenitus
+1 Trinisphere
+1 Walking Ballista
+1 Wilt
+
+DECKLIST :
+MCLESKEY (18TH
+PLACE)
+Creature (12)
+4 Eidolon of the Great Revel
+4 Goblin Guide
+4 Monastery Swiftspear
+Sorcery (12)
+4 Lava Spike
+4 Rift Bolt
+4 Skewer the Critics
+Instant (16)
+4 Boros Charm
+4 Lightning Bolt
+2 Lightning Helix
+4 Searing Blaze
+2 Skullcrack
+Land (20)
+2 Arid Mesa
+2 Bloodstained Mire
+1 Fiery Islet
+4 Inspiring Vantage
+3 Mountain
+2 Sacred Foundry
+4 Sunbaked Canyon
+2 Wooded Foothills
+60 Cards
+Sideboard (15)
+2 Skullcrack
+4 Kor Firewalker
+3 Path to Exile
+3 Rest in Peace
+3 Smash to Smithereens
+
+DECKLIST :
+NAP_DARKMAGE_MJM (19TH
+PLACE)
+Creature (17)
+2 Bedlam Reveler
+4 Monastery Swiftspear
+4 Soul-Scar Mage
+3 Sprite Dragon
+4 Stormwing Entity
+Sorcery (3)
+3 Light Up the Stage
+Instant (22)
+2 Burst Lightning
+2 Gut Shot
+4 Lava Dart
+4 Lightning Bolt
+4 Manamorphose
+3 Mutagenic Growth
+3 Opt
+Land (18)
+3 Arid Mesa
+3 Fiery Islet
+2 Mountain
+1 Snow-Covered Mountain
+4 Spirebluff Canal
+2 Steam Vents
+3 Wooded Foothills
+60 Cards
+Sideboard (15)
+4 Abrade
+2 Aether Gust
+1 Bonecrusher Giant
+3 Dragon's Claw
+2 Soul-Guide Lantern
+3 Spell Pierce
+
+DECKLIST :
+METCALF23 (20TH
+PLACE)
+Creature (30)
+4 Eldrazi Displacer
+4 Flickerwisp
+4 Giver of Runes
+4 Leonin Arbiter
+3 Thalia, Guardian of Thraben
+4 Thought-Knot Seer
+4 Tidehollow Sculler
+3 Wasteland Strangler
+Instant (4)
+4 Path to Exile
+Artifact (4)
+4 Aether Vial
+Land (22)
+4 Caves of Koilos
+4 Concealed Courtyard
+4 Eldrazi Temple
+4 Ghost Quarter
+3 Plains
+2 Silent Clearing
+1 Swamp
+60 Cards
+Sideboard (15)
+3 Burrenton Forge-Tender
+2 Celestial Purge
+1 Damping Sphere
+2 Fatal Push
+1 Gideon, Ally of Zendikar
+1 Kaya, Orzhov Usurper
+2 Orzhov Pontiff
+3 Rest in Peace
+
+DECKLIST :
+MADMAXERNST (21ST
+PLACE)
+Creature (5)
+1 Snapcaster Mage
+4 Uro, Titan of Nature's Wrath
+Sorcery (2)
+2 Hour of Promise
+Instant (23)
+1 Archmage's Charm
+2 Cryptic Command
+1 Dismember
+3 Fact or Fiction
+3 Fatal Push
+3 Force of Negation
+4 Growth Spiral
+1 Nexus of Fate
+4 Remand
+1 Repeal
+Artifact (1)
+1 Engineered Explosives
+Enchantment (2)
+2 Shark Typhoon
+Land (27)
+1 Bojuka Bog
+1 Breeding Pool
+1 Field of Ruin
+3 Field of the Dead
+1 Flooded Grove
+1 Forest
+1 Hinterland Harbor
+1 Island
+4 Misty Rainforest
+2 Mystic Sanctuary
+1 Oboro, Palace in the Clouds
+4 Polluted Delta
+1 Snow-Covered Forest
+2 Snow-Covered Island
+1 Snow-Covered Swamp
+1 Watery Grave
+1 Zagoth Triome
+60 Cards
+Sideboard (15)
+4 Aether Gust
+1 Ashiok, Dream Render
+2 Ceremonious Rejection
+2 Damping Sphere
+1 Force of Vigor
+1 Mystical Dispute
+2 Nihil Spellbomb
+2 Veil of Summer
+
+DECKLIST :
+BANSKK (22ND
+PLACE)
+Creature (17)
+2 Bedlam Reveler
+4 Monastery Swiftspear
+4 Soul-Scar Mage
+3 Sprite Dragon
+4 Stormwing Entity
+Sorcery (3)
+3 Light Up the Stage
+Instant (22)
+2 Burst Lightning
+3 Gut Shot
+4 Lava Dart
+4 Lightning Bolt
+4 Manamorphose
+2 Mutagenic Growth
+3 Opt
+Land (18)
+3 Fiery Islet
+3 Mountain
+4 Scalding Tarn
+4 Spirebluff Canal
+2 Steam Vents
+2 Wooded Foothills
+60 Cards
+Sideboard (15)
+2 Abrade
+2 Aether Gust
+2 Blood Moon
+2 Dragon's Claw
+1 Flame Slash
+1 Kozilek's Return
+2 Spell Pierce
+3 Surgical Extraction
+
+DECKLIST :
+DREAMSOFASHIOK (23RD
+PLACE)
+Planeswalker (6)
+4 Karn, the Great Creator
+2 Ugin, the Ineffable
+Creature (15)
+4 Matter Reshaper
+4 Reality Smasher
+4 Thought-Knot Seer
+3 Walking Ballista
+Sorcery (1)
+1 All Is Dust
+Instant (2)
+2 Dismember
+Artifact (12)
+4 Chalice of the Void
+4 Expedition Map
+3 Mazemind Tome
+1 Mind Stone
+Land (24)
+2 Blast Zone
+2 Cavern of Souls
+4 Eldrazi Temple
+1 Scavenger Grounds
+1 Tectonic Edge
+4 Urza's Mine
+4 Urza's Power Plant
+4 Urza's Tower
+2 Wastes
+60 Cards
+Sideboard (15)
+1 Walking Ballista
+1 Ensnaring Bridge
+1 Grafdigger's Cage
+1 Liquimetal Coating
+1 Pithing Needle
+2 Relic of Progenitus
+1 Skysovereign, Consul Flagship
+1 Sorcerous Spyglass
+2 Spatial Contortion
+1 Sundering Titan
+1 Tormod's Crypt
+1 Torpor Orb
+1 Wurmcoil Engine
+
+DECKLIST :
+MATEUSF34 (24TH
+PLACE)
+Planeswalker (6)
+4 Karn, the Great Creator
+2 Ugin, the Ineffable
+Creature (16)
+4 Matter Reshaper
+4 Reality Smasher
+4 Thought-Knot Seer
+1 Ulamog, the Ceaseless Hunger
+3 Walking Ballista
+Instant (4)
+2 Dismember
+2 Warping Wail
+Artifact (10)
+4 Chalice of the Void
+4 Expedition Map
+2 Mazemind Tome
+Land (24)
+2 Blast Zone
+2 Cavern of Souls
+4 Eldrazi Temple
+1 Scavenger Grounds
+1 Tectonic Edge
+4 Urza's Mine
+4 Urza's Power Plant
+4 Urza's Tower
+2 Wastes
+60 Cards
+Sideboard (15)
+1 Walking Ballista
+1 All Is Dust
+1 Ensnaring Bridge
+1 Grafdigger's Cage
+1 Liquimetal Coating
+1 Pithing Needle
+2 Relic of Progenitus
+1 Skysovereign, Consul Flagship
+1 Sorcerous Spyglass
+2 Spatial Contortion
+1 Sundering Titan
+1 Tormod's Crypt
+1 Wurmcoil Engine
+
+DECKLIST :
+AQUALOG (25TH
+PLACE)
+Creature (12)
+4 Monastery Swiftspear
+4 Seeker of the Way
+4 Soul-Scar Mage
+Sorcery (8)
+4 Crash Through
+4 Light Up the Stage
+Instant (18)
+2 Boros Charm
+4 Lava Dart
+4 Lightning Bolt
+4 Manamorphose
+4 Mutagenic Growth
+Artifact (4)
+4 Mishra's Bauble
+Land (18)
+1 Arid Mesa
+2 Bloodstained Mire
+4 Inspiring Vantage
+3 Mountain
+2 Sacred Foundry
+1 Scalding Tarn
+3 Sunbaked Canyon
+2 Wooded Foothills
+60 Cards
+Sideboard (15)
+3 Abrade
+1 Engineered Explosives
+3 Kor Firewalker
+1 Lurrus of the Dream-Den
+3 Path to Exile
+3 Tormod's Crypt
+1 Wear // Tear
+
+DECKLIST :
+TUGGANAXOS (26TH
+PLACE)
+Creature (32)
+4 Gravecrawler
+4 Hedron Crab
+4 Merfolk Secretkeeper
+4 Narcomoeba
+4 Prized Amalgam
+4 Silversmote Ghoul
+4 Stitcher's Supplier
+4 Vengevine
+Sorcery (8)
+4 Creeping Chill
+4 Glimpse the Unthinkable
+Land (20)
+1 Breeding Pool
+4 Misty Rainforest
+2 Overgrown Tomb
+4 Polluted Delta
+1 Snow-Covered Island
+1 Snow-Covered Swamp
+4 Verdant Catacombs
+3 Watery Grave
+60 Cards
+Sideboard (15)
+2 Assassin's Trophy
+4 Fatal Push
+3 Leyline of the Void
+3 Nature's Claim
+3 Thoughtseize
+
+DECKLIST :
+DANIELSTALLONE (27TH
+PLACE)
+Creature (12)
+4 Eidolon of the Great Revel
+4 Goblin Guide
+4 Monastery Swiftspear
+Sorcery (12)
+4 Lava Spike
+4 Rift Bolt
+4 Skewer the Critics
+Instant (16)
+4 Boros Charm
+4 Lightning Bolt
+2 Lightning Helix
+4 Searing Blaze
+2 Skullcrack
+Land (20)
+2 Arid Mesa
+2 Bloodstained Mire
+1 Fiery Islet
+4 Inspiring Vantage
+2 Sacred Foundry
+3 Snow-Covered Mountain
+4 Sunbaked Canyon
+2 Wooded Foothills
+60 Cards
+Sideboard (15)
+2 Skullcrack
+3 Kor Firewalker
+3 Path to Exile
+2 Rest in Peace
+3 Smash to Smithereens
+2 Wear // Tear
+
+DECKLIST :
+NOVAPHANTOM (28TH
+PLACE)
+Planeswalker (6)
+4 Karn, the Great Creator
+2 Ugin, the Ineffable
+Creature (15)
+4 Matter Reshaper
+4 Reality Smasher
+4 Thought-Knot Seer
+3 Walking Ballista
+Sorcery (1)
+1 All Is Dust
+Instant (4)
+2 Dismember
+2 Warping Wail
+Artifact (10)
+4 Chalice of the Void
+4 Expedition Map
+2 Mazemind Tome
+Land (24)
+2 Blast Zone
+2 Cavern of Souls
+4 Eldrazi Temple
+1 Scavenger Grounds
+1 Tectonic Edge
+4 Urza's Mine
+4 Urza's Power Plant
+4 Urza's Tower
+2 Wastes
+60 Cards
+Sideboard (15)
+1 Walking Ballista
+1 Ensnaring Bridge
+1 Grafdigger's Cage
+1 Liquimetal Coating
+1 Mystic Forge
+1 Pithing Needle
+2 Relic of Progenitus
+1 Skysovereign, Consul Flagship
+1 Sorcerous Spyglass
+2 Spatial Contortion
+1 Sundering Titan
+1 Tormod's Crypt
+1 Wurmcoil Engine
+
+DECKLIST :
+GOBLINK1NG (29TH
+PLACE)
+Creature (34)
+2 Goblin Chieftain
+4 Goblin Matron
+4 Goblin Ringleader
+3 Grumgully, the Generous
+4 Metallic Mimic
+4 Munitions Expert
+3 Murderous Redcap
+4 Putrid Goblin
+4 Skirk Prospector
+2 Sling-Gang Lieutenant
+Artifact (4)
+4 Aether Vial
+Land (22)
+4 Auntie's Hovel
+2 Blood Crypt
+2 Bloodstained Mire
+4 Cavern of Souls
+2 Fiery Islet
+1 Mountain
+1 Stomping Ground
+1 Sunbaked Canyon
+1 Swamp
+4 Unclaimed Territory
+60 Cards
+Sideboard (15)
+2 Boil
+4 Chalice of the Void
+1 Damping Sphere
+1 Goblin Cratermaker
+1 Icon of Ancestry
+2 Legion's End
+4 Relic of Progenitus
+
+DECKLIST :
+CAPITANO_CL (30TH
+PLACE)
+Creature (23)
+2 Golgari Thug
+3 Merchant of the Vale
+3 Narcomoeba
+3 Ox of Agonas
+4 Prized Amalgam
+4 Silversmote Ghoul
+4 Stinkweed Imp
+Sorcery (14)
+4 Cathartic Reunion
+1 Conflagrate
+4 Creeping Chill
+4 Life from the Loam
+1 Smiting Helix
+Artifact (4)
+4 Shriekhorn
+Land (19)
+2 Blood Crypt
+4 Bloodstained Mire
+1 City of Brass
+2 Forgotten Cave
+1 Gemstone Mine
+2 Mountain
+1 Sacred Foundry
+2 Stomping Ground
+4 Wooded Foothills
+60 Cards
+Sideboard (15)
+1 Conflagrate
+1 Ancient Grudge
+1 Blast Zone
+1 Leyline of the Void
+3 Lightning Axe
+3 Nature's Claim
+1 Pithing Needle
+1 Shenanigans
+3 Thoughtseize
+
+DECKLIST :
+ALABASTERWOLFIE (31ST
+PLACE)
+Creature (26)
+2 Boggart Harbinger
+4 Conspicuous Snoop
+2 Goblin Chieftain
+2 Goblin Cratermaker
+4 Goblin Matron
+2 Goblin Ringleader
+2 Kiki-Jiki, Mirror Breaker
+2 Mogg War Marshal
+3 Munitions Expert
+3 Sling-Gang Lieutenant
+Sorcery (5)
+1 Inquisition of Kozilek
+4 Thoughtseize
+Artifact (4)
+4 Aether Vial
+Land (23)
+4 Auntie's Hovel
+4 Blackcleave Cliffs
+3 Blood Crypt
+4 Bloodstained Mire
+3 Cavern of Souls
+3 Mountain
+1 Polluted Delta
+1 Swamp
+Tribal instant (2)
+2 Tarfire
+60 Cards
+Sideboard (15)
+1 Goblin Ringleader
+2 Blood Moon
+2 Boil
+3 Chalice of the Void
+1 Goblin Trashmaster
+4 Relic of Progenitus
+2 Warren Weirding
+
+DECKLIST :
+KUHB (32ND
+PLACE)
+Creature (16)
+2 Bedlam Reveler
+4 Monastery Swiftspear
+4 Soul-Scar Mage
+2 Sprite Dragon
+4 Stormwing Entity
+Sorcery (3)
+3 Light Up the Stage
+Instant (23)
+2 Burst Lightning
+3 Gut Shot
+4 Lava Dart
+4 Lightning Bolt
+4 Manamorphose
+3 Mutagenic Growth
+3 Opt
+Land (18)
+1 Arid Mesa
+2 Bloodstained Mire
+3 Fiery Islet
+3 Mountain
+1 Scalding Tarn
+4 Spirebluff Canal
+2 Steam Vents
+2 Wooded Foothills
+60 Cards
+Sideboard (15)
+3 Abrade
+2 Aether Gust
+2 Blood Moon
+2 Flame Slash
+1 Kozilek's Return
+2 Spell Pierce
+3 Surgical Extraction
+
+
+
+

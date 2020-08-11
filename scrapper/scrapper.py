@@ -162,6 +162,7 @@ class Scrapper():
         return split_decklist[:index_sideboard] + sideboard_row
         
     def writeFileText(self, decklists, meta, filename = None):
+        print("From Scrapper")
         if '/' in self.params['from_date']:
             from_date = '_'.join(self.params['from_date'].split('/'))
         else:
@@ -172,6 +173,7 @@ class Scrapper():
             to_date = self.params['to_date']
         if filename is None:
             filename = 'decklists_' + self.params['format']+self.params['type'] + '_' + from_date + '_' + to_date
+        print(self.__personal_path+'data/'+filename+'.txt')
         with open(self.__personal_path+'data/'+filename+'.txt', 'w') as open_file:
             open_file.write(self.params['research'] + ' ' + self.params['from_date'] + ' ' + self.params['to_date'] + '\n')
             for link in self.__tournament_links:
